@@ -12,7 +12,7 @@ import config
 import demand
 import sources
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 
 

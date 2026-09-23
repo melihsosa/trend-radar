@@ -44,9 +44,23 @@ def tiktok_hashtags(country="US", period=7, limit=50):
             locale="en-US",
         )
         page.on("response", on_response)
-        page.goto(url, wait_until="networkidle", timeout=90_000)
-        page.wait_for_timeout(4000)
-        dom_text = page.inner_text("body")
+        # Sayfa arka planda sürekli istek attığı için "tamamen yüklendi" anını beklemiyoruz;
+        # iskelet gelince verinin yakalanmasını en fazla 45 saniye bekliyoruz.
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+        except Exception as e:
+            print(f"   TikTok sayfası yavaş açıldı: {e.__class__.__name__}")
+        for _ in range(45):
+            if captured:
+                break
+            page.wait_for_timeout(1000)
+            if _ == 15:
+                page.mouse.wheel(0, 1500)  # bazı listeler kaydırınca yükleniyor
+        page.wait_for_timeout(2000)
+        try:
+            dom_text = page.inner_text("body")
+        except Exception:
+            dom_text = ""
         browser.close()
 
     items = []
@@ -148,18 +162,22 @@ def reddit_top(subreddits, client_id=None, client_secret=None, per_sub=15):
                         "score": d.get("score"), "comments": d.get("num_comments"),
                     })
             else:
-                r = requests.get(
-                    f"https://www.reddit.com/r/{sub}/top/.rss",
-                    params={"t": "week", "limit": per_sub},
-                    headers={"User-Agent": UA},
-                    timeout=TIMEOUT,
-                )
+                for attempt in range(3):
+                    r = requests.get(
+                        f"https://www.reddit.com/r/{sub}/top/.rss",
+                        params={"t": "week", "limit": per_sub},
+                        headers={"User-Agent": UA},
+                        timeout=TIMEOUT,
+                    )
+                    if r.status_code != 429:
+                        break
+                    time.sleep(10 * (attempt + 1))  # Reddit "yavaşla" dedi
                 r.raise_for_status()
                 root = ET.fromstring(r.content)
                 ns = {"a": "http://www.w3.org/2005/Atom"}
                 for e in root.findall("a:entry", ns)[:per_sub]:
                     out.append({"sub": sub, "title": e.findtext("a:title", "", ns)})
-            time.sleep(1.5)
+            time.sleep(4)
         except Exception as e:  # tek bir topluluk hatası diğerlerini durdurmasın
             errors.append(f"r/{sub}: {e}")
     if not out:

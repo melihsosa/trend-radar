@@ -76,10 +76,16 @@ def analyze(signals, api_key, model, country="US", max_trends=8):
     # Anahtar adres satırında değil başlıkta gönderilir; böylece hata mesajlarına sızmaz.
     headers = {"x-goog-api-key": api_key, "Content-Type": "application/json"}
 
-    # Seçilen model bulunamazsa (Google eski modelleri kaldırabiliyor) yedeklere geç.
-    models = [model] + [m for m in FALLBACK_MODELS if m != model]
+    # Seçilen model bulunamazsa (Google eski modelleri kaldırıyor) o an mevcut olan
+    # en yeni "flash" modelini Google'a sorup onu kullan.
+    models = [model]
+    try:
+        models += [m for m in available_flash_models(api_key) if m != model]
+    except Exception as e:
+        print(f"   model listesi alınamadı: {e.__class__.__name__}")
+    models += [m for m in FALLBACK_MODELS if m not in models]
     last_err = None
-    for m in models:
+    for m in models[:5]:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
         for attempt in range(4):
             r = requests.post(url, headers=headers, json=body, timeout=120)
@@ -98,7 +104,38 @@ def analyze(signals, api_key, model, country="US", max_trends=8):
     raise RuntimeError(f"Gemini yanıt vermedi: {last_err}")
 
 
-FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
+FALLBACK_MODELS = ["gemini-flash-latest"]
+_SKIP = ("lite", "tts", "live", "image", "audio", "transcribe", "embedding", "exp", "thinking", "translate")
+
+
+def _version_key(name):
+    """'gemini-3.8-flash' -> (3, 8); sürümü olmayanlar sona."""
+    import re
+    m = re.search(r"gemini-(\d+)(?:\.(\d+))?", name)
+    if not m:
+        return (0, 0)
+    return (int(m.group(1)), int(m.group(2) or 0))
+
+
+def available_flash_models(api_key):
+    """Anahtarın erişebildiği, metin üretebilen 'flash' modellerini yeniden eskiye sıralar."""
+    r = requests.get(
+        "https://generativelanguage.googleapis.com/v1beta/models",
+        headers={"x-goog-api-key": api_key}, params={"pageSize": 200}, timeout=30,
+    )
+    r.raise_for_status()
+    names = []
+    for m in r.json().get("models", []):
+        name = m.get("name", "").replace("models/", "")
+        if "generateContent" not in (m.get("supportedGenerationMethods") or []):
+            continue
+        if "flash" not in name or any(s in name for s in _SKIP):
+            continue
+        names.append(name)
+    # Önce kararlı sürümler, sonra "preview"; her grupta en yeni sürüm önce.
+    stable = sorted([n for n in names if "preview" not in n], key=_version_key, reverse=True)
+    preview = sorted([n for n in names if "preview" in n], key=_version_key, reverse=True)
+    return stable + preview
 
 
 def _err_msg(resp):
@@ -141,6 +178,18 @@ def parse_trends(text, max_trends=8):
 def fallback_trends(signals, max_trends=8):
     """Gemini çalışmazsa: yapay zeka yorumu olmadan ham TikTok hashtag'leri."""
     out = []
+    if not signals.get("tiktok"):
+        for g in (signals.get("google") or [])[:max_trends]:
+            out.append({
+                "name": g.get("query") or "?",
+                "heat": "Yükseliyor",
+                "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
+                "why": ("Yaklaşık arama: " + g["traffic"]) if g.get("traffic") else "",
+                "sources": ["Google"],
+                "idea": "",
+                "product_keywords": [],
+            })
+        return out
     for h in (signals.get("tiktok") or [])[:max_trends]:
         out.append({
             "name": "#" + h["hashtag"],

@@ -1,0 +1,11 @@
+# Talep Borsası'nda her gün takip edilecek ürünler.
+# Biçim: google'da aranacak İngilizce ifade | eklentide görünecek Türkçe ad
+# Satır başına bir ürün. # ile başlayan satırlar dikkate alınmaz.
+# Yapay zeka her gün akımlardan yeni ürünleri kendisi ekler; buraya sadece
+# her zaman izlemek istediklerini yaz.
+
+personalized necklace | Kişiye özel kolye
+custom pet portrait | Evcil hayvan portresi
+crochet bag | Tığ işi çanta
+scented candle | Kokulu mum
+phone charm | Telefon süsü

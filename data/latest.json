@@ -1,8 +1,149 @@
 {
  "country": "US",
  "sample": false,
- "trends": [],
- "trends_updated_at": "2026-09-23T23:20+00:00",
+ "trends": [
+  {
+   "name": "Collectible Snoopy Cup Çılgınlığı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kahve zincirlerinin Snoopy işbirlikleri ve sınırlı sayıda çıkan nostaljik Peanuts karakterli bardaklar viral bir koleksiyon çılgınlığı yaratıyor.",
+   "why": "Reddit'te Starbucks'taki Snoopy bardağı için sırayı bozan ve kavga eden müşterinin videosu trend oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Snoopy ve Peanuts temalı cam pipetli bardaklar, sevimli köpek figürlü bardak kılıfları ve akrilik bardak süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "snoopy glass cup",
+     "label": "snoopy cam bardak"
+    },
+    {
+     "keyword": "peanuts tumbler with lid",
+     "label": "kapaklı snoopy termos kupa"
+    }
+   ]
+  },
+  {
+   "name": "Anime x Gaming İşbirliği (FF x Naruto)",
+   "heat": "Zirvede",
+   "desc": "Popüler battle royale oyunlarının anime evrenleriyle (Naruto) bir araya gelmesi genç oyuncu kitlesinde yoğun bir ilgi uyandırıyor.",
+   "why": "TikTok'ta #ffxnarutoshippuden etiketi 1. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Shinobi ve anime temalı oyuncu mousepad'leri, klavye tuş başlıkları (artisan keycaps) ve vinil laptop çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "anime gaming desk mat",
+     "label": "anime oyuncu masa matı"
+    },
+    {
+     "keyword": "naruto artisan keycap",
+     "label": "naruto özel klavye tuşu"
+    }
+   ]
+  },
+  {
+   "name": "Kişiye Özel Yüz Geçici Dövmeleri (Ofis ve Parti Şakaları)",
+   "heat": "Yükseliyor",
+   "desc": "Patronların, arkadaşların veya bekarlığa veda partisi kutlanan kişilerin fotoğraflarından geçici dövme yaptırma akımı eğlence ve ofis kültüründe popülerleşiyor.",
+   "why": "Reddit TikTokCringe topluluğunda çalışanların patronlarının yüzünü geçici dövme yaparak şaka yaptığı video yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Müşterinin yüklediği portre fotoğraflarını özel kesim geçici dövme tabakalarına dönüştüren kişiselleştirilmiş parti ürün",
+   "product_keywords": [
+    {
+     "keyword": "custom face temporary tattoos",
+     "label": "kişiye özel yüz geçici dövmesi"
+    },
+    {
+     "keyword": "personalized party prank tattoo",
+     "label": "fotoğraflı parti şaka dövmesi"
+    }
+   ]
+  },
+  {
+   "name": "Y2K Tamagotchi Nostaljisi ve Aksesuarları",
+   "heat": "Yükseliyor",
+   "desc": "2000'ler nostaljisi (Y2K) ve dijital evcil hayvanları yıllarca hayatta tutma trendi el yapımı koruma aksesuarlarına talebi artırıyor.",
+   "why": "Reddit BuyItForLife topluluğunda 22 yıldır çalışan Tamagotchi paylaşımı viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Tamagotchi cihazları için el örgüsü/tığ işi sevimli kılıflar, nostaljik Y2K boncuklu telefon ve cihaz askıları.",
+   "product_keywords": [
+    {
+     "keyword": "crochet tamagotchi case",
+     "label": "örgü tamagotchi kılıfı"
+    },
+    {
+     "keyword": "y2k virtual pet charm strap",
+     "label": "y2k cihaz askısı süsü"
+    }
+   ]
+  },
+  {
+   "name": "Geniş Paça Pantolon & Yağmur Çizmesi Kombinleri",
+   "heat": "Yeni çıktı",
+   "desc": "Sonbahar/kış yağışlı havalarda geniş paça pantolonları Wellington tarzı çizmelerle şık bir şekilde birleştirme arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda geniş paça pantolonların çizmelerle nasıl giyileceği üzerine yoğun tartışma başladı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geniş pantolonları çizmelerin içine düzgün sokmayı sağlayan ayarlanabilir şık paça klipsleri ve pantolon paça askıları.",
+   "product_keywords": [
+    {
+     "keyword": "pant cuff clips for boots",
+     "label": "çizme için pantolon paça klipsi"
+    },
+    {
+     "keyword": "stirrup pant clips",
+     "label": "ayarlanabilir pantolon askı aparatı"
+    }
+   ]
+  },
+  {
+   "name": "Ms. Rachel Anne/Ebeveyn Kültürü Hediyeleri",
+   "heat": "Yükseliyor",
+   "desc": "Bebekli ebeveynlerin kurtarıcısı haline gelen çocuk içerik üreticisi Ms. Rachel, annelik mizahı ve ebeveyn hediye kültürünün merkezine oturdu.",
+   "why": "Reddit'te Ms. Rachel'ın ebeveynler üzerindeki etkisine dair birden fazla mizahi video öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ms. Rachel esprili anne kahve kupaları, pembe bandana saç bantları ve kreş/toddler annelerine özel sloganlı bez çantalar",
+   "product_keywords": [
+    {
+     "keyword": "toddler mom iced coffee glass",
+     "label": "bebekli anne soğuk kahve bardağı"
+    },
+    {
+     "keyword": "toddler teacher pink headband",
+     "label": "anne saç bandanası"
+    }
+   ]
+  },
+  {
+   "name": "Wax Ceket Yenileme & Heritage Dış Giyim Bakımı",
+   "heat": "Yeni çıktı",
+   "desc": "Vintage Barbour benzeri mumlu pamuklu ceketleri ömür boyu kullanmak için evde yenileme ve yeniden mumlama kültürü yükselişte.",
+   "why": "Reddit BuyItForLife'ta 1993 model Barbour ceketin evde hayata döndürülmesi gönderisi büyük beğeni aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı doğal balmumu bazlı su geçirmez kumaş bakım kalıpları ve ceket bakım fırçası setleri.",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar reproofing",
+     "label": "kumaş mumlama bakım kalıbı"
+    },
+    {
+     "keyword": "waxed jacket care kit",
+     "label": "mumlu ceket yenileme seti"
+    }
+   ]
+  }
+ ],
+ "trends_updated_at": "2026-09-23T23:35+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -123,8 +264,8 @@
  "products_updated_at": "2026-09-23T22:57+00:00",
  "status": {
   "TikTok": {
-   "ok": false,
-   "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7\", waiting until \"networkidle\""
+   "ok": true,
+   "count": 3
   },
   "YouTube": {
    "ok": false,
@@ -132,20 +273,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 15
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-2.0-flash: model bulunamadı"
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-23T23:20+00:00"
+ "generated_at": "2026-09-23T23:35+00:00"
 }

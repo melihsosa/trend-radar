@@ -1,0 +1,68 @@
+name: Trend Radar tarama
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # İnternette Gündem: 3 saatte bir
+    - cron: "30 4 * * *"   # Talep Borsası: günde 1 kez, TR saatiyle 07:30
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Ne güncellensin?"
+        type: choice
+        options: [all, trends, demand]
+        default: all
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Çalışma türünü belirle
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "30 4 * * *" ]; then
+            echo "mode=demand" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=trends" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Kütüphaneleri kur
+        run: pip install -r requirements.txt
+
+      - name: Tarayıcıyı kur (TikTok için)
+        if: steps.mode.outputs.mode != 'demand'
+        run: python -m playwright install --with-deps chromium
+
+      - name: Çalıştır (${{ steps.mode.outputs.mode }})
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: python main.py ${{ steps.mode.outputs.mode }}
+
+      - name: Sonucu kaydet
+        run: |
+          git config user.name "trend-radar-bot"
+          git config user.email "trend-radar-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Trend raporu ${{ steps.mode.outputs.mode }} $(date -u +%Y-%m-%dT%H:%M)"
+          git pull --rebase
+          git push

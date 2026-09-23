@@ -90,8 +90,8 @@ def youtube_trending(api_key, region="US", limit=50):
             "chart": "mostPopular",
             "regionCode": region,
             "maxResults": limit,
-            "key": api_key,
         },
+        headers={"x-goog-api-key": api_key},  # anahtar adreste değil başlıkta: hata mesajına sızmaz
         timeout=TIMEOUT,
     )
     r.raise_for_status()

@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 import sys
 import traceback
 from datetime import datetime, timedelta, timezone
@@ -12,8 +13,28 @@ import config
 import demand
 import sources
 
-ROOT = Path(__file__).resolve().parent
+HERE = Path(__file__).resolve().parent
+# Dosyalar "collector" klasöründeyse depo kökü bir üst klasördür; hepsi kökteyse burasıdır.
+ROOT = HERE.parent if HERE.name == "collector" else HERE
 DATA = ROOT / "data"
+
+
+SECRET_PATTERNS = [
+    re.compile(r"AIza[0-9A-Za-z_\-]{20,}"),          # Google API anahtarları
+    re.compile(r"(key|token|secret)=[^&\s'\"]+", re.I),  # adresteki anahtar parametreleri
+]
+
+
+def redact(text):
+    """Hata mesajlarından olası anahtarları siler (rapor herkese açık bir depoya yazılıyor)."""
+    text = str(text)
+    for env_name in ("GEMINI_API_KEY", "YOUTUBE_API_KEY", "REDDIT_CLIENT_ID", "REDDIT_CLIENT_SECRET"):
+        val = os.environ.get(env_name)
+        if val and len(val) > 4:
+            text = text.replace(val, "***")
+    for pat in SECRET_PATTERNS:
+        text = pat.sub("***", text)
+    return text
 
 
 def run_source(status, name, fn, *args, **kwargs):
@@ -24,7 +45,7 @@ def run_source(status, name, fn, *args, **kwargs):
         print(f"   {len(result)} kayıt")
         return result
     except Exception as e:
-        status[name] = {"ok": False, "error": str(e)[:200]}
+        status[name] = {"ok": False, "error": redact(e)[:200]}
         print(f"   HATA: {e}")
         traceback.print_exc()
         return []
@@ -81,7 +102,7 @@ def update_trends(env, status):
             print(f"   {len(trends)} akım")
         except Exception as e:
             print(f"   HATA: {e}")
-            status["Yapay zeka"] = {"ok": False, "error": str(e)[:200]}
+            status["Yapay zeka"] = {"ok": False, "error": redact(e)[:200]}
     else:
         status["Yapay zeka"] = {"ok": False, "error": "GEMINI_API_KEY eklenmemiş"}
     if not trends:
@@ -112,7 +133,7 @@ def update_products(trends, status, now):
             status["Talep ölçümü"]["error"] = "Google Trends yanıt vermedi, önceki değerler gösteriliyor"
     except Exception as e:
         traceback.print_exc()
-        status["Talep ölçümü"] = {"ok": False, "error": str(e)[:200]}
+        status["Talep ölçümü"] = {"ok": False, "error": redact(e)[:200]}
         return None
 
     cutoff = (now - timedelta(days=45)).date().isoformat()
@@ -158,6 +179,9 @@ def main():
             out["products_updated_at"] = stamp
             changed = True
 
+    for s in status.values():
+        if s.get("error"):
+            s["error"] = redact(s["error"])[:200]
     out["status"] = status
     if changed:
         out["generated_at"] = stamp

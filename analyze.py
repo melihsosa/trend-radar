@@ -69,22 +69,44 @@ def analyze(signals, api_key, model, country="US", max_trends=8):
     prompt = PROMPT.format(
         country=country, max_trends=max_trends, signals=compact_signals(signals)
     )
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4},
     }
+    # Anahtar adres satırında değil başlıkta gönderilir; böylece hata mesajlarına sızmaz.
+    headers = {"x-goog-api-key": api_key, "Content-Type": "application/json"}
+
+    # Seçilen model bulunamazsa (Google eski modelleri kaldırabiliyor) yedeklere geç.
+    models = [model] + [m for m in FALLBACK_MODELS if m != model]
     last_err = None
-    for attempt in range(4):
-        r = requests.post(url, params={"key": api_key}, json=body, timeout=120)
-        if r.status_code in (429, 500, 503):
-            last_err = f"HTTP {r.status_code}"
-            time.sleep(30 * (attempt + 1))
-            continue
-        r.raise_for_status()
-        text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        return parse_trends(text, max_trends)
+    for m in models:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
+        for attempt in range(4):
+            r = requests.post(url, headers=headers, json=body, timeout=120)
+            if r.status_code in (429, 500, 503):
+                last_err = f"{m}: HTTP {r.status_code} {_err_msg(r)}"
+                time.sleep(30 * (attempt + 1))
+                continue
+            if r.status_code == 404:
+                last_err = f"{m}: model bulunamadı"
+                break  # sıradaki modeli dene
+            if not r.ok:
+                raise RuntimeError(f"Gemini {m}: HTTP {r.status_code} {_err_msg(r)}")
+            text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            print(f"   model: {m}")
+            return parse_trends(text, max_trends)
     raise RuntimeError(f"Gemini yanıt vermedi: {last_err}")
+
+
+FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
+
+
+def _err_msg(resp):
+    """Gemini'nin hata açıklamasını kısa biçimde döndürür."""
+    try:
+        return resp.json()["error"]["message"][:200]
+    except Exception:
+        return resp.text[:200]
 
 
 ALLOWED_HEAT = {"Yeni çıktı", "Yükseliyor", "Hızla yükseliyor", "Zirvede"}

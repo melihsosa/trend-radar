@@ -3,29 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "#ffxnarutoshippuden",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Flores Amarillas",
+   "heat": "Zirvede",
+   "desc": "TikTok'ta özellikle Eylül sonlarında baharın gelişini ve sevgiyi kutlamak için partnerlere sarı çiçek hediye etme akımı.",
+   "why": "TikTok popüler hashtag listesinde 'floresamarillas' teriminin 2. sırada yer almasıyla görünmektedir.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Örgü (crochet) sarı çiçek buketleri, sarı çiçek temalı el yapımı kolyeler ve hediyelik kartlar.",
+   "product_keywords": [
+    {
+     "keyword": "crochet yellow flowers",
+     "label": "örgü sarı çiçek"
+    },
+    {
+     "keyword": "yellow flower necklace",
+     "label": "sarı çiçek kolye"
+    }
+   ]
   },
   {
-   "name": "#floresamarillas",
+   "name": "Aran Islands Knitwear & BIFL Vintage Giyim",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Tüketicilerin hızlı moda yerine ömür boyu kullanılabilecek (Buy It For Life) otantik Aran adası tarzı kalın yün örgülere ve dayanıklı vintage kıyafetlere yönelmesi.",
+   "why": "Reddit'in BuyItForLife topluluğunda Aran örgüsü kazaklar ve vintage kıyafetlerin kalitesi üzerine açılan başlıkların yoğun ilgi görmesiyle ortaya çıkmıştır.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Otantik el örgüsü Aran tarzı kalın yün kazaklar ve hırkalar.",
+   "product_keywords": [
+    {
+     "keyword": "hand knitted aran sweater",
+     "label": "el örgüsü aran kazak"
+    },
+    {
+     "keyword": "vintage wool cardigan",
+     "label": "vintage yün hırka"
+    }
+   ]
+  },
+  {
+   "name": "Rain Boots & Wide Leg Pants Kombinleri",
+   "heat": "Yükseliyor",
+   "desc": "Sonbahar yağmurlarının başlamasıyla birlikte geniş paçalı pantolonların uzun yağmur botlarıyla (wellingtons) estetik ve potluk yapmayacak şekilde kombinlenme arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda yağmurlu günlerde giyilecek ayakkabılar ve geniş paça pantolonlarla uzun botların nasıl stillendirileceğine dair soruların yoğunlaşmasıyla görünmektedir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geniş paçalı pantolonları botun içinde düzgün tutmaya yarayan şık bot içi pantolon askıları veya paça tutucular.",
+   "product_keywords": [
+    {
+     "keyword": "pants strap for boots",
+     "label": "bot için pantolon askısı"
+    },
+    {
+     "keyword": "rain boot socks",
+     "label": "yağmur botu çorabı"
+    }
+   ]
+  },
+  {
+   "name": "Tamagotchi & Y2K Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "90'lar ve 2000'lerin başındaki sanal bebek (Tamagotchi) kültürünün, cihazların uzun ömürlülüğü üzerinden retro teknoloji meraklıları arasında yeniden popülerleşmesi.",
+   "why": "Reddit BuyItForLife topluluğunda 22 yıldır çalışan bir Tamagotchi görselinin yüksek etkileşim almasıyla tetiklenmiştir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sanal bebekler için el yapımı koruyucu örgü kılıflar ve Y2K tarzı boncuklu cihaz askıları.",
+   "product_keywords": [
+    {
+     "keyword": "crochet tamagotchi case",
+     "label": "örgü tamagotchi kılıfı"
+    },
+    {
+     "keyword": "y2k phone charm",
+     "label": "y2k telefon askısı"
+    }
+   ]
+  },
+  {
+   "name": "Kişiselleştirilmiş Şaka Dövmeleri",
+   "heat": "Yükseliyor",
+   "desc": "Arkadaş gruplarında veya iş yerlerinde, bir kişinin yüzünün geçici dövme haline getirilerek şaka amaçlı vücuda yapıştırılması akımı.",
+   "why": "Reddit TikTokCringe topluluğunda çalışanların patronlarının yüzünü geçici dövme yaptırarak şaka yaptığı videonun viral olmasıyla belgelenmiştir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Müşterilerin gönderdiği fotoğraflardan üretilen kişiye özel geçici şaka dövme setleri.",
+   "product_keywords": [
+    {
+     "keyword": "custom temporary tattoo",
+     "label": "özel geçici dövme"
+    },
+    {
+     "keyword": "personalized face tattoo",
+     "label": "kişiye özel yüz dövmesi"
+    }
+   ]
+  },
+  {
+   "name": "Ms. Rachel Esintili Çocuk Giyim",
+   "heat": "Hızla yükseliyor",
+   "desc": "Okul öncesi çocukların sevgilisi içerik üreticisi Ms. Rachel'ın ebeveynler arasında adeta bir fenomen haline gelmesi ve çocuk giyiminde tarzının taklit edilmesi.",
+   "why": "Reddit TikTokCringe topluluğunda Ms. Rachel'ın ebeveynler üzerindeki etkisi ve popülaritesi üzerine çok sayıda gönderi paylaşılmasıyla dikkat çekmektedir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ms. Rachel'ın ikonik tarzını yansıtan pembe çocuk saç bantları ve mavi askılı tulum setleri.",
+   "product_keywords": [
+    {
+     "keyword": "toddler pink headband",
+     "label": "bebek pembe saç bandı"
+    },
+    {
+     "keyword": "blue overalls kids",
+     "label": "çocuk mavi tulumu"
+    }
+   ]
+  },
+  {
+   "name": "Satranç Temalı Avangart Moda",
+   "heat": "Yeni çıktı",
+   "desc": "Satranç taşlarının formlarından ve dama desenlerinden ilham alan sıra dışı kıyafet ve aksesuar tasarımlarının ilgi görmesi.",
+   "why": "Reddit TikTokCringe topluluğunda satranç taşlarının podyumda yürüdüğü avangart moda şovunun viral olmasıyla ortaya çıkmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Satranç taşları (kale, şah, vezir) şeklinde tasarlanmış 3D yazıcı veya kil üretimi küpeler.",
+   "product_keywords": [
+    {
+     "keyword": "chess piece earrings",
+     "label": "satranç taşı küpe"
+    },
+    {
+     "keyword": "checkerboard pattern bag",
+     "label": "dama desenli çanta"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-09-24T18:03+00:00",
+ "trends_updated_at": "2026-09-24T21:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -277,13 +395,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-24T18:03+00:00"
+ "generated_at": "2026-09-24T21:03+00:00"
 }

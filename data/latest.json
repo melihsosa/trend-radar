@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#ffxnarutoshippuden",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Free Fire x Naruto Shippuden",
+   "heat": "Hızla yükseliyor",
+   "desc": "Popüler mobil oyun Free Fire ile efsanevi anime serisi Naruto Shippuden arasındaki büyük iş birliği, oyuncular ve anime severler arasında viral bir akıma dönüştü.",
+   "why": "TikTok'ta '#ffxnarutoshippuden' etiketinin haftalık popülerlik sıralamasında 1. sırada yer almasıyla kendini gösteriyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Naruto ve Free Fire temalı özel tasarım oyuncu mousepad'leri, vinil çıkartmalar ve kişiselleştirilmiş mekanik klavye tuş",
+   "product_keywords": [
+    {
+     "keyword": "anime keycaps",
+     "label": "anime klavye tuşları"
+    },
+    {
+     "keyword": "naruto gaming mousepad",
+     "label": "naruto oyuncu mousepad"
+    }
+   ]
   },
   {
-   "name": "#owen",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Ms. Rachel Era",
+   "heat": "Zirvede",
+   "desc": "Okul öncesi çocukların ve ebeveynlerin sevgilisi olan Ms. Rachel, pembe saç bandı ve tulumlu ikonik tarzıyla hem çocukların hem de milenyum kuşağı annelerin favori kültürel figürü haline geldi.",
+   "why": "Reddit'in popculturechat topluluğunda Ms. Rachel'ın popüler talk-show katılımı ve bağış kampanyalarıyla ilgili birden fazla yüksek etkileşimli gönderi bulunuyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Ms. Rachel esintili pembe bebek saç bantları, 'In My Ms. Rachel Era' yazılı anne tişörtleri ve eğitici ahşap çocuk oyunc",
+   "product_keywords": [
+    {
+     "keyword": "ms rachel shirt",
+     "label": "Ms Rachel tişörtü"
+    },
+    {
+     "keyword": "pink headband toddler",
+     "label": "pembe bebek saç bandı"
+    }
+   ]
   },
   {
-   "name": "#securepayeveryday",
+   "name": "Fantasy Romance Ball",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Gençler ve genç yetişkinler arasında popüler olan fantastik aşk romanlarından esinlenen balolar ve tematik etkinlikler için özel kostüm ve aksesuar arayışı hızla artıyor.",
+   "why": "Reddit'in malefashionadvice topluluğunda kullanıcıların yaklaşan fantastik aşk baloları için kıyafet ve aksesuar önerileri aramasıyla öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Fantastik kitap temalı gotik takılar, el yapımı taçlar, pelerinler ve maskeli balo maskeleri.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy romance jewelry",
+     "label": "fantastik roman takısı"
+    },
+    {
+     "keyword": "masquerade mask gothic",
+     "label": "gotik maskeli balo maskesi"
+    }
+   ]
+  },
+  {
+   "name": "Where I would live as a fish",
+   "heat": "Yeni çıktı",
+   "desc": "Gen Z arasında yayılan, 'eğer bir balık olsaydım nerede yaşardım' konseptli, sevimli ve absürt su altı yaşam alanlarını gösteren mizahi görsel akımı.",
+   "why": "Reddit'in GenZ topluluğunda bu başlıkla açılan yaratıcı görsel paylaşımının yüksek popülerlik kazanmasıyla ortaya çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sevimli balık illüstrasyonları içeren oda dekorasyon posterleri, el yapımı kilden balık figürleri ve telefon kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "cute fish art print",
+     "label": "sevimli balık posteri"
+    },
+    {
+     "keyword": "clay fish figurine",
+     "label": "kilden balık figürü"
+    }
+   ]
+  },
+  {
+   "name": "50s Inspired Autumn Jumpers",
+   "heat": "Yükseliyor",
+   "desc": "Sonbaharın gelişiyle birlikte 1950'ler modasından ilham alan retro kesim örgü kazaklar, çizgili trikolar ve klasik katmanlama tarzı yeniden popülerlik kazanıyor.",
+   "why": "Reddit'in malefashionadvice topluluğunda sonbaharın ilk kazağı olarak 50'ler esintili kombinlerin paylaşılması ve ilgi görmesiyle tespit edildi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro kesim çizgili triko kazaklar, vintage tarzı örgü hırkalar ve sonbahar kombin aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "vintage 50s knitwear",
+     "label": "vintage 50ler triko"
+    },
+    {
+     "keyword": "retro mens jumper",
+     "label": "retro erkek kazağı"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-09-24T00:03+00:00",
+ "trends_updated_at": "2026-09-24T03:03+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -173,13 +240,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-24T00:03+00:00"
+ "generated_at": "2026-09-24T03:03+00:00"
 }

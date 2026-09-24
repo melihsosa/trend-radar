@@ -4,126 +4,166 @@
  "trends": [
   {
    "name": "Flores Amarillas",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sarı çiçek hediye etme ve sarı estetiğini öne çıkarma odaklı popüler hediyeleşme ve yaşam tarzı akımı.",
-   "why": "TikTok popüler hashtag listesinde 2. sırada yer almaktadır.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Yapay sarı çiçek buketleri, sarı çiçek motifli takılar veya illüstrasyonlu tebrik kartları.",
-   "product_keywords": [
-    {
-     "keyword": "yellow flowers bouquet",
-     "label": "Sarı Çiçek Buketi"
-    },
-    {
-     "keyword": "flores amarillas jewelry",
-     "label": "Sarı Çiçek Takısı"
-    }
-   ]
-  },
-  {
-   "name": "Wendy's Emo Parking Lot Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Wendy's markasının emo albümü lansmanı etrafında gelişen nostaljik emo ve pop-punk mizah trendi.",
-   "why": "Google aramalarında 5000+ arama hacmiyle yüksek ilgi gören haberler arasında yer alıyor.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Emo temalı mizahi grafik tişörtler, 'parking lot' göndermeli anahtarlıklar ve pop-punk stiker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "emo parking lot shirt",
-     "label": "Emo Park Yeri Tişörtü"
-    },
-    {
-     "keyword": "pop punk sticker pack",
-     "label": "Pop Punk Etiket Paketi"
-    }
-   ]
-  },
-  {
-   "name": "FFX x Naruto Shippuden",
    "heat": "Zirvede",
-   "desc": "Naruto Shippuden ve Final Fantasy evrenlerini bir araya getiren anime ve oyun kültürüne yönelik crossover trendi.",
-   "why": "TikTok popüler hashtag sıralamasında 1. sırada yer alıyor.",
+   "desc": "Latin Amerika kökenli, 21 Eylül'de baharın gelişini kutlamak için sevdiklerine sarı çiçekler hediye etme geleneği.",
+   "why": "TikTok popüler hashtag listesinde 'floresamarillas' ikinci sırada yer alarak viral bir akım olduğunu gösteriyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Anime hayranlarına yönelik crossover estetik stikerlar, baskılı anahtarlıklar ve illüstrasyon posterleri.",
+   "idea": "Ömür boyu saklanabilecek tığ işi (crochet) el yapımı sarı çiçek buketleri ve sarı çiçek temalı takılar.",
    "product_keywords": [
     {
-     "keyword": "anime crossover sticker",
-     "label": "Anime Crossover Çıkartması"
+     "keyword": "crochet yellow flowers",
+     "label": "tığ işi sarı çiçekler"
     },
     {
-     "keyword": "naruto fan art print",
-     "label": "Naruto Sanat Baskısı"
+     "keyword": "yellow flower jewelry",
+     "label": "sarı çiçek takısı"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball",
-   "heat": "Yeni çıktı",
-   "desc": "Fantastik edebiyat hayranlarının katıldığı konsept balolar için fantezi ve gotik tarz aksesuar arayışı akımı.",
-   "why": "Reddit'in r/malefashionadvice topluluğunda konsept balo için özel kıyafet ve aksesuar tavsiyesi olarak öne çıktı.",
+   "name": "Fantasy Romance Ball Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Kitap topluluklarından (BookTok) ilham alan, katılımcıların fantastik, saray ve orta çağ temalı kıyafetler giydiği özel balolar ve etkinlikler.",
+   "why": "Reddit'in r/malefashionadvice topluluğunda bir kullanıcının fantastik romantizm balosu için kıyafet ve aksesuar tavsiyesi istemesiyle öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Romantasy balo temalı pelerinler, fantezi tarzı broşlar ve el yapımı vintage aksesuarlar.",
+   "idea": "Fantastik balo kıyafetlerini tamamlayacak el yapımı elf kulak aksesuarları (ear cuffs), taçlar ve orta çağ temalı peleri",
    "product_keywords": [
     {
-     "keyword": "fantasy romance ball costume",
-     "label": "Fantastik Balo Kostümü"
+     "keyword": "fantasy romance ball outfit",
+     "label": "fantastik romantik balo kıyafeti"
     },
     {
-     "keyword": "romantasy brooch",
-     "label": "Romantasy Broş"
+     "keyword": "elven ear cuff",
+     "label": "elf kulak aksesuarı"
     }
    ]
   },
   {
-   "name": "American Horror Story Gothic Aesthetic",
+   "name": "Aurora Borealis (Kuzey Işıkları) Tasarımları",
    "heat": "Hızla yükseliyor",
-   "desc": "American Horror Story 13. Sezon prömiyeriyle birlikte yeniden canlanan korku ve gotik estetik akımı.",
-   "why": "Google yükselen aramalarda 5000+ hacimle üst sıralarda yer buldu.",
+   "desc": "Son dönemde artan güneş fırtınaları ve ekinoks nedeniyle Kuzey Işıkları'nın birçok bölgeden görülebilmesiyle ortaya çıkan gökyüzü temalı estetik akımı.",
+   "why": "Google yükselen aramalarda 'northern lights aurora borealis forecast' sorgusunun yüksek trafik almasıyla görünmektedir.",
    "sources": [
     "Google"
    ],
-   "idea": "Gotik korku temalı aksesuarlar, karanlık estetiğe uygun dekoratif mumlar ve seramik kupalar.",
+   "idea": "Kuzey ışıklarının renk geçişlerini taklit eden epoksi reçine kolyeler ve karanlıkta parlayan galaksi temalı duvar sanatl",
    "product_keywords": [
     {
-     "keyword": "gothic horror jewelry",
-     "label": "Gotik Korku Takısı"
+     "keyword": "aurora borealis jewelry",
+     "label": "kuzey ışıkları takısı"
     },
     {
-     "keyword": "dark aesthetic candle",
-     "label": "Karanlık Estetik Mum"
+     "keyword": "northern lights wall art",
+     "label": "kuzey ışıkları duvar sanatı"
     }
    ]
   },
   {
-   "name": "50s Vintage Style Revival",
-   "heat": "Yükseliyor",
-   "desc": "1950'lerin retro giyiminden ilham alan nostaljik stil ve klasik kombin akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda sonbahar dönemi retro giyim sohbetlerinde yer aldı.",
+   "name": "Ms. Rachel Bebek ve Çocuk Aksesuarları",
+   "heat": "Hızla yükseliyor",
+   "desc": "Okul öncesi çocukların ve ebeveynlerin sevgilisi olan eğitmen Ms. Rachel'ın popüler kültürde ve sosyal medyada büyük yankı uyandırması.",
+   "why": "Reddit'in r/popculturechat topluluğunda Ms. Rachel'ın katıldığı programlar ve yaptığı bağışlarla ilgili birden fazla popüler gönderi bulunuyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "50'ler stilinde el örgüsü vintage motifli kazaklar ve retro tarz aksesuarlar.",
+   "idea": "Ms. Rachel'ın ikonik tarzını yansıtan pembe bebek saç bantları, çocuk salopet tulumları ve eğitici keçe oyuncak setleri.",
    "product_keywords": [
     {
-     "keyword": "50s vintage style sweater",
-     "label": "50'ler Vintage Kazak"
+     "keyword": "toddler pink headband",
+     "label": "bebek pembe saç bandı"
     },
     {
-     "keyword": "retro knitwear men",
-     "label": "Retro Örgü Giyim"
+     "keyword": "educational felt toys",
+     "label": "eğitici keçe oyuncaklar"
+    }
+   ]
+  },
+  {
+   "name": "Tamagotchi ve Y2K Sanal Bebek Aksesuarları",
+   "heat": "Yükseliyor",
+   "desc": "Y2K döneminin ikonik sanal bebek oyuncağı Tamagotchi'nin nostalji severler ve koleksiyoncular arasında yeniden popülerleşmesi.",
+   "why": "Reddit'in r/BuyItForLife topluluğunda 22 yıldır çalışan bir Tamagotchi'nin paylaşılması büyük ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sanal bebekleri korumak ve taşımak için tığ işi (crochet) sevimli kılıflar ve Y2K tarzı boncuklu anahtarlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "tamagotchi case crochet",
+     "label": "tığ işi tamagotçi kılıfı"
+    },
+    {
+     "keyword": "y2k keychain charm",
+     "label": "y2k anahtarlık ucu"
+    }
+   ]
+  },
+  {
+   "name": "Orijinal Aran Örgü Giyim",
+   "heat": "Yükseliyor",
+   "desc": "Tüketicilerin ömür boyu kullanabilecekleri kaliteli, geleneksel İrlanda tarzı saç örgüsü (Aran) kazaklara yönelmesi ve sahte ürünlerden kaçınma arayışı.",
+   "why": "Reddit'in r/BuyItForLife topluluğunda sahte Aran örgü ürünlerine karşı yapılan uyarı paylaşımının popülerleşmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel yöntemlerle elde örülmüş %100 yün saç örgüsü kazaklar, hırkalar ve kışlık bereler.",
+   "product_keywords": [
+    {
+     "keyword": "hand knit aran sweater",
+     "label": "el örgüsü aran kazak"
+    },
+    {
+     "keyword": "wool cable knit cardigan",
+     "label": "yün saç örgüsü hırka"
+    }
+   ]
+  },
+  {
+   "name": "Klasik Tıraş Bıçakları ve Bakım Setleri",
+   "heat": "Yeni çıktı",
+   "desc": "Sürdürülebilir ve ömürlük kişisel bakım ürünlerine yönelen erkeklerin geleneksel çift taraflı klasik tıraş bıçaklarını yeniden keşfetmesi.",
+   "why": "Reddit'in r/BuyItForLife topluluğunda 1959 model Gillette Fatboy tıraş bıçağının dayanıklılığıyla öne çıkması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Klasik tıraş bıçakları için el yapımı ahşap saplar, deri seyahat kılıfları ve doğal tıraş sabunu setleri.",
+   "product_keywords": [
+    {
+     "keyword": "safety razor leather case",
+     "label": "tıraş bıçağı deri kılıfı"
+    },
+    {
+     "keyword": "shaving soap set",
+     "label": "tıraş sabunu seti"
+    }
+   ]
+  },
+  {
+   "name": "1950'ler Tarzı Retro Erkek Giyim",
+   "heat": "Yükseliyor",
+   "desc": "Erkek modasında 1950'lerin klasik kesimlerine, retro örgü pololara ve katmanlı giyim estetiğine duyulan ilginin artması.",
+   "why": "Reddit'in r/malefashionadvice topluluğunda 50'ler esintili kombinler ve bisiklet yaka katmanlama üzerine yapılan popüler tartışmalar.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "1950'ler tarzı retro örgü polo yakalı tişörtler ve vintage kesim bisiklet yaka trikolar.",
+   "product_keywords": [
+    {
+     "keyword": "1950s knit polo",
+     "label": "1950ler örgü polo yaka"
+    },
+    {
+     "keyword": "vintage crewneck sweater",
+     "label": "vintage bisiklet yaka kazak"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-24T06:04+00:00",
+ "trends_updated_at": "2026-09-24T09:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -368,7 +408,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -376,12 +416,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 8
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-24T06:04+00:00"
+ "generated_at": "2026-09-24T09:03+00:00"
 }

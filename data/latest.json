@@ -3,107 +3,29 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediye Akımı)",
-   "heat": "Zirvede",
-   "desc": "Sevdiklerine ve partnerlerine baharın gelişi veya sevgi göstergesi olarak sarı çiçekler/hediyeler verme viral akımı.",
-   "why": "TikTok trend listesinde #floresamarillas etiketi 2. sırada yer alıyor.",
+   "name": "#ffxnarutoshippuden",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı tığ işi (crochet) sarı çiçek buketleri, sarı çiçek motifli ebedi reçine takılar veya kişiselleştirilmiş hediye",
-   "product_keywords": [
-    {
-     "keyword": "crochet yellow flowers bouquet",
-     "label": "örme sarı çiçek buketi"
-    },
-    {
-     "keyword": "yellow flower preserved jewelry",
-     "label": "sarı çiçekli reçine takı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Fantasy Romance Ball (Romantasy Balosu Estetiği)",
+   "name": "#floresamarillas",
    "heat": "Yükseliyor",
-   "desc": "Fantastik kurgu ve romantik edebiyat tutkunlarının katıldığı tematik balolar ve masalsı, gotik/peri masalı giyim tarzı.",
-   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance temalı baloya katılacak kullanıcıların kıyafet ve aksesuar arayışı öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı peri/elf kulak küpeleri, kadife pelerinler, fantazi temalı broşlar ve brokar yelek aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy ball accessories",
-     "label": "fantazi balo aksesuarları"
-    },
-    {
-     "keyword": "elf ear cuff jewelry",
-     "label": "elf kulak küpesi"
-    }
-   ]
-  },
-  {
-   "name": "Heritage Aran & Vintage Wool (Ömürlük Klasik Triko)",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modadan uzaklaşıp ömür boyu dayanıklı (BIFL) geleneksel İrlanda örgüleri, kalın saç örgülü kazaklar ve dayanıklı vintage giyim arayışı.",
-   "why": "Reddit r/BuyItForLife ve r/malefashionadvice üzerinde Aran trikoları ve 30 yıllık dayanıklı kıyafetler yoğun tartışılıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Doğal yünden elde örülmüş kalın saç örgülü balıkçı kazakları ve mumlu kanvas kumaş bakım/onarım setleri.",
-   "product_keywords": [
-    {
-     "keyword": "chunky aran knit sweater",
-     "label": "kalın saç örgülü yün kazak"
-    },
-    {
-     "keyword": "wool cable knit cardigan",
-     "label": "yün örgü hırka"
-    }
-   ]
-  },
-  {
-   "name": "Shonen Anime & Gaming Crossover",
-   "heat": "Hızla yükseliyor",
-   "desc": "Popüler shonen anime serileri (Naruto) ile mobil/konsol oyun dünyasını birleştiren gençlik alt kültürü ve sokak giyimi.",
-   "why": "TikTok'ta Free Fire ve Naruto Shippuden iş birliği (#ffxnarutoshippuden) 1. sırada trend oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Anime sembollü özel tasarım masa matları (desk mat), klavye tuş başlıkları (keycaps) ve yansıtıcı baskılı sokak giyim sw",
-   "product_keywords": [
-    {
-     "keyword": "anime ninja desk mat",
-     "label": "anime temalı sümen"
-    },
-    {
-     "keyword": "custom anime keycaps",
-     "label": "özel tasarım anime tuş başlığı"
-    }
-   ]
-  },
-  {
-   "name": "Ms. Rachel / Toddler Learning Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Okul öncesi eğitici içerik ikonu Ms. Rachel etrafında oluşan sempati ve nostaljik, sade çocuk gelişim materyallerine yönelim.",
-   "why": "Reddit r/popculturechat üzerinde Ms. Rachel'ın bağışları ve popülerliği haftanın en çok konuşulan başlıkları arasında.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bebekler için duyusal keçe şarkı kartları, pembe saç bandı ve tulum kombinli çocuk kostüm setleri.",
-   "product_keywords": [
-    {
-     "keyword": "felt learning song board",
-     "label": "keçe eğitici şarkı panosu"
-    },
-    {
-     "keyword": "toddler sensory flashcards",
-     "label": "yeni yürüyen duyusal kartları"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-09-24T12:03+00:00",
+ "trends_updated_at": "2026-09-24T15:04+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -348,20 +270,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-24T12:03+00:00"
+ "generated_at": "2026-09-24T15:04+00:00"
 }

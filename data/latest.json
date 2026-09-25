@@ -3,107 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Akımı)",
+   "name": "Flores Amarillas",
    "heat": "Zirvede",
-   "desc": "TikTok'ta sevdiklerine veya partnerlerine sarı çiçek hediye etme ve sarı çiçek estetiğini kutlama akımı.",
-   "why": "TikTok Creative Center verilerinde #floresamarillas hashtag'i en popüler 2. trend olarak yer almaktadır.",
+   "desc": "Mevsim geçişinde sevilen kişilere sarı çiçek hediye etme akımı, özellikle genç kitle arasında sosyal medyada büyük bir viral dalgaya dönüştü.",
+   "why": "TikTok popüler hashtag listesinde 'floresamarillas' etiketiyle 1. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı kroşe (örgü) sarı çiçek buketleri, sarı çiçek motifli reçine takılar veya kurutulmuş sarı çiçek aksesuarları.",
+   "idea": "El yapımı tığ işi (crochet) sarı çiçek buketleri, sarı çiçek temalı reçine takılar ve minimalist papatya kolyeleri.",
    "product_keywords": [
     {
      "keyword": "crochet yellow flowers",
-     "label": "örgü sarı çiçekler"
+     "label": "tığ işi sarı çiçekler"
     },
     {
      "keyword": "yellow flower jewelry",
-     "label": "sarı çiçekli takı"
+     "label": "sarı çiçek takısı"
     }
    ]
   },
   {
-   "name": "Aran Knitwear & Otantik Yün Örgü",
+   "name": "Ravioli Card Holder",
    "heat": "Yükseliyor",
-   "desc": "Geleneksel İrlanda Aran örgü desenleri ve uzun yıllar dayanabilen yüksek kaliteli nostaljik kış giyimi ilgisi.",
-   "why": "Reddit BuyItForLife topluluğunda Aran kazağı ve vintage giysilerin kalitesi üzerine üst sıralarda tartışmalar yer alıyor.",
+   "desc": "İtalyan mantısı (ravioli) şeklinde tasarlanmış, eğlenceli ve gerçekçi görünümlü mini cüzdan ve kartlık tasarımı.",
+   "why": "Reddit'in popüler ürün odaklı topluluğu r/shutupandtakemymoney'de yüksek etkileşimle paylaşıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı Aran desenli yün kazaklar, el örgüsü kalın yün atkılar ve bere setleri.",
+   "idea": "Deri veya silikon malzemeden üretilmiş, mantı dikiş detaylarına sahip eğlenceli kartlıklar ve madeni para cüzdanları.",
    "product_keywords": [
     {
-     "keyword": "aran knit sweater",
-     "label": "aran desenli örgü kazak"
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
     },
     {
-     "keyword": "hand knit wool scarf",
-     "label": "el örgüsü yün atkı"
+     "keyword": "pasta coin purse",
+     "label": "makarna şeklinde bozuk para cüzdanı"
     }
    ]
   },
   {
-   "name": "Tamagotchi & Y2K Nostaljisi",
-   "heat": "Yükseliyor",
-   "desc": "2000'lerin başındaki sanal bebek (Tamagotchi) kültürünün retro bir stil ögesi ve koleksiyon objesi olarak yeniden gündeme gelmesi.",
-   "why": "Reddit BuyItForLife subreddit'inde 22 yıldır çalışan Tamagotchi paylaşımı haftanın en popüler gönderilerinden biri oldu.",
+   "name": "First Day of Fall",
+   "heat": "Zirvede",
+   "desc": "Sonbaharın gelişiyle birlikte başlayan sıcak, samimi ve 'cozy' yaşam tarzı ile dekorasyon estetiği.",
+   "why": "TikTok'ta 'firstdayoffall' etiketi en popüler 2. hashtag olarak zirveye yerleşti.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Tamagotchi ve sanal bebekler için tığ işi koruyucu kılıflar, Y2K temalı çanta anahtarlıkları ve retro çanta süsleri.",
+   "idea": "Sonbahar yaprağı desenli el yapımı seramik kupalar, balkabağı kokulu soya mumları ve sonbahar temalı illüstrasyon çıkart",
    "product_keywords": [
     {
-     "keyword": "tamagotchi crochet case",
-     "label": "tamagotchi örgü kılıf"
+     "keyword": "cozy fall mug",
+     "label": "sıcak sonbahar kupası"
     },
     {
-     "keyword": "y2k aesthetic keychain",
-     "label": "y2k estetik anahtarlık"
+     "keyword": "autumn aesthetic stickers",
+     "label": "sonbahar estetiği çıkartmaları"
     }
    ]
   },
   {
-   "name": "Grayscale (Gri Tonlama) Ev Estetiği",
+   "name": "Fantasy Romance Ball Aesthetic",
    "heat": "Yeni çıktı",
-   "desc": "Tüm yaşam alanının, mobilyaların ve objelerin sadece gri, siyah ve beyaz tonlarından oluştuğu radikal monokrom dekorasyon akımı.",
-   "why": "Reddit TikTokCringe topluluğunda tamamen gri tonlarında dekore edilmiş bir evi gösteren video viral oldu.",
+   "desc": "Genç yetişkinlerin fantastik kitaplardan esinlenerek katıldığı 'fantastik romantizm baloları' için özel kostüm ve aksesuar arayışı.",
+   "why": "Reddit r/malefashionadvice topluluğunda bir kullanıcının fantastik romantizm balosu için kıyafet ve aksesuar tavsiyesi istemesiyle öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Gri ve nötr tonlarda el yapımı beton mumluklar, minimalist monokrom duvar tabloları ve mat gri dekoratif objeler.",
+   "idea": "Elf kulak kelepçeleri (ear cuffs), gotik ve fantastik esintili maskeli balo maskeleri ve işlemeli pelerinler.",
    "product_keywords": [
     {
-     "keyword": "grayscale home decor",
-     "label": "gri tonlamalı ev dekorasyonu"
+     "keyword": "fantasy romance ball accessories",
+     "label": "fantazi fantastik balo aksesuarları"
     },
     {
-     "keyword": "monochrome concrete planter",
-     "label": "monokrom beton saksı"
+     "keyword": "elven ear cuff",
+     "label": "elf kulak kelepçesi"
     }
    ]
   },
   {
-   "name": "Geniş Paça & Uzun Bot Çözümleri",
+   "name": "Anti-Fluorescent Office Lights",
    "heat": "Yükseliyor",
-   "desc": "Geniş paça pantolonları kışlık çizmeler ve yağmur botları ile rahatça giymeyi sağlayan pratik stil çözümleri.",
-   "why": "Reddit femalefashionadvice topluluğunda geniş paça pantolonların uzun çizmelerle nasıl giyileceği üzerine popüler bir stil başlığı açıldı.",
+   "desc": "Genç çalışanların ofis ve okullardaki göz yorucu, soğuk floresan ışıklara karşı başlattığı, daha yumuşak ve estetik aydınlatma arayışı.",
+   "why": "Reddit r/GenZ topluluğunda floresan ışıkların kaldırılması ve daha iyi aydınlatma alternatifleri üzerine açılan başlık büyük ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Pantolon paçalarını çizme içine düzgünce sabitleyen elastik paça bantları ve ayarlanabilir pantolon tutucu klipsler.",
+   "idea": "Sınıf ve ofis floresan lambaları için ışığı yumuşatan estetik kumaş filtreler/kapaklar ve taşınabilir sıcak ışıklı masa ",
    "product_keywords": [
     {
-     "keyword": "pant straps for boots",
-     "label": "çizme içi pantolon bandı"
+     "keyword": "fluorescent light covers classroom",
+     "label": "floresan ışık kapakları sınıf"
     },
     {
-     "keyword": "pant cuff clips",
-     "label": "pantolon paça klipsi"
+     "keyword": "cozy desk lamp",
+     "label": "estetik masa lambası"
+    }
+   ]
+  },
+  {
+   "name": "Ms. Rachel Toddler Merch",
+   "heat": "Hızla yükseliyor",
+   "desc": "Okul öncesi çocukların ve ebeveynlerin sevgilisi olan ünlü çocuk programı sunucusu Ms. Rachel'ın popüler kültürdeki yükselişi.",
+   "why": "Reddit r/popculturechat topluluğunda Ms. Rachel'ın 'Subway Takes' programına katılması ve son dönemdeki açıklamaları yoğun şekilde tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ms. Rachel'ın ikonik pembe bandanası ve tulumundan esinlenen çocuk kıyafetleri ile eğitici ahşap kartlar.",
+   "product_keywords": [
+    {
+     "keyword": "toddler learning flashcards",
+     "label": "yeni yürüyen çocuk öğrenme kartları"
+    },
+    {
+     "keyword": "ms rachel inspired shirt",
+     "label": "ms rachel esintili tişört"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-25T03:03+00:00",
+ "trends_updated_at": "2026-09-25T06:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -340,7 +360,7 @@
  "status": {
   "TikTok": {
    "ok": true,
-   "count": 2
+   "count": 3
   },
   "YouTube": {
    "ok": false,
@@ -348,7 +368,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -356,12 +376,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-25T04:39+00:00"
+ "generated_at": "2026-09-25T06:03+00:00"
 }

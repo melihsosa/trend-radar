@@ -3,127 +3,129 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas",
+   "name": "floresamarillas",
    "heat": "Zirvede",
-   "desc": "Mevsim geçişinde sevilen kişilere sarı çiçek hediye etme akımı, özellikle genç kitle arasında sosyal medyada büyük bir viral dalgaya dönüştü.",
-   "why": "TikTok popüler hashtag listesinde 'floresamarillas' etiketiyle 1. sırada yer alıyor.",
+   "desc": "Sevdiklerine sarı çiçekler veya sarı çiçek temalı hediyeler verme viral TikTok geleneği.",
+   "why": "TikTok Kreatif Merkezi'nde en popüler 1. hashtag konumunda yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı tığ işi (crochet) sarı çiçek buketleri, sarı çiçek temalı reçine takılar ve minimalist papatya kolyeleri.",
+   "idea": "El yapımı örgü sarı çiçek buketleri, sarı çiçek motifli takılar ve temalı hediye kartları.",
    "product_keywords": [
     {
      "keyword": "crochet yellow flowers",
-     "label": "tığ işi sarı çiçekler"
+     "label": "örgü sarı çiçek"
     },
     {
      "keyword": "yellow flower jewelry",
-     "label": "sarı çiçek takısı"
-    }
-   ]
-  },
-  {
-   "name": "Ravioli Card Holder",
-   "heat": "Yükseliyor",
-   "desc": "İtalyan mantısı (ravioli) şeklinde tasarlanmış, eğlenceli ve gerçekçi görünümlü mini cüzdan ve kartlık tasarımı.",
-   "why": "Reddit'in popüler ürün odaklı topluluğu r/shutupandtakemymoney'de yüksek etkileşimle paylaşıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Deri veya silikon malzemeden üretilmiş, mantı dikiş detaylarına sahip eğlenceli kartlıklar ve madeni para cüzdanları.",
-   "product_keywords": [
-    {
-     "keyword": "ravioli card holder",
-     "label": "ravioli kartlık"
-    },
-    {
-     "keyword": "pasta coin purse",
-     "label": "makarna şeklinde bozuk para cüzdanı"
+     "label": "sarı çiçek takı"
     }
    ]
   },
   {
    "name": "First Day of Fall",
    "heat": "Zirvede",
-   "desc": "Sonbaharın gelişiyle birlikte başlayan sıcak, samimi ve 'cozy' yaşam tarzı ile dekorasyon estetiği.",
-   "why": "TikTok'ta 'firstdayoffall' etiketi en popüler 2. hashtag olarak zirveye yerleşti.",
+   "desc": "Sonbahar mevsiminin başlamasıyla öne çıkan estetik, hediye ve yaşam tarzı akımı.",
+   "why": "TikTok Kreatif Merkezi'nde en çok kullanılan 2. hashtag olarak öne çıkıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Sonbahar yaprağı desenli el yapımı seramik kupalar, balkabağı kokulu soya mumları ve sonbahar temalı illüstrasyon çıkart",
+   "idea": "Sonbahar yaprağı desenli el yapımı kupalar, balkabağı temalı mumlar ve kişiselleştirilmiş sonbahar hediyeleri.",
    "product_keywords": [
     {
-     "keyword": "cozy fall mug",
-     "label": "sıcak sonbahar kupası"
+     "keyword": "fall leaf mug",
+     "label": "sonbahar yapraklı kupa"
     },
     {
-     "keyword": "autumn aesthetic stickers",
-     "label": "sonbahar estetiği çıkartmaları"
+     "keyword": "pumpkin fall candle",
+     "label": "balkabağı sonbahar mumu"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball Aesthetic",
-   "heat": "Yeni çıktı",
-   "desc": "Genç yetişkinlerin fantastik kitaplardan esinlenerek katıldığı 'fantastik romantizm baloları' için özel kostüm ve aksesuar arayışı.",
-   "why": "Reddit r/malefashionadvice topluluğunda bir kullanıcının fantastik romantizm balosu için kıyafet ve aksesuar tavsiyesi istemesiyle öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Elf kulak kelepçeleri (ear cuffs), gotik ve fantastik esintili maskeli balo maskeleri ve işlemeli pelerinler.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy romance ball accessories",
-     "label": "fantazi fantastik balo aksesuarları"
-    },
-    {
-     "keyword": "elven ear cuff",
-     "label": "elf kulak kelepçesi"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Fluorescent Office Lights",
-   "heat": "Yükseliyor",
-   "desc": "Genç çalışanların ofis ve okullardaki göz yorucu, soğuk floresan ışıklara karşı başlattığı, daha yumuşak ve estetik aydınlatma arayışı.",
-   "why": "Reddit r/GenZ topluluğunda floresan ışıkların kaldırılması ve daha iyi aydınlatma alternatifleri üzerine açılan başlık büyük ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sınıf ve ofis floresan lambaları için ışığı yumuşatan estetik kumaş filtreler/kapaklar ve taşınabilir sıcak ışıklı masa ",
-   "product_keywords": [
-    {
-     "keyword": "fluorescent light covers classroom",
-     "label": "floresan ışık kapakları sınıf"
-    },
-    {
-     "keyword": "cozy desk lamp",
-     "label": "estetik masa lambası"
-    }
-   ]
-  },
-  {
-   "name": "Ms. Rachel Toddler Merch",
+   "name": "Ravioli Card Holder",
    "heat": "Hızla yükseliyor",
-   "desc": "Okul öncesi çocukların ve ebeveynlerin sevgilisi olan ünlü çocuk programı sunucusu Ms. Rachel'ın popüler kültürdeki yükselişi.",
-   "why": "Reddit r/popculturechat topluluğunda Ms. Rachel'ın 'Subway Takes' programına katılması ve son dönemdeki açıklamaları yoğun şekilde tartışıldı.",
+   "desc": "İtalyan mantısı (ravioli) şeklinde tasarlanmış eğlenceli ve viral aksesuar tasarımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda yüksek etkileşim alan popüler ürünler arasında.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ms. Rachel'ın ikonik pembe bandanası ve tulumundan esinlenen çocuk kıyafetleri ile eğitici ahşap kartlar.",
+   "idea": "Deri veya kumaştan yapılan ravioli/mantı formunda kartlıklar ve küçük cüzdanlar.",
    "product_keywords": [
     {
-     "keyword": "toddler learning flashcards",
-     "label": "yeni yürüyen çocuk öğrenme kartları"
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
     },
     {
-     "keyword": "ms rachel inspired shirt",
-     "label": "ms rachel esintili tişört"
+     "keyword": "pasta shaped wallet",
+     "label": "makarna şeklinde cüzdan"
+    }
+   ]
+  },
+  {
+   "name": "Fantasy Romance Ball",
+   "heat": "Yükseliyor",
+   "desc": "Fantastik roman (Romantasy) temalı balo ve etkinlikler için özel giyim ve aksesuar akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantezi romantizm balosu kıyafet kombinleri aranıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Fantastik balo kostümlerini tamamlayan el yapımı pelerinler, broşlar ve gotik/fantezi aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy ball accessories",
+     "label": "fantezi balo aksesuarları"
+    },
+    {
+     "keyword": "romantasy costume cape",
+     "label": "romantasy kostüm pelerini"
+    }
+   ]
+  },
+  {
+   "name": "Grayscale Aesthetics",
+   "heat": "Yükseliyor",
+   "desc": "Mekânlarda ve aksesuarlarda sadece gri, siyah ve beyaz tonların tercih edildiği monokromatik tasarım akımı.",
+   "why": "Reddit r/TikTokCringe topluluğunda tamamen gri tonlarında dekore edilmiş ev videosu büyük ilgi gördü.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Monokrom gri ve nötr tonlarda el yapımı seramik vazolar, minimalist ev objeleri ve aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "grayscale home decor",
+     "label": "gri tonlama ev dekoru"
+    },
+    {
+     "keyword": "monochrome ceramic vase",
+     "label": "monokrom seramik vazo"
+    }
+   ]
+  },
+  {
+   "name": "Chess Fashion",
+   "heat": "Yeni çıktı",
+   "desc": "Satranç taşlarından ve podyumdaki satranç temalı şovlardan esinlenen giyilebilir sanat ve takı akımı.",
+   "why": "Reddit r/TikTokCringe üzerinden paylaşılan podyumdaki satranç temalı defile videosu dikkat çekti.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Satranç taşı figürlü el yapımı kolyeler, küpeler ve satranç tahtası desenli giyim aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "chess piece jewelry",
+     "label": "satranç taşı takısı"
+    },
+    {
+     "keyword": "chess brooch",
+     "label": "satranç broşu"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-25T06:03+00:00",
+ "trends_updated_at": "2026-09-25T09:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -383,5 +385,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-09-25T06:03+00:00"
+ "generated_at": "2026-09-25T09:03+00:00"
 }

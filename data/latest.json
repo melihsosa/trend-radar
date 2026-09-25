@@ -3,107 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçekler Hediyeleşme Akımı)",
+   "name": "Flores Amarillas (Sarı Çiçek Akımı)",
    "heat": "Zirvede",
-   "desc": "Gençlerin sevdiklerine ve partnerlerine baharın gelişini ve sevgiyi simgeleyen sarı çiçekler veya el yapımı sarı çiçek aranjmanları hediye ettiği viral Latin Amerika geleneği.",
-   "why": "TikTok trend hashtag listesinde #floresamarillas etiketi 2. sırada yer alıyor.",
+   "desc": "TikTok'ta sevdiklerine veya partnerlerine sarı çiçek hediye etme ve sarı çiçek estetiğini kutlama akımı.",
+   "why": "TikTok Creative Center verilerinde #floresamarillas hashtag'i en popüler 2. trend olarak yer almaktadır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Solmayan tığ işi (crochet) el örgüsü sarı çiçek buketi veya sarı çiçek temalı hediye kutuları.",
+   "idea": "El yapımı kroşe (örgü) sarı çiçek buketleri, sarı çiçek motifli reçine takılar veya kurutulmuş sarı çiçek aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flowers bouquet",
-     "label": "örgü sarı çiçek buketi"
+     "keyword": "crochet yellow flowers",
+     "label": "örgü sarı çiçekler"
     },
     {
-     "keyword": "yellow flower keychain",
-     "label": "sarı çiçek anahtarlık"
+     "keyword": "yellow flower jewelry",
+     "label": "sarı çiçekli takı"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball (Romantasy Balosu Estetiği)",
+   "name": "Aran Knitwear & Otantik Yün Örgü",
    "heat": "Yükseliyor",
-   "desc": "Fantastik romantizm kitaplarından esinlenen tematik balolar ve etkinlikler için gotik, asil ve masalsı giyim/aksesuar trendi.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Going to a fantasy romance ball, what is this outfit missing' başlığıyla öne çıkıyor.",
+   "desc": "Geleneksel İrlanda Aran örgü desenleri ve uzun yıllar dayanabilen yüksek kaliteli nostaljik kış giyimi ilgisi.",
+   "why": "Reddit BuyItForLife topluluğunda Aran kazağı ve vintage giysilerin kalitesi üzerine üst sıralarda tartışmalar yer alıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Fantastik balo kombinleri için kadife omuz pelerinleri, korseler, vintage broşlar ve elf esintili taçlar.",
+   "idea": "El yapımı Aran desenli yün kazaklar, el örgüsü kalın yün atkılar ve bere setleri.",
    "product_keywords": [
     {
-     "keyword": "fantasy ball cloak",
-     "label": "fantezi balo pelerini"
+     "keyword": "aran knit sweater",
+     "label": "aran desenli örgü kazak"
     },
     {
-     "keyword": "corset fantasy romance",
-     "label": "fantezi romantizm korsesi"
+     "keyword": "hand knit wool scarf",
+     "label": "el örgüsü yün atkı"
     }
    ]
   },
   {
-   "name": "Ravioli / Makarna Formunda İlginç Aksesuarlar",
+   "name": "Tamagotchi & Y2K Nostaljisi",
+   "heat": "Yükseliyor",
+   "desc": "2000'lerin başındaki sanal bebek (Tamagotchi) kültürünün retro bir stil ögesi ve koleksiyon objesi olarak yeniden gündeme gelmesi.",
+   "why": "Reddit BuyItForLife subreddit'inde 22 yıldır çalışan Tamagotchi paylaşımı haftanın en popüler gönderilerinden biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Tamagotchi ve sanal bebekler için tığ işi koruyucu kılıflar, Y2K temalı çanta anahtarlıkları ve retro çanta süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "tamagotchi crochet case",
+     "label": "tamagotchi örgü kılıf"
+    },
+    {
+     "keyword": "y2k aesthetic keychain",
+     "label": "y2k estetik anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "Grayscale (Gri Tonlama) Ev Estetiği",
    "heat": "Yeni çıktı",
-   "desc": "Gündelik eşyaların eğlenceli ve gerçekçi İtalyan makarnası (özellikle mantı/ravioli) formunda tasarlandığı sıra dışı hediye akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' paylaşımı haftanın en popülerleri arasına girdi.",
+   "desc": "Tüm yaşam alanının, mobilyaların ve objelerin sadece gri, siyah ve beyaz tonlarından oluştuğu radikal monokrom dekorasyon akımı.",
+   "why": "Reddit TikTokCringe topluluğunda tamamen gri tonlarında dekore edilmiş bir evi gösteren video viral oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Gerçek ravioli makarnası dikişine ve dokusuna sahip deri veya silikon kartlık ve bozuk para cüzdanı.",
+   "idea": "Gri ve nötr tonlarda el yapımı beton mumluklar, minimalist monokrom duvar tabloları ve mat gri dekoratif objeler.",
    "product_keywords": [
     {
-     "keyword": "ravioli card holder",
-     "label": "ravioli kartlık"
+     "keyword": "grayscale home decor",
+     "label": "gri tonlamalı ev dekorasyonu"
     },
     {
-     "keyword": "pasta coin purse",
-     "label": "makarna şeklinde cüzdan"
+     "keyword": "monochrome concrete planter",
+     "label": "monokrom beton saksı"
     }
    ]
   },
   {
-   "name": "Anime & Battle Royale Oyun Kolaborasyonu",
-   "heat": "Hızla yükseliyor",
-   "desc": "Free Fire ve Naruto Shippuden ortaklığı etrafında gelişen, anime ninjaları ile modern espor/oyun kültürünü buluşturan giyim ve aksesuar ilgisi.",
-   "why": "TikTok'ta #ffxnarutoshippuden etiketi 1. sıraya yerleşerek viral etkileşim yakaladı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Naruto sembolleri ve espor estetiğini birleştiren özel tasarım oyuncu masa matları, anime klavye tuşları ve ninja sembol",
-   "product_keywords": [
-    {
-     "keyword": "naruto desk mat",
-     "label": "naruto masa matı"
-    },
-    {
-     "keyword": "anime keycaps set",
-     "label": "anime klavye tuş seti"
-    }
-   ]
-  },
-  {
-   "name": "Ms. Rachel / Toddler Core Ebeveyn Kültürü",
+   "name": "Geniş Paça & Uzun Bot Çözümleri",
    "heat": "Yükseliyor",
-   "desc": "Bebekli Z ve Milenyum kuşağı ebeveynlerin çocuk programı ikonu Ms. Rachel'ın sempatik retro tarzını ve eğitici sözlerini mizahi bir sevgiyle kucaklaması.",
-   "why": "Reddit r/popculturechat topluluğunda Ms. Rachel hakkındaki paylaşımlar yüksek etkileşim aldı.",
+   "desc": "Geniş paça pantolonları kışlık çizmeler ve yağmur botları ile rahatça giymeyi sağlayan pratik stil çözümleri.",
+   "why": "Reddit femalefashionadvice topluluğunda geniş paça pantolonların uzun çizmelerle nasıl giyileceği üzerine popüler bir stil başlığı açıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Pembe saç bandı ve mavi tulum kombinasyonlu nostaljik ebeveyn tişörtleri ile 'In My Ms. Rachel Era' yazılı kanvas bez ça",
+   "idea": "Pantolon paçalarını çizme içine düzgünce sabitleyen elastik paça bantları ve ayarlanabilir pantolon tutucu klipsler.",
    "product_keywords": [
     {
-     "keyword": "in my era toddler mom shirt",
-     "label": "anne temalı retro tişört"
+     "keyword": "pant straps for boots",
+     "label": "çizme içi pantolon bandı"
     },
     {
-     "keyword": "pink headband toddler parent",
-     "label": "pembe nostaljik saç bandı"
+     "keyword": "pant cuff clips",
+     "label": "pantolon paça klipsi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-25T00:03+00:00",
+ "trends_updated_at": "2026-09-25T03:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -348,7 +348,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -363,5 +363,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-09-25T00:03+00:00"
+ "generated_at": "2026-09-25T03:03+00:00"
 }

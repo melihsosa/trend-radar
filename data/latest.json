@@ -3,40 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "#floresamarillas",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Flores Amarillas",
+   "heat": "Zirvede",
+   "desc": "TikTok'ta sevdiklerine sevgi, şans ve yeni başlangıçları simgeleyen sarı çiçekler verme ve sarı çiçek temalı el yapımı hediyeler paylaşma akımı.",
+   "why": "TikTok etiket trendlerinde #floresamarillas 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Asla solmayan el örgüsü sarı papatya/ayçiçeği buketleri veya preslenmiş sarı çiçekli reçine takılar.",
+   "product_keywords": [
+    {
+     "keyword": "crochet yellow flowers",
+     "label": "tığ işi sarı çiçek buketi"
+    },
+    {
+     "keyword": "yellow flower resin necklace",
+     "label": "sarı çiçekli reçine kolye"
+    }
+   ]
   },
   {
-   "name": "#firstdayoffall",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Ms. Rachel Toddler & Ebeveyn Kültü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Bebekler için eğitici içerik üreten Ms. Rachel'ın anneler ve küçük çocuklar arasında mizahi ve ikonik bir popüler kültür figürüne dönüşmesi.",
+   "why": "Hem TikTokCringe hem de popculturechat alt dizinlerinde popüler tartışma ve parodi başlıklarında birden fazla kez yer aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Ms. Rachel'ın pembe saç bandı/tulum stilinden esinlenen esprili anne tişörtleri ve temalı ilk yaş günü parti setleri.",
+   "product_keywords": [
+    {
+     "keyword": "toddler mom t-shirt",
+     "label": "küçük çocuk annesi tişörtü"
+    },
+    {
+     "keyword": "preschool birthday party banner",
+     "label": "okul öncesi doğum günü afişi"
+    }
+   ]
   },
   {
-   "name": "#mylivejourney",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "First Day of Fall / Cozy Autumn",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sonbahar ekinoksuyla birlikte gelen sıcak kahve, dökülen yapraklar ve balkabağı motifleriyle tanımlanan rahat sonbahar estetiği.",
+   "why": "TikTok'ta #firstdayoffall etiketi en popüler 2. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Sonbahar yaprağı ve balkabağı işlemeli vintage tarz oversize sweatshirtler ve el yapımı balkabağı baharatlı soya mumları",
+   "product_keywords": [
+    {
+     "keyword": "fall embroidered sweatshirt",
+     "label": "sonbahar işlemeli sweatshirt"
+    },
+    {
+     "keyword": "pumpkin spice soy candle",
+     "label": "balkabağı baharatlı soya mumu"
+    }
+   ]
+  },
+  {
+   "name": "Fantasy Romance Ball (Romantasy)",
+   "heat": "Yükseliyor",
+   "desc": "Genç yetişkin fantastik kurgu kitaplarından esinlenerek düzenlenen kostümlü 'peri/saray baloları' için büyüleyici, gotik ve peri masalı giyim tarzı.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance ball için kıyafet ve alışveriş tavsiyesi sorulan popüler bir gönderi olarak öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Fantastik balo kostümlerini tamamlayan el yapımı tel sarma elf tacı ve broşlu kadife pelerinler.",
+   "product_keywords": [
+    {
+     "keyword": "elf circlet crown",
+     "label": "elf taç aksesuarı"
+    },
+    {
+     "keyword": "fantasy velvet cloak",
+     "label": "fantastik kadife pelerin"
+    }
+   ]
+  },
+  {
+   "name": "Ravioli & Novelty Food Aksesuarları",
+   "heat": "Yeni çıktı",
+   "desc": "İtalyan mantısı (ravioli) gibi tanıdık gurme yiyeceklerin gerçekçi biçimde deri veya kumaş aksesuarlara uyarlandığı esprili tasarım akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda ravioli şeklinde kartlık yüksek ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Gerçek ravioli makarnası dikişlerine ve formuna sahip el yapımı deri bozuk para cüzdanı veya anahtarlık.",
+   "product_keywords": [
+    {
+     "keyword": "ravioli coin purse",
+     "label": "ravioli bozuk para cüzdanı"
+    },
+    {
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
+    }
+   ]
+  },
+  {
+   "name": "Kişiye Özel Yüz Geçici Dövmeleri",
+   "heat": "Yükseliyor",
+   "desc": "Ofis şakaları, bekarlığa veda veya doğum günü partileri için arkadaşlarının ya da patronlarının yüzlerini vücutlarına geçici dövme olarak yapıştırma akımı.",
+   "why": "Reddit r/TikTokCringe'de bir patronun yüzünden yapılan geçici dövme şakası haftanın en popüler içeriklerinden biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kullanıcının yüklediği fotoğrafla kişiselleştirilmiş parti ve bekarlığa veda için özel kesim geçici dövme setleri.",
+   "product_keywords": [
+    {
+     "keyword": "custom face temporary tattoos",
+     "label": "kişiye özel yüz geçici dövmesi"
+    },
+    {
+     "keyword": "personalized bachelorette tattoos",
+     "label": "kişiselleştirilmiş parti dövmesi"
+    }
+   ]
+  },
+  {
+   "name": "Fleabag Melankolisi & Tilki Sembolizmi",
+   "heat": "Yükseliyor",
+   "desc": "Kült dizi Fleabag'in ikonik replikleri ('It'll pass') ve tilki metaforu etrafında şekillenen modern nostalji ve duygusal minimalist estetik.",
+   "why": "Google Trends'te 'fleabag' araması ani yükseliş gösterdi.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "'It'll pass' yazılı minimalist nakışlı kanvas tote bag veya illüstrasyonlu tilki emaye yaka iğneleri.",
+   "product_keywords": [
+    {
+     "keyword": "fleabag it will pass tote bag",
+     "label": "fleabag kanvas bez çanta"
+    },
+    {
+     "keyword": "fox enamel pin",
+     "label": "tilki emaye yaka iğnesi"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-09-25T18:03+00:00",
+ "trends_updated_at": "2026-09-25T21:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -288,13 +395,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-25T18:03+00:00"
+ "generated_at": "2026-09-25T21:03+00:00"
 }

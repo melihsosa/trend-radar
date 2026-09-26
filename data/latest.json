@@ -3,107 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşmesi)",
+   "name": "Flores Amarillas",
    "heat": "Zirvede",
-   "desc": "Sosyal medyada viral olan ve partnerlere/sevdiklere sevgi göstergesi olarak sarı çiçek hediye etme geleneğine dayanan romantik akım.",
-   "why": "TikTok trend listesinde '#floresamarillas' etiketi 2. sırada yer alarak yüksek etkileşim yakaladı.",
+   "desc": "Sevdiklerine ve partnerlere sevgi ve bağlılık göstergesi olarak sarı çiçek hediye etme viral romantizm akımı.",
+   "why": "TikTok Creative Center verilerinde #floresamarillas etiketi 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Tığ işi (crochet) solmayan sarı ayçiçeği/papatya buketleri veya sarı çiçek motifli el yapımı kolyeler.",
+   "idea": "Asla solmayan el yapımı tığ işi (crochet) sarı çiçek buketleri ve ayçiçeği temalı hediye kutuları.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flowers bouquet",
-     "label": "örgü sarı çiçek buketi"
+     "keyword": "crochet yellow flowers",
+     "label": "tığ işi sarı çiçek"
     },
     {
-     "keyword": "yellow flower pressed necklace",
-     "label": "preslenmiş sarı çiçek kolye"
+     "keyword": "yellow flower gift bouquet",
+     "label": "sarı çiçek hediye buketi"
     }
    ]
   },
   {
    "name": "Whimsigoth Estetiği",
    "heat": "Yükseliyor",
-   "desc": "90'lar gotik tarzı ile göksel (ay, yıldız), kadife ve masalsı bohem ögeleri harmanlayan nostaljik giyim ve dekorasyon tarzı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda whimsigoth stilini giyim parçalarıyla nasıl kombinleyeceğini soran popüler bir gönderi öne çıktı.",
+   "desc": "90'ların karanlık bohem, göksel (ay, yıldız, güneş) ve gotik unsurlarını kadife ve tül gibi dokularla birleştiren nostaljik giyim ve aksesuar tarzı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'Whimsy goth' gardırop parçaları üzerine yapılan paylaşımlar haftalık öne çıkanlarda yer alıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Güneş ve ay işlemeli kadife fularlar, vintage dantelli yelekler veya göksel temalı gotik takılar.",
+   "idea": "Güneş ve ay figürlü pirinç sallantılı küpeler veya yıldız işlemeli vintage tarzı kadife omuz çantaları.",
    "product_keywords": [
     {
-     "keyword": "whimsigoth velvet choker",
-     "label": "whimsigoth kadife tasma kolye"
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
     },
     {
-     "keyword": "celestial sun moon velvet scarf",
-     "label": "göksel ay güneş desenli kadife fular"
+     "keyword": "celestial velvet tote bag",
+     "label": "göksel desenli kadife çanta"
     }
    ]
   },
   {
-   "name": "First Day of Fall / Cozy Autumn",
+   "name": "First Day of Fall (Cozy Sonbahar)",
    "heat": "Hızla yükseliyor",
-   "desc": "Mevsim geçişiyle birlikte sıcak tonlar, tarçın/balkabağı temaları ve evde sıcak sonbahar atmosferi yaratma akımı.",
-   "why": "TikTok'ta '#firstdayoffall' etiketi en çok izlenen ve paylaşılan ilk 3 trend arasına girdi.",
+   "desc": "Sonbahar ekinoksuyla birlikte yaşam alanlarını sıcak, rahatlatıcı ve balkabağı/toprak tonlarındaki sonbahar konseptiyle yenileme hareketi.",
+   "why": "TikTok Creative Center'da #firstdayoffall etiketi en popüler 3. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Sonbahar yaprağı ve balkabağı şeklinde el yapımı soya mumları ve 'Hello Fall' temalı punch nakış kupalıklar.",
+   "idea": "El yapımı kabak formlu seramik kupalar ve tarçın-vanilya kokulu sonbahar soya mumları.",
    "product_keywords": [
     {
-     "keyword": "pumpkin soy wax candle",
+     "keyword": "fall ceramic mug",
+     "label": "sonbahar seramik kupa"
+    },
+    {
+     "keyword": "pumpkin soy candle",
      "label": "balkabağı soya mumu"
-    },
-    {
-     "keyword": "fall mug rug punch needle",
-     "label": "sonbahar punch kupa altlığı"
     }
    ]
   },
   {
-   "name": "Trompe-l'œil / Yiyecek Formunda Aksesuarlar",
-   "heat": "Yeni çıktı",
-   "desc": "Gerçek yiyecekleri (özellikle makarna çeşitlerini) taklit eden eğlenceli, mizahi ve gerçekçi deri/kumaş günlük aksesuarlar.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda ravioli makarna şeklinde tasarlanmış kartlık viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ravioli veya tortellini formunda el yapımı deri cüzdan, kartlık veya bozuk para kesesi.",
-   "product_keywords": [
-    {
-     "keyword": "ravioli leather coin purse",
-     "label": "ravioli deri bozuk para cüzdanı"
-    },
-    {
-     "keyword": "pasta shaped card holder",
-     "label": "makarna formunda kartlık"
-    }
-   ]
-  },
-  {
-   "name": "Otantik Aran Örgü ve BIFL (Ömürlük) Triko",
+   "name": "Otantik Aran / Cable Knit",
    "heat": "Yükseliyor",
-   "desc": "Hızlı modaya tepki olarak nesiller boyu dayanacak geleneksel İrlanda kablo örgüsü ve doğal yün ürünlere yöneliş.",
-   "why": "Reddit r/BuyItForLife topluluğunda orijinal Aran adaları trikoları ve otantik el örgüsü giyim hakkında yoğun tartışma gerçekleşti.",
+   "desc": "Hızlı moda trikolar yerine ömürlük, geleneksel İrlanda dokuma ve saç örgülü yün parçalara yönelme trendi.",
+   "why": "Reddit r/BuyItForLife topluluğunda Aran Adası örgüleri ve ömürlük trikolar haftanın en çok tartışılan gönderileri arasında.",
    "sources": [
     "Reddit"
    ],
-   "idea": "%100 doğal yünden üretilmiş, geleneksel burgu desenli el örgüsü atkı ve bere setleri.",
+   "idea": "Geleneksel Aran saç örgüsü deseniyle el yapımı kalın yün bereler veya dijital örgü şablonları.",
    "product_keywords": [
     {
-     "keyword": "handmade aran cable knit scarf",
-     "label": "el örgüsü aran burgu atkı"
+     "keyword": "aran knit beanie",
+     "label": "aran örgü yün bere"
     },
     {
-     "keyword": "pure wool chunky knit beanie",
-     "label": "saf yün kalın örgü bere"
+     "keyword": "cable knit sweater pattern",
+     "label": "saç örgülü kazak şablonu"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-26T18:03+00:00",
+ "trends_updated_at": "2026-09-26T21:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -348,7 +328,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -356,12 +336,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-26T18:03+00:00"
+ "generated_at": "2026-09-26T21:03+00:00"
 }

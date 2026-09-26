@@ -107,55 +107,55 @@
  "trends_updated_at": "2026-09-26T03:02+00:00",
  "products": [
   {
-   "name": "Kokulu mum",
-   "keyword": "scented candle",
-   "origin": "İzleme listen",
-   "change": 9.3,
-   "spark": [
-    36,
-    35,
-    31,
-    31,
-    31,
-    32,
-    30,
-    33,
-    45,
-    29,
-    35,
-    35,
-    31,
-    39
-   ],
-   "stale": false
-  },
-  {
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 8.1,
+   "change": 11.1,
    "spark": [
-    12,
-    14,
-    10,
-    10,
-    10,
-    10,
-    8,
-    10,
-    16,
+    15,
     11,
-    10,
+    12,
+    11,
     12,
     8,
-    13
+    12,
+    17,
+    13,
+    11,
+    13,
+    10,
+    9,
+    17
    ],
    "stale": false
   },
   {
-   "name": "örgü sarı çiçekler",
-   "keyword": "crochet yellow flowers",
-   "origin": "Akım: Flores Amarillas (Sarı Çiçek Akımı)",
+   "name": "Kokulu mum",
+   "keyword": "scented candle",
+   "origin": "İzleme listen",
+   "change": 5.7,
+   "spark": [
+    39,
+    35,
+    35,
+    34,
+    34,
+    34,
+    36,
+    49,
+    34,
+    39,
+    38,
+    35,
+    36,
+    30
+   ],
+   "stale": false
+  },
+  {
+   "name": "tığ işi sarı çiçek buketi",
+   "keyword": "crochet yellow flower bouquet",
+   "origin": "Akım: Flores Amarillas",
    "change": 0.0,
    "spark": [
     0,
@@ -176,9 +176,9 @@
    "stale": false
   },
   {
-   "name": "sarı çiçekli takı",
-   "keyword": "yellow flower jewelry",
-   "origin": "Akım: Flores Amarillas (Sarı Çiçek Akımı)",
+   "name": "sarı çiçek anahtarlık",
+   "keyword": "yellow floral keychain",
+   "origin": "Akım: Flores Amarillas",
    "change": 0.0,
    "spark": [
     0,
@@ -199,9 +199,9 @@
    "stale": false
   },
   {
-   "name": "el örgüsü yün atkı",
-   "keyword": "hand knit wool scarf",
-   "origin": "Akım: Aran Knitwear & Otantik Yün Örgü",
+   "name": "sonbahar temalı soya mumu",
+   "keyword": "fall aesthetic soy candle",
+   "origin": "Akım: Cozy Fall Equinox",
    "change": 0.0,
    "spark": [
     0,
@@ -222,9 +222,9 @@
    "stale": false
   },
   {
-   "name": "tamagotchi örgü kılıf",
-   "keyword": "tamagotchi crochet case",
-   "origin": "Akım: Tamagotchi & Y2K Nostaljisi",
+   "name": "fantastik pelerin tokası",
+   "keyword": "fantasy cape clasp",
+   "origin": "Akım: Fantasy Romance Ball",
    "change": 0.0,
    "spark": [
     0,
@@ -248,22 +248,22 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": -8.3,
+   "change": -6.9,
    "spark": [
-    39,
-    43,
+    46,
+    40,
+    38,
+    38,
     36,
+    37,
+    40,
+    37,
+    27,
+    38,
     34,
-    34,
-    33,
-    34,
-    35,
-    31,
-    22,
-    35,
-    32,
-    36,
-    41
+    42,
+    41,
+    37
    ],
    "stale": false
   },
@@ -271,22 +271,45 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": -10.1,
+   "change": -8.5,
    "spark": [
-    69,
-    74,
-    54,
-    53,
-    50,
-    52,
-    52,
+    81,
+    59,
+    60,
+    56,
+    57,
     58,
-    62,
-    43,
-    50,
-    50,
+    63,
+    68,
     48,
-    52
+    57,
+    55,
+    57,
+    52,
+    60
+   ],
+   "stale": false
+  },
+  {
+   "name": "tığ işi balkabağı bardak altlığı",
+   "keyword": "crochet pumpkin coaster",
+   "origin": "Akım: Cozy Fall Equinox",
+   "change": -36.6,
+   "spark": [
+    89,
+    69,
+    60,
+    78,
+    63,
+    29,
+    0,
+    0,
+    0,
+    73,
+    62,
+    75,
+    36,
+    0
    ],
    "stale": false
   },
@@ -294,50 +317,27 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": -55.6,
+   "change": -44.4,
    "spark": [
     1,
     1,
+    2,
     1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    2,
+    2,
     1,
-    1,
-    2,
-    2,
-    0,
-    0,
-    0,
-    2,
-    2,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "aran desenli örgü kazak",
-   "keyword": "aran knit sweater",
-   "origin": "Akım: Aran Knitwear & Otantik Yün Örgü",
-   "change": -59.5,
-   "spark": [
-    10,
-    9,
-    8,
-    0,
-    7,
-    8,
-    0,
-    0,
-    0,
-    0,
-    9,
-    8,
     0,
     0
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-09-25T04:39+00:00",
+ "products_updated_at": "2026-09-26T04:37+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -364,5 +364,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-09-26T03:02+00:00"
+ "generated_at": "2026-09-26T04:37+00:00"
 }

@@ -3,128 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşme Akımı)",
+   "name": "Flores Amarillas",
    "heat": "Zirvede",
-   "desc": "TikTok'ta sevgililere ve yakın arkadaşlara bağlılık, sevgi ve neşe sembolü olarak sarı çiçekler (özellikle el yapımı, solmayan alternatifler) hediye etme geleneği.",
-   "why": "TikTok ABD trend listesinde #floresamarillas etiketi 1. sırada yer aldı.",
+   "desc": "TikTok'ta Eylül ayında sevgililere ve yakınlara sevgi göstergesi olarak sarı çiçek hediye etme geleneği.",
+   "why": "TikTok trend listesinde '#floresamarillas' 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Asla solmayan tığ işi (crochet) sarı ayçiçeği/papatya buketi veya sarı çiçek işlemeli minimalist kolyeler.",
+   "idea": "El örgüsü solmayan tığ işi sarı çiçek buketi veya sarı çiçek işlemeli minyatür hediyelikler.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flowers bouquet",
-     "label": "örgü sarı çiçek buketi"
+     "keyword": "crochet yellow flower bouquet",
+     "label": "tığ işi sarı çiçek buketi"
     },
     {
-     "keyword": "yellow flower necklace handmade",
-     "label": "el yapımı sarı çiçek kolye"
+     "keyword": "yellow floral keychain",
+     "label": "sarı çiçek anahtarlık"
     }
    ]
   },
   {
-   "name": "Cozy Fall & Hasat Mevsimi Estetiği",
+   "name": "Cozy Fall Equinox",
    "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar ekinoksuyla birlikte geleneksel sıcak tonlar, dökülen yapraklar, hasat ve sıcak içecek ritüellerini kutlayan mevsimsel yaşam tarzı hareketi.",
-   "why": "TikTok'ta #firstdayoffall 2. sıraya yerleşirken Google Aramalarında 'is tonight a full moon' (Harvest Moon) araması hızla yükseldi.",
+   "desc": "Sonbahar ekinoksuyla başlayan 'cozy' ve sıcak temalı sonbahar kutlamaları ile mevsimsel lifestyle akımı.",
+   "why": "TikTok'ta '#firstdayoffall' 2. sırada yer alırken, Reddit r/GenZ topluluğunda sonbahar başlangıcı popüler şekilde kutlandı.",
    "sources": [
     "TikTok",
-    "Google"
+    "Reddit"
    ],
-   "idea": "Sonbahar yaprağı ve balkabağı kabartmalı seramik kupa veya tarçın-vanilya kokulu soya mumu seti.",
+   "idea": "Balkabağı ve sonbahar yaprağı şeklinde el yapımı kokulu soya mumları ve kupa altlıkları.",
    "product_keywords": [
     {
-     "keyword": "fall ceramic mug handmade",
-     "label": "sonbahar seramik kupa"
+     "keyword": "fall aesthetic soy candle",
+     "label": "sonbahar temalı soya mumu"
     },
     {
-     "keyword": "harvest soy candle",
-     "label": "hasat temalı soya mumu"
+     "keyword": "crochet pumpkin coaster",
+     "label": "tığ işi balkabağı bardak altlığı"
     }
    ]
   },
   {
-   "name": "Ravioli & İtalyan Makarnası Aksesuarları",
+   "name": "Fantasy Romance Ball",
+   "heat": "Yükseliyor",
+   "desc": "Romantasy (fantastik romantizm) kitaplarının popülerleşmesiyle yaygınlaşan tematik balolar ve peri masalı estetiğinde giyinme akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'fantasy romance ball' etkinliği için kıyafet ve aksesuar önerileri öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Pelerin ve hırkalar için fantezi tasarımlı metal pelerin tokası veya işlemeli gotik yaka iğnesi.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy cape clasp",
+     "label": "fantastik pelerin tokası"
+    },
+    {
+     "keyword": "elven cloak pin",
+     "label": "elf tarzı pelerin iğnesi"
+    }
+   ]
+  },
+  {
+   "name": "Novelty Food Leather Goods",
    "heat": "Yeni çıktı",
-   "desc": "Gündelik eşyaları hiper-gerçekçi veya sevimli İtalyan hamur işleri (özellikle ravioli) formuna sokan mizahi ve estetik 'foodcore' akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' paylaşımı haftanın en popüler içerikleri arasına girdi.",
+   "desc": "Günlük deri aksesuarların ve cüzdanların ravioli mantısı gibi esprili yiyecek formlarında tasarlanması akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' tasarımı yüksek ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kenarları tırtıklı el yapımı İtalyan ravyolisi şeklinde deri kartlık ve bozuk para cüzdanı.",
+   "idea": "Ravioli makarna şeklinde dikişli el yapımı mini deri kartlık veya bozuk para cüzdanı.",
    "product_keywords": [
     {
-     "keyword": "ravioli card holder leather",
-     "label": "deri ravioli kartlık"
+     "keyword": "ravioli card holder",
+     "label": "ravioli şeklinde deri kartlık"
     },
     {
-     "keyword": "pasta coin purse",
-     "label": "makarna şeklinde bozuk para cüzdanı"
+     "keyword": "food shaped leather wallet",
+     "label": "yiyecek tasarımlı deri cüzdan"
     }
    ]
   },
   {
-   "name": "Romantasy Ball (Fantezi Romans Balosu) Kıyafet ve Aksesuarla",
+   "name": "Anti-Fluorescent Desk Lamps",
    "heat": "Yükseliyor",
-   "desc": "Genç yetişkinler ve Gen Z arasında popülerleşen peri, gotik saray ve fantastik kurgu kitap baloları için dönemsel ve fantastik giyim akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'fantasy romance ball' daveti için stil ve kıyafet tavsiyesi arayışı öne çıktı.",
+   "desc": "Gençlerin ofis ve okullardaki soğuk floresan ışıklara tepki olarak kendi alanlarında sıcak ve dinlendirici ortam ışığı yaratma hareketi.",
+   "why": "Reddit r/GenZ topluluğunda floresan ofis aydınlatmalarını ortadan kaldırma çağrısı yoğun destek aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Orta Çağ ve fantezi temalı ejderha/sarmaşık motifli metal pelerin tokası veya işlemeli kadife yelek.",
+   "idea": "Çalışma masası için sıcak sarı ışık veren minyatür mantar veya küre şeklinde ahşap tabanlı LED masa lambası.",
    "product_keywords": [
     {
-     "keyword": "fantasy cloak clasp",
-     "label": "fantastik pelerin broşu"
+     "keyword": "mushroom ambient desk lamp",
+     "label": "mantar tasarımlı ortam lambası"
     },
     {
-     "keyword": "romantasy embroidered vest",
-     "label": "romantasy işlemeli yelek"
-    }
-   ]
-  },
-  {
-   "name": "Harvest Moon & Göksel (Celestial) Aksesuarlar",
-   "heat": "Yükseliyor",
-   "desc": "Eylül ayının Hasat Dolunayı ve Satürn hizalanmasıyla tetiklenen, ay fazları ve gökyüzü temalı mistik takı ve ev dekoru akımı.",
-   "why": "Google yükselen aramalarda 'is tonight a full moon' ve Hasat Dolunayı astronomi haberleri zirveye çıktı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Pirinç döküm ay evreleri duvar süsü veya ay taşı işlemeli gümüş dolunay yüzüğü.",
-   "product_keywords": [
-    {
-     "keyword": "moon phase wall hanging",
-     "label": "ay evreleri duvar asısı"
-    },
-    {
-     "keyword": "harvest moon ring silver",
-     "label": "gümüş dolunay yüzüğü"
-    }
-   ]
-  },
-  {
-   "name": "Y2K Pop-Punk Konser Parakord & Boncuk Aksesuarları",
-   "heat": "Yükseliyor",
-   "desc": "Olivia Rodrigo'nun duyurulan turneleriyle yeniden alevlenen, mor tonlu 2000'ler pop-punk estetiğindeki konser aksesuarları ve hayran takıları.",
-   "why": "Google Aramalarında 'olivia rodrigo tour' araması 1000+ hacimle ani yükseliş gösterdi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Kelebek ve harf boncuklu mor Y2K tarzı telefon askısı veya konser için boncuklu bileklik setleri.",
-   "product_keywords": [
-    {
-     "keyword": "y2k purple beaded phone charm",
-     "label": "mor boncuklu telefon askısı"
-    },
-    {
-     "keyword": "friendship bead bracelets set",
-     "label": "arkadaşlık boncuk bileklik seti"
+     "keyword": "warm light mini lamp",
+     "label": "sıcak ışıklı mini masa lambası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-26T00:03+00:00",
+ "trends_updated_at": "2026-09-26T03:02+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -377,12 +357,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-26T00:03+00:00"
+ "generated_at": "2026-09-26T03:02+00:00"
 }

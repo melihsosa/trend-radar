@@ -3,127 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas",
+   "name": "First Day of Fall Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sonbahar ekinoksuyla birlikte gençlerin sıcak tonlar, cozy atmosfer ve balkabağı/yaprak temalı eşyalarla mevsim geçişini kutlama akımı.",
+   "why": "TikTok'ta #firstdayoffall en çok kullanılan etiketlerde 3. sırada yer alırken, Reddit r/GenZ topluluğunda sonbahar karşılama paylaşımları öne çıkıyor.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Sonbahar yaprağı desenli el yapımı seramik kupalar ve tarçın-balkabağı aromalı soya mumları.",
+   "product_keywords": [
+    {
+     "keyword": "fall ceramic mug",
+     "label": "sonbahar temalı seramik kupa"
+    },
+    {
+     "keyword": "autumn soy candle",
+     "label": "sonbahar kokulu soya mumu"
+    }
+   ]
+  },
+  {
+   "name": "Flores Amarillas (Sarı Çiçek Geleneği)",
    "heat": "Zirvede",
-   "desc": "TikTok'ta baharın veya sonbaharın gelişiyle sevdiklerine sarı çiçek hediye etme akımı.",
-   "why": "TikTok popüler hashtag listesinde 'floresamarillas' hashtag'inin 2. sırada yer alması.",
+   "desc": "Eylül ayında sevilen kişiye aşk, bağlılık ve mutluluk simgesi olarak sarı çiçekler veya sarı çiçek temalı el yapımı hediyeler verme viral kültürü.",
+   "why": "TikTok Creative Center'da #floresamarillas etiketi 2. sıraya yerleşerek viral bir hediyeleşme çılgınlığı olduğunu kanıtlıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı örgü (crochet) sarı çiçekler, sarı çiçek temalı el yapımı takılar ve tebrik kartları.",
+   "idea": "Solmayan tığ işi (örgü) sarı çiçek buketleri veya preslenmiş gerçek sarı çiçekli reçine kolyeler.",
    "product_keywords": [
     {
      "keyword": "crochet yellow flowers",
-     "label": "örgü sarı çiçek"
+     "label": "örgü sarı çiçek buketi"
     },
     {
-     "keyword": "yellow flower jewelry",
-     "label": "sarı çiçek takısı"
+     "keyword": "yellow flower resin necklace",
+     "label": "sarı çiçekli reçine kolye"
     }
    ]
   },
   {
-   "name": "First Day of Fall",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar mevsiminin başlamasıyla birlikte gelen sıcak, samimi ve doğa temalı estetik akımı.",
-   "why": "TikTok'ta 'firstdayoffall' hashtag'inin trendlerde 3. sırada yer alması.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Sonbahar yaprağı şeklinde el yapımı mumlar ve balkabağı figürlü seramik kupalar.",
-   "product_keywords": [
-    {
-     "keyword": "autumn leaf candle",
-     "label": "sonbahar yaprağı mumu"
-    },
-    {
-     "keyword": "pumpkin ceramic mug",
-     "label": "balkabağı seramik kupa"
-    }
-   ]
-  },
-  {
-   "name": "Tamagotchi & Y2K Nostalgia",
+   "name": "Fantasy Romance Ball (Romantasy Balo Stili)",
    "heat": "Yükseliyor",
-   "desc": "90'lar ve 2000'lerin başındaki sanal bebeklerin (Tamagotchi) uzun ömürlülüğü ve nostaljik değeri üzerinden yeniden popülerleşmesi.",
-   "why": "Reddit'in BuyItForLife topluluğunda 22 yıllık bir Tamagotchi'nin hala çalıştığını gösteren gönderinin yoğun ilgi görmesi.",
+   "desc": "Fantastik romanlardan esinlenen tematik balolar ve etkinlikler için peri masalı, gotik ve asil aksesuarlar kuşanma akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance balosuna hazırlanan kullanıcıların stil tavsiyesi aramasıyla görülüyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Tamagotchi cihazları için el örgüsü koruyucu kılıflar ve Y2K tarzı boncuklu anahtarlık aksesuarları.",
+   "idea": "El yapımı tel sarma peri/elf taçları, vintage pelerin tokaları ve fantastik broşlar.",
    "product_keywords": [
     {
-     "keyword": "crochet tamagotchi case",
-     "label": "örgü tamagotchi kılıfı"
+     "keyword": "fantasy ball tiara",
+     "label": "fantastik balo tacı"
     },
     {
-     "keyword": "y2k keychain accessory",
-     "label": "y2k anahtarlık aksesuarı"
+     "keyword": "elven cloak clasp",
+     "label": "elf pelerin broşu"
     }
    ]
   },
   {
-   "name": "Anti-Grayscale Home Decor",
+   "name": "Yiyecek Formunda Aksesuarlar (Novelty Food Leather Goods)",
    "heat": "Yeni çıktı",
-   "desc": "Tamamen gri ve cansız tonlardan oluşan ev dekorasyonlarına (grayscale) tepki olarak doğan renkli ve karakter sahibi dekorasyon arayışı.",
-   "why": "Reddit'in TikTokCringe topluluğunda tamamen gri tonlarda dekore edilmiş bir evin viral olması ve eleştirilmesi.",
+   "desc": "Ravioli, makarna veya hamur işi gibi günlük yiyeceklerin birebir formunda tasarlanan sıra dışı ve esprili deri/silikon kişisel aksesuarlar.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde ravioli şeklinde tasarlanmış kartlığın viral ilgi görmesiyle ortaya çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı renklerde el yapımı tuft halılar ve maksimalist, renkli seramik vazolar.",
+   "idea": "Deri dikişli ravioli şeklinde bozuk para cüzdanı ve kartlık.",
    "product_keywords": [
     {
-     "keyword": "colorful tufted rug",
-     "label": "renkli tuft halı"
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
     },
     {
-     "keyword": "maximalist ceramic vase",
-     "label": "maksimalist seramik vazo"
+     "keyword": "pasta coin purse",
+     "label": "makarna şeklinde bozuk para cüzdanı"
     }
    ]
   },
   {
-   "name": "Rain Boots Styling",
-   "heat": "Yükseliyor",
-   "desc": "Geniş paça pantolonlarla yağmur botlarının (Wellington) nasıl estetik şekilde kombinleneceğine dair moda arayışı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda yağmur botlarının geniş paça pantolonlarla nasıl stillendirileceğine dair popüler bir başlık açılması.",
+   "name": "Anti-Fluoresan / Rahatlatıcı Işık Filtreleri",
+   "heat": "Yeni çıktı",
+   "desc": "Gen Z'nin okul ve ofislerdeki sert, beyaz floresan tavan ışıklarına tepki göstererek daha yumuşak ve göz yormayan ortamlara yönelme hareketi.",
+   "why": "Reddit r/GenZ topluluğunda floresan tavan aydınlatmalarının tamamen yok edilmesi gerektiğine dair viral paylaşım yapıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yağmur botlarının üzerinden katlanarak şık bir görünüm sunan el örgüsü kalın tozluklar ve bot çorapları.",
+   "idea": "Ofis ve sınıf floresan panellerine takılan manyetik desenli yumuşatıcı kumaş ışık filtreleri.",
    "product_keywords": [
     {
-     "keyword": "knit boot cuffs",
-     "label": "örgü bot tozluğu"
+     "keyword": "fluorescent light covers magnetic",
+     "label": "manyetik floresan ışık filtresi"
     },
     {
-     "keyword": "wellington boot socks",
-     "label": "yağmur botu çorabı"
-    }
-   ]
-  },
-  {
-   "name": "Authentic Aran Knitwear",
-   "heat": "Yükseliyor",
-   "desc": "Sahte triko ürünlerden kaçınarak gerçek, kaliteli ve ömürlük İrlanda tarzı (Aran) saç örgüsü el işi ürünlere yönelim.",
-   "why": "Reddit'in BuyItForLife topluluğunda sahte Aran knitwear ürünleri tarafından kandırılma üzerine açılan popüler başlık.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel saç örgüsü desenli, %100 yün el örgüsü hırkalar, bereler ve atkılar.",
-   "product_keywords": [
-    {
-     "keyword": "authentic aran sweater",
-     "label": "orijinal aran kazak"
-    },
-    {
-     "keyword": "cable knit wool beanie",
-     "label": "saç örgüsü yün bere"
+     "keyword": "ceiling light filter fabric",
+     "label": "tavan lambası kumaş örtüsü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-26T12:03+00:00",
+ "trends_updated_at": "2026-09-26T15:02+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -368,7 +349,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -376,12 +357,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-26T12:03+00:00"
+ "generated_at": "2026-09-26T15:02+00:00"
 }

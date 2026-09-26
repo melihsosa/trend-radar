@@ -3,147 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas",
+   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşme Akımı)",
    "heat": "Zirvede",
-   "desc": "TikTok'ta sevdiklerine sevgi, şans ve yeni başlangıçları simgeleyen sarı çiçekler verme ve sarı çiçek temalı el yapımı hediyeler paylaşma akımı.",
-   "why": "TikTok etiket trendlerinde #floresamarillas 1. sırada yer aldı.",
+   "desc": "TikTok'ta sevgililere ve yakın arkadaşlara bağlılık, sevgi ve neşe sembolü olarak sarı çiçekler (özellikle el yapımı, solmayan alternatifler) hediye etme geleneği.",
+   "why": "TikTok ABD trend listesinde #floresamarillas etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Asla solmayan el örgüsü sarı papatya/ayçiçeği buketleri veya preslenmiş sarı çiçekli reçine takılar.",
+   "idea": "Asla solmayan tığ işi (crochet) sarı ayçiçeği/papatya buketi veya sarı çiçek işlemeli minimalist kolyeler.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flowers",
-     "label": "tığ işi sarı çiçek buketi"
+     "keyword": "crochet yellow flowers bouquet",
+     "label": "örgü sarı çiçek buketi"
     },
     {
-     "keyword": "yellow flower resin necklace",
-     "label": "sarı çiçekli reçine kolye"
+     "keyword": "yellow flower necklace handmade",
+     "label": "el yapımı sarı çiçek kolye"
     }
    ]
   },
   {
-   "name": "Ms. Rachel Toddler & Ebeveyn Kültü",
+   "name": "Cozy Fall & Hasat Mevsimi Estetiği",
    "heat": "Hızla yükseliyor",
-   "desc": "Bebekler için eğitici içerik üreten Ms. Rachel'ın anneler ve küçük çocuklar arasında mizahi ve ikonik bir popüler kültür figürüne dönüşmesi.",
-   "why": "Hem TikTokCringe hem de popculturechat alt dizinlerinde popüler tartışma ve parodi başlıklarında birden fazla kez yer aldı.",
+   "desc": "Sonbahar ekinoksuyla birlikte geleneksel sıcak tonlar, dökülen yapraklar, hasat ve sıcak içecek ritüellerini kutlayan mevsimsel yaşam tarzı hareketi.",
+   "why": "TikTok'ta #firstdayoffall 2. sıraya yerleşirken Google Aramalarında 'is tonight a full moon' (Harvest Moon) araması hızla yükseldi.",
    "sources": [
-    "Reddit"
+    "TikTok",
+    "Google"
    ],
-   "idea": "Ms. Rachel'ın pembe saç bandı/tulum stilinden esinlenen esprili anne tişörtleri ve temalı ilk yaş günü parti setleri.",
+   "idea": "Sonbahar yaprağı ve balkabağı kabartmalı seramik kupa veya tarçın-vanilya kokulu soya mumu seti.",
    "product_keywords": [
     {
-     "keyword": "toddler mom t-shirt",
-     "label": "küçük çocuk annesi tişörtü"
+     "keyword": "fall ceramic mug handmade",
+     "label": "sonbahar seramik kupa"
     },
     {
-     "keyword": "preschool birthday party banner",
-     "label": "okul öncesi doğum günü afişi"
+     "keyword": "harvest soy candle",
+     "label": "hasat temalı soya mumu"
     }
    ]
   },
   {
-   "name": "First Day of Fall / Cozy Autumn",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar ekinoksuyla birlikte gelen sıcak kahve, dökülen yapraklar ve balkabağı motifleriyle tanımlanan rahat sonbahar estetiği.",
-   "why": "TikTok'ta #firstdayoffall etiketi en popüler 2. sırada yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Sonbahar yaprağı ve balkabağı işlemeli vintage tarz oversize sweatshirtler ve el yapımı balkabağı baharatlı soya mumları",
-   "product_keywords": [
-    {
-     "keyword": "fall embroidered sweatshirt",
-     "label": "sonbahar işlemeli sweatshirt"
-    },
-    {
-     "keyword": "pumpkin spice soy candle",
-     "label": "balkabağı baharatlı soya mumu"
-    }
-   ]
-  },
-  {
-   "name": "Fantasy Romance Ball (Romantasy)",
-   "heat": "Yükseliyor",
-   "desc": "Genç yetişkin fantastik kurgu kitaplarından esinlenerek düzenlenen kostümlü 'peri/saray baloları' için büyüleyici, gotik ve peri masalı giyim tarzı.",
-   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance ball için kıyafet ve alışveriş tavsiyesi sorulan popüler bir gönderi olarak öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Fantastik balo kostümlerini tamamlayan el yapımı tel sarma elf tacı ve broşlu kadife pelerinler.",
-   "product_keywords": [
-    {
-     "keyword": "elf circlet crown",
-     "label": "elf taç aksesuarı"
-    },
-    {
-     "keyword": "fantasy velvet cloak",
-     "label": "fantastik kadife pelerin"
-    }
-   ]
-  },
-  {
-   "name": "Ravioli & Novelty Food Aksesuarları",
+   "name": "Ravioli & İtalyan Makarnası Aksesuarları",
    "heat": "Yeni çıktı",
-   "desc": "İtalyan mantısı (ravioli) gibi tanıdık gurme yiyeceklerin gerçekçi biçimde deri veya kumaş aksesuarlara uyarlandığı esprili tasarım akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda ravioli şeklinde kartlık yüksek ilgi gördü.",
+   "desc": "Gündelik eşyaları hiper-gerçekçi veya sevimli İtalyan hamur işleri (özellikle ravioli) formuna sokan mizahi ve estetik 'foodcore' akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' paylaşımı haftanın en popüler içerikleri arasına girdi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Gerçek ravioli makarnası dikişlerine ve formuna sahip el yapımı deri bozuk para cüzdanı veya anahtarlık.",
+   "idea": "Kenarları tırtıklı el yapımı İtalyan ravyolisi şeklinde deri kartlık ve bozuk para cüzdanı.",
    "product_keywords": [
     {
-     "keyword": "ravioli coin purse",
-     "label": "ravioli bozuk para cüzdanı"
+     "keyword": "ravioli card holder leather",
+     "label": "deri ravioli kartlık"
     },
     {
-     "keyword": "ravioli card holder",
-     "label": "ravioli kartlık"
+     "keyword": "pasta coin purse",
+     "label": "makarna şeklinde bozuk para cüzdanı"
     }
    ]
   },
   {
-   "name": "Kişiye Özel Yüz Geçici Dövmeleri",
+   "name": "Romantasy Ball (Fantezi Romans Balosu) Kıyafet ve Aksesuarla",
    "heat": "Yükseliyor",
-   "desc": "Ofis şakaları, bekarlığa veda veya doğum günü partileri için arkadaşlarının ya da patronlarının yüzlerini vücutlarına geçici dövme olarak yapıştırma akımı.",
-   "why": "Reddit r/TikTokCringe'de bir patronun yüzünden yapılan geçici dövme şakası haftanın en popüler içeriklerinden biri oldu.",
+   "desc": "Genç yetişkinler ve Gen Z arasında popülerleşen peri, gotik saray ve fantastik kurgu kitap baloları için dönemsel ve fantastik giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'fantasy romance ball' daveti için stil ve kıyafet tavsiyesi arayışı öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kullanıcının yüklediği fotoğrafla kişiselleştirilmiş parti ve bekarlığa veda için özel kesim geçici dövme setleri.",
+   "idea": "Orta Çağ ve fantezi temalı ejderha/sarmaşık motifli metal pelerin tokası veya işlemeli kadife yelek.",
    "product_keywords": [
     {
-     "keyword": "custom face temporary tattoos",
-     "label": "kişiye özel yüz geçici dövmesi"
+     "keyword": "fantasy cloak clasp",
+     "label": "fantastik pelerin broşu"
     },
     {
-     "keyword": "personalized bachelorette tattoos",
-     "label": "kişiselleştirilmiş parti dövmesi"
+     "keyword": "romantasy embroidered vest",
+     "label": "romantasy işlemeli yelek"
     }
    ]
   },
   {
-   "name": "Fleabag Melankolisi & Tilki Sembolizmi",
+   "name": "Harvest Moon & Göksel (Celestial) Aksesuarlar",
    "heat": "Yükseliyor",
-   "desc": "Kült dizi Fleabag'in ikonik replikleri ('It'll pass') ve tilki metaforu etrafında şekillenen modern nostalji ve duygusal minimalist estetik.",
-   "why": "Google Trends'te 'fleabag' araması ani yükseliş gösterdi.",
+   "desc": "Eylül ayının Hasat Dolunayı ve Satürn hizalanmasıyla tetiklenen, ay fazları ve gökyüzü temalı mistik takı ve ev dekoru akımı.",
+   "why": "Google yükselen aramalarda 'is tonight a full moon' ve Hasat Dolunayı astronomi haberleri zirveye çıktı.",
    "sources": [
     "Google"
    ],
-   "idea": "'It'll pass' yazılı minimalist nakışlı kanvas tote bag veya illüstrasyonlu tilki emaye yaka iğneleri.",
+   "idea": "Pirinç döküm ay evreleri duvar süsü veya ay taşı işlemeli gümüş dolunay yüzüğü.",
    "product_keywords": [
     {
-     "keyword": "fleabag it will pass tote bag",
-     "label": "fleabag kanvas bez çanta"
+     "keyword": "moon phase wall hanging",
+     "label": "ay evreleri duvar asısı"
     },
     {
-     "keyword": "fox enamel pin",
-     "label": "tilki emaye yaka iğnesi"
+     "keyword": "harvest moon ring silver",
+     "label": "gümüş dolunay yüzüğü"
+    }
+   ]
+  },
+  {
+   "name": "Y2K Pop-Punk Konser Parakord & Boncuk Aksesuarları",
+   "heat": "Yükseliyor",
+   "desc": "Olivia Rodrigo'nun duyurulan turneleriyle yeniden alevlenen, mor tonlu 2000'ler pop-punk estetiğindeki konser aksesuarları ve hayran takıları.",
+   "why": "Google Aramalarında 'olivia rodrigo tour' araması 1000+ hacimle ani yükseliş gösterdi.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Kelebek ve harf boncuklu mor Y2K tarzı telefon askısı veya konser için boncuklu bileklik setleri.",
+   "product_keywords": [
+    {
+     "keyword": "y2k purple beaded phone charm",
+     "label": "mor boncuklu telefon askısı"
+    },
+    {
+     "keyword": "friendship bead bracelets set",
+     "label": "arkadaşlık boncuk bileklik seti"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-25T21:03+00:00",
+ "trends_updated_at": "2026-09-26T00:03+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -396,12 +377,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-25T21:03+00:00"
+ "generated_at": "2026-09-26T00:03+00:00"
 }

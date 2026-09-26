@@ -3,108 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşmesi)",
+   "name": "Flores Amarillas",
    "heat": "Zirvede",
-   "desc": "TikTok'ta Eylül sonuyla birlikte sevdiklerine sevgi ve bağlılık simgesi olarak sarı çiçek hediye etme akımı.",
-   "why": "TikTok trend hashtag'lerinde #floresamarillas 2. sırada yer alıyor.",
+   "desc": "TikTok'ta baharın veya sonbaharın gelişiyle sevdiklerine sarı çiçek hediye etme akımı.",
+   "why": "TikTok popüler hashtag listesinde 'floresamarillas' hashtag'inin 2. sırada yer alması.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Solmayan tığ işi (crochet) sarı çiçek buketleri ve el yapımı sarı papatya/çiçek broşları.",
+   "idea": "El yapımı örgü (crochet) sarı çiçekler, sarı çiçek temalı el yapımı takılar ve tebrik kartları.",
    "product_keywords": [
     {
      "keyword": "crochet yellow flowers",
-     "label": "tığ işi sarı çiçekler"
+     "label": "örgü sarı çiçek"
     },
     {
-     "keyword": "handmade yellow flower bouquet",
-     "label": "el yapımı sarı çiçek buketi"
+     "keyword": "yellow flower jewelry",
+     "label": "sarı çiçek takısı"
     }
    ]
   },
   {
-   "name": "First Day of Fall (Sonbahar Karşılama Estetiği)",
+   "name": "First Day of Fall",
    "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin sonbahar ekinoksunu, sıcak içecekler, rahat giyim ve dökülen yaprak temalarıyla kutladığı mevsimsel yaşam tarzı akımı.",
-   "why": "TikTok'ta #firstdayoffall etiketi 3. sıradayken Reddit GenZ topluluğunda sonbahar kutlama gönderileri öne çıkıyor.",
+   "desc": "Sonbahar mevsiminin başlamasıyla birlikte gelen sıcak, samimi ve doğa temalı estetik akımı.",
+   "why": "TikTok'ta 'firstdayoffall' hashtag'inin trendlerde 3. sırada yer alması.",
    "sources": [
-    "TikTok",
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Minimalist sonbahar temalı işlemeli sweatshirt'ler veya esprili sonbahar ekinoksu seramik kupaları.",
+   "idea": "Sonbahar yaprağı şeklinde el yapımı mumlar ve balkabağı figürlü seramik kupalar.",
    "product_keywords": [
     {
-     "keyword": "cozy fall sweatshirt",
-     "label": "sonbahar temalı sweatshirt"
+     "keyword": "autumn leaf candle",
+     "label": "sonbahar yaprağı mumu"
     },
     {
-     "keyword": "autumn ceramic mug",
-     "label": "sonbahar seramik kupa"
+     "keyword": "pumpkin ceramic mug",
+     "label": "balkabağı seramik kupa"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball (Romantasy Balo Modası)",
+   "name": "Tamagotchi & Y2K Nostalgia",
    "heat": "Yükseliyor",
-   "desc": "Fantastik kurgu kitaplarının etkisiyle popülerleşen, gençlerin gotik ve masalsı balolar için kostüm ve aksesuar arayışına girmesi.",
-   "why": "Reddit malefashionadvice topluluğunda kullanıcıların 'fantasy romance ball' etkinlikleri için kıyafet ve aksesuar önerisi aramasıyla öne çıkıyor.",
+   "desc": "90'lar ve 2000'lerin başındaki sanal bebeklerin (Tamagotchi) uzun ömürlülüğü ve nostaljik değeri üzerinden yeniden popülerleşmesi.",
+   "why": "Reddit'in BuyItForLife topluluğunda 22 yıllık bir Tamagotchi'nin hala çalıştığını gösteren gönderinin yoğun ilgi görmesi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Fantastik temalı fular iğneleri, vintage yakalık zincirleri ve elf/peri esintili el yapımı broşlar.",
-   "product_keywords": [
-    {
-     "keyword": "cravat brooch pin",
-     "label": "vintage broş iğnesi"
-    },
-    {
-     "keyword": "fantasy ball accessories",
-     "label": "fantastik balo aksesuarları"
-    }
-   ]
-  },
-  {
-   "name": "Aran Heritage Knitwear (Ömürlük Otantik Örgü)",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modadan kaçınan tüketicilerin geleneksel, ömür boyu kullanılabilecek orijinal İrlanda Aran örgü giysilerine ve aksesuarlarına yönelmesi.",
-   "why": "Reddit BuyItForLife topluluğunda orijinal Aran örgü ürünleri ve bunların kalitesi üzerine yoğun tartışmalar yapılıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel saç örgüsü desenli, saf yünden el örgüsü kışlık bere ve atkı setleri.",
-   "product_keywords": [
-    {
-     "keyword": "aran knit wool scarf",
-     "label": "aran örgü yün atkı"
-    },
-    {
-     "keyword": "cable knit wool beanie",
-     "label": "örgü yün bere"
-    }
-   ]
-  },
-  {
-   "name": "Y2K Virtual Pet Nostalgia (Tamagotchi Aksesuarları)",
-   "heat": "Yeni çıktı",
-   "desc": "Z kuşağının 90'lar sonu ve 2000'ler retro dijital oyuncaklarına duyduğu nostaljik ilgi ve bunları koruma/taşıma trendi.",
-   "why": "Reddit BuyItForLife topluluğunda 22 yıllık çalışır durumdaki Tamagotchi paylaşımının viral ilgi görmesi ve GenZ kuşağının nostalji sorgulamaları.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sanal bebek cihazları için sevimli kulak detaylı tığ işi koruyucu kılıflar ve retro boncuklu askılar.",
+   "idea": "Tamagotchi cihazları için el örgüsü koruyucu kılıflar ve Y2K tarzı boncuklu anahtarlık aksesuarları.",
    "product_keywords": [
     {
      "keyword": "crochet tamagotchi case",
-     "label": "tığ işi tamagotchi kılıfı"
+     "label": "örgü tamagotchi kılıfı"
     },
     {
-     "keyword": "virtual pet charm strap",
-     "label": "retro çanta askı süsü"
+     "keyword": "y2k keychain accessory",
+     "label": "y2k anahtarlık aksesuarı"
+    }
+   ]
+  },
+  {
+   "name": "Anti-Grayscale Home Decor",
+   "heat": "Yeni çıktı",
+   "desc": "Tamamen gri ve cansız tonlardan oluşan ev dekorasyonlarına (grayscale) tepki olarak doğan renkli ve karakter sahibi dekorasyon arayışı.",
+   "why": "Reddit'in TikTokCringe topluluğunda tamamen gri tonlarda dekore edilmiş bir evin viral olması ve eleştirilmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Canlı renklerde el yapımı tuft halılar ve maksimalist, renkli seramik vazolar.",
+   "product_keywords": [
+    {
+     "keyword": "colorful tufted rug",
+     "label": "renkli tuft halı"
+    },
+    {
+     "keyword": "maximalist ceramic vase",
+     "label": "maksimalist seramik vazo"
+    }
+   ]
+  },
+  {
+   "name": "Rain Boots Styling",
+   "heat": "Yükseliyor",
+   "desc": "Geniş paça pantolonlarla yağmur botlarının (Wellington) nasıl estetik şekilde kombinleneceğine dair moda arayışı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda yağmur botlarının geniş paça pantolonlarla nasıl stillendirileceğine dair popüler bir başlık açılması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yağmur botlarının üzerinden katlanarak şık bir görünüm sunan el örgüsü kalın tozluklar ve bot çorapları.",
+   "product_keywords": [
+    {
+     "keyword": "knit boot cuffs",
+     "label": "örgü bot tozluğu"
+    },
+    {
+     "keyword": "wellington boot socks",
+     "label": "yağmur botu çorabı"
+    }
+   ]
+  },
+  {
+   "name": "Authentic Aran Knitwear",
+   "heat": "Yükseliyor",
+   "desc": "Sahte triko ürünlerden kaçınarak gerçek, kaliteli ve ömürlük İrlanda tarzı (Aran) saç örgüsü el işi ürünlere yönelim.",
+   "why": "Reddit'in BuyItForLife topluluğunda sahte Aran knitwear ürünleri tarafından kandırılma üzerine açılan popüler başlık.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel saç örgüsü desenli, %100 yün el örgüsü hırkalar, bereler ve atkılar.",
+   "product_keywords": [
+    {
+     "keyword": "authentic aran sweater",
+     "label": "orijinal aran kazak"
+    },
+    {
+     "keyword": "cable knit wool beanie",
+     "label": "saç örgüsü yün bere"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-26T09:02+00:00",
+ "trends_updated_at": "2026-09-26T12:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -349,7 +368,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -357,12 +376,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-26T09:02+00:00"
+ "generated_at": "2026-09-26T12:03+00:00"
 }

@@ -5,106 +5,106 @@
   {
    "name": "Flores Amarillas",
    "heat": "Zirvede",
-   "desc": "TikTok'ta Eylül ayında sevgililere ve yakınlara sevgi göstergesi olarak sarı çiçek hediye etme geleneği.",
-   "why": "TikTok trend listesinde '#floresamarillas' 1. sırada yer aldı.",
+   "desc": "Sarı çiçek hediye etme ve sarı çiçek estetiğini içeren viral sosyal medya akımı.",
+   "why": "TikTok popüler hashtag listesinde #floresamarillas 2. sırada yer almaktadır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El örgüsü solmayan tığ işi sarı çiçek buketi veya sarı çiçek işlemeli minyatür hediyelikler.",
+   "idea": "El yapımı örgü sarı çiçek buketleri, sarı çiçek temalı takılar ve broşlar.",
    "product_keywords": [
     {
      "keyword": "crochet yellow flower bouquet",
-     "label": "tığ işi sarı çiçek buketi"
+     "label": "örgü sarı çiçek buketi"
     },
     {
-     "keyword": "yellow floral keychain",
-     "label": "sarı çiçek anahtarlık"
+     "keyword": "yellow flower jewelry",
+     "label": "sarı çiçek takısı"
     }
    ]
   },
   {
-   "name": "Cozy Fall Equinox",
+   "name": "First Day of Fall",
    "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar ekinoksuyla başlayan 'cozy' ve sıcak temalı sonbahar kutlamaları ile mevsimsel lifestyle akımı.",
-   "why": "TikTok'ta '#firstdayoffall' 2. sırada yer alırken, Reddit r/GenZ topluluğunda sonbahar başlangıcı popüler şekilde kutlandı.",
+   "desc": "Sonbahar mevsiminin gelişini kutlayan, sıcak tonlar ve sonbahar estetiğine odaklanan mevsimsel trend.",
+   "why": "TikTok'ta #firstdayoffall 3. sırada trend olurken Reddit GenZ topluluğunda sonbahar kutlama gönderileri öne çıkıyor.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Balkabağı ve sonbahar yaprağı şeklinde el yapımı kokulu soya mumları ve kupa altlıkları.",
+   "idea": "Sonbahar temalı el yapımı dekoratif mumlar, balkabağı desenli kupalar ve kışa hazırlık hediyelikleri.",
    "product_keywords": [
     {
-     "keyword": "fall aesthetic soy candle",
-     "label": "sonbahar temalı soya mumu"
+     "keyword": "fall scented candle",
+     "label": "sonbahar kokulu mum"
     },
     {
-     "keyword": "crochet pumpkin coaster",
-     "label": "tığ işi balkabağı bardak altlığı"
+     "keyword": "autumn mug",
+     "label": "sonbahar kupası"
+    }
+   ]
+  },
+  {
+   "name": "Ravioli Card Holder",
+   "heat": "Yeni çıktı",
+   "desc": "Yiyecek biçiminde tasarlanmış eğlenceli, mizahi ve minimalist deri aksesuar konsepti.",
+   "why": "Reddit'in shutupandtakemymoney topluluğunda Ravioli Card holder tasarımı dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ravioli (mantı) şeklinde dikilmiş deri veya suni deri kartlık ve bozuk para cüzdanı.",
+   "product_keywords": [
+    {
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
+    },
+    {
+     "keyword": "food shaped wallet",
+     "label": "yiyecek şekilli cüzdan"
     }
    ]
   },
   {
    "name": "Fantasy Romance Ball",
    "heat": "Yükseliyor",
-   "desc": "Romantasy (fantastik romantizm) kitaplarının popülerleşmesiyle yaygınlaşan tematik balolar ve peri masalı estetiğinde giyinme akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'fantasy romance ball' etkinliği için kıyafet ve aksesuar önerileri öne çıktı.",
+   "desc": "Fantastik roman temalı balolar ve etkinlikler için dönemsel ve fantastik kostüm/aksesuar giyim akımı.",
+   "why": "Reddit malefashionadvice topluluğunda fantastik romantizm balolarına katılım için aksesuar ve kıyafet tavsiyeleri aranıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Pelerin ve hırkalar için fantezi tasarımlı metal pelerin tokası veya işlemeli gotik yaka iğnesi.",
+   "idea": "Fantastik balo konseptine uygun el yapımı pelerinler, vintage broşlar ve fantastik tema aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "fantasy cape clasp",
-     "label": "fantastik pelerin tokası"
+     "keyword": "fantasy ball cape",
+     "label": "fantezi balo pelerini"
     },
     {
-     "keyword": "elven cloak pin",
-     "label": "elf tarzı pelerin iğnesi"
+     "keyword": "romantasy brooch",
+     "label": "romantasy broşu"
     }
    ]
   },
   {
-   "name": "Novelty Food Leather Goods",
-   "heat": "Yeni çıktı",
-   "desc": "Günlük deri aksesuarların ve cüzdanların ravioli mantısı gibi esprili yiyecek formlarında tasarlanması akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' tasarımı yüksek ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ravioli makarna şeklinde dikişli el yapımı mini deri kartlık veya bozuk para cüzdanı.",
-   "product_keywords": [
-    {
-     "keyword": "ravioli card holder",
-     "label": "ravioli şeklinde deri kartlık"
-    },
-    {
-     "keyword": "food shaped leather wallet",
-     "label": "yiyecek tasarımlı deri cüzdan"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Fluorescent Desk Lamps",
+   "name": "Anti-Fluorescent Light Covers",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin ofis ve okullardaki soğuk floresan ışıklara tepki olarak kendi alanlarında sıcak ve dinlendirici ortam ışığı yaratma hareketi.",
-   "why": "Reddit r/GenZ topluluğunda floresan ofis aydınlatmalarını ortadan kaldırma çağrısı yoğun destek aldı.",
+   "desc": "Ofis ve okullardaki sert floresan ışıklardan rahatsız olan gençlerin daha yumuşak ve estetik aydınlatma çözümleri arayışı.",
+   "why": "Reddit GenZ topluluğunda ofis ve okullardaki floresan ışıkların göz yoruculuğu üzerine popüler bir tartışma bulunuyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Çalışma masası için sıcak sarı ışık veren minyatür mantar veya küre şeklinde ahşap tabanlı LED masa lambası.",
+   "idea": "Floresan tavan armatürleri için mıknatıslı kumaş ışık filtreleri ve yumuşatıcı desenli kılıflar.",
    "product_keywords": [
     {
-     "keyword": "mushroom ambient desk lamp",
-     "label": "mantar tasarımlı ortam lambası"
+     "keyword": "fluorescent light filter covers",
+     "label": "floresan ışık filtresi kılıfı"
     },
     {
-     "keyword": "warm light mini lamp",
-     "label": "sıcak ışıklı mini masa lambası"
+     "keyword": "classroom light filters",
+     "label": "sınıf ışık filtresi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-26T03:02+00:00",
+ "trends_updated_at": "2026-09-26T06:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -364,5 +364,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-09-26T04:37+00:00"
+ "generated_at": "2026-09-26T06:03+00:00"
 }

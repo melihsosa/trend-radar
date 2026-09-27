@@ -3,108 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "First Day of Fall (Sonbahar Estetiği ve Kutlaması)",
+   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşmesi)",
    "heat": "Hızla yükseliyor",
-   "desc": "Sonbaharın gelişini cozy (sıcak/samimi) giyim, mevsimsel ritüeller ve 'Happy Autumn' temalı paylaşımlarla kutlayan yaşam tarzı akımı.",
-   "why": "TikTok'ta #firstdayoffall hashtag'i 3. sırada yer alırken Reddit GenZ topluluğunda 'Happy Autumn' kutlama gönderileri öne çıktı.",
+   "desc": "Latin Amerika popüler kültüründen yayılan ve sonbahar ekinoksunda sevilen kişilere iyi dilek ve sevgi simgesi olarak sarı çiçek hediye etme viral akımı.",
+   "why": "TikTok Creative Center verilerinde #floresamarillas etiketi 2. sırada yer alarak en çok kullanılan hashtag'lerden biri oldu.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Solmayan tığ işi sarı çiçek buketleri, sarı çiçek kurutulmuş reçine takılar ve çiçek temalı hediye paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "crochet yellow flowers",
+     "label": "örgü sarı çiçek buketi"
+    },
+    {
+     "keyword": "yellow flower resin necklace",
+     "label": "sarı çiçek reçine kolye"
+    }
+   ]
+  },
+  {
+   "name": "Whimsigoth Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "90'ların karanlık gotik havası ile göksel (güneş/ay/yıldız) motifler, kadife ve bohem esintileri bir araya getiren retro alternatif moda akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda Whimsigoth gardırobu oluşturma ve parçaları kombinleme başlığı yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kadife ve dantel detaylı kimonolar, göksel (celestial) sembollü pirinç/gümüş takılar ve gotik bohem saç aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "whimsigoth celestial jewelry",
+     "label": "whimsigoth göksel takı"
+    },
+    {
+     "keyword": "velvet lace kimono",
+     "label": "kadife dantel kimono"
+    }
+   ]
+  },
+  {
+   "name": "First Day of Fall (Sonbahar Cozy Sezonu)",
+   "heat": "Zirvede",
+   "desc": "Sonbahar mevsimine geçişle birlikte ev ortamını sıcaklaştırma, balkabağı teması ve katmanlı konforlu giyime odaklanan mevsimsel yaşam tarzı hareketi.",
+   "why": "TikTok'ta #firstdayoffall etiketi hızla yükselip 3. sıraya otururken Reddit moda topluluğunda bot ve orta katman giyim arayışları öne çıktı.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Sonbahar temalı 'Happy Autumn' yazılı cozy sweatshirt'ler, seramik kahve kupaları ve mevsimsel mumlar.",
+   "idea": "Kişiselleştirilebilir sonbahar illüstrasyonlu seramik kupalar, örgü balkabağı dekorları ve sıcak tutan triko şallar.",
    "product_keywords": [
     {
-     "keyword": "first day of fall shirt",
-     "label": "sonbahar tişörtü"
+     "keyword": "fall aesthetic mug",
+     "label": "sonbahar temalı kupa"
     },
     {
-     "keyword": "autumn cozy mug",
-     "label": "sonbahar kupası"
+     "keyword": "knit pumpkin decor",
+     "label": "örgü balkabağı dekoru"
     }
    ]
   },
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediye Akımı)",
-   "heat": "Zirvede",
-   "desc": "Mevsim geçişinde sevdiklerine ve eşlerine sevgi göstergesi olarak sarı çiçek hediye etme ve sarı estetik ürünler paylaşma akımı.",
-   "why": "TikTok popüler trendler listesinde #floresamarillas hashtag'i 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Kurutulmuş gerçek sarı çiçekli reçine kolyeler, sarı çiçek motifli el yapımı takılar ve hediye kartları.",
-   "product_keywords": [
-    {
-     "keyword": "yellow flower necklace",
-     "label": "sarı çiçek kolyesi"
-    },
-    {
-     "keyword": "flores amarillas gift",
-     "label": "sarı çiçek hediyesi"
-    }
-   ]
-  },
-  {
-   "name": "Ravioli Tasarımlı Aksesuarlar",
-   "heat": "Yeni çıktı",
-   "desc": "Günlük aksesuarları eğlenceli ve ikonik mantı/ravioli yemek formlarında tasarlayan mikro ürün akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda ravioli şeklinde tasarlanmış kartlık paylaşımı popüler oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ravioli şeklinde el yapımı deri kartlıklar, bozuk para keseleri ve mini anahtarlıklar.",
-   "product_keywords": [
-    {
-     "keyword": "ravioli card holder",
-     "label": "ravioli kartlık"
-    },
-    {
-     "keyword": "food shaped pouch",
-     "label": "yemek şeklinde kese"
-    }
-   ]
-  },
-  {
-   "name": "Fantasy Romance Ball (Fantastik Romantizm Balosu Stili)",
+   "name": "Aran Kablo Örgü (Heritage Knitwear)",
    "heat": "Yükseliyor",
-   "desc": "Fantastik kitap hayranlarının katıldığı özel balolar için geliştirilen gotik, masalsı ve rönesans esintili giyim estetiği.",
-   "why": "Reddit r/malefashionadvice topluluğunda bir kullanıcının fantastik romantizm balosu için özel aksesuar ve kıyafet tavsiyesi aramasıyla görüldü.",
+   "desc": "Hızlı modanın kalitesizliğine tepki olarak ömürlük, geleneksel el yapımı İrlanda kablo örgüsü triko ve aksesuarlara yönelme akımı.",
+   "why": "Reddit r/BuyItForLife topluluğunda Aran Islands örgülerinin otantikliği ve dayanıklılığı üzerine paylaşımlar yoğun tartışma yarattı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Fantastik balo kostümlerine uygun pelerin broşları, masalsı el yapımı taçlar ve gotik takı aksesuarları.",
+   "idea": "Geleneksel kablo örgü desenli el yapımı kalın yün bereler, parmaksız eldivenler ve kalın boyunluklar.",
    "product_keywords": [
     {
-     "keyword": "fantasy romance ball outfit",
-     "label": "fantastik balo kıyafeti"
+     "keyword": "chunky cable knit beanie",
+     "label": "kalın kablo örgü bere"
     },
     {
-     "keyword": "gothic fairy accessories",
-     "label": "gotik peri aksesuarları"
+     "keyword": "aran wool fingerless gloves",
+     "label": "yün parmaksız eldiven"
     }
    ]
   },
   {
-   "name": "My Live Journey (İçerik Üreticisi Yolculuğu)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yayıncıların ve dijital içerik üreticilerinin canlı yayın hedeflerini, gelişim aşamalarını ve topluluk anılarını görselleştirdiği akım.",
-   "why": "TikTok Creative Center'da #mylivejourney hashtag'i 1. sırada yer alıyor.",
+   "name": "Y2K Tamagotchi & Retro Tech Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "2000'lerin başındaki dijital sanal bebekleri ve piksel nostaljisini günlük giyilebilir aksesuarlarla canlandırma akımı.",
+   "why": "Reddit r/BuyItForLife topluluğunda 22 yıllık çalışır durumdaki Tamagotchi gönderisi haftanın en popüler içerikleri arasına girdi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "Canlı yayıncılar için masaüstü hedef takip panoları, içerik planlayıcı fiziksel defterler ve 'LIVE' konseptli masaüstü d",
+   "idea": "Sanal bebek cihazları için el yapımı sevimli tığ kılıflar ve piksel sanatı temalı Y2K telefon/çanta süsleri.",
    "product_keywords": [
     {
-     "keyword": "streamer planner",
-     "label": "yayıncı planlayıcı defter"
+     "keyword": "crochet tamagotchi case",
+     "label": "tığ işi tamagotchi kılıfı"
     },
     {
-     "keyword": "live neon sign",
-     "label": "canlı yayın neon tabelası"
+     "keyword": "y2k pixel keychain charm",
+     "label": "y2k piksel çanta süsü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T09:02+00:00",
+ "trends_updated_at": "2026-09-27T12:04+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -257,7 +257,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -272,5 +272,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-09-27T09:02+00:00"
+ "generated_at": "2026-09-27T12:04+00:00"
 }

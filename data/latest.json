@@ -3,79 +3,58 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hareketi)",
+   "name": "Whimsigoth Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "90'ların gotik, göksel (celestial) ve bohem tarzını kadife, koyu tonlar ve astrolojik motiflerle harmanlayan nostaljik bir giyim ve dekorasyon alt kültürü.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların Whimsigoth tarzını nasıl kombinleyeceklerini ve parça seçeceklerini tartışmasıyla öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kadife üzeri altın varaklı astroloji/göksel desenli kimono veya koyu renkli vintage gotik takılar.",
+   "product_keywords": [
+    {
+     "keyword": "whimsigoth velvet kimono",
+     "label": "whimsigoth kadife kimono"
+    },
+    {
+     "keyword": "celestial goth necklace",
+     "label": "göksel gotik kolye"
+    }
+   ]
+  },
+  {
+   "name": "First Day of Fall (Sonbahar Estetiği)",
    "heat": "Zirvede",
-   "desc": "Sonbahar/ilkbahar ekinoksu döneminde sevgi ve bağlılık göstergesi olarak birbirine sarı çiçek hediye etme viral TikTok geleneği.",
-   "why": "TikTok trend listesinde '#floresamarillas' etiketi 2. sırada yer alıyor.",
+   "desc": "Mevsim geçişiyle birlikte sıcak tonlar, tarçın/balkabağı motifleri ve konfor odaklı yaşam tarzına yönelen mevsimsel sonbahar akımı.",
+   "why": "TikTok Creative Center verilerinde #firstdayoffall etiketinin en popüler ilk 3 trend arasına girmesiyle görüldü.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Solmayan tığ işi (crochet) sarı çiçek buketleri, sarı çiçek motifli el yapımı kolyeler ve hediyelik tebrik kartı setleri",
+   "idea": "El yapımı kabak formunda seramik kahve kupaları ve sonbahar esintili soya mumları.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flower",
-     "label": "örgü sarı çiçek buketi"
+     "keyword": "pumpkin ceramic mug",
+     "label": "kabak seramik kupa"
     },
     {
-     "keyword": "yellow flower gift",
-     "label": "sarı çiçek temalı hediye"
+     "keyword": "fall scented soy candle",
+     "label": "sonbahar kokulu soya mumu"
     }
    ]
   },
   {
-   "name": "Cozy Fall (Sonbahar Karşılaması)",
-   "heat": "Zirvede",
-   "desc": "Sonbaharın ilk gününün gelişiyle sıcak içecekler, yaprak desenleri ve nostaljik sonbahar atmosferine geçişi kutlayan mevsimsel estetik.",
-   "why": "TikTok'ta '#firstdayoffall' 3. sırada yer alırken, Reddit r/GenZ topluluğunda sonbaharın gelişi viral gönderilerle kutlanıyor.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Sonbahar temalı esprili illüstrasyonlara sahip oversize sweatshirt'ler ve balkabağı/sonbahar yaprağı formunda el yapımı ",
-   "product_keywords": [
-    {
-     "keyword": "cozy fall sweatshirt",
-     "label": "sonbahar temalı sweatshirt"
-    },
-    {
-     "keyword": "autumn ceramic mug",
-     "label": "sonbahar seramik fincan"
-    }
-   ]
-  },
-  {
-   "name": "Fantasy Romance Ball (Romantasy Balosu)",
-   "heat": "Yükseliyor",
-   "desc": "Fantastik aşk kitaplarından esinlenen ve gençlerin peri, elf veya gotik saray kıyafetleriyle katıldığı tematik balo modası.",
-   "why": "Reddit r/malefashionadvice topluluğunda bir kullanıcının fantastik aşk balosu için kıyafet tavsiyesi araması öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Fantastik pelerin klipsleri, vintage tarzda broşlar, peri kulak takıları ve romantik kadife yelekler/aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy ball cloak clasp",
-     "label": "fantastik pelerin tokası"
-    },
-    {
-     "keyword": "romantasy jewelry",
-     "label": "romantasy temalı takı"
-    }
-   ]
-  },
-  {
-   "name": "Trompe-l'œil Gıda Aksesuarları (Ravioli Cüzdan)",
+   "name": "Ravioli / Yiyecek Şekilli Aksesuarlar",
    "heat": "Yeni çıktı",
-   "desc": "Gerçek yiyecek formlarında tasarlanmış, mizahi ve sevimli gündelik deri ya da kumaş aksesuarlar.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda ravioli (İtalyan mantısı) formundaki kartlık viral ilgi gördü.",
+   "desc": "Klasik günlük eşyaları eğlenceli ve gerçekçi makarna, hamur işi veya atıştırmalık formunda tasarlayan kitsch aksesuar akımı.",
+   "why": "Reddit'in shutupandtakemymoney topluluğunda ravioli şeklindeki kartlığın yoğun ilgi görmesiyle fark edildi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Deri veya suni deriden üretilmiş ravioli şeklinde kartvizitlik, bozuk para cüzdanı veya makarna formlu anahtarlıklar.",
+   "idea": "Kızarmış veya haşlanmış mantı/ravioli görünümünde deri veya silikon kartlık ve bozuk para cüzdanı.",
    "product_keywords": [
     {
      "keyword": "ravioli card holder",
-     "label": "ravioli kartlık"
+     "label": "ravioli şeklinde kartlık"
     },
     {
      "keyword": "pasta coin purse",
@@ -84,27 +63,47 @@
    ]
   },
   {
-   "name": "Anti-The Big Light (Sıcak Ambiyans Işığı)",
+   "name": "Heritage Aran & Klasik Kablo Örgü",
    "heat": "Yükseliyor",
-   "desc": "Gen Z'nin parlak beyaz tavan ve ofis floresanlarını reddedip loş, sıcak ve huzurlu masa lambalarına yönelme akımı.",
-   "why": "Reddit r/GenZ topluluğunda ofis ve okullardaki parlak floresan ışıkların kaldırılması talebi yüksek etkileşim aldı.",
+   "desc": "Hızlı modaya tepki olarak ömürlük, doğal yün ve geleneksel İrlanda kablo örgüsü ürünlere yönelen sürdürülebilir giyim akımı.",
+   "why": "Reddit'in BuyItForLife topluluğunda otantik Aran örgüsü giysilerin ve dayanıklı miras kıyafetlerin tartışılmasıyla tespit edildi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Loş ve sıcak tonlar yayan mini mantar gece lambaları, 3D baskı tasarımlı ambiyans masa lambaları veya yumuşak kumaş abaj",
+   "idea": "Yüksek kaliteli doğal yünden örülmüş kalın kablo örgülü atkı veya balıkçı yaka süveter.",
    "product_keywords": [
     {
-     "keyword": "cozy ambient desk lamp",
-     "label": "sıcak ambiyans masa lambası"
+     "keyword": "chunky cable knit scarf",
+     "label": "kalın saç örgülü atkı"
     },
     {
-     "keyword": "mushroom night light",
-     "label": "mantar gece lambası"
+     "keyword": "aran wool sweater",
+     "label": "aran yün kazak"
+    }
+   ]
+  },
+  {
+   "name": "Grandma's China (Vintage Porselen Deseni)",
+   "heat": "Yeni çıktı",
+   "desc": "Büyükannelerin klasik mavi-beyaz porselen ve çini tabak desenlerini modern sokak modasına ve aksesuarlara taşıyan 'grandmillennial' akımı.",
+   "why": "TikTokCringe üzerinde New York sokaklarında sergilenen vintage porselen vazo içeriğinin viral olmasıyla öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Mavi-beyaz çini ve vintage porselen desenli kanvas bez çanta veya telefon kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "blue willow tote bag",
+     "label": "mavi porselen desenli bez çanta"
+    },
+    {
+     "keyword": "vintage china phone case",
+     "label": "vintage çini desenli telefon kılıfı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T18:03+00:00",
+ "trends_updated_at": "2026-09-27T21:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -272,5 +271,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-09-27T18:03+00:00"
+ "generated_at": "2026-09-27T21:03+00:00"
 }

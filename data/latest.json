@@ -3,128 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşme Akımı)",
-   "heat": "Zirvede",
-   "desc": "TikTok'ta baharın/güzün gelişiyle romantik bir jest olarak sevgiliye veya değer verilen kişiye sarı çiçek hediye etme viral kültürü.",
-   "why": "TikTok Creative Center popüler hashtag listesinde #floresamarillas 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Solmayan, el yapımı tığ işi (crochet) sarı çiçek buketleri ve sarı çiçek motifli el yapımı takılar.",
-   "product_keywords": [
-    {
-     "keyword": "crochet yellow flowers bouquet",
-     "label": "örgü sarı çiçek buketi"
-    },
-    {
-     "keyword": "yellow flower beaded necklace",
-     "label": "sarı çiçekli boncuk kolye"
-    }
-   ]
-  },
-  {
-   "name": "First Day of Fall / Cozy Sonbahar Karşılaması",
+   "name": "First Day of Fall (Sonbahar Estetiği ve Kutlaması)",
    "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar ekinoksuyla başlayan serin hava, sıcak içecekler ve cozy sonbahar estetiğini kutlama yaşam tarzı akımı.",
-   "why": "TikTok'ta #firstdayoffall 3. sıradayken, Reddit r/GenZ topluluğunda sonbahar başlangıcı kutlaması üst sıralarda yer aldı.",
+   "desc": "Sonbaharın gelişini cozy (sıcak/samimi) giyim, mevsimsel ritüeller ve 'Happy Autumn' temalı paylaşımlarla kutlayan yaşam tarzı akımı.",
+   "why": "TikTok'ta #firstdayoffall hashtag'i 3. sırada yer alırken Reddit GenZ topluluğunda 'Happy Autumn' kutlama gönderileri öne çıktı.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Sonbahar yaprağı ve balkabağı motifli el nakışlı sweatshirtler ile tarçın-balkabağı kokulu el yapımı soya mumları.",
+   "idea": "Sonbahar temalı 'Happy Autumn' yazılı cozy sweatshirt'ler, seramik kahve kupaları ve mevsimsel mumlar.",
    "product_keywords": [
     {
-     "keyword": "autumn embroidered sweatshirt",
-     "label": "sonbahar nakışlı sweatshirt"
+     "keyword": "first day of fall shirt",
+     "label": "sonbahar tişörtü"
     },
     {
-     "keyword": "fall pumpkin spice soy candle",
-     "label": "balkabağı kokulu soya mumu"
+     "keyword": "autumn cozy mug",
+     "label": "sonbahar kupası"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball (Romantasy Estetiği)",
-   "heat": "Yükseliyor",
-   "desc": "Popüler fantezi ve romantik kurgu kitaplarından esinlenen tematik balolar, kostümlü davetler ve vintage masalsı giyim tarzı.",
-   "why": "Reddit r/malefashionadvice topluluğunda fantezi aşk balosu ('fantasy romance ball') için kıyafet ve aksesuar arayan gönderi öne çıktı.",
+   "name": "Flores Amarillas (Sarı Çiçek Hediye Akımı)",
+   "heat": "Zirvede",
+   "desc": "Mevsim geçişinde sevdiklerine ve eşlerine sevgi göstergesi olarak sarı çiçek hediye etme ve sarı estetik ürünler paylaşma akımı.",
+   "why": "TikTok popüler trendler listesinde #floresamarillas hashtag'i 2. sırada yer alıyor.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Balo kıyafetlerine uygun el yapımı vintage broşlar, fantezi pelerin tokaları ve kadife yelek aksesuarları.",
+   "idea": "Kurutulmuş gerçek sarı çiçekli reçine kolyeler, sarı çiçek motifli el yapımı takılar ve hediye kartları.",
    "product_keywords": [
     {
-     "keyword": "fantasy ball velvet cape",
-     "label": "fantastik balo kadife pelerin"
+     "keyword": "yellow flower necklace",
+     "label": "sarı çiçek kolyesi"
     },
     {
-     "keyword": "vintage medieval brooch",
-     "label": "vintage ortaçağ broşu"
+     "keyword": "flores amarillas gift",
+     "label": "sarı çiçek hediyesi"
     }
    ]
   },
   {
-   "name": "Ms. Rachel / Toddler Core Merch",
-   "heat": "Hızla yükseliyor",
-   "desc": "Küçük çocuklu aileler ve Z kuşağı ebeveynleri arasında fenomene dönüşen eğitici içerik üreticisi Ms. Rachel hayranlığı ve estetiği.",
-   "why": "Reddit r/popculturechat topluluğunda Ms. Rachel ile ilgili birden fazla gönderi haftanın en yüksek etkileşimini aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bebekler için Ms. Rachel tarzı pembe fiyonk/saç bandı setleri ve el yapımı Montessori keçe öğrenme kartları.",
-   "product_keywords": [
-    {
-     "keyword": "toddler pink headband bow set",
-     "label": "bebek pembe fiyonklu saç bandı"
-    },
-    {
-     "keyword": "felt learning flashcards",
-     "label": "keçe eğitici aktivite kartları"
-    }
-   ]
-  },
-  {
-   "name": "BIFL Heritage Waxed Jacket Bakımı ve Restorasyonu",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı moda yerine Barbour benzeri ömürlük klasik dış giyim ürünlerini evde restore edip koruyarak kullanma hareketi.",
-   "why": "Reddit r/BuyItForLife topluluğunda 1993 yapımı vintage Barbour ceketin hayata döndürülmesi gönderisi trend oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mumlu ceketler için doğal içerikli evde vakslama/bakım kalıbı ve vintage kumaş onarım tamir yamaları.",
-   "product_keywords": [
-    {
-     "keyword": "waxed cotton reproofing bar",
-     "label": "mumlu ceket bakım mumu"
-    },
-    {
-     "keyword": "vintage garment repair patches",
-     "label": "vintage kıyafet onarım yaması"
-    }
-   ]
-  },
-  {
-   "name": "Retro Tamagotchi & Y2K Dijital Nostalji",
+   "name": "Ravioli Tasarımlı Aksesuarlar",
    "heat": "Yeni çıktı",
-   "desc": "2000'ler başının nostaljik sanal bebek cihazlarını (Tamagotchi vb.) retro aksesuar ve koleksiyon parçası olarak taşıma trendi.",
-   "why": "Reddit r/BuyItForLife topluluğunda 22 yıllık Tamagotchi'nin hala kullanıldığına dair paylaşım viral etkileşim aldı.",
+   "desc": "Günlük aksesuarları eğlenceli ve ikonik mantı/ravioli yemek formlarında tasarlayan mikro ürün akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda ravioli şeklinde tasarlanmış kartlık paylaşımı popüler oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El örgüsü koruyucu Tamagotchi kılıfları ve Y2K piksel temalı boncuklu çanta/anahtarlık askıları.",
+   "idea": "Ravioli şeklinde el yapımı deri kartlıklar, bozuk para keseleri ve mini anahtarlıklar.",
    "product_keywords": [
     {
-     "keyword": "crochet tamagotchi case",
-     "label": "örgü tamagotchi kılıfı"
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
     },
     {
-     "keyword": "y2k pixel keychain charm",
-     "label": "y2k piksel anahtarlık askısı"
+     "keyword": "food shaped pouch",
+     "label": "yemek şeklinde kese"
+    }
+   ]
+  },
+  {
+   "name": "Fantasy Romance Ball (Fantastik Romantizm Balosu Stili)",
+   "heat": "Yükseliyor",
+   "desc": "Fantastik kitap hayranlarının katıldığı özel balolar için geliştirilen gotik, masalsı ve rönesans esintili giyim estetiği.",
+   "why": "Reddit r/malefashionadvice topluluğunda bir kullanıcının fantastik romantizm balosu için özel aksesuar ve kıyafet tavsiyesi aramasıyla görüldü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Fantastik balo kostümlerine uygun pelerin broşları, masalsı el yapımı taçlar ve gotik takı aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy romance ball outfit",
+     "label": "fantastik balo kıyafeti"
+    },
+    {
+     "keyword": "gothic fairy accessories",
+     "label": "gotik peri aksesuarları"
+    }
+   ]
+  },
+  {
+   "name": "My Live Journey (İçerik Üreticisi Yolculuğu)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yayıncıların ve dijital içerik üreticilerinin canlı yayın hedeflerini, gelişim aşamalarını ve topluluk anılarını görselleştirdiği akım.",
+   "why": "TikTok Creative Center'da #mylivejourney hashtag'i 1. sırada yer alıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Canlı yayıncılar için masaüstü hedef takip panoları, içerik planlayıcı fiziksel defterler ve 'LIVE' konseptli masaüstü d",
+   "product_keywords": [
+    {
+     "keyword": "streamer planner",
+     "label": "yayıncı planlayıcı defter"
+    },
+    {
+     "keyword": "live neon sign",
+     "label": "canlı yayın neon tabelası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T06:03+00:00",
+ "trends_updated_at": "2026-09-27T09:02+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -277,7 +257,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -285,12 +265,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-27T06:03+00:00"
+ "generated_at": "2026-09-27T09:02+00:00"
 }

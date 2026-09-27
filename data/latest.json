@@ -3,87 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas",
-   "heat": "Zirvede",
-   "desc": "Sevdiklerine ve partnerlere sevgi ve bağlılık göstergesi olarak sarı çiçek hediye etme viral romantizm akımı.",
-   "why": "TikTok Creative Center verilerinde #floresamarillas etiketi 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Asla solmayan el yapımı tığ işi (crochet) sarı çiçek buketleri ve ayçiçeği temalı hediye kutuları.",
-   "product_keywords": [
-    {
-     "keyword": "crochet yellow flowers",
-     "label": "tığ işi sarı çiçek"
-    },
-    {
-     "keyword": "yellow flower gift bouquet",
-     "label": "sarı çiçek hediye buketi"
-    }
-   ]
-  },
-  {
-   "name": "Whimsigoth Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "90'ların karanlık bohem, göksel (ay, yıldız, güneş) ve gotik unsurlarını kadife ve tül gibi dokularla birleştiren nostaljik giyim ve aksesuar tarzı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Whimsy goth' gardırop parçaları üzerine yapılan paylaşımlar haftalık öne çıkanlarda yer alıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Güneş ve ay figürlü pirinç sallantılı küpeler veya yıldız işlemeli vintage tarzı kadife omuz çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
-    },
-    {
-     "keyword": "celestial velvet tote bag",
-     "label": "göksel desenli kadife çanta"
-    }
-   ]
-  },
-  {
-   "name": "First Day of Fall (Cozy Sonbahar)",
+   "name": "Flores Amarillas (Sarı Çiçek) Akımı",
    "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar ekinoksuyla birlikte yaşam alanlarını sıcak, rahatlatıcı ve balkabağı/toprak tonlarındaki sonbahar konseptiyle yenileme hareketi.",
-   "why": "TikTok Creative Center'da #firstdayoffall etiketi en popüler 3. sırada yer alıyor.",
+   "desc": "Sonbahar başlangıcında veya sevgiyi ifade etmek amacıyla sarı çiçek hediye etme ve paylaşma viral sosyal medya akımı.",
+   "why": "TikTok'ta #floresamarillas etiketi popülerlik sıralamasında 2. sırada yer almaktadır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı kabak formlu seramik kupalar ve tarçın-vanilya kokulu sonbahar soya mumları.",
+   "idea": "El yapımı örgü sarı çiçekler, yapay sarı çiçek buketleri ve sarı çiçek motifli takılar.",
    "product_keywords": [
     {
-     "keyword": "fall ceramic mug",
-     "label": "sonbahar seramik kupa"
+     "keyword": "crochet yellow flower",
+     "label": "Örgü sarı çiçek"
     },
     {
-     "keyword": "pumpkin soy candle",
-     "label": "balkabağı soya mumu"
+     "keyword": "yellow flower bouquet",
+     "label": "Sarı çiçek buketi"
     }
    ]
   },
   {
-   "name": "Otantik Aran / Cable Knit",
+   "name": "Sonbahar ve Hasat Dolunayı Estetiği",
+   "heat": "Zirvede",
+   "desc": "Sonbaharın gelişi (First Day of Fall) ve Hasat Dolunayı (Harvest Moon) temalı sıcak ev dekorasyon ürünleri.",
+   "why": "TikTok'ta #firstdayoffall etiketi 3. sırada yer alırken Google'da 'moon tonight' (Harvest moon) araması 2000+ hacme ulaşmıştır.",
+   "sources": [
+    "TikTok",
+    "Google"
+   ],
+   "idea": "Dolunay ve sonbahar yaprağı temalı el yapımı soya mumları, kupalar veya ev dekorasyon objeleri.",
+   "product_keywords": [
+    {
+     "keyword": "fall decor candle",
+     "label": "Sonbahar temalı mum"
+    },
+    {
+     "keyword": "harvest moon mug",
+     "label": "Hasat dolunayı kupası"
+    }
+   ]
+  },
+  {
+   "name": "Whimsy Goth Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Hızlı moda trikolar yerine ömürlük, geleneksel İrlanda dokuma ve saç örgülü yün parçalara yönelme trendi.",
-   "why": "Reddit r/BuyItForLife topluluğunda Aran Adası örgüleri ve ömürlük trikolar haftanın en çok tartışılan gönderileri arasında.",
+   "desc": "Gotik unsurları masalsı, gizemli ve nostaljik detaylarla birleştiren giyim ve aksesuar akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda Whimsy Goth tarzı giyim ve kombin önerileri üzerine başlık açılmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel Aran saç örgüsü deseniyle el yapımı kalın yün bereler veya dijital örgü şablonları.",
+   "idea": "Masalsı ve gotik detaylara sahip el yapımı takılar, dantelli aksesuarlar veya gizemli sembollü çantalar.",
    "product_keywords": [
     {
-     "keyword": "aran knit beanie",
-     "label": "aran örgü yün bere"
+     "keyword": "whimsy goth jewelry",
+     "label": "Whimsy goth takı"
     },
     {
-     "keyword": "cable knit sweater pattern",
-     "label": "saç örgülü kazak şablonu"
+     "keyword": "whimsy goth accessories",
+     "label": "Whimsy goth aksesuar"
+    }
+   ]
+  },
+  {
+   "name": "Tamagotchi ve Retro Piksel Nostaljisi",
+   "heat": "Yükseliyor",
+   "desc": "90'ların unutulmaz sanal bebek estetiğini ve nostaljik piksel ürünlerini günümüze taşıyan trend.",
+   "why": "Reddit BuyItForLife topluluğunda 22 yıllık Tamagotchi paylaşımı yüksek ilgi görmüştür.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Tamagotchi cihazları için el yapımı örgü koruma kılıfları ve piksel sanatı temalı anahtarlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "tamagotchi pouch",
+     "label": "Tamagotchi kılıfı"
+    },
+    {
+     "keyword": "pixel art keychain",
+     "label": "Piksel anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "Geleneksel Aran Örgü Tarzı",
+   "heat": "Yükseliyor",
+   "desc": "Dayanıklı, otantik İrlanda tarzı Aran örgü giyim ürünlerine ve el yapımı yün tasarımlara olan ilgi.",
+   "why": "Reddit BuyItForLife sayfasında otantik Aran yün ürünleri ve örgü kalitesi tartışılmaktadır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Otantik Aran desenli el örgüsü kalın bereler, atkılar ve süveterler.",
+   "product_keywords": [
+    {
+     "keyword": "aran knit sweater",
+     "label": "Aran örgü kazak"
+    },
+    {
+     "keyword": "chunky knit scarf",
+     "label": "Kalın örgü atkı"
+    }
+   ]
+  },
+  {
+   "name": "Çizme ve Bacak Isıtıcı (Leg Warmer) Stili",
+   "heat": "Yeni çıktı",
+   "desc": "Sonbaharda yağmur çizmeleri ve uzun botların örgü aksesuarlarla stilize edildiği giyim akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda yağmur çizmeleri ve uzun botların kombinlenmesi tartışılmaktadır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Çizmelerle birlikte kullanılmak üzere tasarlanmış örgü bacak ısıtıcıları (leg warmers) ve kalın bot çorapları.",
+   "product_keywords": [
+    {
+     "keyword": "knit leg warmers",
+     "label": "Örgü bacak ısıtıcı"
+    },
+    {
+     "keyword": "boot socks",
+     "label": "Çizme çorabı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-26T21:03+00:00",
+ "trends_updated_at": "2026-09-27T00:04+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -336,12 +377,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-26T21:03+00:00"
+ "generated_at": "2026-09-27T00:04+00:00"
 }

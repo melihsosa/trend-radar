@@ -3,108 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçekler)",
+   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşme Akımı)",
    "heat": "Zirvede",
-   "desc": "Sonbaharın gelişiyle sevdiklerine sarı çiçek hediye etme ve sarı çiçek temalı estetik paylaşımlar yapma akımı.",
-   "why": "TikTok'ta #floresamarillas etiketi popülerlik sıralamasında 2. sırada yer aldı.",
+   "desc": "TikTok'ta baharın/güzün gelişiyle romantik bir jest olarak sevgiliye veya değer verilen kişiye sarı çiçek hediye etme viral kültürü.",
+   "why": "TikTok Creative Center popüler hashtag listesinde #floresamarillas 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı örgü sarı çiçek demetleri, sarı çiçek motifli takılar ve anahtarlıklar.",
+   "idea": "Solmayan, el yapımı tığ işi (crochet) sarı çiçek buketleri ve sarı çiçek motifli el yapımı takılar.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flowers",
-     "label": "örgü sarı çiçek"
+     "keyword": "crochet yellow flowers bouquet",
+     "label": "örgü sarı çiçek buketi"
     },
     {
-     "keyword": "yellow flower keychain",
-     "label": "sarı çiçek anahtarlık"
+     "keyword": "yellow flower beaded necklace",
+     "label": "sarı çiçekli boncuk kolye"
     }
    ]
   },
   {
-   "name": "Sonbahar Karşılama (First Day of Fall)",
+   "name": "First Day of Fall / Cozy Sonbahar Karşılaması",
    "heat": "Hızla yükseliyor",
-   "desc": "Mevsim geçişiyle birlikte sıcak tonlar, cozy yaşam tarzı ve sonbahar temalı günlük eşyaların öne çıktığı akım.",
-   "why": "TikTok'ta #firstdayoffall etiketi 3. sıradayken Reddit GenZ topluluğunda sonbahar kutlama gönderileri öne çıktı.",
+   "desc": "Sonbahar ekinoksuyla başlayan serin hava, sıcak içecekler ve cozy sonbahar estetiğini kutlama yaşam tarzı akımı.",
+   "why": "TikTok'ta #firstdayoffall 3. sıradayken, Reddit r/GenZ topluluğunda sonbahar başlangıcı kutlaması üst sıralarda yer aldı.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Sonbahar esprili baskılı sweatshirtler, cozy kahve kupaları ve yaprak motifli mumluklar.",
+   "idea": "Sonbahar yaprağı ve balkabağı motifli el nakışlı sweatshirtler ile tarçın-balkabağı kokulu el yapımı soya mumları.",
    "product_keywords": [
     {
-     "keyword": "fall aesthetic sweatshirt",
-     "label": "sonbahar sweatshirt"
+     "keyword": "autumn embroidered sweatshirt",
+     "label": "sonbahar nakışlı sweatshirt"
     },
     {
-     "keyword": "autumn cozy mug",
-     "label": "sonbahar temalı kupa"
+     "keyword": "fall pumpkin spice soy candle",
+     "label": "balkabağı kokulu soya mumu"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball (Romantasy Giyim)",
-   "heat": "Yeni çıktı",
-   "desc": "Fantastik roman ve masal temalı balo etkinlikleri için dönem giysileri ve aksesuarları arayışı.",
-   "why": "Reddit malefashionadvice topluluğunda fantasy romance ball konseptli kombin ve aksesuar tavsiyesi istendi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Fantastik balo konseptli kadife pelerinler, broşlar, bel korseleri ve peri/elf ilhamlı takılar.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy romance ball outfit",
-     "label": "fantezi balo kıyafeti"
-    },
-    {
-     "keyword": "gothic velvet cloak",
-     "label": "kadife pelerin"
-    }
-   ]
-  },
-  {
-   "name": "Ravioli Card Holder (Gurme/Eğlenceli Cüzdanlar)",
-   "heat": "Yeni çıktı",
-   "desc": "Günlük aksesuarların yiyecek ve sürreal biçimlerle eğlenceli hale getirilmesi akımı.",
-   "why": "Reddit shutupandtakemymoney topluluğunda ravioli şeklinde tasarlanmış kartvizitlik paylaşımı popüler oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ravioli veya farklı yiyecek görünümlü deri/kumaş bozuk para cüzdanları ve kartlıklar.",
-   "product_keywords": [
-    {
-     "keyword": "ravioli card holder",
-     "label": "mantı biçimli kartlık"
-    },
-    {
-     "keyword": "food shaped wallet",
-     "label": "yiyecek tasarımlı cüzdan"
-    }
-   ]
-  },
-  {
-   "name": "Ms. Rachel Kültürü",
+   "name": "Fantasy Romance Ball (Romantasy Estetiği)",
    "heat": "Yükseliyor",
-   "desc": "Okul öncesi içerikleriyle tanınan Ms. Rachel'ın ebeveynler ve Gen Z popüler kültüründe ikonik bir figür haline gelmesi.",
-   "why": "Reddit popculturechat topluluğunda Ms. Rachel hakkında birden fazla yüksek etkileşimli gönderi paylaşıldı.",
+   "desc": "Popüler fantezi ve romantik kurgu kitaplarından esinlenen tematik balolar, kostümlü davetler ve vintage masalsı giyim tarzı.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantezi aşk balosu ('fantasy romance ball') için kıyafet ve aksesuar arayan gönderi öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ms. Rachel esprili ebeveyn tişörtleri, öğretmen hediyelikleri veya motivasyon kupaları.",
+   "idea": "Balo kıyafetlerine uygun el yapımı vintage broşlar, fantezi pelerin tokaları ve kadife yelek aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "ms rachel mom shirt",
-     "label": "ms rachel temalı tişört"
+     "keyword": "fantasy ball velvet cape",
+     "label": "fantastik balo kadife pelerin"
     },
     {
-     "keyword": "ms rachel mug",
-     "label": "ms rachel kupa"
+     "keyword": "vintage medieval brooch",
+     "label": "vintage ortaçağ broşu"
+    }
+   ]
+  },
+  {
+   "name": "Ms. Rachel / Toddler Core Merch",
+   "heat": "Hızla yükseliyor",
+   "desc": "Küçük çocuklu aileler ve Z kuşağı ebeveynleri arasında fenomene dönüşen eğitici içerik üreticisi Ms. Rachel hayranlığı ve estetiği.",
+   "why": "Reddit r/popculturechat topluluğunda Ms. Rachel ile ilgili birden fazla gönderi haftanın en yüksek etkileşimini aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Bebekler için Ms. Rachel tarzı pembe fiyonk/saç bandı setleri ve el yapımı Montessori keçe öğrenme kartları.",
+   "product_keywords": [
+    {
+     "keyword": "toddler pink headband bow set",
+     "label": "bebek pembe fiyonklu saç bandı"
+    },
+    {
+     "keyword": "felt learning flashcards",
+     "label": "keçe eğitici aktivite kartları"
+    }
+   ]
+  },
+  {
+   "name": "BIFL Heritage Waxed Jacket Bakımı ve Restorasyonu",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı moda yerine Barbour benzeri ömürlük klasik dış giyim ürünlerini evde restore edip koruyarak kullanma hareketi.",
+   "why": "Reddit r/BuyItForLife topluluğunda 1993 yapımı vintage Barbour ceketin hayata döndürülmesi gönderisi trend oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Mumlu ceketler için doğal içerikli evde vakslama/bakım kalıbı ve vintage kumaş onarım tamir yamaları.",
+   "product_keywords": [
+    {
+     "keyword": "waxed cotton reproofing bar",
+     "label": "mumlu ceket bakım mumu"
+    },
+    {
+     "keyword": "vintage garment repair patches",
+     "label": "vintage kıyafet onarım yaması"
+    }
+   ]
+  },
+  {
+   "name": "Retro Tamagotchi & Y2K Dijital Nostalji",
+   "heat": "Yeni çıktı",
+   "desc": "2000'ler başının nostaljik sanal bebek cihazlarını (Tamagotchi vb.) retro aksesuar ve koleksiyon parçası olarak taşıma trendi.",
+   "why": "Reddit r/BuyItForLife topluluğunda 22 yıllık Tamagotchi'nin hala kullanıldığına dair paylaşım viral etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El örgüsü koruyucu Tamagotchi kılıfları ve Y2K piksel temalı boncuklu çanta/anahtarlık askıları.",
+   "product_keywords": [
+    {
+     "keyword": "crochet tamagotchi case",
+     "label": "örgü tamagotchi kılıfı"
+    },
+    {
+     "keyword": "y2k pixel keychain charm",
+     "label": "y2k piksel anahtarlık askısı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T03:03+00:00",
+ "trends_updated_at": "2026-09-27T06:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -257,7 +277,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -265,12 +285,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-27T04:38+00:00"
+ "generated_at": "2026-09-27T06:03+00:00"
 }

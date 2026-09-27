@@ -3,34 +3,75 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas",
+   "name": "Flores Amarillas (Sarı Çiçek Hareketi)",
    "heat": "Zirvede",
-   "desc": "TikTok'ta sonbaharın gelişiyle (ve Güney Yarımküre'de ilkbaharın başlamasıyla) sevgililere veya arkadaşlara sarı çiçekler hediye etme akımı.",
-   "why": "TikTok popüler hashtag listesinde 'floresamarillas' ikinci sırada yer alıyor.",
+   "desc": "Sonbahar/ilkbahar ekinoksu döneminde sevgi ve bağlılık göstergesi olarak birbirine sarı çiçek hediye etme viral TikTok geleneği.",
+   "why": "TikTok trend listesinde '#floresamarillas' etiketi 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı örgü (crochet) sarı çiçek buketleri veya sarı çiçek temalı takılar.",
+   "idea": "Solmayan tığ işi (crochet) sarı çiçek buketleri, sarı çiçek motifli el yapımı kolyeler ve hediyelik tebrik kartı setleri",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flowers",
-     "label": "tığ işi sarı çiçekler"
+     "keyword": "crochet yellow flower",
+     "label": "örgü sarı çiçek buketi"
     },
     {
-     "keyword": "yellow flower bouquet",
-     "label": "sarı çiçek buketi"
+     "keyword": "yellow flower gift",
+     "label": "sarı çiçek temalı hediye"
     }
    ]
   },
   {
-   "name": "Ravioli Card Holder",
-   "heat": "Yeni çıktı",
-   "desc": "İtalyan mantısı (ravioli) şeklinde tasarlanmış, eğlenceli ve sıra dışı cüzdan/kartlık tasarımı.",
-   "why": "Reddit'in 'shutupandtakemymoney' topluluğunda popüler bir gönderi olarak paylaşıldı.",
+   "name": "Cozy Fall (Sonbahar Karşılaması)",
+   "heat": "Zirvede",
+   "desc": "Sonbaharın ilk gününün gelişiyle sıcak içecekler, yaprak desenleri ve nostaljik sonbahar atmosferine geçişi kutlayan mevsimsel estetik.",
+   "why": "TikTok'ta '#firstdayoffall' 3. sırada yer alırken, Reddit r/GenZ topluluğunda sonbaharın gelişi viral gönderilerle kutlanıyor.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Sonbahar temalı esprili illüstrasyonlara sahip oversize sweatshirt'ler ve balkabağı/sonbahar yaprağı formunda el yapımı ",
+   "product_keywords": [
+    {
+     "keyword": "cozy fall sweatshirt",
+     "label": "sonbahar temalı sweatshirt"
+    },
+    {
+     "keyword": "autumn ceramic mug",
+     "label": "sonbahar seramik fincan"
+    }
+   ]
+  },
+  {
+   "name": "Fantasy Romance Ball (Romantasy Balosu)",
+   "heat": "Yükseliyor",
+   "desc": "Fantastik aşk kitaplarından esinlenen ve gençlerin peri, elf veya gotik saray kıyafetleriyle katıldığı tematik balo modası.",
+   "why": "Reddit r/malefashionadvice topluluğunda bir kullanıcının fantastik aşk balosu için kıyafet tavsiyesi araması öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Deri veya silikondan yapılmış, ravioli makarna şeklinde fermuarlı bozuk para cüzdanı ve kartlık.",
+   "idea": "Fantastik pelerin klipsleri, vintage tarzda broşlar, peri kulak takıları ve romantik kadife yelekler/aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy ball cloak clasp",
+     "label": "fantastik pelerin tokası"
+    },
+    {
+     "keyword": "romantasy jewelry",
+     "label": "romantasy temalı takı"
+    }
+   ]
+  },
+  {
+   "name": "Trompe-l'œil Gıda Aksesuarları (Ravioli Cüzdan)",
+   "heat": "Yeni çıktı",
+   "desc": "Gerçek yiyecek formlarında tasarlanmış, mizahi ve sevimli gündelik deri ya da kumaş aksesuarlar.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda ravioli (İtalyan mantısı) formundaki kartlık viral ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Deri veya suni deriden üretilmiş ravioli şeklinde kartvizitlik, bozuk para cüzdanı veya makarna formlu anahtarlıklar.",
    "product_keywords": [
     {
      "keyword": "ravioli card holder",
@@ -38,93 +79,32 @@
     },
     {
      "keyword": "pasta coin purse",
-     "label": "makarna bozuk para cüzdanı"
+     "label": "makarna şeklinde bozuk para cüzdanı"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball Accessories",
+   "name": "Anti-The Big Light (Sıcak Ambiyans Işığı)",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin kitap topluluklarından (BookTok) ilham alarak katıldığı fantastik ve romantik temalı balolar için giyim ve aksesuar arayışı.",
-   "why": "Reddit'in 'malefashionadvice' topluluğunda bir kullanıcının fantastik romantizm balosu için kıyafet ve aksesuar tavsiyesi istemesiyle görüldü.",
+   "desc": "Gen Z'nin parlak beyaz tavan ve ofis floresanlarını reddedip loş, sıcak ve huzurlu masa lambalarına yönelme akımı.",
+   "why": "Reddit r/GenZ topluluğunda ofis ve okullardaki parlak floresan ışıkların kaldırılması talebi yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Fantastik balolar için el yapımı elf kulak aksesuarları, taçlar veya maskeler.",
+   "idea": "Loş ve sıcak tonlar yayan mini mantar gece lambaları, 3D baskı tasarımlı ambiyans masa lambaları veya yumuşak kumaş abaj",
    "product_keywords": [
     {
-     "keyword": "fantasy romance ball accessories",
-     "label": "fantastik balo aksesuarları"
+     "keyword": "cozy ambient desk lamp",
+     "label": "sıcak ambiyans masa lambası"
     },
     {
-     "keyword": "elven ear cuff",
-     "label": "elf kulaklığı"
-    }
-   ]
-  },
-  {
-   "name": "Cozy Autumn Humor",
-   "heat": "Zirvede",
-   "desc": "Sonbaharın gelişiyle birlikte Gen Z'nin 'mating season' (çiftleşme mevsimi) esprileri ve sıcak sonbahar estetiğini birleştiren mizahi akımı.",
-   "why": "TikTok'ta 'firstdayoffall' hashtagi zirvedeyken, Reddit GenZ topluluğunda 'Happy Autumn/mating season' başlığı popüler oldu.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Üzerinde 'Happy Autumn to all who celebrate' veya 'Autumn/Mating Season' yazılı esprili kupalar ve sweatshirtler.",
-   "product_keywords": [
-    {
-     "keyword": "funny autumn mug",
-     "label": "esprili sonbahar kupası"
-    },
-    {
-     "keyword": "cozy fall sweatshirt",
-     "label": "sıcak tutan sonbahar sweatshirtü"
-    }
-   ]
-  },
-  {
-   "name": "Pokémon Custom Card Crafts",
-   "heat": "Hızla yükseliyor",
-   "desc": "Pokémon'un 30. yılına özel etkinlikler ve koleksiyon kartları (TCG) için özel yapım sergileme ve koruma ürünlerine olan ilgi.",
-   "why": "Google'da 'target pokemon event' aramalarında yaşanan ani artışla ortaya çıktı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Koleksiyon kartları için ahşap veya akrilik özel tasarım 3D sergileme çerçeveleri ve standları.",
-   "product_keywords": [
-    {
-     "keyword": "pokemon card display frame",
-     "label": "pokemon kart sergileme çerçevesi"
-    },
-    {
-     "keyword": "custom tcg card stand",
-     "label": "özel tcg kart standı"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Fluorescent Light Movement",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z'nin okul ve ofislerdeki soğuk floresan ışıklardan nefret edip daha sıcak, loş ve estetik aydınlatmaları savunması.",
-   "why": "Reddit GenZ topluluğunda floresan ışıkların tamamen kaldırılmasına yönelik viral bir gönderi paylaşıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sınıf ve ofis floresan lambaları için ışığı yumuşatan dekoratif manyetik kumaş kapaklar.",
-   "product_keywords": [
-    {
-     "keyword": "fluorescent light covers classroom",
-     "label": "floresan ışık kapakları sınıf"
-    },
-    {
-     "keyword": "magnetic light filters",
-     "label": "manyetik ışık filtreleri"
+     "keyword": "mushroom night light",
+     "label": "mantar gece lambası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T15:03+00:00",
+ "trends_updated_at": "2026-09-27T18:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -285,12 +265,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-27T15:03+00:00"
+ "generated_at": "2026-09-27T18:03+00:00"
 }

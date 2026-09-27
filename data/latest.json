@@ -3,128 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek) Akımı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar başlangıcında veya sevgiyi ifade etmek amacıyla sarı çiçek hediye etme ve paylaşma viral sosyal medya akımı.",
-   "why": "TikTok'ta #floresamarillas etiketi popülerlik sıralamasında 2. sırada yer almaktadır.",
+   "name": "Flores Amarillas (Sarı Çiçekler)",
+   "heat": "Zirvede",
+   "desc": "Sonbaharın gelişiyle sevdiklerine sarı çiçek hediye etme ve sarı çiçek temalı estetik paylaşımlar yapma akımı.",
+   "why": "TikTok'ta #floresamarillas etiketi popülerlik sıralamasında 2. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı örgü sarı çiçekler, yapay sarı çiçek buketleri ve sarı çiçek motifli takılar.",
+   "idea": "El yapımı örgü sarı çiçek demetleri, sarı çiçek motifli takılar ve anahtarlıklar.",
    "product_keywords": [
     {
-     "keyword": "crochet yellow flower",
-     "label": "Örgü sarı çiçek"
+     "keyword": "crochet yellow flowers",
+     "label": "örgü sarı çiçek"
     },
     {
-     "keyword": "yellow flower bouquet",
-     "label": "Sarı çiçek buketi"
+     "keyword": "yellow flower keychain",
+     "label": "sarı çiçek anahtarlık"
     }
    ]
   },
   {
-   "name": "Sonbahar ve Hasat Dolunayı Estetiği",
-   "heat": "Zirvede",
-   "desc": "Sonbaharın gelişi (First Day of Fall) ve Hasat Dolunayı (Harvest Moon) temalı sıcak ev dekorasyon ürünleri.",
-   "why": "TikTok'ta #firstdayoffall etiketi 3. sırada yer alırken Google'da 'moon tonight' (Harvest moon) araması 2000+ hacme ulaşmıştır.",
+   "name": "Sonbahar Karşılama (First Day of Fall)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Mevsim geçişiyle birlikte sıcak tonlar, cozy yaşam tarzı ve sonbahar temalı günlük eşyaların öne çıktığı akım.",
+   "why": "TikTok'ta #firstdayoffall etiketi 3. sıradayken Reddit GenZ topluluğunda sonbahar kutlama gönderileri öne çıktı.",
    "sources": [
     "TikTok",
-    "Google"
-   ],
-   "idea": "Dolunay ve sonbahar yaprağı temalı el yapımı soya mumları, kupalar veya ev dekorasyon objeleri.",
-   "product_keywords": [
-    {
-     "keyword": "fall decor candle",
-     "label": "Sonbahar temalı mum"
-    },
-    {
-     "keyword": "harvest moon mug",
-     "label": "Hasat dolunayı kupası"
-    }
-   ]
-  },
-  {
-   "name": "Whimsy Goth Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Gotik unsurları masalsı, gizemli ve nostaljik detaylarla birleştiren giyim ve aksesuar akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda Whimsy Goth tarzı giyim ve kombin önerileri üzerine başlık açılmıştır.",
-   "sources": [
     "Reddit"
    ],
-   "idea": "Masalsı ve gotik detaylara sahip el yapımı takılar, dantelli aksesuarlar veya gizemli sembollü çantalar.",
+   "idea": "Sonbahar esprili baskılı sweatshirtler, cozy kahve kupaları ve yaprak motifli mumluklar.",
    "product_keywords": [
     {
-     "keyword": "whimsy goth jewelry",
-     "label": "Whimsy goth takı"
+     "keyword": "fall aesthetic sweatshirt",
+     "label": "sonbahar sweatshirt"
     },
     {
-     "keyword": "whimsy goth accessories",
-     "label": "Whimsy goth aksesuar"
+     "keyword": "autumn cozy mug",
+     "label": "sonbahar temalı kupa"
     }
    ]
   },
   {
-   "name": "Tamagotchi ve Retro Piksel Nostaljisi",
-   "heat": "Yükseliyor",
-   "desc": "90'ların unutulmaz sanal bebek estetiğini ve nostaljik piksel ürünlerini günümüze taşıyan trend.",
-   "why": "Reddit BuyItForLife topluluğunda 22 yıllık Tamagotchi paylaşımı yüksek ilgi görmüştür.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Tamagotchi cihazları için el yapımı örgü koruma kılıfları ve piksel sanatı temalı anahtarlıklar.",
-   "product_keywords": [
-    {
-     "keyword": "tamagotchi pouch",
-     "label": "Tamagotchi kılıfı"
-    },
-    {
-     "keyword": "pixel art keychain",
-     "label": "Piksel anahtarlık"
-    }
-   ]
-  },
-  {
-   "name": "Geleneksel Aran Örgü Tarzı",
-   "heat": "Yükseliyor",
-   "desc": "Dayanıklı, otantik İrlanda tarzı Aran örgü giyim ürünlerine ve el yapımı yün tasarımlara olan ilgi.",
-   "why": "Reddit BuyItForLife sayfasında otantik Aran yün ürünleri ve örgü kalitesi tartışılmaktadır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Otantik Aran desenli el örgüsü kalın bereler, atkılar ve süveterler.",
-   "product_keywords": [
-    {
-     "keyword": "aran knit sweater",
-     "label": "Aran örgü kazak"
-    },
-    {
-     "keyword": "chunky knit scarf",
-     "label": "Kalın örgü atkı"
-    }
-   ]
-  },
-  {
-   "name": "Çizme ve Bacak Isıtıcı (Leg Warmer) Stili",
+   "name": "Fantasy Romance Ball (Romantasy Giyim)",
    "heat": "Yeni çıktı",
-   "desc": "Sonbaharda yağmur çizmeleri ve uzun botların örgü aksesuarlarla stilize edildiği giyim akımı.",
-   "why": "Reddit femalefashionadvice topluluğunda yağmur çizmeleri ve uzun botların kombinlenmesi tartışılmaktadır.",
+   "desc": "Fantastik roman ve masal temalı balo etkinlikleri için dönem giysileri ve aksesuarları arayışı.",
+   "why": "Reddit malefashionadvice topluluğunda fantasy romance ball konseptli kombin ve aksesuar tavsiyesi istendi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Çizmelerle birlikte kullanılmak üzere tasarlanmış örgü bacak ısıtıcıları (leg warmers) ve kalın bot çorapları.",
+   "idea": "Fantastik balo konseptli kadife pelerinler, broşlar, bel korseleri ve peri/elf ilhamlı takılar.",
    "product_keywords": [
     {
-     "keyword": "knit leg warmers",
-     "label": "Örgü bacak ısıtıcı"
+     "keyword": "fantasy romance ball outfit",
+     "label": "fantezi balo kıyafeti"
     },
     {
-     "keyword": "boot socks",
-     "label": "Çizme çorabı"
+     "keyword": "gothic velvet cloak",
+     "label": "kadife pelerin"
+    }
+   ]
+  },
+  {
+   "name": "Ravioli Card Holder (Gurme/Eğlenceli Cüzdanlar)",
+   "heat": "Yeni çıktı",
+   "desc": "Günlük aksesuarların yiyecek ve sürreal biçimlerle eğlenceli hale getirilmesi akımı.",
+   "why": "Reddit shutupandtakemymoney topluluğunda ravioli şeklinde tasarlanmış kartvizitlik paylaşımı popüler oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ravioli veya farklı yiyecek görünümlü deri/kumaş bozuk para cüzdanları ve kartlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "ravioli card holder",
+     "label": "mantı biçimli kartlık"
+    },
+    {
+     "keyword": "food shaped wallet",
+     "label": "yiyecek tasarımlı cüzdan"
+    }
+   ]
+  },
+  {
+   "name": "Ms. Rachel Kültürü",
+   "heat": "Yükseliyor",
+   "desc": "Okul öncesi içerikleriyle tanınan Ms. Rachel'ın ebeveynler ve Gen Z popüler kültüründe ikonik bir figür haline gelmesi.",
+   "why": "Reddit popculturechat topluluğunda Ms. Rachel hakkında birden fazla yüksek etkileşimli gönderi paylaşıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ms. Rachel esprili ebeveyn tişörtleri, öğretmen hediyelikleri veya motivasyon kupaları.",
+   "product_keywords": [
+    {
+     "keyword": "ms rachel mom shirt",
+     "label": "ms rachel temalı tişört"
+    },
+    {
+     "keyword": "ms rachel mug",
+     "label": "ms rachel kupa"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T00:04+00:00",
+ "trends_updated_at": "2026-09-27T03:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -369,7 +349,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -377,12 +357,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-27T00:04+00:00"
+ "generated_at": "2026-09-27T03:03+00:00"
 }

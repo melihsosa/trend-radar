@@ -3,108 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Flores Amarillas (Sarı Çiçek Hediyeleşmesi)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Latin Amerika popüler kültüründen yayılan ve sonbahar ekinoksunda sevilen kişilere iyi dilek ve sevgi simgesi olarak sarı çiçek hediye etme viral akımı.",
-   "why": "TikTok Creative Center verilerinde #floresamarillas etiketi 2. sırada yer alarak en çok kullanılan hashtag'lerden biri oldu.",
+   "name": "Flores Amarillas",
+   "heat": "Zirvede",
+   "desc": "TikTok'ta sonbaharın gelişiyle (ve Güney Yarımküre'de ilkbaharın başlamasıyla) sevgililere veya arkadaşlara sarı çiçekler hediye etme akımı.",
+   "why": "TikTok popüler hashtag listesinde 'floresamarillas' ikinci sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Solmayan tığ işi sarı çiçek buketleri, sarı çiçek kurutulmuş reçine takılar ve çiçek temalı hediye paketleri.",
+   "idea": "El yapımı örgü (crochet) sarı çiçek buketleri veya sarı çiçek temalı takılar.",
    "product_keywords": [
     {
      "keyword": "crochet yellow flowers",
-     "label": "örgü sarı çiçek buketi"
+     "label": "tığ işi sarı çiçekler"
     },
     {
-     "keyword": "yellow flower resin necklace",
-     "label": "sarı çiçek reçine kolye"
+     "keyword": "yellow flower bouquet",
+     "label": "sarı çiçek buketi"
     }
    ]
   },
   {
-   "name": "Whimsigoth Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "90'ların karanlık gotik havası ile göksel (güneş/ay/yıldız) motifler, kadife ve bohem esintileri bir araya getiren retro alternatif moda akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda Whimsigoth gardırobu oluşturma ve parçaları kombinleme başlığı yoğun ilgi gördü.",
+   "name": "Ravioli Card Holder",
+   "heat": "Yeni çıktı",
+   "desc": "İtalyan mantısı (ravioli) şeklinde tasarlanmış, eğlenceli ve sıra dışı cüzdan/kartlık tasarımı.",
+   "why": "Reddit'in 'shutupandtakemymoney' topluluğunda popüler bir gönderi olarak paylaşıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kadife ve dantel detaylı kimonolar, göksel (celestial) sembollü pirinç/gümüş takılar ve gotik bohem saç aksesuarları.",
+   "idea": "Deri veya silikondan yapılmış, ravioli makarna şeklinde fermuarlı bozuk para cüzdanı ve kartlık.",
    "product_keywords": [
     {
-     "keyword": "whimsigoth celestial jewelry",
-     "label": "whimsigoth göksel takı"
+     "keyword": "ravioli card holder",
+     "label": "ravioli kartlık"
     },
     {
-     "keyword": "velvet lace kimono",
-     "label": "kadife dantel kimono"
+     "keyword": "pasta coin purse",
+     "label": "makarna bozuk para cüzdanı"
     }
    ]
   },
   {
-   "name": "First Day of Fall (Sonbahar Cozy Sezonu)",
+   "name": "Fantasy Romance Ball Accessories",
+   "heat": "Yükseliyor",
+   "desc": "Gençlerin kitap topluluklarından (BookTok) ilham alarak katıldığı fantastik ve romantik temalı balolar için giyim ve aksesuar arayışı.",
+   "why": "Reddit'in 'malefashionadvice' topluluğunda bir kullanıcının fantastik romantizm balosu için kıyafet ve aksesuar tavsiyesi istemesiyle görüldü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Fantastik balolar için el yapımı elf kulak aksesuarları, taçlar veya maskeler.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy romance ball accessories",
+     "label": "fantastik balo aksesuarları"
+    },
+    {
+     "keyword": "elven ear cuff",
+     "label": "elf kulaklığı"
+    }
+   ]
+  },
+  {
+   "name": "Cozy Autumn Humor",
    "heat": "Zirvede",
-   "desc": "Sonbahar mevsimine geçişle birlikte ev ortamını sıcaklaştırma, balkabağı teması ve katmanlı konforlu giyime odaklanan mevsimsel yaşam tarzı hareketi.",
-   "why": "TikTok'ta #firstdayoffall etiketi hızla yükselip 3. sıraya otururken Reddit moda topluluğunda bot ve orta katman giyim arayışları öne çıktı.",
+   "desc": "Sonbaharın gelişiyle birlikte Gen Z'nin 'mating season' (çiftleşme mevsimi) esprileri ve sıcak sonbahar estetiğini birleştiren mizahi akımı.",
+   "why": "TikTok'ta 'firstdayoffall' hashtagi zirvedeyken, Reddit GenZ topluluğunda 'Happy Autumn/mating season' başlığı popüler oldu.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Kişiselleştirilebilir sonbahar illüstrasyonlu seramik kupalar, örgü balkabağı dekorları ve sıcak tutan triko şallar.",
+   "idea": "Üzerinde 'Happy Autumn to all who celebrate' veya 'Autumn/Mating Season' yazılı esprili kupalar ve sweatshirtler.",
    "product_keywords": [
     {
-     "keyword": "fall aesthetic mug",
-     "label": "sonbahar temalı kupa"
+     "keyword": "funny autumn mug",
+     "label": "esprili sonbahar kupası"
     },
     {
-     "keyword": "knit pumpkin decor",
-     "label": "örgü balkabağı dekoru"
+     "keyword": "cozy fall sweatshirt",
+     "label": "sıcak tutan sonbahar sweatshirtü"
     }
    ]
   },
   {
-   "name": "Aran Kablo Örgü (Heritage Knitwear)",
+   "name": "Pokémon Custom Card Crafts",
+   "heat": "Hızla yükseliyor",
+   "desc": "Pokémon'un 30. yılına özel etkinlikler ve koleksiyon kartları (TCG) için özel yapım sergileme ve koruma ürünlerine olan ilgi.",
+   "why": "Google'da 'target pokemon event' aramalarında yaşanan ani artışla ortaya çıktı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Koleksiyon kartları için ahşap veya akrilik özel tasarım 3D sergileme çerçeveleri ve standları.",
+   "product_keywords": [
+    {
+     "keyword": "pokemon card display frame",
+     "label": "pokemon kart sergileme çerçevesi"
+    },
+    {
+     "keyword": "custom tcg card stand",
+     "label": "özel tcg kart standı"
+    }
+   ]
+  },
+  {
+   "name": "Anti-Fluorescent Light Movement",
    "heat": "Yükseliyor",
-   "desc": "Hızlı modanın kalitesizliğine tepki olarak ömürlük, geleneksel el yapımı İrlanda kablo örgüsü triko ve aksesuarlara yönelme akımı.",
-   "why": "Reddit r/BuyItForLife topluluğunda Aran Islands örgülerinin otantikliği ve dayanıklılığı üzerine paylaşımlar yoğun tartışma yarattı.",
+   "desc": "Gen Z'nin okul ve ofislerdeki soğuk floresan ışıklardan nefret edip daha sıcak, loş ve estetik aydınlatmaları savunması.",
+   "why": "Reddit GenZ topluluğunda floresan ışıkların tamamen kaldırılmasına yönelik viral bir gönderi paylaşıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel kablo örgü desenli el yapımı kalın yün bereler, parmaksız eldivenler ve kalın boyunluklar.",
+   "idea": "Sınıf ve ofis floresan lambaları için ışığı yumuşatan dekoratif manyetik kumaş kapaklar.",
    "product_keywords": [
     {
-     "keyword": "chunky cable knit beanie",
-     "label": "kalın kablo örgü bere"
+     "keyword": "fluorescent light covers classroom",
+     "label": "floresan ışık kapakları sınıf"
     },
     {
-     "keyword": "aran wool fingerless gloves",
-     "label": "yün parmaksız eldiven"
-    }
-   ]
-  },
-  {
-   "name": "Y2K Tamagotchi & Retro Tech Nostaljisi",
-   "heat": "Yeni çıktı",
-   "desc": "2000'lerin başındaki dijital sanal bebekleri ve piksel nostaljisini günlük giyilebilir aksesuarlarla canlandırma akımı.",
-   "why": "Reddit r/BuyItForLife topluluğunda 22 yıllık çalışır durumdaki Tamagotchi gönderisi haftanın en popüler içerikleri arasına girdi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sanal bebek cihazları için el yapımı sevimli tığ kılıflar ve piksel sanatı temalı Y2K telefon/çanta süsleri.",
-   "product_keywords": [
-    {
-     "keyword": "crochet tamagotchi case",
-     "label": "tığ işi tamagotchi kılıfı"
-    },
-    {
-     "keyword": "y2k pixel keychain charm",
-     "label": "y2k piksel çanta süsü"
+     "keyword": "magnetic light filters",
+     "label": "manyetik ışık filtreleri"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T12:04+00:00",
+ "trends_updated_at": "2026-09-27T15:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -257,7 +277,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -265,12 +285,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-27T12:04+00:00"
+ "generated_at": "2026-09-27T15:03+00:00"
 }

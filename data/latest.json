@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "City Taste Test",
-   "heat": "Zirvede",
-   "desc": "Farklı şehirlerdeki yerel lezzetleri ve mekanları deneyimleyip puanlama üzerine kurulan popüler içerik akımı.",
-   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer almaktadır.",
+   "name": "#citytastetest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir içi lezzet turları için tasarlanmış puanlama ve not alma kartları/günlükleri.",
-   "product_keywords": [
-    {
-     "keyword": "food taste test journal",
-     "label": "yemek tadım günlüğü"
-    },
-    {
-     "keyword": "city food rating card",
-     "label": "şehir yemek derecelendirme kartı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Fantasy Romance Ball",
+   "name": "#authentik",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin fantezi ve romantizm temalı kostümlü balolara katılmasıyla şekillenen estetik giyim ve aksesuar akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda fantezi romantizm balosu için kombin tavsiyesi istenen popüler gönderi mevcuttur.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Fantezi-romantik temalı balo maskeleri, işlemeli pelerinler ve peri/mitoloji estetiğinde takılar.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy romance ball mask",
-     "label": "fantezi balo maskesi"
-    },
-    {
-     "keyword": "romantasy masquerade cape",
-     "label": "romantasy maskeli balo pelerini"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Iced Coffee Discourse",
-   "heat": "Hızla yükseliyor",
-   "desc": "Z kuşağının soğuk kahve tüketimi ve etrafında dönen sosyal mizah/tartışma kültürü.",
-   "why": "Reddit r/GenZ topluluğunda gençlerin yeni gündem ve linç konusunun soğuk kahve ile ilgili olduğuna dair viral gönderi öne çıkmaktadır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Soğuk kahveye özel mizahi sloganlı cam bardaklar (glass cans) ve neopren bardak kılıfları.",
-   "product_keywords": [
-    {
-     "keyword": "iced coffee glass cup",
-     "label": "buzlu kahve cam bardağı"
-    },
-    {
-     "keyword": "funny iced coffee sleeve",
-     "label": "komik buzlu kahve kılıfı"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Fluorescent Lighting Movement",
-   "heat": "Yükseliyor",
-   "desc": "Sınıf ve ofislerdeki sert floresan aydınlatmaların yerine yumuşak, estetik aydınlatma çözümleri talep eden gençlik hareketi.",
-   "why": "Reddit r/GenZ kanalında okul ve iş yerlerindeki rahatsız edici floresan ışıkların kaldırılması üzerine popüler bir gönderi paylaşılmıştır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Floresan tavan lambaları için dekoratif kumaş ışık filtreleri ve yumuşak ışık yayan masa aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "fluorescent light filter cover",
-     "label": "floresan ışık filtre örtüsü"
-    },
-    {
-     "keyword": "classroom light filter",
-     "label": "sınıf ışık filtresi"
-    }
-   ]
-  },
-  {
-   "name": "Authentik Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Filtresiz, doğal, el yapımı ve özgün ürünleri öne çıkaran yaşam tarzı akımı.",
-   "why": "TikTok trend hashtag listesinde #authentik 2. sırada bulunmaktadır.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı, doğal dokulu kağıtlardan yapılmış defterler ve ham kumaş minimalist çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "authentic handmade journal",
-     "label": "otantik el yapımı günlük"
-    },
-    {
-     "keyword": "raw cotton tote bag",
-     "label": "ham pamuk bez çanta"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Autumn Mating Season Meme",
-   "heat": "Yeni çıktı",
-   "desc": "Sonbahar mevsiminin gelişini mizahi bir dille 'çiftleşme/eşleşme sezonu' olarak adlandıran Gen Z esprisi.",
-   "why": "Reddit r/GenZ topluluğunda 'Happy Autumn/mating season' başlıklı yüksek etkileşimli gönderi yer almaktadır.",
+   "name": "#mylivejourney",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Mizahi yazılı sonbahar temalı tişörtler, seramik kupalar ve sweat'ler.",
-   "product_keywords": [
-    {
-     "keyword": "autumn mating season shirt",
-     "label": "komik sonbahar tişörtü"
-    },
-    {
-     "keyword": "funny autumn mug",
-     "label": "esprili sonbahar kupası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-09-28T06:03+00:00",
+ "trends_updated_at": "2026-09-28T09:05+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -490,13 +403,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-28T06:03+00:00"
+ "generated_at": "2026-09-28T09:05+00:00"
 }

@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#citytastetest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Fantasy Romance Ball Aesthetic",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin 'romantasy' kitap evrenlerinden esinlenen tematik balolara katılması ve gotik-masalsı kıyafetler araması akımıdır.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance balosu için kombin ve aksesuar önerisi arayışıyla öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Fantastik balo kombinleri için vintage görünümlü broşlar, pelerin tokaları ve omuz zincirleri.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy ball accessories",
+     "label": "fantastik balo aksesuarları"
+    },
+    {
+     "keyword": "vintage cape clasp brooch",
+     "label": "vintage pelerin tokası broş"
+    }
+   ]
   },
   {
-   "name": "#authentik",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Gen Z Iced Coffee Discourse & Lifestyle",
+   "heat": "Hızla yükseliyor",
+   "desc": "Buzlu kahvenin Gen Z kültüründe bir yaşam tarzı ve günlük mizah unsuru haline gelmesi akımıdır.",
+   "why": "Reddit r/GenZ üzerinde gençlerin iced coffee odaklı yeni tartışma ve trendlere odaklanmasıyla görüldü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Bambu kapaklı cam kutu bardaklar ve Gen Z mizahı içeren yalıtımlı neopren buzlu kahve kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "aesthetic iced coffee glass cup",
+     "label": "estetik cam kahve bardağı"
+    },
+    {
+     "keyword": "iced coffee sleeve holder",
+     "label": "buzlu kahve bardak kılıfı"
+    }
+   ]
   },
   {
-   "name": "#mylivejourney",
+   "name": "Anti-Big Light & Cozy Ambiyans Aydınlatması",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Sert tepe floresan ışıklarına tepki olarak loş, sıcak ve retro masa lambalarıyla rahatlatıcı yaşam alanları yaratma hareketi.",
+   "why": "Reddit r/GenZ topluluğunda floresan/tavan ışıklarını tamamen kaldırma çağrısı yoğun destek aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Komodin ve çalışma masaları için 3D baskı mantar formunda sıcak ışıklı ambiyans gece lambaları.",
+   "product_keywords": [
+    {
+     "keyword": "mushroom ambient desk lamp",
+     "label": "mantar ambiyans masa lambası"
+    },
+    {
+     "keyword": "cozy warm night light",
+     "label": "sıcak ışıklı gece lambası"
+    }
+   ]
+  },
+  {
+   "name": "City Taste Test & Foodie Keşif",
+   "heat": "Hızla yükseliyor",
+   "desc": "Şehirlerdeki yerel sokak lezzetlerini ve mekanları kör tadım veya puanlama formatında test etme akımıdır.",
+   "why": "TikTok'ta #citytastetest etiketi 1. sıraya yükselerek viral oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Şehir lezzetlerini keşfetmek ve puanlamak için kazınabilir gurme haritaları ve yemek tadım ajandaları.",
+   "product_keywords": [
+    {
+     "keyword": "food tasting review journal",
+     "label": "lezzet tadım değerlendirme defteri"
+    },
+    {
+     "keyword": "scratch off foodie bucket list",
+     "label": "kazımalı gurme hedef listesi"
+    }
+   ]
+  },
+  {
+   "name": "Heritage Knitwear & Waxed Outerwear Restoration",
+   "heat": "Yeni çıktı",
+   "desc": "Hızlı modadan kaçıp ömürlük Aran örgüleri ve klasik mumlu ceketleri tamir edip uzun yıllar giyme hareketi.",
+   "why": "Reddit r/BuyItForLife ve r/malefashionadvice'da vintage Barbour ceket yenileme ve otantik triko arayışları öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Mumlu pamuklu ceketler için organik bakım/yenileme balmumu kiti ve el örgüsü yün balaklavalar.",
+   "product_keywords": [
+    {
+     "keyword": "waxed jacket fabric dressing wax",
+     "label": "mumlu ceket bakım balmumu"
+    },
+    {
+     "keyword": "chunky cable knit balaclava",
+     "label": "örgü balaklava"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-09-28T18:04+00:00",
+ "trends_updated_at": "2026-09-28T21:03+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -396,20 +463,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-28T18:04+00:00"
+ "generated_at": "2026-09-28T21:03+00:00"
 }

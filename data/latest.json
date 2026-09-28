@@ -3,107 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsigoth Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "90'ların gotik, göksel (celestial) ve bohem tarzını kadife, koyu tonlar ve astrolojik motiflerle harmanlayan nostaljik bir giyim ve dekorasyon alt kültürü.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların Whimsigoth tarzını nasıl kombinleyeceklerini ve parça seçeceklerini tartışmasıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kadife üzeri altın varaklı astroloji/göksel desenli kimono veya koyu renkli vintage gotik takılar.",
-   "product_keywords": [
-    {
-     "keyword": "whimsigoth velvet kimono",
-     "label": "whimsigoth kadife kimono"
-    },
-    {
-     "keyword": "celestial goth necklace",
-     "label": "göksel gotik kolye"
-    }
-   ]
-  },
-  {
-   "name": "First Day of Fall (Sonbahar Estetiği)",
+   "name": "Cozy Autumn / Fall Estetiği",
    "heat": "Zirvede",
-   "desc": "Mevsim geçişiyle birlikte sıcak tonlar, tarçın/balkabağı motifleri ve konfor odaklı yaşam tarzına yönelen mevsimsel sonbahar akımı.",
-   "why": "TikTok Creative Center verilerinde #firstdayoffall etiketinin en popüler ilk 3 trend arasına girmesiyle görüldü.",
+   "desc": "Gençlerin sonbaharın ilk gününü sıcak kıyafetler, mevsimlik içecekler ve esprili 'mating season' göndermeleriyle kutlaması.",
+   "why": "TikTok'ta #firstdayoffall en çok kullanılan etiketler arasında yer alırken r/GenZ'de sonbaharın gelişi esprili paylaşımlarla gündeme geldi.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "El yapımı kabak formunda seramik kahve kupaları ve sonbahar esintili soya mumları.",
+   "idea": "Esprili sonbahar ve balkabağı temalı punch needle bardak altlıkları ve işlemeli cozy sweatshirtler.",
    "product_keywords": [
     {
-     "keyword": "pumpkin ceramic mug",
-     "label": "kabak seramik kupa"
+     "keyword": "fall aesthetic sweatshirt",
+     "label": "sonbahar estetiği sweatshirt"
     },
     {
-     "keyword": "fall scented soy candle",
-     "label": "sonbahar kokulu soya mumu"
+     "keyword": "pumpkin punch needle coaster",
+     "label": "balkabağı punch bardak altlığı"
     }
    ]
   },
   {
-   "name": "Ravioli / Yiyecek Şekilli Aksesuarlar",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik günlük eşyaları eğlenceli ve gerçekçi makarna, hamur işi veya atıştırmalık formunda tasarlayan kitsch aksesuar akımı.",
-   "why": "Reddit'in shutupandtakemymoney topluluğunda ravioli şeklindeki kartlığın yoğun ilgi görmesiyle fark edildi.",
+   "name": "Iced Coffee Kültürü ve Mizahı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z'nin günlük rutin haline getirdiği buzlu kahve tüketimi ve bunun etrafında dönen yeni viral internet tartışmaları.",
+   "why": "r/GenZ topluluğunda gençlerin güncel buzlu kahve tartışması (iced coffee discourse) hakkındaki gönderisi öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kızarmış veya haşlanmış mantı/ravioli görünümünde deri veya silikon kartlık ve bozuk para cüzdanı.",
+   "idea": "Buzlu kahve bardakları için kişiselleştirilebilir neopren kılıflar ve esprili sloganlı cam pipetli kahve bardakları.",
+   "product_keywords": [
+    {
+     "keyword": "iced coffee can glass",
+     "label": "buzlu kahve cam bardağı"
+    },
+    {
+     "keyword": "aesthetic iced coffee sleeve",
+     "label": "estetik buzlu kahve kılıfı"
+    }
+   ]
+  },
+  {
+   "name": "Fantasy Romance Ball (Romantasy Modası)",
+   "heat": "Yükseliyor",
+   "desc": "Fantezi romanlarından esinlenen ve genç yetişkinlerin katıldığı peri masalı/romantizm temalı balolar için kostüm ve aksesuar arayışı.",
+   "why": "r/malefashionadvice topluluğunda fantezi romantizm balosu için eksik parça ve alışveriş tavsiyesi istenen başlık popüler oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Balolar ve tematik etkinlikler için el yapımı gotik/fantezi pelerin tokaları, broşlar ve elf kulak manşetleri.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy cape clasp",
+     "label": "fantezi pelerin tokası"
+    },
+    {
+     "keyword": "fairy ear cuff",
+     "label": "peri kulak manşeti"
+    }
+   ]
+  },
+  {
+   "name": "Kitsch Yiyecek Formunda Aksesuarlar",
+   "heat": "Yeni çıktı",
+   "desc": "Deri ve kumaş işçiliğinde ravioli, makarna gibi yiyecek formlarının minimalist ve sevimli aksesuarlara dönüştürülmesi.",
+   "why": "r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' tasarımı ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ravioli şeklinde tırtıklı kenarlı, el dikişi deri kartlık ve mini bozuk para cüzdanı.",
    "product_keywords": [
     {
      "keyword": "ravioli card holder",
-     "label": "ravioli şeklinde kartlık"
+     "label": "ravioli kartlık"
     },
     {
-     "keyword": "pasta coin purse",
-     "label": "makarna şeklinde bozuk para cüzdanı"
+     "keyword": "leather food wallet",
+     "label": "deri yiyecek figürlü cüzdan"
     }
    ]
   },
   {
-   "name": "Heritage Aran & Klasik Kablo Örgü",
+   "name": "Anti-Floresan / Yumuşak Ortam Işığı",
    "heat": "Yükseliyor",
-   "desc": "Hızlı modaya tepki olarak ömürlük, doğal yün ve geleneksel İrlanda kablo örgüsü ürünlere yönelen sürdürülebilir giyim akımı.",
-   "why": "Reddit'in BuyItForLife topluluğunda otantik Aran örgüsü giysilerin ve dayanıklı miras kıyafetlerin tartışılmasıyla tespit edildi.",
+   "desc": "Gen Z'nin okullarda ve ofislerde kullanılan sert, parlak floresan tepe ışıklarına tepki gösterip loş ve sıcak aydınlatmayı savunması.",
+   "why": "r/GenZ üzerinde okul ve ofislerdeki floresan ışıkların tamamen kaldırılması gerektiğine dair güçlü bir topluluk tepkisi paylaşıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yüksek kaliteli doğal yünden örülmüş kalın kablo örgülü atkı veya balıkçı yaka süveter.",
+   "idea": "Sert floresan panel ışıklarını yumuşatmak için desenli manyetik tavan lambası filtreleri ve taşınabilir sıcak ışık masa ",
    "product_keywords": [
     {
-     "keyword": "chunky cable knit scarf",
-     "label": "kalın saç örgülü atkı"
+     "keyword": "fluorescent light filters magnetic",
+     "label": "manyetik floresan ışık filtresi"
     },
     {
-     "keyword": "aran wool sweater",
-     "label": "aran yün kazak"
+     "keyword": "warm ambient night light",
+     "label": "sıcak ortam gece lambası"
     }
    ]
   },
   {
-   "name": "Grandma's China (Vintage Porselen Deseni)",
+   "name": "Düğme Detaylı Retro Tasarımlar",
    "heat": "Yeni çıktı",
-   "desc": "Büyükannelerin klasik mavi-beyaz porselen ve çini tabak desenlerini modern sokak modasına ve aksesuarlara taşıyan 'grandmillennial' akımı.",
-   "why": "TikTokCringe üzerinde New York sokaklarında sergilenen vintage porselen vazo içeriğinin viral olmasıyla öne çıktı.",
+   "desc": "Tamamen vintage düğmelerden oluşan ve el işçiliğini öne çıkaran deneysel, cesur giyim ve takı akımı.",
+   "why": "Google'da Dua Lipa'nın tamamen düğmelerden oluşan şeffaf üst tasarımı hızla yükselen aramalara girdi.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "Mavi-beyaz çini ve vintage porselen desenli kanvas bez çanta veya telefon kılıfları.",
+   "idea": "Vintage ve sedef düğmelerden el yapımı choker kolyeler ve düğme detaylı patchwork yelekler.",
    "product_keywords": [
     {
-     "keyword": "blue willow tote bag",
-     "label": "mavi porselen desenli bez çanta"
+     "keyword": "vintage button choker",
+     "label": "vintage düğmeli choker"
     },
     {
-     "keyword": "vintage china phone case",
-     "label": "vintage çini desenli telefon kılıfı"
+     "keyword": "handmade button necklace",
+     "label": "el yapımı düğme kolye"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-27T21:03+00:00",
+ "trends_updated_at": "2026-09-28T00:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -264,12 +285,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-27T21:03+00:00"
+ "generated_at": "2026-09-28T00:03+00:00"
 }

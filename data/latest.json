@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#citytastetest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Fantasy Romance Ball Aesthetic",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin ve kitap tutkunlarının ejderha, peri ve fantezi evrenleri temalı balo ve etkinliklere katılma akımı.",
+   "why": "Reddit malefashionadvice topluluğunda fantezi romantizm balosu için kıyafet ve aksesuar tavsiyesi istenen gönderide öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Fantezi balo konseptine uygun kadife/dantel pelerinler, elf kulak takıları ve süslü omuz aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy romance ball outfit",
+     "label": "fantezi romantizm balo kıyafeti"
+    },
+    {
+     "keyword": "romantasy accessories",
+     "label": "romantizm fantezi aksesuarları"
+    }
+   ]
   },
   {
-   "name": "#authentik",
+   "name": "Gen Z Iced Coffee Discourse",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Z kuşağının günlük yaşam tarzının parçası olan soğuk kahve tüketimi ve etrafında dönen sosyal medya geyikleri.",
+   "why": "Reddit GenZ topluluğunda soğuk kahve odaklı tartışma ve mizah gönderisinde öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Z kuşağı esprileri içeren cam soğuk kahve bardakları, pipet süsleri ve kahve kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "gen z iced coffee cup",
+     "label": "gen z buzlu kahve bardağı"
+    },
+    {
+     "keyword": "iced coffee glass tumbler",
+     "label": "buzlu kahve cam bardağı"
+    }
+   ]
   },
   {
-   "name": "#mylivejourney",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "City Taste Test",
+   "heat": "Zirvede",
+   "desc": "Kullanıcıların yaşadıkları veya gezdirdikleri şehirlerdeki yerel lezzetleri deneyip puanladıkları viral içerik akımı.",
+   "why": "TikTok trend hashtag listesinde 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "İçerik üreticileri ve gurmeler için tasarlanmış şehir lezzet haritaları ve lezzet değerlendirme not defterleri.",
+   "product_keywords": [
+    {
+     "keyword": "foodie journal notebook",
+     "label": "gurme tadım not defteri"
+    },
+    {
+     "keyword": "taste test rating card",
+     "label": "lezzet tadım derecelendirme kartı"
+    }
+   ]
+  },
+  {
+   "name": "Witcher 3 Remastered Hype",
+   "heat": "Yeni çıktı",
+   "desc": "Witcher 3'ün yenilenmiş sürüm duyurusuyla birlikte oyun dünyasında yeniden yükselen fantezi ve oyun estetiği.",
+   "why": "Google yükselen aramalarda dikkate değer bir arama hacmiyle listelendi.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Witcher temalı ahşap veya deri oyun masa matları (desk mat) ve sembolik kolye/anahtarlık aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "witcher medallion necklace",
+     "label": "witcher madalyon kolye"
+    },
+    {
+     "keyword": "fantasy gaming desk mat",
+     "label": "fantezi oyun masa pedi"
+    }
+   ]
+  },
+  {
+   "name": "Anti-Fluorescent Light Movement",
+   "heat": "Yükseliyor",
+   "desc": "Gençlerin okul ve ofislerdeki rahatsız edici beyaz florasan ışıklarına karşı başlattığı estetik ve yumuşak aydınlatma arayışı.",
+   "why": "Reddit GenZ topluluğunda florasan tavan ışıklarının yok edilmesine yönelik viral gönderide yer aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sınıf ve ofis tavan ışıkları için deseni yumuşatan dekoratif kumaş filtre örtüleri ve masaüstü ambiyans lambaları.",
+   "product_keywords": [
+    {
+     "keyword": "fluorescent light covers fabric",
+     "label": "florasan ışık örtüsü kumaş"
+    },
+    {
+     "keyword": "aesthetic desk lamp",
+     "label": "estetik masa lambası"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-09-28T09:05+00:00",
+ "trends_updated_at": "2026-09-28T12:03+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -403,13 +470,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-28T09:05+00:00"
+ "generated_at": "2026-09-28T12:03+00:00"
 }

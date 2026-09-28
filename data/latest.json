@@ -3,108 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Cozy Autumn / Fall Season Aesthetic",
+   "name": "City Taste Test",
    "heat": "Zirvede",
-   "desc": "Sonbahar ekinoksuyla birlikte gençlerin sonbahar temalı sıcak, nostaljik ve samimi yaşam tarzı paylaşımlarına yoğunlaşması.",
-   "why": "TikTok'ta #firstdayoffall etiketi ilk 3'e girerken, Reddit GenZ topluluğunda sonbahar kutlamaları öne çıkıyor.",
+   "desc": "Farklı şehirlerdeki yerel lezzetleri ve mekanları deneyimleyip puanlama üzerine kurulan popüler içerik akımı.",
+   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer almaktadır.",
    "sources": [
-    "TikTok",
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Balkabağı ve sonbahar tipografileri içeren işlemeli sweatshirtler, cam kahve kupaları ve sonbahar kokulu soya mumları.",
+   "idea": "Şehir içi lezzet turları için tasarlanmış puanlama ve not alma kartları/günlükleri.",
    "product_keywords": [
     {
-     "keyword": "fall embroidered sweatshirt",
-     "label": "sonbahar işlemeli sweatshirt"
+     "keyword": "food taste test journal",
+     "label": "yemek tadım günlüğü"
     },
     {
-     "keyword": "autumn glass cup",
-     "label": "sonbahar temalı cam kupa"
+     "keyword": "city food rating card",
+     "label": "şehir yemek derecelendirme kartı"
     }
    ]
   },
   {
-   "name": "Anti-'The Big Light' & Sıcak Ambiyans",
+   "name": "Fantasy Romance Ball",
    "heat": "Yükseliyor",
-   "desc": "Gen Z'nin ofis ve okullardaki sert beyaz floresan tavan ışıklarını reddedip loş, sıcak ve filtreli aydınlatmaları savunması.",
-   "why": "Reddit r/GenZ üzerinde floresan ışıkların tamamen yok edilmesi gerektiğine dair paylaşım viral etkileşim aldı.",
+   "desc": "Gençlerin fantezi ve romantizm temalı kostümlü balolara katılmasıyla şekillenen estetik giyim ve aksesuar akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantezi romantizm balosu için kombin tavsiyesi istenen popüler gönderi mevcuttur.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Floresan tavan lambaları için kumaş ışık filtreleri, 'Ban the Big Light' sloganlı esprili masa lambaları veya posterler.",
+   "idea": "Fantezi-romantik temalı balo maskeleri, işlemeli pelerinler ve peri/mitoloji estetiğinde takılar.",
    "product_keywords": [
     {
-     "keyword": "fluorescent light filters",
-     "label": "floresan ışık filtresi"
+     "keyword": "fantasy romance ball mask",
+     "label": "fantezi balo maskesi"
     },
     {
-     "keyword": "ban the big light poster",
-     "label": "büyük ışık karşıtı poster"
+     "keyword": "romantasy masquerade cape",
+     "label": "romantasy maskeli balo pelerini"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball / Romantasy Modası",
+   "name": "Gen Z Iced Coffee Discourse",
+   "heat": "Hızla yükseliyor",
+   "desc": "Z kuşağının soğuk kahve tüketimi ve etrafında dönen sosyal mizah/tartışma kültürü.",
+   "why": "Reddit r/GenZ topluluğunda gençlerin yeni gündem ve linç konusunun soğuk kahve ile ilgili olduğuna dair viral gönderi öne çıkmaktadır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Soğuk kahveye özel mizahi sloganlı cam bardaklar (glass cans) ve neopren bardak kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardağı"
+    },
+    {
+     "keyword": "funny iced coffee sleeve",
+     "label": "komik buzlu kahve kılıfı"
+    }
+   ]
+  },
+  {
+   "name": "Anti-Fluorescent Lighting Movement",
    "heat": "Yükseliyor",
-   "desc": "Fantastik aşk romanlarından (Romantasy) esinlenen tematik balo ve etkinlikler için gotik/romantik dönem giyim ve aksesuarları.",
-   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance temalı baloya uygun giyim arayışları öne çıkıyor.",
+   "desc": "Sınıf ve ofislerdeki sert floresan aydınlatmaların yerine yumuşak, estetik aydınlatma çözümleri talep eden gençlik hareketi.",
+   "why": "Reddit r/GenZ kanalında okul ve iş yerlerindeki rahatsız edici floresan ışıkların kaldırılması üzerine popüler bir gönderi paylaşılmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Viktoryen ve peri masalı temalı ceket broşları, dantel yaka aksesuarları ve fantazi balosu kadife pelerinleri.",
+   "idea": "Floresan tavan lambaları için dekoratif kumaş ışık filtreleri ve yumuşak ışık yayan masa aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "fantasy ball velvet cape",
-     "label": "fantazi balo kadife pelerin"
+     "keyword": "fluorescent light filter cover",
+     "label": "floresan ışık filtre örtüsü"
     },
     {
-     "keyword": "romantasy brooch",
-     "label": "romantasy yaka broşu"
+     "keyword": "classroom light filter",
+     "label": "sınıf ışık filtresi"
     }
    ]
   },
   {
-   "name": "Gen Z Buzlu Kahve Ritüeli",
+   "name": "Authentik Aesthetic",
    "heat": "Hızla yükseliyor",
-   "desc": "Gen Z kültüründe bir yaşam tarzı ve sosyal kimlik sembolü haline gelen buzlu kahve tüketimi ve bardak estetiği.",
-   "why": "Reddit r/GenZ üzerinde buzlu kahve tartışmaları ve buna bağlı gençlik dinamikleri haftanın trend konuları arasına girdi.",
+   "desc": "Filtresiz, doğal, el yapımı ve özgün ürünleri öne çıkaran yaşam tarzı akımı.",
+   "why": "TikTok trend hashtag listesinde #authentik 2. sırada bulunmaktadır.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Bambu kapaklı ve cam pipetli tipografik cam bardaklar, el örgüsü kahve tutacakları (cup cozy).",
+   "idea": "El yapımı, doğal dokulu kağıtlardan yapılmış defterler ve ham kumaş minimalist çantalar.",
    "product_keywords": [
     {
-     "keyword": "iced coffee can glass",
-     "label": "pipetli cam kahve bardağı"
+     "keyword": "authentic handmade journal",
+     "label": "otantik el yapımı günlük"
     },
     {
-     "keyword": "crochet coffee sleeve",
-     "label": "örgü kahve bardağı kılıfı"
+     "keyword": "raw cotton tote bag",
+     "label": "ham pamuk bez çanta"
     }
    ]
   },
   {
-   "name": "Y2K Sad Boys / Yung Lean Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "2010'lar başı cloud rap akımının öncüsü Yung Lean'in VMA performansı sonrası Y2K cyber ve drainer alt kültürünün yeniden canlanması.",
-   "why": "Google'da 'yung lean' araması 10.000+ hacimle ani yükselişe geçti.",
+   "name": "Autumn Mating Season Meme",
+   "heat": "Yeni çıktı",
+   "desc": "Sonbahar mevsiminin gelişini mizahi bir dille 'çiftleşme/eşleşme sezonu' olarak adlandıran Gen Z esprisi.",
+   "why": "Reddit r/GenZ topluluğunda 'Happy Autumn/mating season' başlıklı yüksek etkileşimli gönderi yer almaktadır.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "Y2K cyber tipografi ve tribal desenler içeren oversize vintage yıkamalı tişörtler, zincir aksesuarlar.",
+   "idea": "Mizahi yazılı sonbahar temalı tişörtler, seramik kupalar ve sweat'ler.",
    "product_keywords": [
     {
-     "keyword": "drainer aesthetic shirt",
-     "label": "drainer estetiği tişört"
+     "keyword": "autumn mating season shirt",
+     "label": "komik sonbahar tişörtü"
     },
     {
-     "keyword": "y2k cyber silver ring",
-     "label": "y2k siber gümüş yüzük"
+     "keyword": "funny autumn mug",
+     "label": "esprili sonbahar kupası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-28T03:03+00:00",
+ "trends_updated_at": "2026-09-28T06:03+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -472,12 +491,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-28T04:41+00:00"
+ "generated_at": "2026-09-28T06:03+00:00"
 }

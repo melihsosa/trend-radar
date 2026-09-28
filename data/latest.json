@@ -3,128 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Cozy Autumn / Fall Estetiği",
+   "name": "Cozy Autumn / Fall Season Aesthetic",
    "heat": "Zirvede",
-   "desc": "Gençlerin sonbaharın ilk gününü sıcak kıyafetler, mevsimlik içecekler ve esprili 'mating season' göndermeleriyle kutlaması.",
-   "why": "TikTok'ta #firstdayoffall en çok kullanılan etiketler arasında yer alırken r/GenZ'de sonbaharın gelişi esprili paylaşımlarla gündeme geldi.",
+   "desc": "Sonbahar ekinoksuyla birlikte gençlerin sonbahar temalı sıcak, nostaljik ve samimi yaşam tarzı paylaşımlarına yoğunlaşması.",
+   "why": "TikTok'ta #firstdayoffall etiketi ilk 3'e girerken, Reddit GenZ topluluğunda sonbahar kutlamaları öne çıkıyor.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Esprili sonbahar ve balkabağı temalı punch needle bardak altlıkları ve işlemeli cozy sweatshirtler.",
+   "idea": "Balkabağı ve sonbahar tipografileri içeren işlemeli sweatshirtler, cam kahve kupaları ve sonbahar kokulu soya mumları.",
    "product_keywords": [
     {
-     "keyword": "fall aesthetic sweatshirt",
-     "label": "sonbahar estetiği sweatshirt"
+     "keyword": "fall embroidered sweatshirt",
+     "label": "sonbahar işlemeli sweatshirt"
     },
     {
-     "keyword": "pumpkin punch needle coaster",
-     "label": "balkabağı punch bardak altlığı"
+     "keyword": "autumn glass cup",
+     "label": "sonbahar temalı cam kupa"
     }
    ]
   },
   {
-   "name": "Iced Coffee Kültürü ve Mizahı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z'nin günlük rutin haline getirdiği buzlu kahve tüketimi ve bunun etrafında dönen yeni viral internet tartışmaları.",
-   "why": "r/GenZ topluluğunda gençlerin güncel buzlu kahve tartışması (iced coffee discourse) hakkındaki gönderisi öne çıktı.",
+   "name": "Anti-'The Big Light' & Sıcak Ambiyans",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z'nin ofis ve okullardaki sert beyaz floresan tavan ışıklarını reddedip loş, sıcak ve filtreli aydınlatmaları savunması.",
+   "why": "Reddit r/GenZ üzerinde floresan ışıkların tamamen yok edilmesi gerektiğine dair paylaşım viral etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Buzlu kahve bardakları için kişiselleştirilebilir neopren kılıflar ve esprili sloganlı cam pipetli kahve bardakları.",
+   "idea": "Floresan tavan lambaları için kumaş ışık filtreleri, 'Ban the Big Light' sloganlı esprili masa lambaları veya posterler.",
+   "product_keywords": [
+    {
+     "keyword": "fluorescent light filters",
+     "label": "floresan ışık filtresi"
+    },
+    {
+     "keyword": "ban the big light poster",
+     "label": "büyük ışık karşıtı poster"
+    }
+   ]
+  },
+  {
+   "name": "Fantasy Romance Ball / Romantasy Modası",
+   "heat": "Yükseliyor",
+   "desc": "Fantastik aşk romanlarından (Romantasy) esinlenen tematik balo ve etkinlikler için gotik/romantik dönem giyim ve aksesuarları.",
+   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance temalı baloya uygun giyim arayışları öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Viktoryen ve peri masalı temalı ceket broşları, dantel yaka aksesuarları ve fantazi balosu kadife pelerinleri.",
+   "product_keywords": [
+    {
+     "keyword": "fantasy ball velvet cape",
+     "label": "fantazi balo kadife pelerin"
+    },
+    {
+     "keyword": "romantasy brooch",
+     "label": "romantasy yaka broşu"
+    }
+   ]
+  },
+  {
+   "name": "Gen Z Buzlu Kahve Ritüeli",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z kültüründe bir yaşam tarzı ve sosyal kimlik sembolü haline gelen buzlu kahve tüketimi ve bardak estetiği.",
+   "why": "Reddit r/GenZ üzerinde buzlu kahve tartışmaları ve buna bağlı gençlik dinamikleri haftanın trend konuları arasına girdi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Bambu kapaklı ve cam pipetli tipografik cam bardaklar, el örgüsü kahve tutacakları (cup cozy).",
    "product_keywords": [
     {
      "keyword": "iced coffee can glass",
-     "label": "buzlu kahve cam bardağı"
+     "label": "pipetli cam kahve bardağı"
     },
     {
-     "keyword": "aesthetic iced coffee sleeve",
-     "label": "estetik buzlu kahve kılıfı"
+     "keyword": "crochet coffee sleeve",
+     "label": "örgü kahve bardağı kılıfı"
     }
    ]
   },
   {
-   "name": "Fantasy Romance Ball (Romantasy Modası)",
-   "heat": "Yükseliyor",
-   "desc": "Fantezi romanlarından esinlenen ve genç yetişkinlerin katıldığı peri masalı/romantizm temalı balolar için kostüm ve aksesuar arayışı.",
-   "why": "r/malefashionadvice topluluğunda fantezi romantizm balosu için eksik parça ve alışveriş tavsiyesi istenen başlık popüler oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Balolar ve tematik etkinlikler için el yapımı gotik/fantezi pelerin tokaları, broşlar ve elf kulak manşetleri.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy cape clasp",
-     "label": "fantezi pelerin tokası"
-    },
-    {
-     "keyword": "fairy ear cuff",
-     "label": "peri kulak manşeti"
-    }
-   ]
-  },
-  {
-   "name": "Kitsch Yiyecek Formunda Aksesuarlar",
-   "heat": "Yeni çıktı",
-   "desc": "Deri ve kumaş işçiliğinde ravioli, makarna gibi yiyecek formlarının minimalist ve sevimli aksesuarlara dönüştürülmesi.",
-   "why": "r/shutupandtakemymoney topluluğunda 'Ravioli Card holder' tasarımı ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ravioli şeklinde tırtıklı kenarlı, el dikişi deri kartlık ve mini bozuk para cüzdanı.",
-   "product_keywords": [
-    {
-     "keyword": "ravioli card holder",
-     "label": "ravioli kartlık"
-    },
-    {
-     "keyword": "leather food wallet",
-     "label": "deri yiyecek figürlü cüzdan"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Floresan / Yumuşak Ortam Işığı",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z'nin okullarda ve ofislerde kullanılan sert, parlak floresan tepe ışıklarına tepki gösterip loş ve sıcak aydınlatmayı savunması.",
-   "why": "r/GenZ üzerinde okul ve ofislerdeki floresan ışıkların tamamen kaldırılması gerektiğine dair güçlü bir topluluk tepkisi paylaşıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sert floresan panel ışıklarını yumuşatmak için desenli manyetik tavan lambası filtreleri ve taşınabilir sıcak ışık masa ",
-   "product_keywords": [
-    {
-     "keyword": "fluorescent light filters magnetic",
-     "label": "manyetik floresan ışık filtresi"
-    },
-    {
-     "keyword": "warm ambient night light",
-     "label": "sıcak ortam gece lambası"
-    }
-   ]
-  },
-  {
-   "name": "Düğme Detaylı Retro Tasarımlar",
-   "heat": "Yeni çıktı",
-   "desc": "Tamamen vintage düğmelerden oluşan ve el işçiliğini öne çıkaran deneysel, cesur giyim ve takı akımı.",
-   "why": "Google'da Dua Lipa'nın tamamen düğmelerden oluşan şeffaf üst tasarımı hızla yükselen aramalara girdi.",
+   "name": "Y2K Sad Boys / Yung Lean Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "2010'lar başı cloud rap akımının öncüsü Yung Lean'in VMA performansı sonrası Y2K cyber ve drainer alt kültürünün yeniden canlanması.",
+   "why": "Google'da 'yung lean' araması 10.000+ hacimle ani yükselişe geçti.",
    "sources": [
     "Google"
    ],
-   "idea": "Vintage ve sedef düğmelerden el yapımı choker kolyeler ve düğme detaylı patchwork yelekler.",
+   "idea": "Y2K cyber tipografi ve tribal desenler içeren oversize vintage yıkamalı tişörtler, zincir aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "vintage button choker",
-     "label": "vintage düğmeli choker"
+     "keyword": "drainer aesthetic shirt",
+     "label": "drainer estetiği tişört"
     },
     {
-     "keyword": "handmade button necklace",
-     "label": "el yapımı düğme kolye"
+     "keyword": "y2k cyber silver ring",
+     "label": "y2k siber gümüş yüzük"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-28T00:03+00:00",
+ "trends_updated_at": "2026-09-28T03:03+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -277,7 +257,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -285,12 +265,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-09-28T00:03+00:00"
+ "generated_at": "2026-09-28T03:03+00:00"
 }

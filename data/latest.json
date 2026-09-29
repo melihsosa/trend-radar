@@ -3,107 +3,109 @@
  "sample": false,
  "trends": [
   {
-   "name": "Fantasy Romance Ball Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin 'romantasy' kitap evrenlerinden esinlenen tematik balolara katılması ve gotik-masalsı kıyafetler araması akımıdır.",
-   "why": "Reddit r/malefashionadvice topluluğunda fantasy romance balosu için kombin ve aksesuar önerisi arayışıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Fantastik balo kombinleri için vintage görünümlü broşlar, pelerin tokaları ve omuz zincirleri.",
-   "product_keywords": [
-    {
-     "keyword": "fantasy ball accessories",
-     "label": "fantastik balo aksesuarları"
-    },
-    {
-     "keyword": "vintage cape clasp brooch",
-     "label": "vintage pelerin tokası broş"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Iced Coffee Discourse & Lifestyle",
-   "heat": "Hızla yükseliyor",
-   "desc": "Buzlu kahvenin Gen Z kültüründe bir yaşam tarzı ve günlük mizah unsuru haline gelmesi akımıdır.",
-   "why": "Reddit r/GenZ üzerinde gençlerin iced coffee odaklı yeni tartışma ve trendlere odaklanmasıyla görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bambu kapaklı cam kutu bardaklar ve Gen Z mizahı içeren yalıtımlı neopren buzlu kahve kılıfları.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic iced coffee glass cup",
-     "label": "estetik cam kahve bardağı"
-    },
-    {
-     "keyword": "iced coffee sleeve holder",
-     "label": "buzlu kahve bardak kılıfı"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Big Light & Cozy Ambiyans Aydınlatması",
+   "name": "Whimsy Goth",
    "heat": "Yükseliyor",
-   "desc": "Sert tepe floresan ışıklarına tepki olarak loş, sıcak ve retro masa lambalarıyla rahatlatıcı yaşam alanları yaratma hareketi.",
-   "why": "Reddit r/GenZ topluluğunda floresan/tavan ışıklarını tamamen kaldırma çağrısı yoğun destek aldı.",
+   "desc": "Gotik unsurları göksel, bohem ve mistik detaylarla birleştiren, karanlık ama eğlenceli bir estetik akım.",
+   "why": "Reddit'in kadın moda forumunda (r/femalefashionadvice) kullanıcıların bu estetiğe uygun kombin yapma ve parça seçme arayışında olduğu görülüyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Komodin ve çalışma masaları için 3D baskı mantar formunda sıcak ışıklı ambiyans gece lambaları.",
+   "idea": "Güneş, ay ve yıldız motifli mistik takılar, kadife choker kolyeler veya gotik oda dekorasyon ürünleri.",
    "product_keywords": [
     {
-     "keyword": "mushroom ambient desk lamp",
-     "label": "mantar ambiyans masa lambası"
+     "keyword": "whimsygoth jewelry",
+     "label": "whimsygoth takı"
     },
     {
-     "keyword": "cozy warm night light",
-     "label": "sıcak ışıklı gece lambası"
+     "keyword": "celestial room decor",
+     "label": "göksel oda dekoru"
     }
    ]
   },
   {
-   "name": "City Taste Test & Foodie Keşif",
+   "name": "BIFL (Buy It For Life)",
+   "heat": "Zirvede",
+   "desc": "Hızlı tüketime tepki olarak doğan, tüketicilerin ömür boyu kullanabilecekleri son derece dayanıklı ve yüksek kaliteli ürünleri tercih etme akımı.",
+   "why": "Reddit'in r/BuyItForLife topluluğunda insanların fiyatlar daha da artmadan önce ömürlük ürünler satın alma telaşı ve kaliteli örgü kıyafet arayışı öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ömür boyu garantili kalın mumlu kanvas çantalar, el yapımı dayanıklı deri cüzdanlar veya kalın yün çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "waxed canvas bag",
+     "label": "mumlu kanvas çanta"
+    },
+    {
+     "keyword": "durable leather wallet",
+     "label": "dayanıklı deri cüzdan"
+    }
+   ]
+  },
+  {
+   "name": "Winter Storm Prep",
    "heat": "Hızla yükseliyor",
-   "desc": "Şehirlerdeki yerel sokak lezzetlerini ve mekanları kör tadım veya puanlama formatında test etme akımıdır.",
-   "why": "TikTok'ta #citytastetest etiketi 1. sıraya yükselerek viral oldu.",
+   "desc": "Erken gelen kış fırtınası uyarılarıyla birlikte insanların soğuktan korunmak için katmanlı giyime ve kışlık ekipmanlara yönelmesi.",
+   "why": "Google'da 'winter storm warning' aramalarının hızla yükselmesi ve Reddit'te kışlık ceket ile orta katman giysi arayışlarının artması.",
+   "sources": [
+    "Google",
+    "Reddit"
+   ],
+   "idea": "Soğuk havalar için el örgüsü yün balaklavalar, termal orta katman yelekler veya el ısıtıcı kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "hand knit balaclava",
+     "label": "el örgüsü balaklava"
+    },
+    {
+     "keyword": "wool middle layer",
+     "label": "yün orta katman giysi"
+    }
+   ]
+  },
+  {
+   "name": "Authentik",
+   "heat": "Yeni çıktı",
+   "desc": "Sosyal medyadaki tek tipleşmiş kombinlere tepki olarak doğan, tamamen kişiselleştirilmiş ve özgün giyim tarzı arayışı.",
+   "why": "TikTok'ta #authentik etiketinin popülerleşmesi ve Reddit'te herkesin Instagram'da aynı giyinmesinden şikayet edilmesi.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Tamamen kişiye özel tasarlanmış upcycled (ileri dönüştürülmüş) yamalı ceketler veya el yapımı özgün broşlar.",
+   "product_keywords": [
+    {
+     "keyword": "upcycled patchwork jacket",
+     "label": "ileri dönüştürülmüş yamalı ceket"
+    },
+    {
+     "keyword": "handmade statement brooch",
+     "label": "el yapımı özgün broş"
+    }
+   ]
+  },
+  {
+   "name": "City Taste Test",
+   "heat": "Hızla yükseliyor",
+   "desc": "Şehirlerdeki yerel lezzetleri keşfetme, test etme ve bunu bir yaşam tarzı aktivitesi haline getirme akımı.",
+   "why": "TikTok'ta #citytastetest etiketinin en popüler trendler arasında 1. sırada yer alması.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir lezzetlerini keşfetmek ve puanlamak için kazınabilir gurme haritaları ve yemek tadım ajandaları.",
+   "idea": "Şehirlerin ünlü yemek mekanlarını içeren kazınabilir gurme haritaları veya cep boy yemek tadım günlüğü defterleri.",
    "product_keywords": [
     {
-     "keyword": "food tasting review journal",
-     "label": "lezzet tadım değerlendirme defteri"
+     "keyword": "scratch off food map",
+     "label": "kazınabilir yemek haritası"
     },
     {
-     "keyword": "scratch off foodie bucket list",
-     "label": "kazımalı gurme hedef listesi"
-    }
-   ]
-  },
-  {
-   "name": "Heritage Knitwear & Waxed Outerwear Restoration",
-   "heat": "Yeni çıktı",
-   "desc": "Hızlı modadan kaçıp ömürlük Aran örgüleri ve klasik mumlu ceketleri tamir edip uzun yıllar giyme hareketi.",
-   "why": "Reddit r/BuyItForLife ve r/malefashionadvice'da vintage Barbour ceket yenileme ve otantik triko arayışları öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mumlu pamuklu ceketler için organik bakım/yenileme balmumu kiti ve el örgüsü yün balaklavalar.",
-   "product_keywords": [
-    {
-     "keyword": "waxed jacket fabric dressing wax",
-     "label": "mumlu ceket bakım balmumu"
-    },
-    {
-     "keyword": "chunky cable knit balaclava",
-     "label": "örgü balaklava"
+     "keyword": "food tasting journal",
+     "label": "yemek tadım günlüğü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-28T21:03+00:00",
+ "trends_updated_at": "2026-09-29T00:04+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -463,7 +465,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -478,5 +480,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-09-28T21:03+00:00"
+ "generated_at": "2026-09-29T00:04+00:00"
 }

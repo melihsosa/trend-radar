@@ -3,109 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsy Goth",
-   "heat": "Yükseliyor",
-   "desc": "Gotik unsurları göksel, bohem ve mistik detaylarla birleştiren, karanlık ama eğlenceli bir estetik akım.",
-   "why": "Reddit'in kadın moda forumunda (r/femalefashionadvice) kullanıcıların bu estetiğe uygun kombin yapma ve parça seçme arayışında olduğu görülüyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Güneş, ay ve yıldız motifli mistik takılar, kadife choker kolyeler veya gotik oda dekorasyon ürünleri.",
-   "product_keywords": [
-    {
-     "keyword": "whimsygoth jewelry",
-     "label": "whimsygoth takı"
-    },
-    {
-     "keyword": "celestial room decor",
-     "label": "göksel oda dekoru"
-    }
-   ]
-  },
-  {
-   "name": "BIFL (Buy It For Life)",
-   "heat": "Zirvede",
-   "desc": "Hızlı tüketime tepki olarak doğan, tüketicilerin ömür boyu kullanabilecekleri son derece dayanıklı ve yüksek kaliteli ürünleri tercih etme akımı.",
-   "why": "Reddit'in r/BuyItForLife topluluğunda insanların fiyatlar daha da artmadan önce ömürlük ürünler satın alma telaşı ve kaliteli örgü kıyafet arayışı öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ömür boyu garantili kalın mumlu kanvas çantalar, el yapımı dayanıklı deri cüzdanlar veya kalın yün çoraplar.",
-   "product_keywords": [
-    {
-     "keyword": "waxed canvas bag",
-     "label": "mumlu kanvas çanta"
-    },
-    {
-     "keyword": "durable leather wallet",
-     "label": "dayanıklı deri cüzdan"
-    }
-   ]
-  },
-  {
-   "name": "Winter Storm Prep",
+   "name": "Fall Dinner Party Decor & Candles",
    "heat": "Hızla yükseliyor",
-   "desc": "Erken gelen kış fırtınası uyarılarıyla birlikte insanların soğuktan korunmak için katmanlı giyime ve kışlık ekipmanlara yönelmesi.",
-   "why": "Google'da 'winter storm warning' aramalarının hızla yükselmesi ve Reddit'te kışlık ceket ile orta katman giysi arayışlarının artması.",
+   "desc": "Sonbahar mevsiminin gelişiyle birlikte evde akşam yemeği davetleri ve mevsimsel estetik mum kullanımı popülerleşiyor.",
+   "why": "Google yükselen aramalarda Martha Stewart'ın sonbahar mumları ve yemek daveti dekorları öne çıkarken Reddit GenZ'de sonbahar paylaşımları görülüyor.",
    "sources": [
     "Google",
     "Reddit"
    ],
-   "idea": "Soğuk havalar için el örgüsü yün balaklavalar, termal orta katman yelekler veya el ısıtıcı kılıfları.",
+   "idea": "Sonbahar temalı el yapımı soya mumları, estetik masa şamdanları ve mevsimsel yemek masası dekoratif ürünleri.",
    "product_keywords": [
     {
-     "keyword": "hand knit balaclava",
-     "label": "el örgüsü balaklava"
+     "keyword": "fall dinner party decor",
+     "label": "sonbahar akşam yemeği dekoru"
     },
     {
-     "keyword": "wool middle layer",
-     "label": "yün orta katman giysi"
+     "keyword": "autumn scented candles",
+     "label": "sonbahar kokulu mumlar"
     }
    ]
   },
   {
-   "name": "Authentik",
-   "heat": "Yeni çıktı",
-   "desc": "Sosyal medyadaki tek tipleşmiş kombinlere tepki olarak doğan, tamamen kişiselleştirilmiş ve özgün giyim tarzı arayışı.",
-   "why": "TikTok'ta #authentik etiketinin popülerleşmesi ve Reddit'te herkesin Instagram'da aynı giyinmesinden şikayet edilmesi.",
+   "name": "Fantasy Romance Ball Aesthetic",
+   "heat": "Yükseliyor",
+   "desc": "Fantastik romanlardan ve romantasy türünden ilham alan özel balo kıyafetleri ve temalı aksesuarlar ilgi görüyor.",
+   "why": "Reddit malefashionadvice topluluğunda fantezi romantizm baloları için kıyafet ve aksesuar önerileri isteniyor.",
    "sources": [
-    "TikTok",
     "Reddit"
    ],
-   "idea": "Tamamen kişiye özel tasarlanmış upcycled (ileri dönüştürülmüş) yamalı ceketler veya el yapımı özgün broşlar.",
+   "idea": "Fantastik temalı balo aksesuarları, pelerinler, broşlar ve gotik/fantezi takılar.",
    "product_keywords": [
     {
-     "keyword": "upcycled patchwork jacket",
-     "label": "ileri dönüştürülmüş yamalı ceket"
+     "keyword": "fantasy romance ball outfit",
+     "label": "fantastik romantizm balo kıyafeti"
     },
     {
-     "keyword": "handmade statement brooch",
-     "label": "el yapımı özgün broş"
+     "keyword": "romantasy accessories",
+     "label": "romantasy aksesuarları"
+    }
+   ]
+  },
+  {
+   "name": "Gen Z Iced Coffee Culture",
+   "heat": "Yükseliyor",
+   "desc": "Z kuşağının günlük yaşamının merkezinde yer alan buzlu kahve kültürü ve etrafında dönen mizahi/kültürel söylemler.",
+   "why": "Reddit GenZ topluluğunda buzlu kahve tartışmaları ve paylaşımları gündem maddesi haline gelmiş durumda.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Buzlu kahve tasarımlı estetik cam bardaklar, pipetli termoslar ve kahve temalı sloganlı ürünler.",
+   "product_keywords": [
+    {
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardağı"
+    },
+    {
+     "keyword": "gen z iced coffee glass",
+     "label": "z kuşağı buzlu kahve bardağı"
+    }
+   ]
+  },
+  {
+   "name": "Cozy Ambient Desk Lighting",
+   "heat": "Yeni çıktı",
+   "desc": "Sert ve çiğ floresan ışıklar yerine sıcak tonda, gözü yormayan ortam aydınlatmalarına yönelik Gen Z talebi.",
+   "why": "Reddit GenZ başlıklarında ofis ve okullardaki sert floresan aydınlatmalardan duyulan rahatsızlık dile getiriliyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sıcak ışık veren estetik masa lambaları, ortam yumuşatıcı abajurlar ve taşınabilir sevimli gece lambaları.",
+   "product_keywords": [
+    {
+     "keyword": "cozy ambient desk lamp",
+     "label": "samimi ortam masa lambası"
+    },
+    {
+     "keyword": "warm ambient light",
+     "label": "sıcak ortam ışığı"
     }
    ]
   },
   {
    "name": "City Taste Test",
-   "heat": "Hızla yükseliyor",
-   "desc": "Şehirlerdeki yerel lezzetleri keşfetme, test etme ve bunu bir yaşam tarzı aktivitesi haline getirme akımı.",
-   "why": "TikTok'ta #citytastetest etiketinin en popüler trendler arasında 1. sırada yer alması.",
+   "heat": "Zirvede",
+   "desc": "Şehirlerdeki lezzetleri, sokak yemeklerini ve popüler mekanları deneme temalı içerik akımı.",
+   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehirlerin ünlü yemek mekanlarını içeren kazınabilir gurme haritaları veya cep boy yemek tadım günlüğü defterleri.",
+   "idea": "Şehir yemek turları için tasarlanmış tadım not defterleri, gurme defterleri ve sokak lezzetleri harita kartları.",
    "product_keywords": [
-    {
-     "keyword": "scratch off food map",
-     "label": "kazınabilir yemek haritası"
-    },
     {
      "keyword": "food tasting journal",
      "label": "yemek tadım günlüğü"
+    },
+    {
+     "keyword": "city food guide notebook",
+     "label": "şehir yemek rehberi defteri"
+    }
+   ]
+  },
+  {
+   "name": "Carl Sagan / Retro Academic Fit",
+   "heat": "Yeni çıktı",
+   "desc": "Retro akademisyen stili, boğazlı kazak kombini ve vintage bilim insanı estetiği modada yer buluyor.",
+   "why": "Reddit malefashionadvice subreddit'inde 'Carl Sagan fit' tarzı kıyafet önerileri tartışılıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro akademik tarzı tamamlayan vintage bilim temalı rozetler, kravat iğneleri veya nostaljik tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "carl sagan shirt",
+     "label": "carl sagan tişörtü"
+    },
+    {
+     "keyword": "retro academic aesthetic",
+     "label": "retro akademik estetik"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-29T00:04+00:00",
+ "trends_updated_at": "2026-09-29T03:03+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -473,12 +492,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-29T00:04+00:00"
+ "generated_at": "2026-09-29T03:03+00:00"
 }

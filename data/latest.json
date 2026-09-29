@@ -3,40 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "#citytastetest",
+   "name": "Gen Z Iced Coffee Discourse",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "desc": "Gen Z topluluğunda buzlu kahve tüketimi, bunun etrafındaki sosyal medya tartışmaları ve buzlu kahve bağımlılığı kültürü.",
+   "why": "Reddit GenZ alt forumunda buzlu kahve tartışmaları üzerine açılan başlığın yoğun etkileşim almasıyla göründü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Üzerinde esprili Gen Z buzlu kahve sloganları ve illüstrasyonları olan cam pipetli bardaklar (glass cans).",
+   "product_keywords": [
+    {
+     "keyword": "gen z iced coffee glass",
+     "label": "Gen Z buzlu kahve bardağı"
+    },
+    {
+     "keyword": "iced coffee aesthetic cup",
+     "label": "estetik buzlu kahve bardağı"
+    }
+   ]
   },
   {
-   "name": "#authentik",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Anti-Fluorescent Lighting Movement",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin ofis ve okullardaki rahatsız edici, çiğ floresan ışıklara karşı duruşu ve daha sıcak, göz yormayan, estetik aydınlatma alternatifleri arayışı.",
+   "why": "Reddit GenZ topluluğunda floresan ışıkların kaldırılmasına yönelik paylaşılan gönderinin viral olmasıyla göründü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Floresan ışıkları yumuşatmak için tasarlanmış manyetik tavan filtresi kumaşları veya estetik, sıcak ışık veren taşınabil",
+   "product_keywords": [
+    {
+     "keyword": "fluorescent light filters classroom",
+     "label": "floresan ışık filtresi sınıf"
+    },
+    {
+     "keyword": "cozy desk lamp aesthetic",
+     "label": "estetik sıcak masa lambası"
+    }
+   ]
   },
   {
-   "name": "#mylivejourney",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Carl Sagan Fit / Retro Academic",
+   "heat": "Yeni çıktı",
+   "desc": "Ünlü astrofizikçi Carl Sagan'ın retro akademik tarzının (boğazlı kazaklar, kadife ceketler, retro bilim insanı estetiği) genç erkek modasında yeniden ilgi görmesi.",
+   "why": "Reddit MaleFashionAdvice topluluğunda Carl Sagan tarzının yoğun ilgi görüp tartışılmasıyla ortaya çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro bilim temalı kadife ceketler, boğazlı kazaklar veya Carl Sagan esintili retro uzay/bilim rozetleri ve yamaları.",
+   "product_keywords": [
+    {
+     "keyword": "retro academic corduroy blazer",
+     "label": "retro akademik kadife ceket"
+    },
+    {
+     "keyword": "carl sagan space patch",
+     "label": "Carl Sagan uzay yaması"
+    }
+   ]
+  },
+  {
+   "name": "City Taste Test",
+   "heat": "Zirvede",
+   "desc": "Şehirlerdeki yerel lezzetleri, sokak yemeklerini ve popüler restoranları deneyip puanlama ve bu deneyimleri video ile paylaşma akımı.",
+   "why": "TikTok popüler hashtag listesinde 'citytastetest' etiketinin 1. sırada yer almasıyla göründü.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Gurmeler ve yerel lezzet avcıları için özel tasarlanmış, kazınabilir şehir yemek haritası veya yemek değerlendirme günlü",
+   "product_keywords": [
+    {
+     "keyword": "scratch off food map",
+     "label": "kazınabilir yemek haritası"
+    },
+    {
+     "keyword": "food tasting journal",
+     "label": "yemek tadım günlüğü"
+    }
+   ]
+  },
+  {
+   "name": "OpenAI Dots",
+   "heat": "Hızla yükseliyor",
+   "desc": "OpenAI'ın yeni tanıttığı 'dots' (noktalar) konsepti ve yapay zeka dünyasındaki minimalist görsel kimlik dalgası.",
+   "why": "Google'da 'openai dots' aramasının 5000+ arama hacmiyle hızla yükselenler arasına girmesiyle göründü.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Yapay zeka geliştiricileri ve teknoloji meraklıları için minimalist 'OpenAI Dots' temalı laptop stickerları ve masaüstü ",
+   "product_keywords": [
+    {
+     "keyword": "minimalist ai sticker",
+     "label": "minimalist yapay zeka çıkartması"
+    },
+    {
+     "keyword": "developer desk accessory",
+     "label": "yazılımcı masa aksesuarı"
+    }
+   ]
+  },
+  {
+   "name": "Authentik Aesthetic",
+   "heat": "Yükseliyor",
+   "desc": "Aşırı filtrelenmiş ve yapay içerikler yerine, daha doğal, kusurlu ve 'gerçek' (authentic) yaşam tarzı ve ürün sunumlarının öne çıkması.",
+   "why": "TikTok popüler trend listesinde 'authentik' hashtag'inin 2. sırada yer almasıyla göründü.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Minimalist, üzerinde 'Authentic' yazan veya doğal yaşamı vurgulayan el yapımı seramik kupalar ve keten tekstil ürünleri.",
+   "product_keywords": [
+    {
+     "keyword": "handmade ceramic mug authentic",
+     "label": "el yapımı seramik kupa"
+    },
+    {
+     "keyword": "minimalist linen tote bag",
+     "label": "minimalist keten bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "My Live Journey",
+   "heat": "Yükseliyor",
+   "desc": "Yayıncıların, içerik üreticilerinin ve bireylerin kendi gelişim, seyahat veya canlı yayın serüvenlerini estetik bir şekilde paylaşma akımı.",
+   "why": "TikTok popüler hashtag listesinde 'mylivejourney' etiketinin 3. sırada yer almasıyla göründü.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Canlı yayıncılar veya seyahat vloggerları için özel tasarlanmış 'Live' ışıklı masaüstü tabelaları veya kişiselleştirilmi",
+   "product_keywords": [
+    {
+     "keyword": "on air neon sign",
+     "label": "on air neon tabela"
+    },
+    {
+     "keyword": "vlogger background decor",
+     "label": "vlogger arka plan dekoru"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-09-29T15:07+00:00",
+ "trends_updated_at": "2026-09-29T18:05+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardağı",
@@ -403,13 +510,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-29T15:07+00:00"
+ "generated_at": "2026-09-29T18:05+00:00"
 }

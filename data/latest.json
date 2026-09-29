@@ -3,147 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Gen Z Iced Coffee Discourse",
+   "name": "Carl Sagan Fit",
    "heat": "Yükseliyor",
-   "desc": "Gen Z topluluğunda buzlu kahve tüketimi, bunun etrafındaki sosyal medya tartışmaları ve buzlu kahve bağımlılığı kültürü.",
-   "why": "Reddit GenZ alt forumunda buzlu kahve tartışmaları üzerine açılan başlığın yoğun etkileşim almasıyla göründü.",
+   "desc": "Klasik akademisyen, retro astronomi ve 80'ler vintage tarzını birleştiren maskülen giyim ve estetik akımı.",
+   "why": "Reddit'in r/malefashionadvice topluluğunda 'Carl Sagan fit' başlığı altında retro giyim tarzı olarak tartışılmaktadır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Üzerinde esprili Gen Z buzlu kahve sloganları ve illüstrasyonları olan cam pipetli bardaklar (glass cans).",
+   "idea": "Carl Sagan temalı vintage astronomi grafikli tişörtler ve retro akademik tarza uygun illüstrasyonlu sweatshirt'ler.",
    "product_keywords": [
     {
-     "keyword": "gen z iced coffee glass",
-     "label": "Gen Z buzlu kahve bardağı"
+     "keyword": "carl sagan shirt",
+     "label": "carl sagan tişörtü"
     },
     {
-     "keyword": "iced coffee aesthetic cup",
-     "label": "estetik buzlu kahve bardağı"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Fluorescent Lighting Movement",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin ofis ve okullardaki rahatsız edici, çiğ floresan ışıklara karşı duruşu ve daha sıcak, göz yormayan, estetik aydınlatma alternatifleri arayışı.",
-   "why": "Reddit GenZ topluluğunda floresan ışıkların kaldırılmasına yönelik paylaşılan gönderinin viral olmasıyla göründü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Floresan ışıkları yumuşatmak için tasarlanmış manyetik tavan filtresi kumaşları veya estetik, sıcak ışık veren taşınabil",
-   "product_keywords": [
-    {
-     "keyword": "fluorescent light filters classroom",
-     "label": "floresan ışık filtresi sınıf"
-    },
-    {
-     "keyword": "cozy desk lamp aesthetic",
-     "label": "estetik sıcak masa lambası"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit / Retro Academic",
-   "heat": "Yeni çıktı",
-   "desc": "Ünlü astrofizikçi Carl Sagan'ın retro akademik tarzının (boğazlı kazaklar, kadife ceketler, retro bilim insanı estetiği) genç erkek modasında yeniden ilgi görmesi.",
-   "why": "Reddit MaleFashionAdvice topluluğunda Carl Sagan tarzının yoğun ilgi görüp tartışılmasıyla ortaya çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro bilim temalı kadife ceketler, boğazlı kazaklar veya Carl Sagan esintili retro uzay/bilim rozetleri ve yamaları.",
-   "product_keywords": [
-    {
-     "keyword": "retro academic corduroy blazer",
-     "label": "retro akademik kadife ceket"
-    },
-    {
-     "keyword": "carl sagan space patch",
-     "label": "Carl Sagan uzay yaması"
+     "keyword": "vintage astronomy sweatshirt",
+     "label": "vintage astronomi sweatshirt"
     }
    ]
   },
   {
    "name": "City Taste Test",
    "heat": "Zirvede",
-   "desc": "Şehirlerdeki yerel lezzetleri, sokak yemeklerini ve popüler restoranları deneyip puanlama ve bu deneyimleri video ile paylaşma akımı.",
-   "why": "TikTok popüler hashtag listesinde 'citytastetest' etiketinin 1. sırada yer almasıyla göründü.",
+   "desc": "Farklı şehirlerdeki yerel lezzetleri ve sokak yemeklerini deneme konsepti etrafında şekillenen gurme şehir kültürü akımı.",
+   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer almaktadır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Gurmeler ve yerel lezzet avcıları için özel tasarlanmış, kazınabilir şehir yemek haritası veya yemek değerlendirme günlü",
+   "idea": "Şehir içi restoran ve sokak lezzeti kaşifleri için özel tasarlanmış kişiselleştirilebilir yemek tadım defteri ve gurme t",
    "product_keywords": [
     {
-     "keyword": "scratch off food map",
-     "label": "kazınabilir yemek haritası"
+     "keyword": "foodie journal",
+     "label": "gurme yemek günlüğü"
     },
     {
-     "keyword": "food tasting journal",
-     "label": "yemek tadım günlüğü"
+     "keyword": "city food guide notebook",
+     "label": "şehir yemek rehberi defteri"
     }
    ]
   },
   {
-   "name": "OpenAI Dots",
+   "name": "Choosin' Texas",
+   "heat": "Yeni çıktı",
+   "desc": "Ella Langley şarkısıyla özdeşleşen, Texas ve country müzik estetiğini öne çıkaran gençlik akımı.",
+   "why": "Reddit'in r/OutOfTheLoop topluluğunda 'Choosin' Texas' başlığıyla viral trend olarak sorulmuştur.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Texas temalı tipografik baskılı şapkalar, country estetiğine uygun kaneviçe desenli grafik tişörtler ve kovboy tarzı aks",
+   "product_keywords": [
+    {
+     "keyword": "choosin texas shirt",
+     "label": "choosin texas tişörtü"
+    },
+    {
+     "keyword": "country music graphic tee",
+     "label": "country müzik grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Grandma's China Vase Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel porselen ve çini desenlerini popüler şehir kültürüyle buluşturan mizahi vintage seramik estetiği.",
+   "why": "Reddit r/TikTokCringe topluluğunda 'your grandma’s favorite china vase enjoying NYC' paylaşımıyla öne çıkmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel mavi-beyaz porselen desenli (blue and white china) seramik kupalar, bez çantalar ve telefon kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "vintage china pattern mug",
+     "label": "vintage porselen desenli kupa"
+    },
+    {
+     "keyword": "blue and white china tote bag",
+     "label": "mavi beyaz porselen bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Authentik Estetiği",
    "heat": "Hızla yükseliyor",
-   "desc": "OpenAI'ın yeni tanıttığı 'dots' (noktalar) konsepti ve yapay zeka dünyasındaki minimalist görsel kimlik dalgası.",
-   "why": "Google'da 'openai dots' aramasının 5000+ arama hacmiyle hızla yükselenler arasına girmesiyle göründü.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Yapay zeka geliştiricileri ve teknoloji meraklıları için minimalist 'OpenAI Dots' temalı laptop stickerları ve masaüstü ",
-   "product_keywords": [
-    {
-     "keyword": "minimalist ai sticker",
-     "label": "minimalist yapay zeka çıkartması"
-    },
-    {
-     "keyword": "developer desk accessory",
-     "label": "yazılımcı masa aksesuarı"
-    }
-   ]
-  },
-  {
-   "name": "Authentik Aesthetic",
-   "heat": "Yükseliyor",
-   "desc": "Aşırı filtrelenmiş ve yapay içerikler yerine, daha doğal, kusurlu ve 'gerçek' (authentic) yaşam tarzı ve ürün sunumlarının öne çıkması.",
-   "why": "TikTok popüler trend listesinde 'authentik' hashtag'inin 2. sırada yer almasıyla göründü.",
+   "desc": "Sadelik, filtresiz doğallık ve yapaylıktan uzak durmayı savunan otantik yaşam tarzı akımı.",
+   "why": "TikTok popüler trend listesinde #authentik etiketi 2. sırada bulunmaktadır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Minimalist, üzerinde 'Authentic' yazan veya doğal yaşamı vurgulayan el yapımı seramik kupalar ve keten tekstil ürünleri.",
+   "idea": "Sade tipografi içeren organik pamuk sweatshirt'ler ve minimalist mottolu doğal ham bez ürünler.",
    "product_keywords": [
     {
-     "keyword": "handmade ceramic mug authentic",
-     "label": "el yapımı seramik kupa"
+     "keyword": "minimalist aesthetic hoodie",
+     "label": "minimalist estetik sweatshirt"
     },
     {
-     "keyword": "minimalist linen tote bag",
-     "label": "minimalist keten bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "My Live Journey",
-   "heat": "Yükseliyor",
-   "desc": "Yayıncıların, içerik üreticilerinin ve bireylerin kendi gelişim, seyahat veya canlı yayın serüvenlerini estetik bir şekilde paylaşma akımı.",
-   "why": "TikTok popüler hashtag listesinde 'mylivejourney' etiketinin 3. sırada yer almasıyla göründü.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Canlı yayıncılar veya seyahat vloggerları için özel tasarlanmış 'Live' ışıklı masaüstü tabelaları veya kişiselleştirilmi",
-   "product_keywords": [
-    {
-     "keyword": "on air neon sign",
-     "label": "on air neon tabela"
-    },
-    {
-     "keyword": "vlogger background decor",
-     "label": "vlogger arka plan dekoru"
+     "keyword": "authentic self tote bag",
+     "label": "otantik özgünlük bez çanta"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-29T18:05+00:00",
+ "trends_updated_at": "2026-09-29T21:03+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardağı",
@@ -511,12 +471,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-29T18:05+00:00"
+ "generated_at": "2026-09-29T21:03+00:00"
 }

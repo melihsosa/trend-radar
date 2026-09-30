@@ -3,127 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsygoth",
-   "heat": "Hızla yükseliyor",
-   "desc": "90'ların gotik tarzını astrolojik, mistik ve bohem detaylarla birleştiren, genç kadınlar arasında oldukça popüler olan bir estetik akım.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların bu estetiğe uygun kıyafetleri nasıl kombinleyeceğini sormasıyla öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mistik semboller, ay ve güneş figürleri içeren el yapımı takılar veya kadife odalık dekorasyon ürünleri.",
-   "product_keywords": [
-    {
-     "keyword": "whimsygoth decor",
-     "label": "whimsygoth dekorasyon"
-    },
-    {
-     "keyword": "whimsygoth jewelry",
-     "label": "whimsygoth takı"
-    }
-   ]
-  },
-  {
-   "name": "Feminine Band Shirts",
+   "name": "Gen Z Iced Coffee Culture",
    "heat": "Yükseliyor",
-   "desc": "Maskülen duran klasik müzik grubu tişörtlerini dantel, kurdele ve dekolte detaylarıyla daha feminen ve estetik hale getirme akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda grup tişörtlerini daha kadınsı gösterme arayışıyla görünmektedir.",
+   "desc": "Gen Z topluluğunda buzlu kahve tüketimi ve bunun etrafında dönen sosyal medya tartışmaları ile şekillenen estetik yaşam tarzı akımı.",
+   "why": "Reddit'in GenZ alt forumunda buzlu kahve odaklı yeni bir tartışma dalgasının (ice coffee discourse) popülerleşmesiyle görünürlük kazandı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kurdele ve dantel detaylarıyla süslenmiş, vintage kesim veya crop tarzda özel tasarım müzik grubu tişörtleri.",
+   "idea": "Üzerinde esprili Gen Z sloganları veya minimalist illüstrasyonlar olan estetik cam buzlu kahve bardakları ve bambu kapak",
    "product_keywords": [
     {
-     "keyword": "coquette band tee",
-     "label": "koket grup tişörtü"
+     "keyword": "aesthetic iced coffee glass",
+     "label": "estetik buzlu kahve bardağı"
     },
     {
-     "keyword": "feminine band shirt",
-     "label": "kadınsı grup tişörtü"
+     "keyword": "gen z coffee cup",
+     "label": "gen z kahve kupası"
     }
    ]
   },
   {
-   "name": "Dopamine Dressing",
-   "heat": "Yükseliyor",
-   "desc": "Kişinin modunu yükseltmek amacıyla parlak, canlı renkler ve eğlenceli desenler giymesini teşvik eden psikolojik giyim akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kıvrımlı hatlara sahip kadınlar için dopamin giyimi üzerine yapılan tartışmalarda geçmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Rengarenk, büyük ve eğlenceli tasarımlara sahip el yapımı polimer kil küpeler veya parlak renkli örgü aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "dopamine dressing fashion",
-     "label": "dopamin giyim modası"
-    },
-    {
-     "keyword": "colorful statement earrings",
-     "label": "renkli halka küpeler"
-    }
-   ]
-  },
-  {
-   "name": "Aran Islands Knitwear",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel İrlanda saç örgüsü desenlerine sahip, ömürlük ve yüksek kaliteli yün kazak ve hırkalara yönelik artan talep.",
-   "why": "Reddit'in BuyItForLife topluluğunda sahte ürünlerden kaçınıp gerçek Aran örgüsü kazak arayanların tartışmalarıyla dikkat çekmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel yöntemlerle elde örülmüş, %100 yün kalın saç örgülü hırkalar, atkılar ve bereler.",
-   "product_keywords": [
-    {
-     "keyword": "authentic aran sweater",
-     "label": "orijinal aran kazak"
-    },
-    {
-     "keyword": "cable knit wool cardigan",
-     "label": "saç örgüsü yün hırka"
-    }
-   ]
-  },
-  {
-   "name": "Chaps over Jeans",
+   "name": "Anti-Fluorescent Light Club",
    "heat": "Yeni çıktı",
-   "desc": "Geleneksel kovboy koruyucu pantolonlarının (chaps) modern sokak modasına ve denim pantolonların üzerine uyarlanması akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların kot pantolon üzerine chap giyme trendini sorgulamasıyla ortaya çıkmıştır.",
+   "desc": "Gençlerin okullardaki ve ofislerdeki göz yorucu, soğuk floresan ışıklara karşı başlattığı, daha sıcak, loş ve göz dostu ortam aydınlatmalarını savunan akım.",
+   "why": "Reddit GenZ forumunda floresan ışıkların tamamen kaldırılmasına ve daha konforlu aydınlatmalara geçilmesine yönelik çok popüler bir gönderiyle ortaya çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kot pantolonların üzerine giyilebilecek suni deri veya püsküllü modern tasarım chap kemerleri ve aksesuarları.",
+   "idea": "Sınıf ve ofislerdeki floresan ışıkları yumuşatmak için tasarlanmış estetik, mıknatıslı kumaş ışık filtreleri veya loş, t",
    "product_keywords": [
     {
-     "keyword": "fashion chaps",
-     "label": "moda deri chap pantolon"
+     "keyword": "fluorescent light cover",
+     "label": "floresan ışık filtresi"
     },
     {
-     "keyword": "western fringe belt",
-     "label": "kovboy püsküllü kemer"
+     "keyword": "cozy desk lamp",
+     "label": "loş masa lambası"
     }
    ]
   },
   {
-   "name": "Heated Rivalry Fandom",
-   "heat": "Zirvede",
-   "desc": "Popüler hokey temalı aşk romanı 'Heated Rivalry' etrafında gelişen ve gerçek hayatta yardım vakıflarına kadar uzanan güçlü hayran kitlesi akımı.",
-   "why": "Google'da 'heated rivalry' aramalarındaki ani artış ve buna bağlı gerçek hayattaki vakıf projeleriyle görünmektedir.",
+   "name": "Carl Sagan Aesthetic",
+   "heat": "Yükseliyor",
+   "desc": "Ünlü bilim insanı Carl Sagan'ın retro, entelektüel ve eforsuz şıklığını (kadife ceketler, boğazlı kazaklar, vintage bilim temaları) temel alan akademik giyim tarzı.",
+   "why": "Reddit'in malefashionadvice topluluğunda 'Carl Sagan fit' başlığı altında bu tarzın yoğun ilgi görmesiyle dikkat çekti.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "Hokey temalı aşk romanı okurlarına yönelik özel tasarım kitap ayraçları, mumlar ve fandom tişörtleri.",
+   "idea": "Retro bilim temalı işlemeli kadife yamalar, retro uzay grafikli vintage tişörtler veya akademik tarzda pirinç broşlar.",
    "product_keywords": [
     {
-     "keyword": "heated rivalry merch",
-     "label": "heated rivalry ürünleri"
+     "keyword": "carl sagan shirt",
+     "label": "carl sagan tişörtü"
     },
     {
-     "keyword": "hockey romance bookish",
-     "label": "hokey aşk romanı temalı"
+     "keyword": "retro academic aesthetic",
+     "label": "retro akademik estetik"
+    }
+   ]
+  },
+  {
+   "name": "City Taste Test",
+   "heat": "Hızla yükseliyor",
+   "desc": "Şehirlerdeki yerel lezzetleri keşfetme, sokak yemeklerini deneme ve bunları estetik videolarla puanlayarak bir şehir rehberi oluşturma akımı.",
+   "why": "TikTok Creative Center'da 'citytastetest' hashtag'inin ABD'de 1. sıraya yerleşmesiyle kendini gösterdi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Gurmeler ve yerel gezginler için özel tasarlanmış, şehir bazlı kazınabilir yemek haritaları veya estetik tadım değerlend",
+   "product_keywords": [
+    {
+     "keyword": "scratch off food map",
+     "label": "kazınabilir yemek haritası"
+    },
+    {
+     "keyword": "food tasting journal",
+     "label": "yemek tadım günlüğü"
+    }
+   ]
+  },
+  {
+   "name": "Retro Dolly Parton Aesthetic",
+   "heat": "Yükseliyor",
+   "desc": "Dolly Parton'ın renkli hayatını ve retro country tarzını kutlayan, nostaljik ve maksimalist pembe kovboy estetiği.",
+   "why": "Reddit popculturechat forumunda Dolly Parton müzesinden yeni paylaşılan nostaljik fotoğrafların yoğun ilgi görmesiyle tetiklendi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Pembe kovboy temalı retro Dolly Parton çıkartmaları, vintage esintili country duvar posterleri veya işlemeli retro bez ç",
+   "product_keywords": [
+    {
+     "keyword": "retro dolly parton shirt",
+     "label": "retro dolly parton tişörtü"
+    },
+    {
+     "keyword": "country western stickers",
+     "label": "country western çıkartmaları"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T15:11+00:00",
+ "trends_updated_at": "2026-09-30T18:04+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -376,12 +356,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-30T15:11+00:00"
+ "generated_at": "2026-09-30T18:04+00:00"
 }

@@ -3,107 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Gen Z Iced Coffee Culture",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z topluluğunda buzlu kahve tüketimi ve bunun etrafında dönen sosyal medya tartışmaları ile şekillenen estetik yaşam tarzı akımı.",
-   "why": "Reddit'in GenZ alt forumunda buzlu kahve odaklı yeni bir tartışma dalgasının (ice coffee discourse) popülerleşmesiyle görünürlük kazandı.",
+   "name": "Gen Z Iced Coffee Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z arasında günlük yaşamın ve sosyal medya mizahının merkezine oturan buzlu kahve bağımlılığı ve etrafında dönen tartışmalar.",
+   "why": "Reddit'in r/GenZ topluluğunda gençlerin buzlu kahve diyalogları ve tartışmaları hakkında açılan başlıklar öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Üzerinde esprili Gen Z sloganları veya minimalist illüstrasyonlar olan estetik cam buzlu kahve bardakları ve bambu kapak",
+   "idea": "Gen Z buzlu kahve mizahı ve illüstrasyonları içeren pipetli cam içecek bardakları ve bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "aesthetic iced coffee glass",
-     "label": "estetik buzlu kahve bardağı"
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardak"
     },
     {
-     "keyword": "gen z coffee cup",
-     "label": "gen z kahve kupası"
+     "keyword": "iced coffee tote bag",
+     "label": "buzlu kahve bez çanta"
     }
    ]
   },
   {
-   "name": "Anti-Fluorescent Light Club",
-   "heat": "Yeni çıktı",
-   "desc": "Gençlerin okullardaki ve ofislerdeki göz yorucu, soğuk floresan ışıklara karşı başlattığı, daha sıcak, loş ve göz dostu ortam aydınlatmalarını savunan akım.",
-   "why": "Reddit GenZ forumunda floresan ışıkların tamamen kaldırılmasına ve daha konforlu aydınlatmalara geçilmesine yönelik çok popüler bir gönderiyle ortaya çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sınıf ve ofislerdeki floresan ışıkları yumuşatmak için tasarlanmış estetik, mıknatıslı kumaş ışık filtreleri veya loş, t",
-   "product_keywords": [
-    {
-     "keyword": "fluorescent light cover",
-     "label": "floresan ışık filtresi"
-    },
-    {
-     "keyword": "cozy desk lamp",
-     "label": "loş masa lambası"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Aesthetic",
+   "name": "Carl Sagan Fit / Retro Akademik Estetik",
    "heat": "Yükseliyor",
-   "desc": "Ünlü bilim insanı Carl Sagan'ın retro, entelektüel ve eforsuz şıklığını (kadife ceketler, boğazlı kazaklar, vintage bilim temaları) temel alan akademik giyim tarzı.",
-   "why": "Reddit'in malefashionadvice topluluğunda 'Carl Sagan fit' başlığı altında bu tarzın yoğun ilgi görmesiyle dikkat çekti.",
+   "desc": "Carl Sagan'ın 70'ler ve 80'ler klasik akademisyen tarzını, retro evren merakını ve entelektüel giyim estetiğini günümüze taşıyan giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' özel bir stil başlığı olarak tartışılıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro bilim temalı işlemeli kadife yamalar, retro uzay grafikli vintage tişörtler veya akademik tarzda pirinç broşlar.",
+   "idea": "Carl Sagan büstü/sözleri ve retro uzay grafikleri içeren vintage tarz baskılı sweatshirtler ve grafik tişörtler.",
    "product_keywords": [
     {
      "keyword": "carl sagan shirt",
-     "label": "carl sagan tişörtü"
+     "label": "Carl Sagan tişörtü"
     },
     {
-     "keyword": "retro academic aesthetic",
-     "label": "retro akademik estetik"
+     "keyword": "retro astronomy sweatshirt",
+     "label": "retro astronomi sweatshirt"
     }
    ]
   },
   {
-   "name": "City Taste Test",
-   "heat": "Hızla yükseliyor",
-   "desc": "Şehirlerdeki yerel lezzetleri keşfetme, sokak yemeklerini deneme ve bunları estetik videolarla puanlayarak bir şehir rehberi oluşturma akımı.",
-   "why": "TikTok Creative Center'da 'citytastetest' hashtag'inin ABD'de 1. sıraya yerleşmesiyle kendini gösterdi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Gurmeler ve yerel gezginler için özel tasarlanmış, şehir bazlı kazınabilir yemek haritaları veya estetik tadım değerlend",
-   "product_keywords": [
-    {
-     "keyword": "scratch off food map",
-     "label": "kazınabilir yemek haritası"
-    },
-    {
-     "keyword": "food tasting journal",
-     "label": "yemek tadım günlüğü"
-    }
-   ]
-  },
-  {
-   "name": "Retro Dolly Parton Aesthetic",
-   "heat": "Yükseliyor",
-   "desc": "Dolly Parton'ın renkli hayatını ve retro country tarzını kutlayan, nostaljik ve maksimalist pembe kovboy estetiği.",
-   "why": "Reddit popculturechat forumunda Dolly Parton müzesinden yeni paylaşılan nostaljik fotoğrafların yoğun ilgi görmesiyle tetiklendi.",
+   "name": "Anti-Florasan Yumuşak Aydınlatma Akımı",
+   "heat": "Yeni çıktı",
+   "desc": "Gen Z'nin okullarda ve ofislerde kullanılan beyaz florasan ışıklara tepki göstererek sıcak, loş ve ortamı güzelleştiren aydınlatmaları tercih etmesi.",
+   "why": "Reddit r/GenZ subreddit'inde sert florasan ışıkların kaldırılması talebi yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Pembe kovboy temalı retro Dolly Parton çıkartmaları, vintage esintili country duvar posterleri veya işlemeli retro bez ç",
+   "idea": "Çalışma masaları veya yurt odaları için sevimli tasarımlara sahip, ayarlanabilir sıcak tonlu şarjlı LED masa ve gece lam",
    "product_keywords": [
     {
-     "keyword": "retro dolly parton shirt",
-     "label": "retro dolly parton tişörtü"
+     "keyword": "cozy ambient desk lamp",
+     "label": "sıcak ortam masa lambası"
     },
     {
-     "keyword": "country western stickers",
-     "label": "country western çıkartmaları"
+     "keyword": "cute aesthetic night light",
+     "label": "estetik sevimli gece lambası"
+    }
+   ]
+  },
+  {
+   "name": "City Taste Test (Şehir Lezzet Keşfi)",
+   "heat": "Zirvede",
+   "desc": "Sosyal medyada farklı şehirlerin ve yerel mekânların ikonik lezzetlerini tatma, puanlama ve içerik üretme akımı.",
+   "why": "TikTok Creative Center verilerinde #citytastetest hashtag'i 1. sırada yer alıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Yemek tutkunları için özel tasarlanmış şehir bazlı lezzet tadım defterleri, derecelendirme kartları ve yapıştırmalar.",
+   "product_keywords": [
+    {
+     "keyword": "foodie journal notebook",
+     "label": "gurme tadım günlüğü"
+    },
+    {
+     "keyword": "taste test review sheet",
+     "label": "lezzet testi değerlendirme kartı"
+    }
+   ]
+  },
+  {
+   "name": "Noreaster / Sert Kış ve Fırtına Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kuzeydoğu fırtınaları ve yaklaşan soğuk hava dalgasıyla birlikte ortaya çıkan koruyucu, sıcak tutan ve kış temalı giyim akımı.",
+   "why": "TikTok popüler hashtag listesinde #noreaster üst sıralarda yükselişte.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Soğuk hava fırtınası temalı nakışlı bereler, el yapımı kalın örgü atkılar ve kış temalı kapüşonlu sweatshirtler.",
+   "product_keywords": [
+    {
+     "keyword": "chunky knit beanie",
+     "label": "kalın örgü bere"
+    },
+    {
+     "keyword": "winter storm sweater",
+     "label": "kış fırtınası kazak"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T18:04+00:00",
+ "trends_updated_at": "2026-09-30T21:03+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -348,7 +348,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -363,5 +363,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-09-30T18:04+00:00"
+ "generated_at": "2026-09-30T21:03+00:00"
 }

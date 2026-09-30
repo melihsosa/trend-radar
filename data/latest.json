@@ -3,107 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "City Taste Test",
-   "heat": "Hızla yükseliyor",
-   "desc": "Farklı şehirlerdeki popüler mekanları ve yerel lezzetleri deneyimleyip puanlama üzerine kurulu viral yemek kültürü akımı.",
-   "why": "TikTok Creative Center listesinde '#citytastetest' etiketi 1. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Gurme gezginler için özel tasarlanmış şehir yemek tadım ve puanlama defteri.",
-   "product_keywords": [
-    {
-     "keyword": "food review journal",
-     "label": "yemek inceleme günlüğü"
-    },
-    {
-     "keyword": "city food guide notebook",
-     "label": "şehir yemek rehberi defteri"
-    }
-   ]
-  },
-  {
-   "name": "Whimsigoth",
+   "name": "Whimsy Goth Estetiği",
    "heat": "Yükseliyor",
-   "desc": "90'lar nostaljisi, gotik unsurlar ve masalsı/astral detayların birleştiği karanlık romantik estetik akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda Whimsigoth tarzı kıyafet kombini oluşturma başlığı dikkat çekiyor.",
+   "desc": "Gotik unsurları romantik, masalsı ve nostaljik detaylarla harmanlayan giyim ve yaşam tarzı akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların bu tarzdaki parçaları kombinleme ve gardıroplarına uyarlama arayışında olduğu görüldü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Celestial ve büyülü motiflerle süslenmiş Whimsigoth tarzı dantel yakalık veya takı aksesuarları.",
+   "idea": "Masalsı ve alternatif tarzı yansıtan kadife aksesuarlar, dantel detaylı takılar veya nostaljik gotik oda dekorasyon ürün",
    "product_keywords": [
     {
      "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
+     "label": "whimsy goth takı"
     },
     {
-     "keyword": "whimsigoth collar",
-     "label": "whimsigoth dantel yakalık"
+     "keyword": "whimsigoth decor",
+     "label": "whimsy goth dekor"
     }
    ]
   },
   {
-   "name": "Aran Knitwear (Geleneksel İrlanda Örgüsü)",
+   "name": "City Taste Test",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kullanıcıların yaşadıkları veya gezdikleri şehirlerdeki yerel lezzetleri ve gizli mekanları deneyimleyip paylaştıkları viral akım.",
+   "why": "TikTok Creative Center verilerine göre 'citytastetest' hashtag'i listelerin 1. sırasında yer alıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Şehir gurmeleri için hazırlanmış kazı kazan lezzet haritaları, mekan değerlendirme günlükleri veya gurme seyahat planlay",
+   "product_keywords": [
+    {
+     "keyword": "foodie journal",
+     "label": "gurme tadım günlüğü"
+    },
+    {
+     "keyword": "scratch off city map",
+     "label": "kazı kazan şehir haritası"
+    }
+   ]
+  },
+  {
+   "name": "Kaliteli ve Dayanıklı Moda (Anti-Enshittification)",
+   "heat": "Zirvede",
+   "desc": "Hızlı modanın düşen kalitesine karşı uzun ömürlü, tamir edilebilir ve yüksek kaliteli tekstil ürünlerine yönelme hareketi.",
+   "why": "Reddit'in BuyItForLife ve femalefashionadvice topluluklarında sweatshirt kalitelerinin düşmesi ve vintage ceketlerin yenilenmesi yoğun tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yüksek gramajlı dayanıklı pamuklu sweatshirtler, balmumu ceket yenileme/bakım kitleri ve giysi tamir aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "heavyweight cotton sweatshirt",
+     "label": "kalın pamuklu sweatshirt"
+    },
+    {
+     "keyword": "wax jacket care kit",
+     "label": "balmumu ceket bakım seti"
+    }
+   ]
+  },
+  {
+   "name": "Feminenleştirilmiş Grup Tişörtleri (Feminine Band Tees)",
    "heat": "Yükseliyor",
-   "desc": "Dayanıklı, otantik ve geleneksel İrlanda Aran desenli kaliteli yün giysilere duyulan ilgi.",
-   "why": "Reddit r/BuyItForLife topluluğunda otantik Aran örgü ürünleri ve kalitesi üzerine paylaşımlar öne çıkıyor.",
+   "desc": "Klasik, bol ve maskülen kesim müzik grubu tişörtlerini kadınsı kesimler, danteller ve kişiselleştirmelerle yeniden tarzlama akımı.",
+   "why": "Reddit femalefashionadvice başlığında kullanıcılar maskülen grup tişörtlerini nasıl daha feminen hale getirebileceklerini tartışıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel Aran dokuma desenli el örgüsü yün bere ve atkı setleri.",
+   "idea": "Kadınsı kesime sahip vintage etkili grup tişörtleri, crop-top tişört dönüştürme kitleri veya dantel detaylı üstler.",
    "product_keywords": [
     {
-     "keyword": "aran knit beanie",
-     "label": "aran örgü bere"
+     "keyword": "feminine band shirt",
+     "label": "kadın kesim grup tişörtü"
     },
     {
-     "keyword": "irish wool scarf",
-     "label": "irlanda yün atkı"
-    }
-   ]
-  },
-  {
-   "name": "Feminized Band Tees",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik ve maskülen kesim müzik grubu tişörtlerini feminen formlara, korse veya büzgü detaylarına dönüştürme stili.",
-   "why": "Reddit r/femalefashionadvice kanalında grup tişörtlerini daha feminen gösterme yolları tartışılıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Tişörtleri daraltmak ve stilize etmek için tasarlanmış özel tişört büzme klipsleri ve dönüştürme aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "upcycled band tee",
-     "label": "yeniden tasarlanmış grup tişörtü"
-    },
-    {
-     "keyword": "shirt cinch clip",
-     "label": "tişört büzme klipsi"
-    }
-   ]
-  },
-  {
-   "name": "Vintage China / Grandmacore",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel nostaljik porselen vazo ve çini desenlerinin modern aksesuarlarda estetik unsur olarak kullanılması.",
-   "why": "Reddit r/TikTokCringe topluluğunda nostaljik porselen vazo temalı popüler bir paylaşım bulunuyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Klasik mavi-beyaz porselen ve çini desenli telefon kılıfları veya seramik kupalar.",
-   "product_keywords": [
-    {
-     "keyword": "vintage china phone case",
-     "label": "nostaljik çini desenli kılıf"
-    },
-    {
-     "keyword": "blue white porcelain mug",
-     "label": "mavi beyaz porselen kupa"
+     "keyword": "custom crop band tee",
+     "label": "özel tasarım crop tişört"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T06:04+00:00",
+ "trends_updated_at": "2026-09-30T09:04+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -356,12 +336,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-30T06:04+00:00"
+ "generated_at": "2026-09-30T09:04+00:00"
 }

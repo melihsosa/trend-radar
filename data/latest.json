@@ -3,107 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Carl Sagan Fit",
+   "name": "Whimsigoth",
    "heat": "Yükseliyor",
-   "desc": "Klasik akademisyen, retro astronomi ve 80'ler vintage tarzını birleştiren maskülen giyim ve estetik akımı.",
-   "why": "Reddit'in r/malefashionadvice topluluğunda 'Carl Sagan fit' başlığı altında retro giyim tarzı olarak tartışılmaktadır.",
+   "desc": "90'lar cadı estetiği ile bohem ve gotik detayları (kadife kumaşlar, danteller, koyu tonlar ve mistik astroloji figürleri) birleştiren gençlik alt kültür akımı.",
+   "why": "Reddit'te r/femalefashionadvice topluluğunda kullanıcıların Whimsigoth tarzını giysilere ve günlük kombinlere uygulama arayışı öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Carl Sagan temalı vintage astronomi grafikli tişörtler ve retro akademik tarza uygun illüstrasyonlu sweatshirt'ler.",
+   "idea": "Mistik ay ve yıldız motifli pirinç/kadife kolyeler, güneş sembollü retro kadife gerdanlıklar veya dantel detaylı yelekle",
    "product_keywords": [
     {
-     "keyword": "carl sagan shirt",
-     "label": "carl sagan tişörtü"
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
     },
     {
-     "keyword": "vintage astronomy sweatshirt",
-     "label": "vintage astronomi sweatshirt"
+     "keyword": "whimsigoth velvet choker",
+     "label": "whimsigoth kadife gerdanlık"
     }
    ]
   },
   {
-   "name": "City Taste Test",
+   "name": "City Taste Test & Sokak Lezzeti Avcılığı",
    "heat": "Zirvede",
-   "desc": "Farklı şehirlerdeki yerel lezzetleri ve sokak yemeklerini deneme konsepti etrafında şekillenen gurme şehir kültürü akımı.",
-   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer almaktadır.",
+   "desc": "Gençlerin seyahat ettikleri şehirleri yerel sokak lezzetleri ve ikonik tatlar üzerinden keşfedip puanladığı gastronomik video ve yaşam tarzı trendi.",
+   "why": "TikTok Creative Center verilerinde #citytastetest etiketi ABD'de 1. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir içi restoran ve sokak lezzeti kaşifleri için özel tasarlanmış kişiselleştirilebilir yemek tadım defteri ve gurme t",
+   "idea": "Şehirlere özel sokak yemekleri kontrol listesi içeren kazı kazan posteri veya kişiselleştirilebilir gastronomi seyahat g",
    "product_keywords": [
     {
-     "keyword": "foodie journal",
-     "label": "gurme yemek günlüğü"
+     "keyword": "food bucket list scratch off poster",
+     "label": "kazı kazan gurme posteri"
     },
     {
-     "keyword": "city food guide notebook",
-     "label": "şehir yemek rehberi defteri"
+     "keyword": "foodie travel journal",
+     "label": "yemek seyahat günlüğü"
     }
    ]
   },
   {
-   "name": "Choosin' Texas",
-   "heat": "Yeni çıktı",
-   "desc": "Ella Langley şarkısıyla özdeşleşen, Texas ve country müzik estetiğini öne çıkaran gençlik akımı.",
-   "why": "Reddit'in r/OutOfTheLoop topluluğunda 'Choosin' Texas' başlığıyla viral trend olarak sorulmuştur.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Texas temalı tipografik baskılı şapkalar, country estetiğine uygun kaneviçe desenli grafik tişörtler ve kovboy tarzı aks",
-   "product_keywords": [
-    {
-     "keyword": "choosin texas shirt",
-     "label": "choosin texas tişörtü"
-    },
-    {
-     "keyword": "country music graphic tee",
-     "label": "country müzik grafik tişört"
-    }
-   ]
-  },
-  {
-   "name": "Grandma's China Vase Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel porselen ve çini desenlerini popüler şehir kültürüyle buluşturan mizahi vintage seramik estetiği.",
-   "why": "Reddit r/TikTokCringe topluluğunda 'your grandma’s favorite china vase enjoying NYC' paylaşımıyla öne çıkmıştır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel mavi-beyaz porselen desenli (blue and white china) seramik kupalar, bez çantalar ve telefon kılıfları.",
-   "product_keywords": [
-    {
-     "keyword": "vintage china pattern mug",
-     "label": "vintage porselen desenli kupa"
-    },
-    {
-     "keyword": "blue and white china tote bag",
-     "label": "mavi beyaz porselen bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Authentik Estetiği",
+   "name": "Anti-Enshittification Ağır Gramaj Giyim",
    "heat": "Hızla yükseliyor",
-   "desc": "Sadelik, filtresiz doğallık ve yapaylıktan uzak durmayı savunan otantik yaşam tarzı akımı.",
-   "why": "TikTok popüler trend listesinde #authentik etiketi 2. sırada bulunmaktadır.",
+   "desc": "Hızlı modanın sentetik ve dayanıksızlaşan ürünlerine tepki olarak ortaya çıkan, ömür boyu giyilebilecek %100 pamuklu, ağır gramajlı (heavyweight) ve retro kesim giysi arayışı.",
+   "why": "Reddit'te r/femalefashionadvice ve r/BuyItForLife alt dizinlerinde kalitesizleşen sweatshirt'ler ve dayanıklı ürün alternatifleri yoğun ilgi görüyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "Sade tipografi içeren organik pamuk sweatshirt'ler ve minimalist mottolu doğal ham bez ürünler.",
+   "idea": "400+ GSM kalın pamuklu kumaştan üretilmiş, minimalist veya vintage nakış detaylı unisex ömürlük sweatshirt.",
    "product_keywords": [
     {
-     "keyword": "minimalist aesthetic hoodie",
-     "label": "minimalist estetik sweatshirt"
+     "keyword": "heavyweight cotton hoodie",
+     "label": "ağır gramajlı pamuklu kapüşonlu"
     },
     {
-     "keyword": "authentic self tote bag",
-     "label": "otantik özgünlük bez çanta"
+     "keyword": "vintage heavyweight sweatshirt",
+     "label": "vintage kalın sweatshirt"
+    }
+   ]
+  },
+  {
+   "name": "Anime Yapı Blokları ve Sergileme Standları",
+   "heat": "Hızla yükseliyor",
+   "desc": "Resmi ve sızıntı LEGO Dragon Ball duyurularıyla birlikte anime figürleri ile yapı bloklarını koleksiyon parçası olarak birleştiren hobi akımı.",
+   "why": "Google yükselen aramalarda 'lego dragon ball' sorgusu Shenron ve Goku set duyurularıyla birlikte yüksek hacme ulaştı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Blok figürler ve ejderha temalı modeller için LED aydınlatmalı özel pleksi/akrilik sergileme kutusu ve standı.",
+   "product_keywords": [
+    {
+     "keyword": "acrylic display case for lego",
+     "label": "lego akrilik sergileme kutusu"
+    },
+    {
+     "keyword": "anime brick display stand",
+     "label": "anime yapı bloğu standı"
+    }
+   ]
+  },
+  {
+   "name": "Femme Band Tee Dönüşümü (Upcycled Rock Modası)",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel bol ve maskülen rock/metal müzik grubu tişörtlerinin korse ipleri, kurdeleler ve danteller eklenerek kadınsı bir tarza dönüştürülmesi akımı.",
+   "why": "Reddit r/femalefashionadvice'da grup tişörtlerini feminenleştirmek isteyen kullanıcıların paylaşımları dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sırtı korse bağcıklı veya kenarları dantel fistolu elde dönüştürülmüş (upcycled) vintage rock tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "upcycled band tee",
+     "label": "dönüştürülmüş grup tişörtü"
+    },
+    {
+     "keyword": "corset band t-shirt",
+     "label": "korse detaylı rock tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Modern Western & Chaps Modası",
+   "heat": "Yükseliyor",
+   "desc": "Viral country şarkıları ve Teksas estetiğiyle sokak stiline taşınan, jean üzeri giyilen saçaklı chaps kemerleri ve modern kovboy aksesuarları akımı.",
+   "why": "Reddit'te r/OutOfTheLoop'ta viral country şarkısı 'Choosin Texas' konuşulurken r/femalefashionadvice'ta jean üzerine chaps kombinleri öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Jean ve şortların üzerine takılabilen ayarlanabilir suni deri veya süet, püsküllü western bel kemeri aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "western fringe chaps belt",
+     "label": "western saçaklı chaps kemer"
+    },
+    {
+     "keyword": "cowgirl leather waist belt",
+     "label": "kovboy tarzı deri bel kemeri"
+    }
+   ]
+  },
+  {
+   "name": "Yacht Rock Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "70'ler ve 80'lerin retro yelken, sahil kulübü ve soft-rock denizci temalarını eğlenceli ve nostaljik bir giyim/parti tarzına dönüştüren hareket.",
+   "why": "Google trendlerinde 'dwts' ile birlikte özel Yacht Rock temalı gecenin aranmasıyla popüler kültüre taşındı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Retro yelken kulübü nakışlı kanvas bez çantalar, nostaljik denizci temalı emaye kupalar veya işlemeli kaptan şapkaları.",
+   "product_keywords": [
+    {
+     "keyword": "yacht rock captain hat",
+     "label": "retro kaptan şapkası"
+    },
+    {
+     "keyword": "vintage sailing tote bag",
+     "label": "vintage yelken temalı bez çanta"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-29T21:03+00:00",
+ "trends_updated_at": "2026-09-30T00:04+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardağı",
@@ -471,12 +511,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-09-29T21:03+00:00"
+ "generated_at": "2026-09-30T00:04+00:00"
 }

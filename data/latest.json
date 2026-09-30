@@ -146,48 +146,25 @@
  "trends_updated_at": "2026-09-30T03:03+00:00",
  "products": [
   {
-   "name": "buzlu kahve cam bardağı",
-   "keyword": "iced coffee glass cup",
-   "origin": "Akım: Gen Z Iced Coffee Culture",
-   "change": 114.1,
-   "spark": [
-    64,
-    74,
-    54,
-    0,
-    0,
-    0,
-    0,
-    65,
-    98,
-    0,
-    68,
-    80,
-    100,
-    0
-   ],
-   "stale": false
-  },
-  {
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": 9.6,
+   "change": 11.4,
    "spark": [
-    34,
-    33,
-    34,
-    36,
-    33,
-    24,
-    34,
-    32,
-    38,
-    38,
-    40,
-    37,
     31,
-    34
+    31,
+    34,
+    30,
+    22,
+    32,
+    30,
+    35,
+    35,
+    38,
+    35,
+    31,
+    25,
+    35
    ],
    "stale": false
   },
@@ -195,75 +172,52 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": 4.9,
+   "change": 6.5,
    "spark": [
-    51,
-    52,
-    52,
-    58,
-    63,
-    42,
-    50,
     49,
+    48,
+    54,
+    58,
+    39,
+    47,
+    46,
+    47,
+    46,
+    57,
+    65,
     51,
-    51,
-    62,
-    70,
-    50,
-    53
+    45,
+    52
    ],
    "stale": false
   },
   {
-   "name": "Kişiye özel kolye",
-   "keyword": "personalized necklace",
+   "name": "Evcil hayvan portresi",
+   "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": 4.1,
+   "change": 0.0,
    "spark": [
-    9,
-    10,
-    8,
-    10,
-    15,
-    11,
-    10,
-    12,
-    9,
-    10,
-    12,
-    11,
-    9,
-    13
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1,
+    0,
+    2,
+    0,
+    2,
+    2,
+    0
    ],
    "stale": false
   },
   {
-   "name": "Kokulu mum",
-   "keyword": "scented candle",
-   "origin": "İzleme listen",
-   "change": 2.6,
-   "spark": [
-    31,
-    31,
-    30,
-    32,
-    44,
-    31,
-    34,
-    33,
-    32,
-    33,
-    36,
-    37,
-    31,
-    37
-   ],
-   "stale": false
-  },
-  {
-   "name": "sonbahar akşam yemeği dekoru",
-   "keyword": "fall dinner party decor",
-   "origin": "Akım: Fall Dinner Party Decor & Candles",
+   "name": "yemek tadım günlüğü",
+   "keyword": "food taste test journal",
+   "origin": "Akım: City Taste Test",
    "change": 0.0,
    "spark": [
     0,
@@ -284,9 +238,9 @@
    "stale": false
   },
   {
-   "name": "sonbahar kokulu mumlar",
-   "keyword": "autumn scented candles",
-   "origin": "Akım: Fall Dinner Party Decor & Candles",
+   "name": "şehir yemek turu bez çantası",
+   "keyword": "city food tour tote bag",
+   "origin": "Akım: City Taste Test",
    "change": 0.0,
    "spark": [
     0,
@@ -307,54 +261,8 @@
    "stale": false
   },
   {
-   "name": "fantastik romantizm balo kıyafeti",
-   "keyword": "fantasy romance ball outfit",
-   "origin": "Akım: Fantasy Romance Ball Aesthetic",
-   "change": 0.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "romantasy aksesuarları",
-   "keyword": "romantasy accessories",
-   "origin": "Akım: Fantasy Romance Ball Aesthetic",
-   "change": 0.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "z kuşağı buzlu kahve bardağı",
-   "keyword": "gen z iced coffee glass",
+   "name": "soğuk kahve sweatshirt",
+   "keyword": "iced coffee sweatshirt",
    "origin": "Akım: Gen Z Iced Coffee Culture",
    "change": 0.0,
    "spark": [
@@ -376,9 +284,9 @@
    "stale": false
   },
   {
-   "name": "samimi ortam masa lambası",
-   "keyword": "cozy ambient desk lamp",
-   "origin": "Akım: Cozy Ambient Desk Lighting",
+   "name": "florasan ışık yumuşatıcı kılıf",
+   "keyword": "fluorescent light covers classroom",
+   "origin": "Akım: Fluorescent Light Rejection",
    "change": 0.0,
    "spark": [
     0,
@@ -399,99 +307,76 @@
    "stale": false
   },
   {
-   "name": "yemek tadım günlüğü",
-   "keyword": "food tasting journal",
-   "origin": "Akım: City Taste Test",
-   "change": 0.0,
+   "name": "Kokulu mum",
+   "keyword": "scented candle",
+   "origin": "İzleme listen",
+   "change": -0.9,
    "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "şehir yemek rehberi defteri",
-   "keyword": "city food guide notebook",
-   "origin": "Akım: City Taste Test",
-   "change": 0.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "sıcak ortam ışığı",
-   "keyword": "warm ambient light",
-   "origin": "Akım: Cozy Ambient Desk Lighting",
-   "change": -9.3,
-   "spark": [
-    0,
-    21,
     29,
-    0,
+    28,
+    30,
+    41,
+    28,
+    33,
+    32,
+    29,
+    29,
+    34,
+    34,
+    33,
+    28,
+    32
+   ],
+   "stale": false
+  },
+  {
+   "name": "Kişiye özel kolye",
+   "keyword": "personalized necklace",
+   "origin": "İzleme listen",
+   "change": -5.3,
+   "spark": [
+    10,
+    7,
+    11,
+    15,
+    11,
+    10,
+    11,
+    9,
+    9,
+    11,
+    10,
+    9,
+    9,
+    14
+   ],
+   "stale": false
+  },
+  {
+   "name": "soğuk kahve cam kupa",
+   "keyword": "iced coffee glass tumbler",
+   "origin": "Akım: Gen Z Iced Coffee Culture",
+   "change": -100.0,
+   "spark": [
+    71,
     100,
     0,
     0,
-    30,
-    19,
-    24,
-    24,
-    24,
-    15,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "Evcil hayvan portresi",
-   "keyword": "custom pet portrait",
-   "origin": "İzleme listen",
-   "change": -11.1,
-   "spark": [
-    1,
-    2,
-    2,
-    3,
     0,
     0,
-    1,
-    2,
-    1,
-    1,
-    2,
-    1,
-    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-09-29T04:39+00:00",
+ "products_updated_at": "2026-09-30T04:40+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -515,8 +400,8 @@
   },
   "Talep ölçümü": {
    "ok": true,
-   "count": 15
+   "count": 10
   }
  },
- "generated_at": "2026-09-30T03:03+00:00"
+ "generated_at": "2026-09-30T04:40+00:00"
 }

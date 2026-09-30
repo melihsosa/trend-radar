@@ -3,87 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsy Goth Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Gotik unsurları romantik, masalsı ve nostaljik detaylarla harmanlayan giyim ve yaşam tarzı akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların bu tarzdaki parçaları kombinleme ve gardıroplarına uyarlama arayışında olduğu görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Masalsı ve alternatif tarzı yansıtan kadife aksesuarlar, dantel detaylı takılar veya nostaljik gotik oda dekorasyon ürün",
-   "product_keywords": [
-    {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsy goth takı"
-    },
-    {
-     "keyword": "whimsigoth decor",
-     "label": "whimsy goth dekor"
-    }
-   ]
-  },
-  {
    "name": "City Taste Test",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların yaşadıkları veya gezdikleri şehirlerdeki yerel lezzetleri ve gizli mekanları deneyimleyip paylaştıkları viral akım.",
-   "why": "TikTok Creative Center verilerine göre 'citytastetest' hashtag'i listelerin 1. sırasında yer alıyor.",
+   "heat": "Zirvede",
+   "desc": "Belirli bir şehirdeki yerel lezzetleri, gizli kalmış restoranları ve sokak yemeklerini keşfedip puanlama akımı.",
+   "why": "TikTok'ta #citytastetest etiketinin en popüler hashtag'ler arasında 1. sıraya yerleşmesiyle öne çıkıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir gurmeleri için hazırlanmış kazı kazan lezzet haritaları, mekan değerlendirme günlükleri veya gurme seyahat planlay",
+   "idea": "Büyük şehirlerin ikonik yerel yemeklerini ve gurme noktalarını gösteren sanatsal illüstrasyon haritaları.",
    "product_keywords": [
     {
-     "keyword": "foodie journal",
-     "label": "gurme tadım günlüğü"
+     "keyword": "city food map art",
+     "label": "şehir yemek haritası tablosu"
     },
     {
-     "keyword": "scratch off city map",
-     "label": "kazı kazan şehir haritası"
+     "keyword": "foodie tote bag",
+     "label": "gurme bez çanta"
     }
    ]
   },
   {
-   "name": "Kaliteli ve Dayanıklı Moda (Anti-Enshittification)",
+   "name": "Whimsigoth",
+   "heat": "Hızla yükseliyor",
+   "desc": "90'ların büyücü estetiğini, göksel motifleri, kadife dokuları ve gotik unsurları birleştiren mistik bir tarz.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların bu estetiğe ait tekil parçaları nasıl kombinleyeceğini sormasıyla dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ay, güneş ve yıldız motifli el yapımı kadife çantalar veya mistik duvar askıları.",
+   "product_keywords": [
+    {
+     "keyword": "whimsigoth decor",
+     "label": "whimsigoth dekor"
+    },
+    {
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
+    }
+   ]
+  },
+  {
+   "name": "Buy It For Life (BIFL) / Anti-Enshittification",
    "heat": "Zirvede",
-   "desc": "Hızlı modanın düşen kalitesine karşı uzun ömürlü, tamir edilebilir ve yüksek kaliteli tekstil ürünlerine yönelme hareketi.",
-   "why": "Reddit'in BuyItForLife ve femalefashionadvice topluluklarında sweatshirt kalitelerinin düşmesi ve vintage ceketlerin yenilenmesi yoğun tartışıldı.",
+   "desc": "Hızlı tüketim ve kalitesiz üretime tepki olarak doğan, ömür boyu dayanacak yüksek kaliteli ve sağlam ürün arayışı.",
+   "why": "Reddit'te hem kıyafetlerin kalitesizleşmesi (enshittification) hem de dayanıklı tüketim mallarına duyulan özlemin yoğun şekilde tartışılması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yüksek gramajlı dayanıklı pamuklu sweatshirtler, balmumu ceket yenileme/bakım kitleri ve giysi tamir aksesuarları.",
+   "idea": "Ömür boyu dikiş garantili, kalın ve ağır hizmet tipi el yapımı kanvas bez çantalar veya deri cüzdanlar.",
    "product_keywords": [
     {
-     "keyword": "heavyweight cotton sweatshirt",
-     "label": "kalın pamuklu sweatshirt"
+     "keyword": "heavyweight canvas tote bag",
+     "label": "kalın kanvas bez çanta"
     },
     {
-     "keyword": "wax jacket care kit",
-     "label": "balmumu ceket bakım seti"
+     "keyword": "handmade leather wallet lifetime warranty",
+     "label": "ömür boyu garantili el yapımı deri cüzdan"
     }
    ]
   },
   {
-   "name": "Feminenleştirilmiş Grup Tişörtleri (Feminine Band Tees)",
+   "name": "Feminized Band Tees",
    "heat": "Yükseliyor",
-   "desc": "Klasik, bol ve maskülen kesim müzik grubu tişörtlerini kadınsı kesimler, danteller ve kişiselleştirmelerle yeniden tarzlama akımı.",
-   "why": "Reddit femalefashionadvice başlığında kullanıcılar maskülen grup tişörtlerini nasıl daha feminen hale getirebileceklerini tartışıyor.",
+   "desc": "Geleneksel olarak maskülen kesimli olan müzik grubu tişörtlerini keserek, dantel ekleyerek veya korse bağcıklarıyla feminen hale getirme akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda grup tişörtlerini daha feminen gösterme yöntemlerinin aranmasıyla öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kadınsı kesime sahip vintage etkili grup tişörtleri, crop-top tişört dönüştürme kitleri veya dantel detaylı üstler.",
+   "idea": "Arka kısmı korse bağcıklı veya kenarları dantel detaylı, ileri dönüştürülmüş (upcycled) vintage grup tişörtleri.",
    "product_keywords": [
     {
-     "keyword": "feminine band shirt",
-     "label": "kadın kesim grup tişörtü"
+     "keyword": "upcycled band tee",
+     "label": "ileri dönüştürülmüş grup tişörtü"
     },
     {
-     "keyword": "custom crop band tee",
-     "label": "özel tasarım crop tişört"
+     "keyword": "feminine custom band shirt",
+     "label": "feminen özel tasarım grup tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Curvy Dopamine Dressing",
+   "heat": "Yükseliyor",
+   "desc": "Kişinin modunu yükseltmek için parlak, canlı renkler ve neşeli desenler giymesi akımının kıvrımlı bedenlere uyarlanması.",
+   "why": "Reddit'te büyük beden ve kıvrımlı vücut hatlarına sahip kadınlar için dopamin artırıcı giyim tarzının tartışılması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Büyük bedenler için özel tasarlanmış, el yapımı, neon renkli ve neşeli desenli hırkalar veya aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "dopamine dressing plus size",
+     "label": "büyük beden dopamin giyim"
+    },
+    {
+     "keyword": "colorful handmade clothing",
+     "label": "renkli el yapımı kıyafet"
+    }
+   ]
+  },
+  {
+   "name": "Anti-Slop / Support Indie",
+   "heat": "Yeni çıktı",
+   "desc": "Seri üretim, düşük kaliteli dijital ve fiziksel ürünleri (goyslop) protesto ederek özgün ve bağımsız üreticileri destekleme hareketi.",
+   "why": "Reddit'te kalitesiz kurumsal ürünleri ve oyunları eleştirmek için kullanılan 'goyslop' teriminin popülerleşmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Bağımsız üreticileri ve özgün tasarımı savunan 'Anti-Slop' veya 'Support Indie' yazılı minimalist tişörtler ve stickerla",
+   "product_keywords": [
+    {
+     "keyword": "anti slop shirt",
+     "label": "anti slop tişörtü"
+    },
+    {
+     "keyword": "indie creator sticker",
+     "label": "bağımsız üretici çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "Grandma's China Aesthetic",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik, nostaljik porselen desenlerinin ve anneanne tarzı antika objelerin modern ve mizahi bir şekilde günlük hayata entegre edilmesi.",
+   "why": "Reddit'te klasik porselen vazoların modern şehir ortamlarında sergilenerek viral olmasıyla dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel mavi-beyaz porselen desenlerine sahip modern telefon kılıfları, kupalar veya el yapımı takılar.",
+   "product_keywords": [
+    {
+     "keyword": "vintage china pattern phone case",
+     "label": "klasik porselen desenli telefon kılıfı"
+    },
+    {
+     "keyword": "porcelain jewelry",
+     "label": "porselen takı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T09:04+00:00",
+ "trends_updated_at": "2026-09-30T12:05+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -336,12 +396,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-30T09:04+00:00"
+ "generated_at": "2026-09-30T12:05+00:00"
 }

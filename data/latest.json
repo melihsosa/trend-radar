@@ -4,146 +4,106 @@
  "trends": [
   {
    "name": "City Taste Test",
-   "heat": "Zirvede",
-   "desc": "Farklı şehirlerdeki sokak lezzetlerini ve popüler restoranları deneyerek puanlama kültüründen doğan viral içerik akımı.",
-   "why": "TikTok Creative Center verilerinde #citytastetest hashtag'i 1. sırada yer alıyor.",
+   "heat": "Hızla yükseliyor",
+   "desc": "Farklı şehirlerdeki popüler mekanları ve yerel lezzetleri deneyimleyip puanlama üzerine kurulu viral yemek kültürü akımı.",
+   "why": "TikTok Creative Center listesinde '#citytastetest' etiketi 1. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir içi gurme turları için özelleştirilmiş lezzet puanlama günlüğü ve tadım bez çantası.",
+   "idea": "Gurme gezginler için özel tasarlanmış şehir yemek tadım ve puanlama defteri.",
    "product_keywords": [
     {
-     "keyword": "food taste test journal",
-     "label": "yemek tadım günlüğü"
+     "keyword": "food review journal",
+     "label": "yemek inceleme günlüğü"
     },
     {
-     "keyword": "city food tour tote bag",
-     "label": "şehir yemek turu bez çantası"
+     "keyword": "city food guide notebook",
+     "label": "şehir yemek rehberi defteri"
     }
    ]
   },
   {
-   "name": "Gen Z Iced Coffee Culture",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z'nin soğuk kahve alışkanlıkları, rutinleri ve bu konudaki esprili tartışmaları etrafında şekillenen popüler yaşam tarzı.",
-   "why": "Reddit GenZ topluluğunda soğuk kahve rutinleri ve tartışmaları hakkında popüler bir gönderi bulunuyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Esprili 'Iced Coffee Club' yazılı cam pipetli kupa veya soğuk kahve temalı nakışlı sweatshirt.",
-   "product_keywords": [
-    {
-     "keyword": "iced coffee glass tumbler",
-     "label": "soğuk kahve cam kupa"
-    },
-    {
-     "keyword": "iced coffee sweatshirt",
-     "label": "soğuk kahve sweatshirt"
-    }
-   ]
-  },
-  {
-   "name": "Fluorescent Light Rejection",
+   "name": "Whimsigoth",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin okul ve ofislerdeki rahatsız edici beyaz florasan ışıklarını reddedip yumuşak, sıcak ve cozy aydınlatmalara yönelme hareketi.",
-   "why": "Reddit GenZ topluluğunda florasan ışıkların ortamdan kaldırılması gerektiğine dair paylaşım yüksek etkileşim aldı.",
+   "desc": "90'lar nostaljisi, gotik unsurlar ve masalsı/astral detayların birleştiği karanlık romantik estetik akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda Whimsigoth tarzı kıyafet kombini oluşturma başlığı dikkat çekiyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ofis ve sınıflardaki tavana monte florasan armatürler için ışık yumuşatıcı desenli kumaş kılıflar veya cozy masa lambası",
+   "idea": "Celestial ve büyülü motiflerle süslenmiş Whimsigoth tarzı dantel yakalık veya takı aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "fluorescent light covers classroom",
-     "label": "florasan ışık yumuşatıcı kılıf"
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
     },
     {
-     "keyword": "cozy desk light filter",
-     "label": "sıcak masa lambası filtresi"
+     "keyword": "whimsigoth collar",
+     "label": "whimsigoth dantel yakalık"
     }
    ]
   },
   {
-   "name": "Busan Canal Shark Viral Sensation",
+   "name": "Aran Knitwear (Geleneksel İrlanda Örgüsü)",
+   "heat": "Yükseliyor",
+   "desc": "Dayanıklı, otantik ve geleneksel İrlanda Aran desenli kaliteli yün giysilere duyulan ilgi.",
+   "why": "Reddit r/BuyItForLife topluluğunda otantik Aran örgü ürünleri ve kalitesi üzerine paylaşımlar öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel Aran dokuma desenli el örgüsü yün bere ve atkı setleri.",
+   "product_keywords": [
+    {
+     "keyword": "aran knit beanie",
+     "label": "aran örgü bere"
+    },
+    {
+     "keyword": "irish wool scarf",
+     "label": "irlanda yün atkı"
+    }
+   ]
+  },
+  {
+   "name": "Feminized Band Tees",
    "heat": "Yeni çıktı",
-   "desc": "Güney Kore'nin Busan şehrinde kanala sıkışarak 600 binden fazla ziyaretçi çeken köpekbalığından ilham alan viral internet olayı.",
-   "why": "Google Yükselen Aramalar'da 'shark stuck in busan canal' başlığı yüksek arama trafiği yakaladı.",
+   "desc": "Klasik ve maskülen kesim müzik grubu tişörtlerini feminen formlara, korse veya büzgü detaylarına dönüştürme stili.",
+   "why": "Reddit r/femalefashionadvice kanalında grup tişörtlerini daha feminen gösterme yolları tartışılıyor.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "Viral kanaldaki köpekbalığı olayını anlatan mizahi illüstrasyonlu çıkartma (sticker) paketi ve retro t-shirt tasarımları",
+   "idea": "Tişörtleri daraltmak ve stilize etmek için tasarlanmış özel tişört büzme klipsleri ve dönüştürme aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "viral shark sticker pack",
-     "label": "viral köpekbalığı sticker paketi"
+     "keyword": "upcycled band tee",
+     "label": "yeniden tasarlanmış grup tişörtü"
     },
     {
-     "keyword": "funny shark graphic shirt",
-     "label": "komik köpekbalığı grafik tişört"
+     "keyword": "shirt cinch clip",
+     "label": "tişört büzme klipsi"
     }
    ]
   },
   {
-   "name": "Carl Sagan Fit / Retro Academic",
-   "heat": "Yükseliyor",
-   "desc": "70'ler ve 80'lerin vintage akademisyen estetiğini, bilim insanı tarzını ve retro astronomi detaylarını birleştiren giyim akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' tarzı paylaşımı ilgi gördü.",
+   "name": "Vintage China / Grandmacore",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel nostaljik porselen vazo ve çini desenlerinin modern aksesuarlarda estetik unsur olarak kullanılması.",
+   "why": "Reddit r/TikTokCringe topluluğunda nostaljik porselen vazo temalı popüler bir paylaşım bulunuyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro astronomi çizimli kanvas bez çanta ve vintage akademisyen tarzı nakışlı sweatshirt.",
+   "idea": "Klasik mavi-beyaz porselen ve çini desenli telefon kılıfları veya seramik kupalar.",
    "product_keywords": [
     {
-     "keyword": "astronomy vintage tote bag",
-     "label": "retro astronomi bez çanta"
+     "keyword": "vintage china phone case",
+     "label": "nostaljik çini desenli kılıf"
     },
     {
-     "keyword": "retro academic sweatshirt",
-     "label": "retro akademik sweatshirt"
-    }
-   ]
-  },
-  {
-   "name": "Aran Islands Heritage Knitwear",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel İrlanda Aran kablo örgü desenlerine ve zamansız dayanıklı kıyafetlere duyulan yoğun ilgi.",
-   "why": "Reddit r/BuyItForLife topluluğunda Aran Islands örgüler ve kaliteleri üzerine tartışmalar öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel Aran kablo örgü desenli el yapımı yün bere ve atkı setleri.",
-   "product_keywords": [
-    {
-     "keyword": "aran knit wool beanie",
-     "label": "aran örgü yün bere"
-    },
-    {
-     "keyword": "cable knit wool scarf",
-     "label": "kablo örgü yün atkı"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Autumn Season Culture",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar mevsiminin gelişini esprili romantizm ve 'cozy' konseptleriyle kutlayan Gen Z mevsimsel akımı.",
-   "why": "Reddit GenZ topluluğunda 'Happy Autumn/mating season' başlıklı eğlenceli paylaşım dikkat çekiyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sonbahar temalı esprili sözler içeren soyalı kokulu mumlar ve cozy ev dekorasyon ürünleri.",
-   "product_keywords": [
-    {
-     "keyword": "cozy autumn scented candle",
-     "label": "cozy sonbahar kokulu mum"
-    },
-    {
-     "keyword": "funny autumn mug",
-     "label": "komik sonbahar temalı kupa"
+     "keyword": "blue white porcelain mug",
+     "label": "mavi beyaz porselen kupa"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T03:03+00:00",
+ "trends_updated_at": "2026-09-30T06:04+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -388,7 +348,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -396,12 +356,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-30T04:40+00:00"
+ "generated_at": "2026-09-30T06:04+00:00"
 }

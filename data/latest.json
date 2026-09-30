@@ -3,147 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsigoth",
-   "heat": "Yükseliyor",
-   "desc": "90'lar cadı estetiği ile bohem ve gotik detayları (kadife kumaşlar, danteller, koyu tonlar ve mistik astroloji figürleri) birleştiren gençlik alt kültür akımı.",
-   "why": "Reddit'te r/femalefashionadvice topluluğunda kullanıcıların Whimsigoth tarzını giysilere ve günlük kombinlere uygulama arayışı öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mistik ay ve yıldız motifli pirinç/kadife kolyeler, güneş sembollü retro kadife gerdanlıklar veya dantel detaylı yelekle",
-   "product_keywords": [
-    {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
-    },
-    {
-     "keyword": "whimsigoth velvet choker",
-     "label": "whimsigoth kadife gerdanlık"
-    }
-   ]
-  },
-  {
-   "name": "City Taste Test & Sokak Lezzeti Avcılığı",
+   "name": "City Taste Test",
    "heat": "Zirvede",
-   "desc": "Gençlerin seyahat ettikleri şehirleri yerel sokak lezzetleri ve ikonik tatlar üzerinden keşfedip puanladığı gastronomik video ve yaşam tarzı trendi.",
-   "why": "TikTok Creative Center verilerinde #citytastetest etiketi ABD'de 1. sırada yer alıyor.",
+   "desc": "Farklı şehirlerdeki sokak lezzetlerini ve popüler restoranları deneyerek puanlama kültüründen doğan viral içerik akımı.",
+   "why": "TikTok Creative Center verilerinde #citytastetest hashtag'i 1. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehirlere özel sokak yemekleri kontrol listesi içeren kazı kazan posteri veya kişiselleştirilebilir gastronomi seyahat g",
+   "idea": "Şehir içi gurme turları için özelleştirilmiş lezzet puanlama günlüğü ve tadım bez çantası.",
    "product_keywords": [
     {
-     "keyword": "food bucket list scratch off poster",
-     "label": "kazı kazan gurme posteri"
+     "keyword": "food taste test journal",
+     "label": "yemek tadım günlüğü"
     },
     {
-     "keyword": "foodie travel journal",
-     "label": "yemek seyahat günlüğü"
+     "keyword": "city food tour tote bag",
+     "label": "şehir yemek turu bez çantası"
     }
    ]
   },
   {
-   "name": "Anti-Enshittification Ağır Gramaj Giyim",
+   "name": "Gen Z Iced Coffee Culture",
    "heat": "Hızla yükseliyor",
-   "desc": "Hızlı modanın sentetik ve dayanıksızlaşan ürünlerine tepki olarak ortaya çıkan, ömür boyu giyilebilecek %100 pamuklu, ağır gramajlı (heavyweight) ve retro kesim giysi arayışı.",
-   "why": "Reddit'te r/femalefashionadvice ve r/BuyItForLife alt dizinlerinde kalitesizleşen sweatshirt'ler ve dayanıklı ürün alternatifleri yoğun ilgi görüyor.",
+   "desc": "Gen Z'nin soğuk kahve alışkanlıkları, rutinleri ve bu konudaki esprili tartışmaları etrafında şekillenen popüler yaşam tarzı.",
+   "why": "Reddit GenZ topluluğunda soğuk kahve rutinleri ve tartışmaları hakkında popüler bir gönderi bulunuyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "400+ GSM kalın pamuklu kumaştan üretilmiş, minimalist veya vintage nakış detaylı unisex ömürlük sweatshirt.",
+   "idea": "Esprili 'Iced Coffee Club' yazılı cam pipetli kupa veya soğuk kahve temalı nakışlı sweatshirt.",
    "product_keywords": [
     {
-     "keyword": "heavyweight cotton hoodie",
-     "label": "ağır gramajlı pamuklu kapüşonlu"
+     "keyword": "iced coffee glass tumbler",
+     "label": "soğuk kahve cam kupa"
     },
     {
-     "keyword": "vintage heavyweight sweatshirt",
-     "label": "vintage kalın sweatshirt"
+     "keyword": "iced coffee sweatshirt",
+     "label": "soğuk kahve sweatshirt"
     }
    ]
   },
   {
-   "name": "Anime Yapı Blokları ve Sergileme Standları",
-   "heat": "Hızla yükseliyor",
-   "desc": "Resmi ve sızıntı LEGO Dragon Ball duyurularıyla birlikte anime figürleri ile yapı bloklarını koleksiyon parçası olarak birleştiren hobi akımı.",
-   "why": "Google yükselen aramalarda 'lego dragon ball' sorgusu Shenron ve Goku set duyurularıyla birlikte yüksek hacme ulaştı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Blok figürler ve ejderha temalı modeller için LED aydınlatmalı özel pleksi/akrilik sergileme kutusu ve standı.",
-   "product_keywords": [
-    {
-     "keyword": "acrylic display case for lego",
-     "label": "lego akrilik sergileme kutusu"
-    },
-    {
-     "keyword": "anime brick display stand",
-     "label": "anime yapı bloğu standı"
-    }
-   ]
-  },
-  {
-   "name": "Femme Band Tee Dönüşümü (Upcycled Rock Modası)",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel bol ve maskülen rock/metal müzik grubu tişörtlerinin korse ipleri, kurdeleler ve danteller eklenerek kadınsı bir tarza dönüştürülmesi akımı.",
-   "why": "Reddit r/femalefashionadvice'da grup tişörtlerini feminenleştirmek isteyen kullanıcıların paylaşımları dikkat çekiyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sırtı korse bağcıklı veya kenarları dantel fistolu elde dönüştürülmüş (upcycled) vintage rock tişörtleri.",
-   "product_keywords": [
-    {
-     "keyword": "upcycled band tee",
-     "label": "dönüştürülmüş grup tişörtü"
-    },
-    {
-     "keyword": "corset band t-shirt",
-     "label": "korse detaylı rock tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Modern Western & Chaps Modası",
+   "name": "Fluorescent Light Rejection",
    "heat": "Yükseliyor",
-   "desc": "Viral country şarkıları ve Teksas estetiğiyle sokak stiline taşınan, jean üzeri giyilen saçaklı chaps kemerleri ve modern kovboy aksesuarları akımı.",
-   "why": "Reddit'te r/OutOfTheLoop'ta viral country şarkısı 'Choosin Texas' konuşulurken r/femalefashionadvice'ta jean üzerine chaps kombinleri öne çıkıyor.",
+   "desc": "Gençlerin okul ve ofislerdeki rahatsız edici beyaz florasan ışıklarını reddedip yumuşak, sıcak ve cozy aydınlatmalara yönelme hareketi.",
+   "why": "Reddit GenZ topluluğunda florasan ışıkların ortamdan kaldırılması gerektiğine dair paylaşım yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Jean ve şortların üzerine takılabilen ayarlanabilir suni deri veya süet, püsküllü western bel kemeri aksesuarları.",
+   "idea": "Ofis ve sınıflardaki tavana monte florasan armatürler için ışık yumuşatıcı desenli kumaş kılıflar veya cozy masa lambası",
    "product_keywords": [
     {
-     "keyword": "western fringe chaps belt",
-     "label": "western saçaklı chaps kemer"
+     "keyword": "fluorescent light covers classroom",
+     "label": "florasan ışık yumuşatıcı kılıf"
     },
     {
-     "keyword": "cowgirl leather waist belt",
-     "label": "kovboy tarzı deri bel kemeri"
+     "keyword": "cozy desk light filter",
+     "label": "sıcak masa lambası filtresi"
     }
    ]
   },
   {
-   "name": "Yacht Rock Estetiği",
+   "name": "Busan Canal Shark Viral Sensation",
    "heat": "Yeni çıktı",
-   "desc": "70'ler ve 80'lerin retro yelken, sahil kulübü ve soft-rock denizci temalarını eğlenceli ve nostaljik bir giyim/parti tarzına dönüştüren hareket.",
-   "why": "Google trendlerinde 'dwts' ile birlikte özel Yacht Rock temalı gecenin aranmasıyla popüler kültüre taşındı.",
+   "desc": "Güney Kore'nin Busan şehrinde kanala sıkışarak 600 binden fazla ziyaretçi çeken köpekbalığından ilham alan viral internet olayı.",
+   "why": "Google Yükselen Aramalar'da 'shark stuck in busan canal' başlığı yüksek arama trafiği yakaladı.",
    "sources": [
     "Google"
    ],
-   "idea": "Retro yelken kulübü nakışlı kanvas bez çantalar, nostaljik denizci temalı emaye kupalar veya işlemeli kaptan şapkaları.",
+   "idea": "Viral kanaldaki köpekbalığı olayını anlatan mizahi illüstrasyonlu çıkartma (sticker) paketi ve retro t-shirt tasarımları",
    "product_keywords": [
     {
-     "keyword": "yacht rock captain hat",
-     "label": "retro kaptan şapkası"
+     "keyword": "viral shark sticker pack",
+     "label": "viral köpekbalığı sticker paketi"
     },
     {
-     "keyword": "vintage sailing tote bag",
-     "label": "vintage yelken temalı bez çanta"
+     "keyword": "funny shark graphic shirt",
+     "label": "komik köpekbalığı grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Carl Sagan Fit / Retro Academic",
+   "heat": "Yükseliyor",
+   "desc": "70'ler ve 80'lerin vintage akademisyen estetiğini, bilim insanı tarzını ve retro astronomi detaylarını birleştiren giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' tarzı paylaşımı ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro astronomi çizimli kanvas bez çanta ve vintage akademisyen tarzı nakışlı sweatshirt.",
+   "product_keywords": [
+    {
+     "keyword": "astronomy vintage tote bag",
+     "label": "retro astronomi bez çanta"
+    },
+    {
+     "keyword": "retro academic sweatshirt",
+     "label": "retro akademik sweatshirt"
+    }
+   ]
+  },
+  {
+   "name": "Aran Islands Heritage Knitwear",
+   "heat": "Yükseliyor",
+   "desc": "Geleneksel İrlanda Aran kablo örgü desenlerine ve zamansız dayanıklı kıyafetlere duyulan yoğun ilgi.",
+   "why": "Reddit r/BuyItForLife topluluğunda Aran Islands örgüler ve kaliteleri üzerine tartışmalar öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel Aran kablo örgü desenli el yapımı yün bere ve atkı setleri.",
+   "product_keywords": [
+    {
+     "keyword": "aran knit wool beanie",
+     "label": "aran örgü yün bere"
+    },
+    {
+     "keyword": "cable knit wool scarf",
+     "label": "kablo örgü yün atkı"
+    }
+   ]
+  },
+  {
+   "name": "Gen Z Autumn Season Culture",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sonbahar mevsiminin gelişini esprili romantizm ve 'cozy' konseptleriyle kutlayan Gen Z mevsimsel akımı.",
+   "why": "Reddit GenZ topluluğunda 'Happy Autumn/mating season' başlıklı eğlenceli paylaşım dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sonbahar temalı esprili sözler içeren soyalı kokulu mumlar ve cozy ev dekorasyon ürünleri.",
+   "product_keywords": [
+    {
+     "keyword": "cozy autumn scented candle",
+     "label": "cozy sonbahar kokulu mum"
+    },
+    {
+     "keyword": "funny autumn mug",
+     "label": "komik sonbahar temalı kupa"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T00:04+00:00",
+ "trends_updated_at": "2026-09-30T03:03+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardağı",
@@ -503,7 +503,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -518,5 +518,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-09-30T00:04+00:00"
+ "generated_at": "2026-09-30T03:03+00:00"
 }

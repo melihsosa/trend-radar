@@ -3,147 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "City Taste Test",
-   "heat": "Zirvede",
-   "desc": "Belirli bir şehirdeki yerel lezzetleri, gizli kalmış restoranları ve sokak yemeklerini keşfedip puanlama akımı.",
-   "why": "TikTok'ta #citytastetest etiketinin en popüler hashtag'ler arasında 1. sıraya yerleşmesiyle öne çıkıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Büyük şehirlerin ikonik yerel yemeklerini ve gurme noktalarını gösteren sanatsal illüstrasyon haritaları.",
-   "product_keywords": [
-    {
-     "keyword": "city food map art",
-     "label": "şehir yemek haritası tablosu"
-    },
-    {
-     "keyword": "foodie tote bag",
-     "label": "gurme bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Whimsigoth",
+   "name": "Whimsygoth",
    "heat": "Hızla yükseliyor",
-   "desc": "90'ların büyücü estetiğini, göksel motifleri, kadife dokuları ve gotik unsurları birleştiren mistik bir tarz.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların bu estetiğe ait tekil parçaları nasıl kombinleyeceğini sormasıyla dikkat çekiyor.",
+   "desc": "90'ların gotik tarzını astrolojik, mistik ve bohem detaylarla birleştiren, genç kadınlar arasında oldukça popüler olan bir estetik akım.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların bu estetiğe uygun kıyafetleri nasıl kombinleyeceğini sormasıyla öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ay, güneş ve yıldız motifli el yapımı kadife çantalar veya mistik duvar askıları.",
+   "idea": "Mistik semboller, ay ve güneş figürleri içeren el yapımı takılar veya kadife odalık dekorasyon ürünleri.",
    "product_keywords": [
     {
-     "keyword": "whimsigoth decor",
-     "label": "whimsigoth dekor"
+     "keyword": "whimsygoth decor",
+     "label": "whimsygoth dekorasyon"
     },
     {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
+     "keyword": "whimsygoth jewelry",
+     "label": "whimsygoth takı"
     }
    ]
   },
   {
-   "name": "Buy It For Life (BIFL) / Anti-Enshittification",
+   "name": "Feminine Band Shirts",
+   "heat": "Yükseliyor",
+   "desc": "Maskülen duran klasik müzik grubu tişörtlerini dantel, kurdele ve dekolte detaylarıyla daha feminen ve estetik hale getirme akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda grup tişörtlerini daha kadınsı gösterme arayışıyla görünmektedir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kurdele ve dantel detaylarıyla süslenmiş, vintage kesim veya crop tarzda özel tasarım müzik grubu tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "coquette band tee",
+     "label": "koket grup tişörtü"
+    },
+    {
+     "keyword": "feminine band shirt",
+     "label": "kadınsı grup tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Dopamine Dressing",
+   "heat": "Yükseliyor",
+   "desc": "Kişinin modunu yükseltmek amacıyla parlak, canlı renkler ve eğlenceli desenler giymesini teşvik eden psikolojik giyim akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kıvrımlı hatlara sahip kadınlar için dopamin giyimi üzerine yapılan tartışmalarda geçmektedir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Rengarenk, büyük ve eğlenceli tasarımlara sahip el yapımı polimer kil küpeler veya parlak renkli örgü aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "dopamine dressing fashion",
+     "label": "dopamin giyim modası"
+    },
+    {
+     "keyword": "colorful statement earrings",
+     "label": "renkli halka küpeler"
+    }
+   ]
+  },
+  {
+   "name": "Aran Islands Knitwear",
+   "heat": "Yükseliyor",
+   "desc": "Geleneksel İrlanda saç örgüsü desenlerine sahip, ömürlük ve yüksek kaliteli yün kazak ve hırkalara yönelik artan talep.",
+   "why": "Reddit'in BuyItForLife topluluğunda sahte ürünlerden kaçınıp gerçek Aran örgüsü kazak arayanların tartışmalarıyla dikkat çekmektedir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel yöntemlerle elde örülmüş, %100 yün kalın saç örgülü hırkalar, atkılar ve bereler.",
+   "product_keywords": [
+    {
+     "keyword": "authentic aran sweater",
+     "label": "orijinal aran kazak"
+    },
+    {
+     "keyword": "cable knit wool cardigan",
+     "label": "saç örgüsü yün hırka"
+    }
+   ]
+  },
+  {
+   "name": "Chaps over Jeans",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel kovboy koruyucu pantolonlarının (chaps) modern sokak modasına ve denim pantolonların üzerine uyarlanması akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların kot pantolon üzerine chap giyme trendini sorgulamasıyla ortaya çıkmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kot pantolonların üzerine giyilebilecek suni deri veya püsküllü modern tasarım chap kemerleri ve aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "fashion chaps",
+     "label": "moda deri chap pantolon"
+    },
+    {
+     "keyword": "western fringe belt",
+     "label": "kovboy püsküllü kemer"
+    }
+   ]
+  },
+  {
+   "name": "Heated Rivalry Fandom",
    "heat": "Zirvede",
-   "desc": "Hızlı tüketim ve kalitesiz üretime tepki olarak doğan, ömür boyu dayanacak yüksek kaliteli ve sağlam ürün arayışı.",
-   "why": "Reddit'te hem kıyafetlerin kalitesizleşmesi (enshittification) hem de dayanıklı tüketim mallarına duyulan özlemin yoğun şekilde tartışılması.",
+   "desc": "Popüler hokey temalı aşk romanı 'Heated Rivalry' etrafında gelişen ve gerçek hayatta yardım vakıflarına kadar uzanan güçlü hayran kitlesi akımı.",
+   "why": "Google'da 'heated rivalry' aramalarındaki ani artış ve buna bağlı gerçek hayattaki vakıf projeleriyle görünmektedir.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "Ömür boyu dikiş garantili, kalın ve ağır hizmet tipi el yapımı kanvas bez çantalar veya deri cüzdanlar.",
+   "idea": "Hokey temalı aşk romanı okurlarına yönelik özel tasarım kitap ayraçları, mumlar ve fandom tişörtleri.",
    "product_keywords": [
     {
-     "keyword": "heavyweight canvas tote bag",
-     "label": "kalın kanvas bez çanta"
+     "keyword": "heated rivalry merch",
+     "label": "heated rivalry ürünleri"
     },
     {
-     "keyword": "handmade leather wallet lifetime warranty",
-     "label": "ömür boyu garantili el yapımı deri cüzdan"
-    }
-   ]
-  },
-  {
-   "name": "Feminized Band Tees",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel olarak maskülen kesimli olan müzik grubu tişörtlerini keserek, dantel ekleyerek veya korse bağcıklarıyla feminen hale getirme akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda grup tişörtlerini daha feminen gösterme yöntemlerinin aranmasıyla öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Arka kısmı korse bağcıklı veya kenarları dantel detaylı, ileri dönüştürülmüş (upcycled) vintage grup tişörtleri.",
-   "product_keywords": [
-    {
-     "keyword": "upcycled band tee",
-     "label": "ileri dönüştürülmüş grup tişörtü"
-    },
-    {
-     "keyword": "feminine custom band shirt",
-     "label": "feminen özel tasarım grup tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Curvy Dopamine Dressing",
-   "heat": "Yükseliyor",
-   "desc": "Kişinin modunu yükseltmek için parlak, canlı renkler ve neşeli desenler giymesi akımının kıvrımlı bedenlere uyarlanması.",
-   "why": "Reddit'te büyük beden ve kıvrımlı vücut hatlarına sahip kadınlar için dopamin artırıcı giyim tarzının tartışılması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Büyük bedenler için özel tasarlanmış, el yapımı, neon renkli ve neşeli desenli hırkalar veya aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "dopamine dressing plus size",
-     "label": "büyük beden dopamin giyim"
-    },
-    {
-     "keyword": "colorful handmade clothing",
-     "label": "renkli el yapımı kıyafet"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Slop / Support Indie",
-   "heat": "Yeni çıktı",
-   "desc": "Seri üretim, düşük kaliteli dijital ve fiziksel ürünleri (goyslop) protesto ederek özgün ve bağımsız üreticileri destekleme hareketi.",
-   "why": "Reddit'te kalitesiz kurumsal ürünleri ve oyunları eleştirmek için kullanılan 'goyslop' teriminin popülerleşmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bağımsız üreticileri ve özgün tasarımı savunan 'Anti-Slop' veya 'Support Indie' yazılı minimalist tişörtler ve stickerla",
-   "product_keywords": [
-    {
-     "keyword": "anti slop shirt",
-     "label": "anti slop tişörtü"
-    },
-    {
-     "keyword": "indie creator sticker",
-     "label": "bağımsız üretici çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Grandma's China Aesthetic",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik, nostaljik porselen desenlerinin ve anneanne tarzı antika objelerin modern ve mizahi bir şekilde günlük hayata entegre edilmesi.",
-   "why": "Reddit'te klasik porselen vazoların modern şehir ortamlarında sergilenerek viral olmasıyla dikkat çekiyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel mavi-beyaz porselen desenlerine sahip modern telefon kılıfları, kupalar veya el yapımı takılar.",
-   "product_keywords": [
-    {
-     "keyword": "vintage china pattern phone case",
-     "label": "klasik porselen desenli telefon kılıfı"
-    },
-    {
-     "keyword": "porcelain jewelry",
-     "label": "porselen takı"
+     "keyword": "hockey romance bookish",
+     "label": "hokey aşk romanı temalı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T12:05+00:00",
+ "trends_updated_at": "2026-09-30T15:11+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -396,12 +376,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-09-30T12:05+00:00"
+ "generated_at": "2026-09-30T15:11+00:00"
 }

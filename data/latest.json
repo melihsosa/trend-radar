@@ -5,126 +5,85 @@
   {
    "name": "Gen Z Iced Coffee Obsession",
    "heat": "Hızla yükseliyor",
-   "desc": "Genç nesil arasında buzlu kahve tüketimi, sadece bir içecek tercihi olmaktan çıkıp sosyal medyada üzerine tartışmalar dönen bir yaşam tarzı ve kimlik göstergesi haline geldi.",
-   "why": "Reddit'in GenZ topluluğunda buzlu kahve üzerine dönen viral tartışmalar ve Google'da kahve dükkanı aramalarındaki artışla görünürlük kazandı.",
-   "sources": [
-    "Reddit",
-    "Google"
-   ],
-   "idea": "Üzerinde Gen Z mizahı içeren esprili sloganlar barındıran, bambu kapaklı ve cam pipetli estetik buzlu kahve bardakları.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic iced coffee glass",
-     "label": "estetik buzlu kahve bardağı"
-    },
-    {
-     "keyword": "gen z coffee cup",
-     "label": "gen z kahve kupası"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit",
-   "heat": "Yükseliyor",
-   "desc": "Retro akademik tarzı, kadife ceketler, balıkçı yaka kazaklar ve vintage aksesuarlarla harmanlayan entelektüel ve nostaljik bir erkek giyim estetiği.",
-   "why": "Reddit'in popüler erkek moda topluluğu malefashionadvice'ta 'Carl Sagan fit' başlığının yoğun ilgi görmesiyle ortaya çıktı.",
+   "desc": "Gen Z topluluğunda buzlu kahve tüketimi ve buna bağlı günlük yaşam mizahı etrafında dönen viral tartışmalar ve içerik akımı.",
+   "why": "Reddit r/GenZ üzerinde buzlu kahve hakkındaki yeni tartışmalar ve gençlerin tüketim alışkanlıkları trend oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro akademik tarzı tamamlayacak vintage esintili gözlük zincirleri, kadife ceket dirsek yamaları veya retro bilim tema",
+   "idea": "Üzerinde esprili Gen Z buzlu kahve temalı illüstrasyonlar ve tipografiler olan cam pipetli bardaklar ve bardak kılıfları",
    "product_keywords": [
     {
-     "keyword": "retro academic blazer",
-     "label": "retro akademik ceket"
+     "keyword": "iced coffee glass cup",
+     "label": "cam buzlu kahve bardağı"
     },
     {
-     "keyword": "carl sagan style",
-     "label": "carl sagan tarzı"
+     "keyword": "emotional support iced coffee tumbler",
+     "label": "mizahi kahve termosu"
     }
    ]
   },
   {
-   "name": "City Taste Test",
-   "heat": "Zirvede",
-   "desc": "Kullanıcıların farklı şehirlerdeki yerel lezzetleri, sokak yemeklerini ve gizli kalmış mekanları deneyimleyip puanladığı popüler gurme ve seyahat akımı.",
-   "why": "TikTok Creative Center'da #citytastetest hashtag'inin haftalık popülerlik listesinde 1. sıraya yerleşmesiyle kanıtlandı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Seyahat eden gurmeler için özel tasarlanmış, şehir şehir yemek deneyimlerini not edebilecekleri kazımalı gurme haritalar",
-   "product_keywords": [
-    {
-     "keyword": "food tasting journal",
-     "label": "yemek tadım günlüğü"
-    },
-    {
-     "keyword": "scratch off food map",
-     "label": "kazımalı yemek haritası"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Fluorescent Cozy Lighting",
+   "name": "Anti-Big Light & Cozy Ambience",
    "heat": "Yükseliyor",
-   "desc": "Gen Z'nin ofis ve okullardaki göz yoran, soğuk floresan ışıklara karşı başlattığı; daha sıcak, loş ve estetik ortam aydınlatmalarını savunan yaşam alanı hareketi.",
-   "why": "Reddit GenZ topluluğunda floresan ışıkların tamamen kaldırılması ve daha samimi ışıkların standartlaştırılması talebinin viral olmasıyla tetiklendi.",
+   "desc": "Gençlerin ofis ve okullardaki sert beyaz florasan ışıklara (overhead lights / the big light) isyan edip loş, sıcak ve ambiyans aydınlatmasını savunması.",
+   "why": "Reddit r/GenZ topluluğunda okul ve ofislerdeki florasan aydınlatmaların kaldırılması talebi yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Sınıf veya ofislerdeki floresan lambaların üzerine kolayca takılabilen, ışığı yumuşatan estetik kumaş filtreler veya taş",
+   "idea": "'Anti Big Light Club' veya 'No Overhead Lighting' temalı masa tabelaları, neon tarzı akrilik gece lambaları ve stickerla",
    "product_keywords": [
     {
-     "keyword": "fluorescent light filters",
-     "label": "floresan ışık filtresi"
+     "keyword": "anti big light club sticker",
+     "label": "loş ışık kulübü çıkartması"
     },
     {
-     "keyword": "cozy desk lamp",
-     "label": "samimi masa lambası"
+     "keyword": "cozy ambient desk lamp",
+     "label": "sıcak masa ambiyans lambası"
     }
    ]
   },
   {
-   "name": "My Live Journey",
+   "name": "City Taste Test & Food Crawl",
    "heat": "Zirvede",
-   "desc": "Canlı yayıncıların, vlogger'ların ve içerik üreticilerinin kendi yayın kurulumlarını, ekipmanlarını ve günlük yayıncılık serüvenlerini paylaştığı estetik akım.",
-   "why": "TikTok Creative Center'da #mylivejourney hashtag'inin en popüler ikinci trend olarak listelenmesiyle öne çıktı.",
+   "desc": "Kullanıcıların yaşadıkları veya gezdikleri şehirdeki lezzetleri deneyip puanladıkları viral sokak lezzeti ve yemek tadım akımı.",
+   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Yayıncıların arka plan dekoru olarak kullanabileceği, kişiselleştirilebilir ahşap veya neon 'On Air' tabelaları ve yayın",
+   "idea": "Şehir içi gurme turları ve sokak lezzetleri için basılı/dijital tadım puanlama kartları ve yemek inceleme günlükleri.",
    "product_keywords": [
     {
-     "keyword": "custom neon on air sign",
-     "label": "kişiye özel neon yayın tabelası"
+     "keyword": "food tasting scorecards",
+     "label": "yemek tadım puan kartı"
     },
     {
-     "keyword": "streamer background decor",
-     "label": "yayıncı arka plan dekoru"
+     "keyword": "foodie review journal",
+     "label": "gurme inceleme defteri"
     }
    ]
   },
   {
-   "name": "Fortnitemares Spooky Gaming",
-   "heat": "Hızla yükseliyor",
-   "desc": "Popüler oyun dünyasında Cadılar Bayramı sezonuyla birleşen, Five Nights at Freddy's (FNAF) ve gotik temalı oyun içi kozmetiklerin yarattığı karanlık oyun estetiği.",
-   "why": "Google'da 'fortnite' aramalarının hızla yükselmesi ve sızdırılan FNAF ile 'Obsession' kostümlerinin yarattığı büyük heyecanla görünür oldu.",
+   "name": "Carl Sagan Vintage Academic Fit",
+   "heat": "Yeni çıktı",
+   "desc": "70'ler ve 80'lerin retro bilim insanı, boğazlı kazak ve kadife ceket kombinlerini modern sonbahar sokak modasına uyarlayan nostaljik estetik.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' sonbahar kombini olarak öne çıktı.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "Korku oyunu temalı el yapımı klavye tuş başlıkları (artisan keycaps) veya gotik tarzda karanlık tasarımlara sahip oyuncu",
+   "idea": "Retro Carl Sagan portreli ve retro kozmoloji tipografilerine sahip vintage işlemeli sweatshirtler veya kanvas çantalar.",
    "product_keywords": [
     {
-     "keyword": "spooky artisan keycaps",
-     "label": "ürpertici el yapımı tuş başlığı"
+     "keyword": "carl sagan vintage sweatshirt",
+     "label": "retro carl sagan sweatshirt"
     },
     {
-     "keyword": "gothic gaming desk mat",
-     "label": "gotik oyuncu masa matı"
+     "keyword": "astronomy retro canvas tote",
+     "label": "astronomi bez çanta"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-01T09:05+00:00",
+ "trends_updated_at": "2026-10-01T12:06+00:00",
  "products": [
   {
    "name": "püsküllü deri chaps",
@@ -584,12 +543,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-01T09:05+00:00"
+ "generated_at": "2026-10-01T12:06+00:00"
 }

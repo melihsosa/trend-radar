@@ -4,146 +4,86 @@
  "trends": [
   {
    "name": "City Taste Test",
-   "heat": "Zirvede",
-   "desc": "Şehirlerdeki popüler veya gizli kalmış yemek mekanlarını ve yerel lezzetleri deneyimleyip paylaşma akımı.",
-   "why": "TikTok'ta haftanın en popüler hashtag'leri arasında 1. sırada yer alarak büyük bir etkileşim yakalamıştır.",
+   "heat": "Hızla yükseliyor",
+   "desc": "Farklı şehirlerin yerel lezzetlerini ve mekanlarını deneyimleyip paylaşma üzerine odaklanan gurme sokak kültürü akımı.",
+   "why": "TikTok popüler hashtag sıralamasında #citytastetest 1. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir temalı gurme hediye kutuları, yerel yemek haritaları veya özelleştirilebilir tadım günlüğü defterleri.",
+   "idea": "Şehir lezzet haritası tasarımlı bez çantalar veya kişiselleştirilebilir tadım not defterleri.",
    "product_keywords": [
     {
-     "keyword": "city food map",
-     "label": "şehir yemek haritası"
+     "keyword": "city food guide tote bag",
+     "label": "şehir yemek rehberi bez çanta"
     },
     {
-     "keyword": "food tasting journal",
-     "label": "yemek tadım günlüğü"
+     "keyword": "taste test journal",
+     "label": "lezzet tadım günlüğü"
     }
    ]
   },
   {
-   "name": "Whimsygoth",
-   "heat": "Yükseliyor",
-   "desc": "90'ların gotik ve büyücü (witchy) estetiğini modern ve mistik detaylarla birleştiren, son dönemde gardıroplarda ve ev dekorasyonunda sıkça aranan bir tarz.",
-   "why": "Reddit'in kadın moda topluluğunda (femalefashionadvice) kullanıcıların bu mistik tarzı nasıl kombinleyeceklerini sormasıyla öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Whimsygoth tarzı mistik takılar, kadife veya dantel detaylı el yapımı kıyafetler ve kristal temalı dekoratif ürünler.",
-   "product_keywords": [
-    {
-     "keyword": "whimsygoth jewelry",
-     "label": "whimsygoth takı"
-    },
-    {
-     "keyword": "whimsygoth decor",
-     "label": "whimsygoth dekorasyon"
-    }
-   ]
-  },
-  {
-   "name": "Buy It For Life (BIFL)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Tüketicilerin planlı eskitmeye karşı çıkarak ömür boyu kullanılabilecek, son derece dayanıklı ve kaliteli ürün arayışı.",
-   "why": "Reddit'in BuyItForLife topluluğunda onlarca yıllık dayanıklı ürünlerin paylaşılması ve modern kalitesizleşmeye tepki gösterilmesiyle görünmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ömür boyu garantili el yapımı kalın deri cüzdanlar, ağır hizmet tipi kanvas çantalar veya masif ahşap mutfak gereçleri.",
-   "product_keywords": [
-    {
-     "keyword": "heavy duty leather wallet",
-     "label": "dayanıklı deri cüzdan"
-    },
-    {
-     "keyword": "durable canvas bag",
-     "label": "uzun ömürlü kanvas çanta"
-    }
-   ]
-  },
-  {
-   "name": "Dopamine Dressing",
-   "heat": "Yükseliyor",
-   "desc": "Kişinin modunu yükselten, parlak renkler, eğlenceli desenler ve cesur tasarımlarla karakterize edilen neşeli giyim tarzı.",
-   "why": "Reddit moda forumlarında kıvrımlı hatlara sahip kişilerin bu renkli ve neşeli tarzı nasıl uygulayabileceğine dair tartışmalarla görünmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Parlak renkli el örgüsü hırkalar, neşeli desenli çantalar veya renkli el yapımı takılar.",
-   "product_keywords": [
-    {
-     "keyword": "dopamine dressing clothes",
-     "label": "dopamin giyim kıyafetleri"
-    },
-    {
-     "keyword": "colorful handmade jewelry",
-     "label": "renkli el yapımı takı"
-    }
-   ]
-  },
-  {
-   "name": "Baggy Styling",
-   "heat": "Yükseliyor",
-   "desc": "Bol ve dökümlü kıyafetleri salaş görünmeden, şık ve özenli bir şekilde kombinleme sanatı.",
-   "why": "Reddit kadın moda forumunda kullanıcıların bol kıyafetleri nasıl daha stil sahibi gösterebileceklerini tartışmasıyla dikkat çekmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Oversize el boyaması sweatshirtler, bol kesim keten pantolonlar veya baggy tarzı tamamlayan minimalist aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "oversized custom sweatshirt",
-     "label": "oversize özel tasarım sweatshirt"
-    },
-    {
-     "keyword": "baggy linen pants",
-     "label": "bol kesim keten pantolon"
-    }
-   ]
-  },
-  {
-   "name": "Customized Band Shirts",
+   "name": "Carl Sagan Fit / Retro Akademik Estetik",
    "heat": "Yeni çıktı",
-   "desc": "Maskülen kesimli müzik grubu tişörtlerini daha feminen, estetik veya kesilmiş (cropped) tarzlara dönüştürme akımı.",
-   "why": "Reddit'te kadınların grup tişörtlerini kendi tarzlarına nasıl uyarlayabileceklerini sormaları üzerine ortaya çıkmıştır.",
+   "desc": "Carl Sagan'ın ikonik fitilli kadife ceketi ve balıkçı yaka kazak birleşiminden ilham alan vintage profesör ve nostaljik akademik giyim tarzı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' başlıklı gönderiyle erkek modasında gündem oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yeniden tasarlanmış (upcycled), dantel detaylı veya crop kesim vintage tarzı grup tişörtleri.",
+   "idea": "Retro profesör temalı nakışlı bez çantalar, nostaljik akademik yaka iğneleri veya fitilli kumaş düzenleme kılıfları.",
    "product_keywords": [
     {
-     "keyword": "custom cropped band tee",
-     "label": "özel kesim grup tişörtü"
+     "keyword": "vintage professor aesthetic pin",
+     "label": "vintage profesör estetik rozet"
     },
     {
-     "keyword": "upcycled vintage band shirt",
-     "label": "ileri dönüştürülmüş vintage grup tişörtü"
+     "keyword": "corduroy tote bag aesthetic",
+     "label": "fitilli kadife estetik bez çanta"
     }
    ]
   },
   {
-   "name": "Chaps over Jeans",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik kot pantolonların üzerine giyilen deri veya süet chaps (koruyucu yarım pantolon) ile oluşturulan modern western/kovboy tarzı.",
-   "why": "Reddit'in kadın moda forumunda (femalefashionadvice) Birleşik Krallık'ta bu tarzın nasıl uygulanacağına dair sorularla gündeme gelmiştir.",
+   "name": "Iced Coffee Culture",
+   "heat": "Yükseliyor",
+   "desc": "Z kuşağının günlük yaşamının merkezine koyduğu buzlu kahve ritüelleri ve etrafında şekillenen mizahi gençlik kültürü.",
+   "why": "Reddit r/GenZ topluluğunda buzlu kahve odaklı tartışmalar ve paylaşımlar öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kot pantolonlarla kombinlenebilecek el yapımı süet veya suni deri chaps kemerleri ve western esintili aksesuarlar.",
+   "idea": "Buzlu kahve bardakları için özel tasarım neopren kılıflar veya estetik cam pipetli iced coffee bardakları.",
    "product_keywords": [
     {
-     "keyword": "fringe leather chaps",
-     "label": "püsküllü deri chaps"
+     "keyword": "iced coffee sleeve glass",
+     "label": "buzlu kahve bardak kılıfı"
     },
     {
-     "keyword": "western belt over jeans",
-     "label": "kot üstü western kemer"
+     "keyword": "aesthetic iced coffee glass cup",
+     "label": "estetik buzlu kahve cam bardağı"
+    }
+   ]
+  },
+  {
+   "name": "Anti-Fluorescent / Ambient Lighting Movement",
+   "heat": "Yükseliyor",
+   "desc": "Gençlerin ofis ve sınıflardaki sert florasan ışıklardan kaçınıp daha sıcak, rahatlatıcı ortam aydınlatmalarına yönelme hareketi.",
+   "why": "Reddit r/GenZ topluluğunda florasan tavan ışıklarının kaldırılması talebi yüksek etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Tavan florasanları için dekoratif mıknatıslı kumaş ışık filtreleri veya estetik masaüstü ortam lambaları.",
+   "product_keywords": [
+    {
+     "keyword": "fluorescent light covers magnetic",
+     "label": "mıknatıslı florasan ışık filtresi"
+    },
+    {
+     "keyword": "cozy ambient desk light",
+     "label": "sıcak ortam masa aydınlatması"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-01T03:04+00:00",
+ "trends_updated_at": "2026-10-01T06:07+00:00",
  "products": [
   {
    "name": "püsküllü deri chaps",
@@ -595,7 +535,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -603,12 +543,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-01T04:41+00:00"
+ "generated_at": "2026-10-01T06:07+00:00"
 }

@@ -3,107 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsy Goth",
-   "heat": "Yükseliyor",
-   "desc": "90'ların sonu ve 2000'lerin başındaki koyu renkli, masalsı ve gotik estetiği yumuşak dokularla birleştiren tarz akımı.",
-   "why": "Reddit'in r/femalefashionadvice topluluğunda kıyafet kombinleme ve stil potansiyeli başlığı altında öne çıkıyor.",
+   "name": "City Taste Test",
+   "heat": "Zirvede",
+   "desc": "Şehirlerdeki popüler veya gizli kalmış yemek mekanlarını ve yerel lezzetleri deneyimleyip paylaşma akımı.",
+   "why": "TikTok'ta haftanın en popüler hashtag'leri arasında 1. sırada yer alarak büyük bir etkileşim yakalamıştır.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Dantel ve kadife detaylı ay, yıldız motifli el yapımı takılar veya gotik masal temalı dekoratif mumlar.",
+   "idea": "Şehir temalı gurme hediye kutuları, yerel yemek haritaları veya özelleştirilebilir tadım günlüğü defterleri.",
    "product_keywords": [
     {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
+     "keyword": "city food map",
+     "label": "şehir yemek haritası"
     },
     {
-     "keyword": "whimsy goth decor",
-     "label": "whimsy goth dekor"
+     "keyword": "food tasting journal",
+     "label": "yemek tadım günlüğü"
     }
    ]
   },
   {
-   "name": "citytastetest",
-   "heat": "Hızla yükseliyor",
-   "desc": "Farklı şehirlerdeki yerel lezzetleri, sokak yemeklerini ve popüler mekanları deneme ve derecelendirme içeriği akımı.",
-   "why": "TikTok Creative Center verilerinde 1. sırada yer alan en popüler hashtag olarak görülüyor.",
+   "name": "Whimsygoth",
+   "heat": "Yükseliyor",
+   "desc": "90'ların gotik ve büyücü (witchy) estetiğini modern ve mistik detaylarla birleştiren, son dönemde gardıroplarda ve ev dekorasyonunda sıkça aranan bir tarz.",
+   "why": "Reddit'in kadın moda topluluğunda (femalefashionadvice) kullanıcıların bu mistik tarzı nasıl kombinleyeceklerini sormasıyla öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "Gurmeler ve gezginler için özelleştirilebilir şehir yemek günlüğü defteri veya şehir içi lezzet haritası baskıları.",
+   "idea": "Whimsygoth tarzı mistik takılar, kadife veya dantel detaylı el yapımı kıyafetler ve kristal temalı dekoratif ürünler.",
    "product_keywords": [
     {
-     "keyword": "foodie travel journal",
-     "label": "gurme seyahat günlüğü"
+     "keyword": "whimsygoth jewelry",
+     "label": "whimsygoth takı"
     },
     {
-     "keyword": "city food map print",
-     "label": "şehir yemek haritası baskısı"
+     "keyword": "whimsygoth decor",
+     "label": "whimsygoth dekorasyon"
+    }
+   ]
+  },
+  {
+   "name": "Buy It For Life (BIFL)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Tüketicilerin planlı eskitmeye karşı çıkarak ömür boyu kullanılabilecek, son derece dayanıklı ve kaliteli ürün arayışı.",
+   "why": "Reddit'in BuyItForLife topluluğunda onlarca yıllık dayanıklı ürünlerin paylaşılması ve modern kalitesizleşmeye tepki gösterilmesiyle görünmektedir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ömür boyu garantili el yapımı kalın deri cüzdanlar, ağır hizmet tipi kanvas çantalar veya masif ahşap mutfak gereçleri.",
+   "product_keywords": [
+    {
+     "keyword": "heavy duty leather wallet",
+     "label": "dayanıklı deri cüzdan"
+    },
+    {
+     "keyword": "durable canvas bag",
+     "label": "uzun ömürlü kanvas çanta"
     }
    ]
   },
   {
    "name": "Dopamine Dressing",
    "heat": "Yükseliyor",
-   "desc": "Ruhu iyileştiren, mod yükselten canlı renkler ve cesur desenlerle giyinme felsefesi.",
-   "why": "Reddit'in r/femalefashionadvice platformunda kıvrımlı bedenler ve renkli stil kombinleri özelinde tartışılıyor.",
+   "desc": "Kişinin modunu yükselten, parlak renkler, eğlenceli desenler ve cesur tasarımlarla karakterize edilen neşeli giyim tarzı.",
+   "why": "Reddit moda forumlarında kıvrımlı hatlara sahip kişilerin bu renkli ve neşeli tarzı nasıl uygulayabileceğine dair tartışmalarla görünmektedir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı renklere ve eğlenceli figürlere sahip el yapımı makramé çantalar veya parlak renkli estetik çoraplar.",
+   "idea": "Parlak renkli el örgüsü hırkalar, neşeli desenli çantalar veya renkli el yapımı takılar.",
    "product_keywords": [
     {
-     "keyword": "colorful dopamine dressing accessories",
-     "label": "canlı renkli aksesuar"
+     "keyword": "dopamine dressing clothes",
+     "label": "dopamin giyim kıyafetleri"
     },
     {
-     "keyword": "bright aesthetic tote bag",
-     "label": "parlak estetik bez çanta"
+     "keyword": "colorful handmade jewelry",
+     "label": "renkli el yapımı takı"
     }
    ]
   },
   {
-   "name": "Carl Sagan Fit",
-   "heat": "Yeni çıktı",
-   "desc": "Boğazlı kazak, tüvit ceket ve retro entelektüel havayı birleştiren vintage akademisyen giyim tarzı.",
-   "why": "Reddit'in r/malefashionadvice topluluğunda erkek giyimi ve retro stil ilhamı olarak paylaşılmış.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro bilim/astronomi temalı minik yaka iğneleri (pin) veya vintage stil deri kaplı akademik defterler.",
-   "product_keywords": [
-    {
-     "keyword": "carl sagan enamel pin",
-     "label": "carl sagan rozet"
-    },
-    {
-     "keyword": "vintage academic notebook",
-     "label": "vintage akademik defter"
-    }
-   ]
-  },
-  {
-   "name": "Feminized Band Shirts",
+   "name": "Baggy Styling",
    "heat": "Yükseliyor",
-   "desc": "Geleneksel maskülen ve bol kesim müzik grubu tişörtlerini kesim ve stil dokunuşlarıyla feminen hale getirme trendi.",
-   "why": "Reddit'in r/femalefashionadvice alt forumunda band tişörtlerini feminenleştirme tavsiyeleri başlığında tartışılıyor.",
+   "desc": "Bol ve dökümlü kıyafetleri salaş görünmeden, şık ve özenli bir şekilde kombinleme sanatı.",
+   "why": "Reddit kadın moda forumunda kullanıcıların bol kıyafetleri nasıl daha stil sahibi gösterebileceklerini tartışmasıyla dikkat çekmektedir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Tişörtleri bağlamalı veya korse detaylı hale getiren 'Kendin Yap' (DIY) tişört dönüştürme ve kesim aksesuar kiti.",
+   "idea": "Oversize el boyaması sweatshirtler, bol kesim keten pantolonlar veya baggy tarzı tamamlayan minimalist aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "diy tshirt modification kit",
-     "label": "diy tişört modifikasyon kiti"
+     "keyword": "oversized custom sweatshirt",
+     "label": "oversize özel tasarım sweatshirt"
     },
     {
-     "keyword": "cropped band tee",
-     "label": "kırpılmış müzik grubu tişörtü"
+     "keyword": "baggy linen pants",
+     "label": "bol kesim keten pantolon"
+    }
+   ]
+  },
+  {
+   "name": "Customized Band Shirts",
+   "heat": "Yeni çıktı",
+   "desc": "Maskülen kesimli müzik grubu tişörtlerini daha feminen, estetik veya kesilmiş (cropped) tarzlara dönüştürme akımı.",
+   "why": "Reddit'te kadınların grup tişörtlerini kendi tarzlarına nasıl uyarlayabileceklerini sormaları üzerine ortaya çıkmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yeniden tasarlanmış (upcycled), dantel detaylı veya crop kesim vintage tarzı grup tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "custom cropped band tee",
+     "label": "özel kesim grup tişörtü"
+    },
+    {
+     "keyword": "upcycled vintage band shirt",
+     "label": "ileri dönüştürülmüş vintage grup tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Chaps over Jeans",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kot pantolonların üzerine giyilen deri veya süet chaps (koruyucu yarım pantolon) ile oluşturulan modern western/kovboy tarzı.",
+   "why": "Reddit'in kadın moda forumunda (femalefashionadvice) Birleşik Krallık'ta bu tarzın nasıl uygulanacağına dair sorularla gündeme gelmiştir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kot pantolonlarla kombinlenebilecek el yapımı süet veya suni deri chaps kemerleri ve western esintili aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "fringe leather chaps",
+     "label": "püsküllü deri chaps"
+    },
+    {
+     "keyword": "western belt over jeans",
+     "label": "kot üstü western kemer"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-01T00:04+00:00",
+ "trends_updated_at": "2026-10-01T03:04+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -356,12 +396,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-01T00:04+00:00"
+ "generated_at": "2026-10-01T03:04+00:00"
 }

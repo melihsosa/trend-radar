@@ -3,107 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Gen Z Iced Coffee Kültürü",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z arasında günlük yaşamın ve sosyal medya mizahının merkezine oturan buzlu kahve bağımlılığı ve etrafında dönen tartışmalar.",
-   "why": "Reddit'in r/GenZ topluluğunda gençlerin buzlu kahve diyalogları ve tartışmaları hakkında açılan başlıklar öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Gen Z buzlu kahve mizahı ve illüstrasyonları içeren pipetli cam içecek bardakları ve bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "iced coffee glass cup",
-     "label": "buzlu kahve cam bardak"
-    },
-    {
-     "keyword": "iced coffee tote bag",
-     "label": "buzlu kahve bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit / Retro Akademik Estetik",
+   "name": "Whimsy Goth",
    "heat": "Yükseliyor",
-   "desc": "Carl Sagan'ın 70'ler ve 80'ler klasik akademisyen tarzını, retro evren merakını ve entelektüel giyim estetiğini günümüze taşıyan giyim akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' özel bir stil başlığı olarak tartışılıyor.",
+   "desc": "90'ların sonu ve 2000'lerin başındaki koyu renkli, masalsı ve gotik estetiği yumuşak dokularla birleştiren tarz akımı.",
+   "why": "Reddit'in r/femalefashionadvice topluluğunda kıyafet kombinleme ve stil potansiyeli başlığı altında öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Carl Sagan büstü/sözleri ve retro uzay grafikleri içeren vintage tarz baskılı sweatshirtler ve grafik tişörtler.",
+   "idea": "Dantel ve kadife detaylı ay, yıldız motifli el yapımı takılar veya gotik masal temalı dekoratif mumlar.",
    "product_keywords": [
     {
-     "keyword": "carl sagan shirt",
-     "label": "Carl Sagan tişörtü"
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
     },
     {
-     "keyword": "retro astronomy sweatshirt",
-     "label": "retro astronomi sweatshirt"
+     "keyword": "whimsy goth decor",
+     "label": "whimsy goth dekor"
     }
    ]
   },
   {
-   "name": "Anti-Florasan Yumuşak Aydınlatma Akımı",
-   "heat": "Yeni çıktı",
-   "desc": "Gen Z'nin okullarda ve ofislerde kullanılan beyaz florasan ışıklara tepki göstererek sıcak, loş ve ortamı güzelleştiren aydınlatmaları tercih etmesi.",
-   "why": "Reddit r/GenZ subreddit'inde sert florasan ışıkların kaldırılması talebi yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Çalışma masaları veya yurt odaları için sevimli tasarımlara sahip, ayarlanabilir sıcak tonlu şarjlı LED masa ve gece lam",
-   "product_keywords": [
-    {
-     "keyword": "cozy ambient desk lamp",
-     "label": "sıcak ortam masa lambası"
-    },
-    {
-     "keyword": "cute aesthetic night light",
-     "label": "estetik sevimli gece lambası"
-    }
-   ]
-  },
-  {
-   "name": "City Taste Test (Şehir Lezzet Keşfi)",
-   "heat": "Zirvede",
-   "desc": "Sosyal medyada farklı şehirlerin ve yerel mekânların ikonik lezzetlerini tatma, puanlama ve içerik üretme akımı.",
-   "why": "TikTok Creative Center verilerinde #citytastetest hashtag'i 1. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Yemek tutkunları için özel tasarlanmış şehir bazlı lezzet tadım defterleri, derecelendirme kartları ve yapıştırmalar.",
-   "product_keywords": [
-    {
-     "keyword": "foodie journal notebook",
-     "label": "gurme tadım günlüğü"
-    },
-    {
-     "keyword": "taste test review sheet",
-     "label": "lezzet testi değerlendirme kartı"
-    }
-   ]
-  },
-  {
-   "name": "Noreaster / Sert Kış ve Fırtına Estetiği",
+   "name": "citytastetest",
    "heat": "Hızla yükseliyor",
-   "desc": "Kuzeydoğu fırtınaları ve yaklaşan soğuk hava dalgasıyla birlikte ortaya çıkan koruyucu, sıcak tutan ve kış temalı giyim akımı.",
-   "why": "TikTok popüler hashtag listesinde #noreaster üst sıralarda yükselişte.",
+   "desc": "Farklı şehirlerdeki yerel lezzetleri, sokak yemeklerini ve popüler mekanları deneme ve derecelendirme içeriği akımı.",
+   "why": "TikTok Creative Center verilerinde 1. sırada yer alan en popüler hashtag olarak görülüyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Soğuk hava fırtınası temalı nakışlı bereler, el yapımı kalın örgü atkılar ve kış temalı kapüşonlu sweatshirtler.",
+   "idea": "Gurmeler ve gezginler için özelleştirilebilir şehir yemek günlüğü defteri veya şehir içi lezzet haritası baskıları.",
    "product_keywords": [
     {
-     "keyword": "chunky knit beanie",
-     "label": "kalın örgü bere"
+     "keyword": "foodie travel journal",
+     "label": "gurme seyahat günlüğü"
     },
     {
-     "keyword": "winter storm sweater",
-     "label": "kış fırtınası kazak"
+     "keyword": "city food map print",
+     "label": "şehir yemek haritası baskısı"
+    }
+   ]
+  },
+  {
+   "name": "Dopamine Dressing",
+   "heat": "Yükseliyor",
+   "desc": "Ruhu iyileştiren, mod yükselten canlı renkler ve cesur desenlerle giyinme felsefesi.",
+   "why": "Reddit'in r/femalefashionadvice platformunda kıvrımlı bedenler ve renkli stil kombinleri özelinde tartışılıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Canlı renklere ve eğlenceli figürlere sahip el yapımı makramé çantalar veya parlak renkli estetik çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "colorful dopamine dressing accessories",
+     "label": "canlı renkli aksesuar"
+    },
+    {
+     "keyword": "bright aesthetic tote bag",
+     "label": "parlak estetik bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Carl Sagan Fit",
+   "heat": "Yeni çıktı",
+   "desc": "Boğazlı kazak, tüvit ceket ve retro entelektüel havayı birleştiren vintage akademisyen giyim tarzı.",
+   "why": "Reddit'in r/malefashionadvice topluluğunda erkek giyimi ve retro stil ilhamı olarak paylaşılmış.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro bilim/astronomi temalı minik yaka iğneleri (pin) veya vintage stil deri kaplı akademik defterler.",
+   "product_keywords": [
+    {
+     "keyword": "carl sagan enamel pin",
+     "label": "carl sagan rozet"
+    },
+    {
+     "keyword": "vintage academic notebook",
+     "label": "vintage akademik defter"
+    }
+   ]
+  },
+  {
+   "name": "Feminized Band Shirts",
+   "heat": "Yükseliyor",
+   "desc": "Geleneksel maskülen ve bol kesim müzik grubu tişörtlerini kesim ve stil dokunuşlarıyla feminen hale getirme trendi.",
+   "why": "Reddit'in r/femalefashionadvice alt forumunda band tişörtlerini feminenleştirme tavsiyeleri başlığında tartışılıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Tişörtleri bağlamalı veya korse detaylı hale getiren 'Kendin Yap' (DIY) tişört dönüştürme ve kesim aksesuar kiti.",
+   "product_keywords": [
+    {
+     "keyword": "diy tshirt modification kit",
+     "label": "diy tişört modifikasyon kiti"
+    },
+    {
+     "keyword": "cropped band tee",
+     "label": "kırpılmış müzik grubu tişörtü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-09-30T21:03+00:00",
+ "trends_updated_at": "2026-10-01T00:04+00:00",
  "products": [
   {
    "name": "Telefon süsü",
@@ -348,7 +348,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -363,5 +363,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-09-30T21:03+00:00"
+ "generated_at": "2026-10-01T00:04+00:00"
 }

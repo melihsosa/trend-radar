@@ -3,87 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Gen Z Iced Coffee Obsession",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z topluluğunda buzlu kahve tüketimi ve buna bağlı günlük yaşam mizahı etrafında dönen viral tartışmalar ve içerik akımı.",
-   "why": "Reddit r/GenZ üzerinde buzlu kahve hakkındaki yeni tartışmalar ve gençlerin tüketim alışkanlıkları trend oldu.",
+   "name": "Gen Z Iced Coffee Discourse",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z arasında buzlu kahve tüketimi, kahve estetiği ve bunun etrafında dönen sosyal medya tartışmaları popülerliğini koruyor.",
+   "why": "Reddit'in GenZ topluluğunda buzlu kahve üzerine dönen tartışmaların viral bir başlık haline gelmesiyle görünmektedir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Üzerinde esprili Gen Z buzlu kahve temalı illüstrasyonlar ve tipografiler olan cam pipetli bardaklar ve bardak kılıfları",
+   "idea": "Gen Z diline uygun, eğlenceli veya sarkastik sloganlar içeren cam buzlu kahve bardakları ve pipet setleri.",
    "product_keywords": [
     {
      "keyword": "iced coffee glass cup",
-     "label": "cam buzlu kahve bardağı"
+     "label": "buzlu kahve cam bardağı"
     },
     {
-     "keyword": "emotional support iced coffee tumbler",
-     "label": "mizahi kahve termosu"
+     "keyword": "gen z coffee cup with straw",
+     "label": "gen z pipetli kahve bardağı"
     }
    ]
   },
   {
-   "name": "Anti-Big Light & Cozy Ambience",
+   "name": "Cozy Lighting Movement",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin ofis ve okullardaki sert beyaz florasan ışıklara (overhead lights / the big light) isyan edip loş, sıcak ve ambiyans aydınlatmasını savunması.",
-   "why": "Reddit r/GenZ topluluğunda okul ve ofislerdeki florasan aydınlatmaların kaldırılması talebi yüksek etkileşim aldı.",
+   "desc": "Gençlerin ofis ve okullardaki parlak, soğuk floresan ışıklardan rahatsız olup daha sıcak, loş ve estetik aydınlatma çözümlerini savunması.",
+   "why": "Reddit GenZ alt forumunda floresan ışıkların kaldırılmasına yönelik paylaşılan popüler bir gönderiyle ortaya çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "'Anti Big Light Club' veya 'No Overhead Lighting' temalı masa tabelaları, neon tarzı akrilik gece lambaları ve stickerla",
+   "idea": "Sınıf ve ofislerdeki floresan ışıkları yumuşatmak için tasarlanmış estetik, manyetik kumaş tavan ışık filtreleri.",
    "product_keywords": [
     {
-     "keyword": "anti big light club sticker",
-     "label": "loş ışık kulübü çıkartması"
+     "keyword": "fluorescent light filters",
+     "label": "floresan ışık filtresi"
     },
     {
-     "keyword": "cozy ambient desk lamp",
-     "label": "sıcak masa ambiyans lambası"
+     "keyword": "cozy desk lamp",
+     "label": "loş masa lambası"
     }
    ]
   },
   {
-   "name": "City Taste Test & Food Crawl",
+   "name": "City Taste Test",
    "heat": "Zirvede",
-   "desc": "Kullanıcıların yaşadıkları veya gezdikleri şehirdeki lezzetleri deneyip puanladıkları viral sokak lezzeti ve yemek tadım akımı.",
-   "why": "TikTok Creative Center verilerinde #citytastetest etiketi 1. sırada yer aldı.",
+   "desc": "Sosyal medyada kullanıcıların kendi şehirlerindeki yerel lezzetleri, sokak yemeklerini ve gizli kalmış restoranları deneyip puanladığı akım.",
+   "why": "TikTok Creative Center verilerinde 'citytastetest' hashtag'inin 1 numaralı trend olmasıyla tespit edilmiştir.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Şehir içi gurme turları ve sokak lezzetleri için basılı/dijital tadım puanlama kartları ve yemek inceleme günlükleri.",
+   "idea": "Gurmeler ve yerel yemek meraklıları için şehir bazlı kazınabilir yemek haritaları veya yemek tadım günlüğü defterleri.",
    "product_keywords": [
     {
-     "keyword": "food tasting scorecards",
-     "label": "yemek tadım puan kartı"
+     "keyword": "scratch off food map",
+     "label": "kazınabilir yemek haritası"
     },
     {
-     "keyword": "foodie review journal",
-     "label": "gurme inceleme defteri"
+     "keyword": "food tasting journal",
+     "label": "yemek tadım günlüğü"
     }
    ]
   },
   {
-   "name": "Carl Sagan Vintage Academic Fit",
+   "name": "Carl Sagan Fit (Retro Academic)",
    "heat": "Yeni çıktı",
-   "desc": "70'ler ve 80'lerin retro bilim insanı, boğazlı kazak ve kadife ceket kombinlerini modern sonbahar sokak modasına uyarlayan nostaljik estetik.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' sonbahar kombini olarak öne çıktı.",
+   "desc": "Ünlü astronom Carl Sagan'ın 70'ler ve 80'ler tarzı boğazlı kazak, kadife ceket ve retro gözlüklerden oluşan entelektüel giyim tarzının yeniden ilgi görmesi.",
+   "why": "Reddit'in malefashionadvice topluluğunda 'Carl Sagan fit' başlığının öne çıkmasıyla görünmektedir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro Carl Sagan portreli ve retro kozmoloji tipografilerine sahip vintage işlemeli sweatshirtler veya kanvas çantalar.",
+   "idea": "Retro akademik tarzı tamamlayacak kadife ceket dirsek yamaları, retro gözlük kılıfları veya Carl Sagan temalı bilimsel b",
    "product_keywords": [
     {
-     "keyword": "carl sagan vintage sweatshirt",
-     "label": "retro carl sagan sweatshirt"
+     "keyword": "retro academic corduroy",
+     "label": "retro akademik kadife"
     },
     {
-     "keyword": "astronomy retro canvas tote",
-     "label": "astronomi bez çanta"
+     "keyword": "carl sagan enamel pin",
+     "label": "carl sagan emaye rozet"
+    }
+   ]
+  },
+  {
+   "name": "Raw Milk Homesteading",
+   "heat": "Hızla yükseliyor",
+   "desc": "Doğal yaşama dönüş, geleneksel gıdalar ve çiftlik estetiğine ilgi duyanların çiğ süt tüketimi etrafında oluşturduğu akım.",
+   "why": "Google'da 'raw milk' aramasının yüksek trafikle hızla yükselen aramalar listesine girmesiyle tespit edilmiştir.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Evde süt saklayanlar için retro tasarımlı cam süt şişesi etiketleri veya geleneksel süt süzme bezleri.",
+   "product_keywords": [
+    {
+     "keyword": "glass milk bottle labels",
+     "label": "cam süt şişesi etiketleri"
+    },
+    {
+     "keyword": "cheesecloth for milk",
+     "label": "süt süzme bezi"
+    }
+   ]
+  },
+  {
+   "name": "Dolly Parton Retro Country",
+   "heat": "Yeni çıktı",
+   "desc": "Dolly Parton'ın nostaljik arşiv fotoğrafları ve müzesi üzerinden yükselen, vintage Amerikan country ve kovboy estetiği.",
+   "why": "Reddit'in popculturechat topluluğunda Dolly Parton'ın eski fotoğraflarının büyük ilgi görmesiyle ortaya çıkmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Dolly Parton esintili retro country tarzı çıkartmalar, kovboy şapkası temalı anahtarlıklar veya vintage posterler.",
+   "product_keywords": [
+    {
+     "keyword": "dolly parton sticker",
+     "label": "dolly parton çıkartması"
+    },
+    {
+     "keyword": "retro country keychain",
+     "label": "retro country anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "Astrology & Horoscope Transition",
+   "heat": "Hızla yükseliyor",
+   "desc": "Ekim ayının gelişiyle birlikte günlük burç yorumları, astrolojik geçişler ve yeni ay ritüellerine olan ilginin artması.",
+   "why": "Google'da 'october 1' aramasıyla birlikte günlük burç (horoscope) aramalarının hızla yükselmesiyle görünmektedir.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Ekim ayına özel astrolojik niyet kartları, burç temalı takılar veya kişiselleştirilmiş astroloji günlükleri.",
+   "product_keywords": [
+    {
+     "keyword": "astrology journal",
+     "label": "astroloji günlüğü"
+    },
+    {
+     "keyword": "zodiac sign necklace",
+     "label": "burç kolyesi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-01T12:06+00:00",
+ "trends_updated_at": "2026-10-01T15:04+00:00",
  "products": [
   {
    "name": "püsküllü deri chaps",
@@ -543,12 +603,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-01T12:06+00:00"
+ "generated_at": "2026-10-01T15:04+00:00"
 }

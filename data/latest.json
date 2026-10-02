@@ -3,107 +3,109 @@
  "sample": false,
  "trends": [
   {
-   "name": "Gen Z Iced Coffee Kültürü",
-   "heat": "Yükseliyor",
-   "desc": "Z kuşağı topluluklarında buzlu kahve tüketimi, günlük yaşamın vazgeçilmez bir estetiği ve mizah unsuru olarak viral bir tartışma konusu olmaya devam ediyor.",
-   "why": "Reddit r/GenZ topluluğunda 'ive feel so out of the loop. apparently the new gen z pile on discourse is ice coffee related?' başlığıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Buzlu kahve temalı cam bardak (bambu kapaklı can glass) ve mizahi Z kuşağı kahve sloganlı bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "iced coffee glass cup",
-     "label": "buzlu kahve cam bardak"
-    },
-    {
-     "keyword": "iced coffee aesthetic tote bag",
-     "label": "estetik buzlu kahve bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit / Retro Akademisyen Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Balıkçı yaka kazaklar, fitilli kadife ceketler ve retro bilim insanı tarzı; dark academia ile vintage astronomi merakını birleştiren yeni bir giyim estetiği yaratıyor.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' paylaşımı ile kullanıcıların ilgisini çekti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro Carl Sagan portreli tipografik vintage tişört veya nostaljik astronomi illüstrasyonlu kanvas duvar posteri.",
-   "product_keywords": [
-    {
-     "keyword": "carl sagan vintage t shirt",
-     "label": "carl sagan vintage tişört"
-    },
-    {
-     "keyword": "retro astronomy poster",
-     "label": "retro astronomi posteri"
-    }
-   ]
-  },
-  {
-   "name": "Dolly Parton & Vintage Western",
+   "name": "Vintage Collegiate & Ivy League",
    "heat": "Hızla yükseliyor",
-   "desc": "Dolly Parton'ın arşiv fotoğraflarının ve yaşam öyküsünün yeniden gündeme gelmesiyle nostaljik güney ve retro country western estetiği güçleniyor.",
-   "why": "Reddit r/popculturechat üzerinde 'Life of Many Colors Museum' arşiv fotoğraflarının paylaşılmasıyla trend oldu.",
+   "desc": "Prestijli üniversite ve nostaljik kampüs estetiğini yansıtan vintage Ivy League tarzı giyim ve aksesuarlar.",
+   "why": "TikTok'ta '#cornell' ve '#cornelluniversity' etiketlerinin ilk sıralarda yer alması ve Reddit OutOfTheLoop'ta Cornell konusunun öne çıkmasıyla görünürlük kazandı.",
    "sources": [
+    "TikTok",
     "Reddit"
    ],
-   "idea": "Vintage Dolly Parton şarkı sözlü retro işlemeli nakış yamalar ve kovboy esintili seramik kupalar.",
+   "idea": "Retro tipografili Cornell/Ithaca temalı nakışlı vintage sweatshirt'ler ve kanvas bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "dolly parton embroidered patch",
-     "label": "dolly parton işlemeli yama"
+     "keyword": "vintage collegiate sweatshirt",
+     "label": "vintage kolej sweatshirt"
     },
     {
-     "keyword": "vintage western mug",
-     "label": "vintage western kupa"
+     "keyword": "ivy league aesthetic tote bag",
+     "label": "ivy league kanvas çanta"
     }
    ]
   },
   {
-   "name": "Choosin' Texas / Modern Cowgirl",
+   "name": "Whimsigoth",
    "heat": "Yükseliyor",
-   "desc": "Ella Langley ve 'Choosin' Texas' parçasının viral olmasıyla tetiklenen modern güney, country müzik ve western sokak giyimi hareketi.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda viral parça ve sanatçı hakkında açılan popüler başlık ile görüldü.",
+   "desc": "90'lar gotik tarzını göksel (ay/yıldız) motifler, kadife dokular ve bohem dokunuşlarla birleştiren karanlık ve büyüleyici giyim estetiği.",
+   "why": "Reddit r/femalefashionadvice topluluğunda Whimsigoth parçalarını tek tek kombinleme üzerine yoğun tartışmalar yapılmasıyla dikkat çekti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Texas temalı vintage fontlu trucker şapkalar (kamyoncu şapkası) ve western grafik baskılı oversize tişörtler.",
+   "idea": "Kadife ve dantel detaylı, ay ve güneş işlemeli kimonolar veya göksel desenli kumaş tote çantalar.",
    "product_keywords": [
     {
-     "keyword": "texas trucker hat",
-     "label": "texas kamyoncu şapkası"
+     "keyword": "whimsigoth velvet kimono",
+     "label": "whimsigoth kadife kimono"
     },
     {
-     "keyword": "western aesthetic graphic tee",
-     "label": "western estetik grafik tişört"
+     "keyword": "celestial moon graphic tee",
+     "label": "göksel ay desenli tişört"
     }
    ]
   },
   {
-   "name": "Acme Corporation / Retro Çizgi Film Nostaljisi",
-   "heat": "Yeni çıktı",
-   "desc": "'Coyote vs. Acme' filminin izleyiciyle buluşmasıyla birlikte 90'lar Looney Tunes estetiği ve kurgusal 'Acme Co.' kurumsal parodi tasarımları yeniden popülerleşiyor.",
-   "why": "Google trendlerinde 'will forte' ve 'Coyote vs. Acme' aramalarının ani yükseliş göstermesiyle ortaya çıktı.",
+   "name": "Non-Tarnish Daily Stacking Jewelry",
+   "heat": "Zirvede",
+   "desc": "Kararmayan, suya dayanıklı ve günlük olarak üst üste takılabilen minimalist paslanmaz çelik ve PVD altın kaplama takılar.",
+   "why": "Reddit r/femalefashionadvice'ta her gün çıkarılmadan takılabilecek kararmayan yüzük arayışı ve r/BuyItForLife'ın uzun ömürlü ürün talebiyle örtüşüyor.",
    "sources": [
+    "Reddit"
+   ],
+   "idea": "Suya dayanıklı, hipoalerjenik PVD altın kaplama dokulu ince yüzük kombin setleri.",
+   "product_keywords": [
+    {
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmaz çoklu yüzük seti"
+    },
+    {
+     "keyword": "waterproof gold band ring",
+     "label": "su geçirmez altın bant yüzük"
+    }
+   ]
+  },
+  {
+   "name": "Femme Upcycled Band & Rocker Merch",
+   "heat": "Yükseliyor",
+   "desc": "Maskülen ve bol kesim rock festivali tişörtlerinin kadınsı detaylarla (korsaj bağcıkları, dantel ekler, dekolteler) yeniden tasarlanması.",
+   "why": "Google'da 'Aftershock 2026' rock festivali aranırken Reddit'te 'grup tişörtlerini daha feminen hale getirme' yollarının sorulmasıyla eşleşti.",
+   "sources": [
+    "Reddit",
     "Google"
    ],
-   "idea": "Eskitme Acme Corporation logolu parodi sweatshirt veya nostaljik çizgi film temalı su geçirmez vinil çıkartma paketleri.",
+   "idea": "Dantel bağlamalı veya beli büzgülü özel tasarım dönüştürülmüş vintage rock konser tişörtleri.",
    "product_keywords": [
     {
-     "keyword": "acme corporation sweatshirt",
-     "label": "acme corporation sweatshirt"
+     "keyword": "upcycled band tee lace up",
+     "label": "dönüştürülmüş bağcıklı rock tişörtü"
     },
     {
-     "keyword": "retro cartoon sticker pack",
-     "label": "retro çizgi film sticker paketi"
+     "keyword": "cropped festival graphic tee",
+     "label": "crop festival grafik tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Dopamine Dressing",
+   "heat": "Yeni çıktı",
+   "desc": "Ruhu canlandıran parlak renklerin, eğlenceli desenlerin ve enerjik silüetlerin ön planda olduğu mod yükseltici giyim akımı.",
+   "why": "Reddit r/femalefashionadvice'ta kıvrımlı bedenler için neşeli ve renkli giyinme (dopamine dressing) üzerine açılan tartışma ile öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Canlı neon ve pastel tonlarda örgü bucket şapkalar, rengarenk boncuklu telefon askıları ve canlı sloganlı pamuklu çantal",
+   "product_keywords": [
+    {
+     "keyword": "colorful crochet bucket hat",
+     "label": "renkli örgü kova şapka"
+    },
+    {
+     "keyword": "dopamine dressing beaded strap",
+     "label": "rengarenk boncuklu askı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-02T03:04+00:00",
+ "trends_updated_at": "2026-10-02T06:04+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardak",
@@ -478,5 +480,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-02T04:40+00:00"
+ "generated_at": "2026-10-02T06:04+00:00"
 }

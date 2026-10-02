@@ -3,108 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsigoth Estetiği",
+   "name": "Gen Z Iced Coffee Kültürü",
    "heat": "Yükseliyor",
-   "desc": "90'lar gotik tarzı ile bohem, astrolojik ve mistik unsurları birleştiren karanlık ve büyüleyici giyim/aksesuar estetiği.",
-   "why": "Reddit femalefashionadvice topluluğunda bu estetiğe uygun parça kombinleme ve gardırop oluşturma konusu yoğun etkileşim aldı.",
+   "desc": "Z kuşağı topluluklarında buzlu kahve tüketimi, günlük yaşamın vazgeçilmez bir estetiği ve mizah unsuru olarak viral bir tartışma konusu olmaya devam ediyor.",
+   "why": "Reddit r/GenZ topluluğunda 'ive feel so out of the loop. apparently the new gen z pile on discourse is ice coffee related?' başlığıyla öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ay ve güneş motifli kadife kolyeler, yıldız desenli şallar veya vintage gotik esintili takı setleri.",
+   "idea": "Buzlu kahve temalı cam bardak (bambu kapaklı can glass) ve mizahi Z kuşağı kahve sloganlı bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardak"
     },
     {
-     "keyword": "whimsigoth celestial scarf",
-     "label": "whimsigoth göksel desenli şal"
+     "keyword": "iced coffee aesthetic tote bag",
+     "label": "estetik buzlu kahve bez çanta"
     }
    ]
   },
   {
-   "name": "Kararmaz Çoklu Yüzükler (Non-Tarnish Stacking Rings)",
+   "name": "Carl Sagan Fit / Retro Akademisyen Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Balıkçı yaka kazaklar, fitilli kadife ceketler ve retro bilim insanı tarzı; dark academia ile vintage astronomi merakını birleştiren yeni bir giyim estetiği yaratıyor.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' paylaşımı ile kullanıcıların ilgisini çekti.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro Carl Sagan portreli tipografik vintage tişört veya nostaljik astronomi illüstrasyonlu kanvas duvar posteri.",
+   "product_keywords": [
+    {
+     "keyword": "carl sagan vintage t shirt",
+     "label": "carl sagan vintage tişört"
+    },
+    {
+     "keyword": "retro astronomy poster",
+     "label": "retro astronomi posteri"
+    }
+   ]
+  },
+  {
+   "name": "Dolly Parton & Vintage Western",
    "heat": "Hızla yükseliyor",
-   "desc": "Günlük kullanımda kararmayan, suya dayanıklı (PVD kaplama veya paslanmaz çelik) ve üst üste takılabilen minimalist takı trendi.",
-   "why": "Reddit kadın modası topluluğunda günlük olarak üst üste takılabilecek ve kararmayan yüzük arayışı öne çıktı.",
+   "desc": "Dolly Parton'ın arşiv fotoğraflarının ve yaşam öyküsünün yeniden gündeme gelmesiyle nostaljik güney ve retro country western estetiği güçleniyor.",
+   "why": "Reddit r/popculturechat üzerinde 'Life of Many Colors Museum' arşiv fotoğraflarının paylaşılmasıyla trend oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Suya dayanıklı altın kaplama çoklu parmak yüzük setleri ve kişiselleştirilebilir minimalist bant yüzükler.",
+   "idea": "Vintage Dolly Parton şarkı sözlü retro işlemeli nakış yamalar ve kovboy esintili seramik kupalar.",
    "product_keywords": [
     {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmaz çoklu yüzük"
+     "keyword": "dolly parton embroidered patch",
+     "label": "dolly parton işlemeli yama"
     },
     {
-     "keyword": "waterproof gold rings",
-     "label": "su geçirmez altın yüzük"
+     "keyword": "vintage western mug",
+     "label": "vintage western kupa"
     }
    ]
   },
   {
-   "name": "Retro Collegiate / Kampüs Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Klasik Amerikan üniversite ve sarmaşık ligi (Ivy League) tarzını yansıtan retro nakışlı ve vintage esintili kıyafetler.",
-   "why": "TikTok'ta 'cornell' ve 'cornelluniversity' etiketleri 1. ve 3. sırada yer alırken Reddit'te de tartışma konusu oldu.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Vintage tipografik işlemeli kolej sweatshirt'leri ve retro üniversite tarzı bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "vintage collegiate sweatshirt",
-     "label": "vintage kolej sweatshirt"
-    },
-    {
-     "keyword": "retro ivy league tote bag",
-     "label": "retro üniversite bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Dopamine Dressing Aksesuarları",
+   "name": "Choosin' Texas / Modern Cowgirl",
    "heat": "Yükseliyor",
-   "desc": "Ruh halini yükselten canlı, parlak ve cesur renklerin bir arada kullanıldığı enerjik giyim ve aksesuar akımı.",
-   "why": "Reddit moda topluluklarında farklı vücut tiplerinde ve günlük hayatta dopamin giyimi üzerine tartışmalar gerçekleşti.",
+   "desc": "Ella Langley ve 'Choosin' Texas' parçasının viral olmasıyla tetiklenen modern güney, country müzik ve western sokak giyimi hareketi.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda viral parça ve sanatçı hakkında açılan popüler başlık ile görüldü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı renkli polimer kil küpeler, renkli reçine yüzükler ve eğlenceli boncuklu telefon askıları.",
+   "idea": "Texas temalı vintage fontlu trucker şapkalar (kamyoncu şapkası) ve western grafik baskılı oversize tişörtler.",
    "product_keywords": [
     {
-     "keyword": "dopamine dressing jewelry",
-     "label": "dopamin giyim takıları"
+     "keyword": "texas trucker hat",
+     "label": "texas kamyoncu şapkası"
     },
     {
-     "keyword": "colorful clay earrings",
-     "label": "renkli kil küpe"
+     "keyword": "western aesthetic graphic tee",
+     "label": "western estetik grafik tişört"
     }
    ]
   },
   {
-   "name": "Ağır Gramaj ve Ömürlük (BIFL) Sweatshirtler",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modanın kalitesizleşmesine tepki olarak doğan, yüksek gramajlı, kalın pamuklu ve uzun yıllar dayanıklı basic kıyafet arayışı.",
-   "why": "Reddit'te sweatshirtlerin kalitesinin düşmesi (enshittification) ve 'BuyItForLife' yaklaşımı popüler başlıklar arasına girdi.",
+   "name": "Acme Corporation / Retro Çizgi Film Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "'Coyote vs. Acme' filminin izleyiciyle buluşmasıyla birlikte 90'lar Looney Tunes estetiği ve kurgusal 'Acme Co.' kurumsal parodi tasarımları yeniden popülerleşiyor.",
+   "why": "Google trendlerinde 'will forte' ve 'Coyote vs. Acme' aramalarının ani yükseliş göstermesiyle ortaya çıktı.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "%100 yüksek gramaj pamuklu, dikişleri güçlendirilmiş minimalist unisex hoodie ve sweatshirtler.",
+   "idea": "Eskitme Acme Corporation logolu parodi sweatshirt veya nostaljik çizgi film temalı su geçirmez vinil çıkartma paketleri.",
    "product_keywords": [
     {
-     "keyword": "heavyweight cotton hoodie",
-     "label": "ağır gramaj pamuklu kapüşonlu"
+     "keyword": "acme corporation sweatshirt",
+     "label": "acme corporation sweatshirt"
     },
     {
-     "keyword": "durable blank sweatshirt",
-     "label": "dayanıklı basic sweatshirt"
+     "keyword": "retro cartoon sticker pack",
+     "label": "retro çizgi film sticker paketi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-02T00:04+00:00",
+ "trends_updated_at": "2026-10-02T03:04+00:00",
  "products": [
   {
    "name": "püsküllü deri chaps",
@@ -571,5 +570,5 @@
    "count": 19
   }
  },
- "generated_at": "2026-10-02T00:04+00:00"
+ "generated_at": "2026-10-02T03:04+00:00"
 }

@@ -3,128 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Cornell Kampüs Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cornell Üniversitesi odaklı içerikler ve okul ruhunu yansıtan kampüs estetiği sosyal medyada öne çıkan bir trend haline gelmiştir.",
-   "why": "TikTok'ta #cornell ve #cornelluniversity en popüler hashtag'ler arasında yer alırken Reddit OutOfTheLoop başlıklarında üst sıralarda tartışılmıştır.",
+   "name": "#cornell",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "TikTok",
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Cornell temalı minimalist sweatshirtler, vintage stil kampüs bez çantaları ve nakışlı şapkalar.",
-   "product_keywords": [
-    {
-     "keyword": "cornell sweatshirt",
-     "label": "cornell sweatshirt"
-    },
-    {
-     "keyword": "cornell university shirt",
-     "label": "cornell üniversitesi tişört"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Whimsy Goth Estetiği",
+   "name": "#reggie",
    "heat": "Yükseliyor",
-   "desc": "Gotik unsurlar ile mistik, masalsı ve nostaljik detayları birleştiren karanlık ama romantik giyim ve aksesuar tarzıdır.",
-   "why": "Reddit femalefashionadvice topluluğunda kullanıcıların whimsy goth tarzı parçaları kombinleme arayışı öne çıkmaktadır.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Mistik sembollü takılar, kadife ve dantel detaylı aksesuarlar, ay ve yıldız figürlü el yapımı kolyeler.",
-   "product_keywords": [
-    {
-     "keyword": "whimsygoth jewelry",
-     "label": "whimsy goth takı"
-    },
-    {
-     "keyword": "whimsy goth clothing",
-     "label": "whimsy goth giyim"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Kararmaz Üst Üste Takılabilir Yüzükler",
+   "name": "#cornelluniversity",
    "heat": "Yükseliyor",
-   "desc": "Su geçirmeyen, rengi atmayan ve günlük olarak üst üste kombinlenebilen minimalist takı akımıdır.",
-   "why": "Reddit femalefashionadvice topluluğunda kararmayan ve her gün takılabilecek yüzük önerileri aktif olarak tartışılmaktadır.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Suya dayanıklı paslanmaz çelik ve altın kaplama ince, üst üste takılabilir (stacking) yüzük setleri.",
-   "product_keywords": [
-    {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmaz yüzük seti"
-    },
-    {
-     "keyword": "waterproof rings",
-     "label": "su geçirmez yüzük"
-    }
-   ]
-  },
-  {
-   "name": "Dopamine Dressing (Neşeli ve Canlı Giyim)",
-   "heat": "Yükseliyor",
-   "desc": "Canlı renkler, neşeli tonlar ve enerji veren desenlerle kişilerin ruh halini yükseltmeyi hedefleyen giyim tarzıdır.",
-   "why": "Reddit femalefashionadvice üzerinde kıvrımlı hatlara sahip kişilerin Dopamine Dressing tarzını nasıl uygulayacağı tartışılmıştır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Rengarenk desenli el yapımı bez çantalar, canlı renkli sevimli takılar ve eğlenceli aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "dopamine dressing clothing",
-     "label": "canlı renkli giyim"
-    },
-    {
-     "keyword": "colorful aesthetic jewelry",
-     "label": "renkli estetik takı"
-    }
-   ]
-  },
-  {
-   "name": "Feminenleştirilmiş Grup Tişörtleri",
-   "heat": "Yükseliyor",
-   "desc": "Klasik ve maskülen müzik grubu tişörtlerinin dantel, kurdele ve feminen kesimlerle yeniden tasarlanması akımıdır.",
-   "why": "Reddit femalefashionadvice topluluğunda rock/band tişörtlerinin nasıl daha kadınsı hale getirileceği sorgulanmıştır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Dantel detaylı, kurdeleli veya crop kesimli özel tasarım müzik grubu tişörtleri.",
-   "product_keywords": [
-    {
-     "keyword": "feminine band shirt",
-     "label": "kadınsı grup tişörtü"
-    },
-    {
-     "keyword": "cropped band tee",
-     "label": "crop band tişört"
-    }
-   ]
-  },
-  {
-   "name": "Özenli Oversize / Baggy Stil",
-   "heat": "Yükseliyor",
-   "desc": "Aşırı bol ve rahat kıyafetleri salaş görünmeden, şık ve özenli bir şekilde kombinleme tarzıdır.",
-   "why": "Reddit femalefashionadvice üzerinde bol giyinip aynı zamanda bakımlı ve şık görünme yöntemleri tartışılmaktadır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bol kıyafetlerle kombinlenecek yapılı deri kemerler, estetik klipsler ve minimalist bel aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "baggy style accessories",
-     "label": "bol stil aksesuarları"
-    },
-    {
-     "keyword": "oversized streetwear",
-     "label": "oversize sokak giyimi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-02T09:05+00:00",
+ "trends_updated_at": "2026-10-02T12:04+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardak",
@@ -491,13 +403,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-02T09:05+00:00"
+ "generated_at": "2026-10-02T12:04+00:00"
 }

@@ -3,108 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsigoth Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "90'lar ve 2000'lerin mistik, büyüleyici ve gotik unsurlarını modern günlük moda ile birleştiren stil akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların Whimsigoth tarzını gardıroplarına uyarlama çabaları öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mistik motifli (ay, yıldız, tarot), kadife detaylı aksesuarlar ve vintage etkili nakışlı t-shirtler.",
-   "product_keywords": [
-    {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
-    },
-    {
-     "keyword": "whimsy goth shirt",
-     "label": "whimsigoth tişört"
-    }
-   ]
-  },
-  {
-   "name": "Non-Tarnish Stacking Rings",
+   "name": "Vintage Collegiate (Sarmaşık Ligi) Estetiği",
    "heat": "Zirvede",
-   "desc": "Günlük kullanımda kararmayan, su geçirmeyen ve üst üste takılarak kombinlenen minimalist takı trendi.",
-   "why": "Reddit moda başlıklarında kararmayan ve günlük çıkarılmadan kullanılabilen yüzük kombinleri yoğun ilgi görüyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Paslanmaz çelik veya dayanıklı altın kaplama minimalist, üst üste takılabilir yüzük setleri.",
-   "product_keywords": [
-    {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmayan yüzük seti"
-    },
-    {
-     "keyword": "waterproof ring set",
-     "label": "su geçirmez yüzük seti"
-    }
-   ]
-  },
-  {
-   "name": "Cornell Kampüs Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cornell Üniversitesi merkezli viral tartışmalarla tetiklenen nostaljik üniversite ve kampüs modası.",
-   "why": "TikTok'ta en popüler hashtag'ler arasında 1. ve 3. sırada yer alırken Reddit'in OutOfTheLoop sayfasında da gündem oluşturdu.",
+   "desc": "Amerikan üniversite kampüsü kültürünü yansıtan vintage tipografi, retro armalar ve kolej tarzı klasik giyim estetiği.",
+   "why": "TikTok'ta 'cornell' ve 'cornelluniversity' etiketlerinin üst sıralara yerleşmesi ve Reddit OutOfTheLoop'ta kampüs gündeminin yoğun tartışılmasıyla öne çıkıyor.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Vintage kolej stili nakışlı sweatshirt'ler, retro kampüs şapkaları ve bez çantalar.",
+   "idea": "Retro üniversite fontuyla kişiselleştirilebilir nakışlı oversize kolej sweatshirt'leri ve kanvas kampüs çantaları.",
    "product_keywords": [
     {
-     "keyword": "cornell sweatshirt",
-     "label": "cornell sweatshirt"
+     "keyword": "vintage collegiate sweatshirt",
+     "label": "vintage kolej sweatshirt"
     },
     {
-     "keyword": "college aesthetic hoodie",
-     "label": "kolej tarzı hoodie"
+     "keyword": "embroidered college crewneck",
+     "label": "nakışlı üniversite kazağı"
     }
    ]
   },
   {
-   "name": "Feminen Müzik Grubu Tişörtleri",
-   "heat": "Yükseliyor",
-   "desc": "Klasik ve maskülen kesimli vintage grup tişörtlerinin feminen kesimler ve estetik dokunuşlarla yeniden şekillendirilmesi.",
-   "why": "Reddit femalefashionadvice topluluğunda band tişörtlerini daha kadınsı ve stil sahibi gösterme üzerine başlıklar açılıyor.",
+   "name": "Gen Z Iced Coffee Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Buzlu kahvenin yalnızca bir içecek değil; bir ruh hali, Z kuşağı mizahı ve estetik bir yaşam tarzı aksesuarı haline gelmesi.",
+   "why": "Reddit r/GenZ topluluğunda buzlu kahve etrafında dönen yeni viral tartışmalar ve gençlik trendi olarak gündeme gelmesiyle dikkat çekiyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Dantel detaylı, crop kesim veya oturan kalıplarda özel tasarım kadın rock/grup tişörtleri.",
+   "idea": "Buzlu kahve temalı esprili illüstrasyonlara sahip bambu kapaklı cam kutu bardaklar ve bardak kılıfları.",
    "product_keywords": [
     {
-     "keyword": "feminine band tee",
-     "label": "feminen grup tişörtü"
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardağı"
     },
     {
-     "keyword": "cropped band shirt",
-     "label": "crop grup tişörtü"
+     "keyword": "coffee lover glass can",
+     "label": "kahve temalı cam bardak"
     }
    ]
   },
   {
-   "name": "Dopamine Dressing",
-   "heat": "Yükseliyor",
-   "desc": "Modu ve enerjiyi yükseltmeyi amaçlayan canlı renkler, neşeli desenler ve iddialı kombin tarzı.",
-   "why": "Reddit'te farklı vücut tiplerine uygun canlı ve neşeli giyim tarzı üzerine tavsiye aramaları yapılıyor.",
+   "name": "Copper Wire Crochet (Tel Örgü Takı)",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel tığ ve örgü tekniklerinin ince bakır ve pirinç tellerle birleştirilerek organik formlu, heykelsi takılara dönüştürülmesi zanaatı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda tığ ile örülmüş el yapımı bakır tel kolyenin yoğun ilgi görmesiyle ortaya çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı renkli el yapımı tığ işi çantalar, neşeli desenli aksesuarlar ve renkli takılar.",
+   "idea": "El yapımı, hafif ve bükülebilir tel örgü bohem gerdanlıklar ve statement tel küpeler.",
    "product_keywords": [
     {
-     "keyword": "dopamine dressing aesthetic",
-     "label": "dopamine giyim tarzı"
+     "keyword": "wire crochet necklace",
+     "label": "tel örgü kolye"
     },
     {
-     "keyword": "colorful aesthetic clothes",
-     "label": "renkli estetik giyim"
+     "keyword": "copper wire jewelry",
+     "label": "bakır tel el yapımı takı"
+    }
+   ]
+  },
+  {
+   "name": "2000'ler Y2K Erkek Sokak Modası",
+   "heat": "Yükseliyor",
+   "desc": "2000'lerin başındaki kaykaycı silüetleri, nostaljik video oyunları estetiği ve bol kesim sokak giyiminin erkek modasına güçlü dönüşü.",
+   "why": "Reddit r/malefashionadvice'ta 2000'ler tarzı arayışı ve r/OutOfTheLoop'ta dönemin ikonik video oyunu kültürünün (Minecraft x Skate x MW2) anılmasıyla besleniyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2000'ler sokak modasına uygun kalın kumaşlı bol paça kargo pantolon aksesuarları veya retro grafik baskılı bol kesim tiş",
+   "product_keywords": [
+    {
+     "keyword": "y2k baggy skate tee",
+     "label": "y2k kaykaycı tişörtü"
+    },
+    {
+     "keyword": "y2k streetwear pants",
+     "label": "y2k sokak modası pantolonu"
+    }
+   ]
+  },
+  {
+   "name": "Carl Sagan Retro Bilim İnsanı Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Fitilli kadifeler, boğazlı kazaklar ve nostaljik gökbilim/kozmoloji detaylarıyla birleşen 1970-80'ler entelektüel sonbahar stili.",
+   "why": "Reddit r/malefashionadvice altında sonbahar kombinlerinde 'Carl Sagan fit' tarzının doğrudan referans verilmesiyle öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Vintage astronomi ve uzay çizimleri içeren kanvas bez çantalar ve retro bilim temalı yaka iğnesi setleri.",
+   "product_keywords": [
+    {
+     "keyword": "vintage astronomy tote bag",
+     "label": "retro astronomi kanvas çanta"
+    },
+    {
+     "keyword": "retro science enamel pin",
+     "label": "vintage bilim yaka iğnesi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-02T18:05+00:00",
+ "trends_updated_at": "2026-10-02T21:03+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardak",
@@ -464,7 +464,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -479,5 +479,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-02T18:05+00:00"
+ "generated_at": "2026-10-02T21:03+00:00"
 }

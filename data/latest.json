@@ -3,127 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Copper Wire Crochet Jewelry",
-   "heat": "Yeni çıktı",
-   "desc": "Ince bakır tellerin tığ işi teknikleriyle örülerek zarif ve el yapımı takılara dönüştürüldüğü zanaat akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda el yapımı bakır tel örme kolye paylaşımı yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı tığ işi bakır tel kolyeler, örgülü bileklikler ve tel sarma küpeler.",
-   "product_keywords": [
-    {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel tığ kolye"
-    },
-    {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örme takı"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit",
-   "heat": "Yükseliyor",
-   "desc": "70'ler ve 80'lerin balıkçı yaka kazakları, fitilli kadife ceketleri ve retro entelektüel tarzını içeren profesör estetiği.",
-   "why": "Reddit'in r/malefashionadvice topluluğunda sonbahar modası başlığı altında Carl Sagan stili özel olarak tartışıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro kadife ceketler, vintage akademisyen tarzı balıkçı yaka kazaklar ve profesör estetiği illüstrasyonlu bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "carl sagan vintage sweater",
-     "label": "carl sagan vintage kazak"
-    },
-    {
-     "keyword": "corduroy blazer vintage",
-     "label": "fitilli kadife ceket"
-    }
-   ]
-  },
-  {
-   "name": "China Vase Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel mavi-beyaz porselen desenlerinin ve vintage çini motiflerinin modern aksesuarlarla birleşimi.",
-   "why": "Reddit r/TikTokCringe üzerinde seramik vazo temalı mizahi viral video öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mavi-beyaz çini porselen desenli telefon kılıfları, seramik takı tepsileri ve baskılı bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "blue white porcelain case",
-     "label": "mavi beyaz porselen kılıf"
-    },
-    {
-     "keyword": "chinoiserie tote bag",
-     "label": "çini desenli bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Husband Maxxing",
+   "name": "Whimsigoth Estetiği",
    "heat": "Hızla yükseliyor",
-   "desc": "İlişkilerdeki özgün kişilik tiplerini ve alışkanlıkları mizahi bir dille sahiplenen 'maxxing' akımı.",
-   "why": "Reddit r/TikTokCringe topluluğunda 'Autistic Husband Maxxing' başlıklı içerik yüksek etkileşim aldı.",
+   "desc": "90'lar ve 2000'lerin mistik, büyüleyici ve gotik unsurlarını modern günlük moda ile birleştiren stil akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kullanıcıların Whimsigoth tarzını gardıroplarına uyarlama çabaları öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Eşlere özel esprili sloganlı tişörtler, mizahi ilişki temalı kupalar ve yapışkanlı etiketler (sticker).",
+   "idea": "Mistik motifli (ay, yıldız, tarot), kadife detaylı aksesuarlar ve vintage etkili nakışlı t-shirtler.",
    "product_keywords": [
     {
-     "keyword": "funny husband shirt",
-     "label": "komik koca tişörtü"
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
     },
     {
-     "keyword": "relationship meme sticker",
-     "label": "ilişki memeli etiket"
+     "keyword": "whimsy goth shirt",
+     "label": "whimsigoth tişört"
     }
    ]
   },
   {
-   "name": "Kurşunsuz Pet Besleme Ürünleri",
+   "name": "Non-Tarnish Stacking Rings",
+   "heat": "Zirvede",
+   "desc": "Günlük kullanımda kararmayan, su geçirmeyen ve üst üste takılarak kombinlenen minimalist takı trendi.",
+   "why": "Reddit moda başlıklarında kararmayan ve günlük çıkarılmadan kullanılabilen yüzük kombinleri yoğun ilgi görüyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Paslanmaz çelik veya dayanıklı altın kaplama minimalist, üst üste takılabilir yüzük setleri.",
+   "product_keywords": [
+    {
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmayan yüzük seti"
+    },
+    {
+     "keyword": "waterproof ring set",
+     "label": "su geçirmez yüzük seti"
+    }
+   ]
+  },
+  {
+   "name": "Cornell Kampüs Estetiği",
    "heat": "Hızla yükseliyor",
-   "desc": "Evcil hayvan mamalarındaki toksin haberlerinin ardından yükselen güvenli, kurşunsuz ve doğal kedi/köpek besleme ekipmanları arayışı.",
-   "why": "Google arama trendlerinde kedi mamalarında ağır metal tespiti haberleriyle birlikte arama hacmi hızla arttı.",
+   "desc": "Cornell Üniversitesi merkezli viral tartışmalarla tetiklenen nostaljik üniversite ve kampüs modası.",
+   "why": "TikTok'ta en popüler hashtag'ler arasında 1. ve 3. sırada yer alırken Reddit'in OutOfTheLoop sayfasında da gündem oluşturdu.",
    "sources": [
-    "Google"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "El yapımı, gıda ile temasa uygun kurşunsuz seramik kedi/köpek maması kapları ve stantları.",
+   "idea": "Vintage kolej stili nakışlı sweatshirt'ler, retro kampüs şapkaları ve bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "lead free ceramic cat bowl",
-     "label": "kurşunsuz seramik kedi kasesi"
+     "keyword": "cornell sweatshirt",
+     "label": "cornell sweatshirt"
     },
     {
-     "keyword": "non toxic pet bowl",
-     "label": "toksik olmayan pet kasesi"
+     "keyword": "college aesthetic hoodie",
+     "label": "kolej tarzı hoodie"
     }
    ]
   },
   {
-   "name": "Latino Heritage Mariachi",
+   "name": "Feminen Müzik Grubu Tişörtleri",
    "heat": "Yükseliyor",
-   "desc": "Latino Heritage Month kutlamalarıyla gündeme gelen geleneksel Meksika nakışları ve Mariachi kültürüne ait estetik ögeler.",
-   "why": "Reddit r/popculturechat üzerinde Mariachi performansları ve Latino Heritage Month etkinlikleri popüler oldu.",
+   "desc": "Klasik ve maskülen kesimli vintage grup tişörtlerinin feminen kesimler ve estetik dokunuşlarla yeniden şekillendirilmesi.",
+   "why": "Reddit femalefashionadvice topluluğunda band tişörtlerini daha kadınsı ve stil sahibi gösterme üzerine başlıklar açılıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel Meksika nakış desenli bez çantalar, mariachi figürlü kırlent kılıfları ve duvar süsleri.",
+   "idea": "Dantel detaylı, crop kesim veya oturan kalıplarda özel tasarım kadın rock/grup tişörtleri.",
    "product_keywords": [
     {
-     "keyword": "latino heritage shirt",
-     "label": "latino mirası tişört"
+     "keyword": "feminine band tee",
+     "label": "feminen grup tişörtü"
     },
     {
-     "keyword": "mexican embroidery tote",
-     "label": "meksika nakışlı çanta"
+     "keyword": "cropped band shirt",
+     "label": "crop grup tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Dopamine Dressing",
+   "heat": "Yükseliyor",
+   "desc": "Modu ve enerjiyi yükseltmeyi amaçlayan canlı renkler, neşeli desenler ve iddialı kombin tarzı.",
+   "why": "Reddit'te farklı vücut tiplerine uygun canlı ve neşeli giyim tarzı üzerine tavsiye aramaları yapılıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Canlı renkli el yapımı tığ işi çantalar, neşeli desenli aksesuarlar ve renkli takılar.",
+   "product_keywords": [
+    {
+     "keyword": "dopamine dressing aesthetic",
+     "label": "dopamine giyim tarzı"
+    },
+    {
+     "keyword": "colorful aesthetic clothes",
+     "label": "renkli estetik giyim"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-02T15:05+00:00",
+ "trends_updated_at": "2026-10-02T18:05+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardak",
@@ -483,7 +464,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -491,12 +472,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-02T15:05+00:00"
+ "generated_at": "2026-10-02T18:05+00:00"
 }

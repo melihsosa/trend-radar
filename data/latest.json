@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#cornell",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Copper Wire Crochet Jewelry",
+   "heat": "Yeni çıktı",
+   "desc": "Ince bakır tellerin tığ işi teknikleriyle örülerek zarif ve el yapımı takılara dönüştürüldüğü zanaat akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda el yapımı bakır tel örme kolye paylaşımı yüksek etkileşim aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı tığ işi bakır tel kolyeler, örgülü bileklikler ve tel sarma küpeler.",
+   "product_keywords": [
+    {
+     "keyword": "copper wire crochet necklace",
+     "label": "bakır tel tığ kolye"
+    },
+    {
+     "keyword": "wire crochet jewelry",
+     "label": "tel örme takı"
+    }
+   ]
   },
   {
-   "name": "#reggie",
+   "name": "Carl Sagan Fit",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "70'ler ve 80'lerin balıkçı yaka kazakları, fitilli kadife ceketleri ve retro entelektüel tarzını içeren profesör estetiği.",
+   "why": "Reddit'in r/malefashionadvice topluluğunda sonbahar modası başlığı altında Carl Sagan stili özel olarak tartışıldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Retro kadife ceketler, vintage akademisyen tarzı balıkçı yaka kazaklar ve profesör estetiği illüstrasyonlu bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "carl sagan vintage sweater",
+     "label": "carl sagan vintage kazak"
+    },
+    {
+     "keyword": "corduroy blazer vintage",
+     "label": "fitilli kadife ceket"
+    }
+   ]
   },
   {
-   "name": "#cornelluniversity",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "China Vase Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel mavi-beyaz porselen desenlerinin ve vintage çini motiflerinin modern aksesuarlarla birleşimi.",
+   "why": "Reddit r/TikTokCringe üzerinde seramik vazo temalı mizahi viral video öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Mavi-beyaz çini porselen desenli telefon kılıfları, seramik takı tepsileri ve baskılı bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "blue white porcelain case",
+     "label": "mavi beyaz porselen kılıf"
+    },
+    {
+     "keyword": "chinoiserie tote bag",
+     "label": "çini desenli bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Husband Maxxing",
+   "heat": "Hızla yükseliyor",
+   "desc": "İlişkilerdeki özgün kişilik tiplerini ve alışkanlıkları mizahi bir dille sahiplenen 'maxxing' akımı.",
+   "why": "Reddit r/TikTokCringe topluluğunda 'Autistic Husband Maxxing' başlıklı içerik yüksek etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Eşlere özel esprili sloganlı tişörtler, mizahi ilişki temalı kupalar ve yapışkanlı etiketler (sticker).",
+   "product_keywords": [
+    {
+     "keyword": "funny husband shirt",
+     "label": "komik koca tişörtü"
+    },
+    {
+     "keyword": "relationship meme sticker",
+     "label": "ilişki memeli etiket"
+    }
+   ]
+  },
+  {
+   "name": "Kurşunsuz Pet Besleme Ürünleri",
+   "heat": "Hızla yükseliyor",
+   "desc": "Evcil hayvan mamalarındaki toksin haberlerinin ardından yükselen güvenli, kurşunsuz ve doğal kedi/köpek besleme ekipmanları arayışı.",
+   "why": "Google arama trendlerinde kedi mamalarında ağır metal tespiti haberleriyle birlikte arama hacmi hızla arttı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "El yapımı, gıda ile temasa uygun kurşunsuz seramik kedi/köpek maması kapları ve stantları.",
+   "product_keywords": [
+    {
+     "keyword": "lead free ceramic cat bowl",
+     "label": "kurşunsuz seramik kedi kasesi"
+    },
+    {
+     "keyword": "non toxic pet bowl",
+     "label": "toksik olmayan pet kasesi"
+    }
+   ]
+  },
+  {
+   "name": "Latino Heritage Mariachi",
+   "heat": "Yükseliyor",
+   "desc": "Latino Heritage Month kutlamalarıyla gündeme gelen geleneksel Meksika nakışları ve Mariachi kültürüne ait estetik ögeler.",
+   "why": "Reddit r/popculturechat üzerinde Mariachi performansları ve Latino Heritage Month etkinlikleri popüler oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel Meksika nakış desenli bez çantalar, mariachi figürlü kırlent kılıfları ve duvar süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "latino heritage shirt",
+     "label": "latino mirası tişört"
+    },
+    {
+     "keyword": "mexican embroidery tote",
+     "label": "meksika nakışlı çanta"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-02T12:04+00:00",
+ "trends_updated_at": "2026-10-02T15:05+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardak",
@@ -396,20 +483,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-02T12:04+00:00"
+ "generated_at": "2026-10-02T15:05+00:00"
 }

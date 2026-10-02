@@ -4,126 +4,107 @@
  "trends": [
   {
    "name": "Whimsigoth Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "90'lar gotik tarzı ile bohem, astrolojik ve mistik unsurları birleştiren karanlık ve büyüleyici giyim/aksesuar estetiği.",
+   "why": "Reddit femalefashionadvice topluluğunda bu estetiğe uygun parça kombinleme ve gardırop oluşturma konusu yoğun etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ay ve güneş motifli kadife kolyeler, yıldız desenli şallar veya vintage gotik esintili takı setleri.",
+   "product_keywords": [
+    {
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
+    },
+    {
+     "keyword": "whimsigoth celestial scarf",
+     "label": "whimsigoth göksel desenli şal"
+    }
+   ]
+  },
+  {
+   "name": "Kararmaz Çoklu Yüzükler (Non-Tarnish Stacking Rings)",
    "heat": "Hızla yükseliyor",
-   "desc": "90'lar esintili bohem gotik tarz; kadife dokular, karanlık romantizm, göksel motifler ve vintage parçaların birleşimini ifade eder.",
-   "why": "Reddit'te femalefashionadvice topluluğunda whimsigoth tarzını kombinleme ve parça seçme tartışmasıyla öne çıktı.",
+   "desc": "Günlük kullanımda kararmayan, suya dayanıklı (PVD kaplama veya paslanmaz çelik) ve üst üste takılabilen minimalist takı trendi.",
+   "why": "Reddit kadın modası topluluğunda günlük olarak üst üste takılabilecek ve kararmayan yüzük arayışı öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ay ve yıldız işlemeli kadife tote çanta veya whimsigoth temalı vintage esintili pirinç takı tablası.",
+   "idea": "Suya dayanıklı altın kaplama çoklu parmak yüzük setleri ve kişiselleştirilebilir minimalist bant yüzükler.",
    "product_keywords": [
     {
-     "keyword": "whimsigoth velvet bag",
-     "label": "whimsigoth kadife çanta"
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmaz çoklu yüzük"
     },
     {
-     "keyword": "celestial trinket dish",
-     "label": "göksel temalı takı tabağı"
+     "keyword": "waterproof gold rings",
+     "label": "su geçirmez altın yüzük"
     }
    ]
   },
   {
-   "name": "City Taste Test (Gurme Şehir Keşifleri)",
-   "heat": "Zirvede",
-   "desc": "Kullanıcıların farklı şehirlerdeki yerel lezzetleri ve sokak yemeklerini puanlayarak denediği popüler gastronomi keşif akımı.",
-   "why": "TikTok US trendlerinde 1. sırada yer alan #citytastetest etiketi ile listelendi.",
+   "name": "Retro Collegiate / Kampüs Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Klasik Amerikan üniversite ve sarmaşık ligi (Ivy League) tarzını yansıtan retro nakışlı ve vintage esintili kıyafetler.",
+   "why": "TikTok'ta 'cornell' ve 'cornelluniversity' etiketleri 1. ve 3. sırada yer alırken Reddit'te de tartışma konusu oldu.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "Şehir lezzetlerini puanlama ve not alma imkanı sunan basılı veya dijital gurme yemek günlüğü (foodie passport).",
+   "idea": "Vintage tipografik işlemeli kolej sweatshirt'leri ve retro üniversite tarzı bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "food bucket list journal",
-     "label": "yemek günlüğü defteri"
+     "keyword": "vintage collegiate sweatshirt",
+     "label": "vintage kolej sweatshirt"
     },
     {
-     "keyword": "city food map print",
-     "label": "şehir gurme haritası posteri"
+     "keyword": "retro ivy league tote bag",
+     "label": "retro üniversite bez çanta"
     }
    ]
   },
   {
-   "name": "Dopamine Dressing (Canlı Renk Terapisi)",
+   "name": "Dopamine Dressing Aksesuarları",
    "heat": "Yükseliyor",
-   "desc": "Kişinin modunu yükseltmek amacıyla parlak renkleri, neşeli desenleri ve cesur tonları bir arada kullanması akımı.",
-   "why": "Reddit'te kıvrımlı hatlara uygun dopamine dressing kombinleri üzerine açılan etkileşimli başlıkta yer aldı.",
+   "desc": "Ruh halini yükselten canlı, parlak ve cesur renklerin bir arada kullanıldığı enerjik giyim ve aksesuar akımı.",
+   "why": "Reddit moda topluluklarında farklı vücut tiplerinde ve günlük hayatta dopamin giyimi üzerine tartışmalar gerçekleşti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Renkli polimer kil küpeler veya canlı renk bloklu el yapımı punch needle bardak altlıkları ve aksesuarlar.",
+   "idea": "Canlı renkli polimer kil küpeler, renkli reçine yüzükler ve eğlenceli boncuklu telefon askıları.",
    "product_keywords": [
     {
-     "keyword": "dopamine colorful clay earrings",
-     "label": "renkli polimer kil küpe"
+     "keyword": "dopamine dressing jewelry",
+     "label": "dopamin giyim takıları"
     },
     {
-     "keyword": "colorful punch needle coaster",
-     "label": "renkli punch bardak altlığı"
+     "keyword": "colorful clay earrings",
+     "label": "renkli kil küpe"
     }
    ]
   },
   {
-   "name": "Choosin' Texas / Modern Cowgirl",
+   "name": "Ağır Gramaj ve Ömürlük (BIFL) Sweatshirtler",
    "heat": "Yükseliyor",
-   "desc": "Country müzik hitleri ve Güney eyaletleri kültürünün etkisiyle yükselen nostaljik Teksas ve Western giyim stili.",
-   "why": "Reddit OutOfTheLoop topluluğunda viral country parçası 'Choosin Texas' üzerine yapılan yoğun tartışmalarla belirdi.",
+   "desc": "Hızlı modanın kalitesizleşmesine tepki olarak doğan, yüksek gramajlı, kalın pamuklu ve uzun yıllar dayanıklı basic kıyafet arayışı.",
+   "why": "Reddit'te sweatshirtlerin kalitesinin düşmesi (enshittification) ve 'BuyItForLife' yaklaşımı popüler başlıklar arasına girdi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Western tipografili ve Teksas esintili nakışlı vintage sweatshirt veya kovboy çizmesi temalı anahtarlık.",
+   "idea": "%100 yüksek gramaj pamuklu, dikişleri güçlendirilmiş minimalist unisex hoodie ve sweatshirtler.",
    "product_keywords": [
     {
-     "keyword": "western embroidered sweatshirt",
-     "label": "western nakışlı sweatshirt"
+     "keyword": "heavyweight cotton hoodie",
+     "label": "ağır gramaj pamuklu kapüşonlu"
     },
     {
-     "keyword": "cowgirl boot keychain",
-     "label": "kovboy çizmesi anahtarlık"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit / Retro Dark Academia",
-   "heat": "Yeni çıktı",
-   "desc": "70'lerin boğazlı kazakları, fitilli kadife ceketleri ve retro astronomi/bilim insanı tarzını harmanlayan vintage akademik stil.",
-   "why": "Reddit malefashionadvice topluluğunda doğrudan 'Carl Sagan fit' kombini üzerinden trend olan stil tartışması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Vintage retro uzay ve astronomi çizimleri baskılı kanvas tote çanta veya nostaljik bilim insanı çıkartma seti.",
-   "product_keywords": [
-    {
-     "keyword": "vintage astronomy tote bag",
-     "label": "vintage astronomi bez çanta"
-    },
-    {
-     "keyword": "retro cosmos sticker pack",
-     "label": "retro uzay çıkartma seti"
-    }
-   ]
-  },
-  {
-   "name": "Grandma China Vase (Çini Porselen Estetiği)",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel mavi-beyaz porselen vazo desenlerinin modern sokak ve gençlik kültürüne ironik/estetik bir dekor ve aksesuar olarak uyarlanması.",
-   "why": "Reddit TikTokCringe başlığında 'your grandma's favorite china vase enjoying NYC' temasıyla viral içerik haline geldi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel mavi-beyaz porselen/çini deseni illüstrasyonlu telefon kılıfı veya seramik kupa.",
-   "product_keywords": [
-    {
-     "keyword": "blue willow phone case",
-     "label": "çini desenli telefon kılıfı"
-    },
-    {
-     "keyword": "chinoiserie ceramic mug",
-     "label": "vintage porselen desenli kupa"
+     "keyword": "durable blank sweatshirt",
+     "label": "dayanıklı basic sweatshirt"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-01T21:03+00:00",
+ "trends_updated_at": "2026-10-02T00:04+00:00",
  "products": [
   {
    "name": "püsküllü deri chaps",
@@ -583,12 +564,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-01T21:03+00:00"
+ "generated_at": "2026-10-02T00:04+00:00"
 }

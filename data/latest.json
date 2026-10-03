@@ -3,87 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "Whimsy Goth Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Karanlık gotik unsurları bohem ve mistik detaylarla birleştiren masalsı ve alternatif bir giyim/aksesuar estetiği.",
-   "why": "Reddit'in femalefashionadvice topluluğundaki kullanıcıların Whimsy Goth tarzı kıyafetleri nasıl kombinleyeceklerini tartışmasıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mistik ay/yıldız figürlü takılar, kadife ve dantel detaylı aksesuarlar veya gotik bohem duvar süsleri.",
-   "product_keywords": [
-    {
-     "keyword": "whimsigoth jewelry",
-     "label": "whimsigoth takı"
-    },
-    {
-     "keyword": "gothic lace choker",
-     "label": "gotik dantel choker"
-    }
-   ]
-  },
-  {
-   "name": "Non-Tarnish Stacking Rings",
+   "name": "Gen Z Iced Coffee Kültürü",
    "heat": "Hızla yükseliyor",
-   "desc": "Günlük kullanımda kararmayan, su geçirmeyen ve üst üste (stacking) takılabilen minimalist yüzük kombinleri.",
-   "why": "Reddit femalefashionadvice topluluğunda günlük kullanım için kararmayan yüzük önerisi arayan kullanıcıların yoğun ilgisiyle fark edildi.",
+   "desc": "Gen Z arasında buzlu kahve tüketimi, günlük rutin ve sosyal medya mizahının merkezinde yer alan güçlü bir yaşam tarzı sembolü haline geldi.",
+   "why": "Reddit r/GenZ üzerinde buzlu kahve etrafında dönen yeni viral tartışmalar ve akımlar en popüler gönderiler arasında yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Paslanmaz çelik veya altın kaplama, üst üste kombine edilebilir minimalist yüzük setleri.",
+   "idea": "Buzlu kahve temalı sloganlar içeren cam pipetli boba/kahve bardakları ve el yapımı estetik bardak kılıfları.",
    "product_keywords": [
     {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmayan üst üste yüzükler"
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardak"
     },
     {
-     "keyword": "waterproof minimalist rings",
-     "label": "su geçirmez minimalist yüzükler"
+     "keyword": "iced coffee aesthetic sleeve",
+     "label": "estetik bardak kılıfı"
     }
    ]
   },
   {
-   "name": "Copper Wire Crochet Jewelry",
+   "name": "Copper Wire Crochet (Tel Örgü Takı)",
    "heat": "Yeni çıktı",
-   "desc": "Ince bakır tellerin tığ işi tekniğiyle örülmesiyle elde edilen, el işçiliği ön planda otantik takı tasarımları.",
-   "why": "Reddit shutupandtakemymoney sayfasında bakır tel örgü kolyenin popülerleşmesiyle tespit edildi.",
+   "desc": "Geleneksel tığ örgüsü tekniğinin ince bakır tellerle birleştirilerek heykelsi ve organik takılara dönüştürüldüğü el sanatı akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda bakır tel örgü kolye tasarımı haftanın en çok ilgi gören ürün paylaşımlarından biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı örgü bakır kolyeler, küpeler ve el dokuması metalik bohem takılar.",
+   "idea": "Tığla örülmüş, doğal taş veya incilerle süslenmiş el yapımı bakır tel kolye ve kolyeler.",
    "product_keywords": [
     {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
+     "keyword": "wire crochet necklace",
+     "label": "tel örgü kolye"
     },
     {
-     "keyword": "wire woven jewelry",
-     "label": "tel sarma takı"
+     "keyword": "copper wire jewelry",
+     "label": "bakır tel el yapımı takı"
     }
    ]
   },
   {
-   "name": "Feminized Band Tees",
+   "name": "2000s / Y2K Nostalji Modası",
    "heat": "Yükseliyor",
-   "desc": "Klasik ve maskülen kesim grafik/müzik grubu tişörtlerinin dantel, bağcık veya özel kesimlerle feminen tarza dönüştürülmesi.",
-   "why": "Reddit femalefashionadvice altında kullanıcıların maskülen band tişörtlerini nasıl daha kadınsı gösterebileceğine dair açtığı başlıkla dikkat çekti.",
+   "desc": "2000'lerin başındaki sokak giyim tarzı, retro detaylar ve Y2K estetiğinin genç erkek modasında yeniden keşfedilmesi.",
+   "why": "Reddit r/malefashionadvice topluluğunda 2000'ler tarzının tanımlanması ve yeniden giyilmesi üzerine yoğun ilgi ve tartışma oluştu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Dantel yaka ve kol detaylı custom crop band tişörtleri veya kendin-yap kesim şablonlu grafik tişörtler.",
+   "idea": "Y2K tarzı retro tipografi baskılı tişörtler, nostaljik zincirli kemerler ve vintage aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "custom feminine band tee",
-     "label": "özel tasarım kadın band tişörtü"
+     "keyword": "y2k graphic tee",
+     "label": "y2k grafik tişört"
     },
     {
-     "keyword": "lace detail graphic tee",
-     "label": "dantel detaylı grafik tişört"
+     "keyword": "vintage y2k belt",
+     "label": "vintage y2k kemer"
+    }
+   ]
+  },
+  {
+   "name": "Retro Academic / Carl Sagan Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "1970-80'lerin bilim insanı ve entelektüel giyim tarzından esinlenen, boğazlı kazaklar ve retro kozmos temalı akademik kombin estetiği.",
+   "why": "Reddit r/malefashionadvice üzerinde Carl Sagan tarzı vintage kombinler ve sonbahar çekimleri öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro astronomi ve kozmos illüstrasyonlu işlemeli sweatshirtler, vintage bilim temalı tote bag'ler.",
+   "product_keywords": [
+    {
+     "keyword": "vintage astronomy sweatshirt",
+     "label": "vintage astronomi sweatshirt"
+    },
+    {
+     "keyword": "retro cosmos tote bag",
+     "label": "retro evren bez çanta"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-03T06:10+00:00",
+ "trends_updated_at": "2026-10-03T09:05+00:00",
  "products": [
   {
    "name": "kapaklı ve pipetli cam buzlu kahve bardağı",
@@ -343,5 +343,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-10-03T06:10+00:00"
+ "generated_at": "2026-10-03T09:05+00:00"
 }

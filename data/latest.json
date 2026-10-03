@@ -3,148 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Cornell Collegiate Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cornell Üniversitesi'nin hem TikTok'ta hem de Reddit'te yoğun şekilde tartışılmasıyla birlikte, klasik Amerikan kolej ve 'Ivy League' tarzı ürünlere olan ilgi yeniden canlanıyor.",
-   "why": "TikTok'ta 'cornell' ve 'cornelluniversity' etiketlerinin zirveye yerleşmesi ve Reddit'te üniversiteyle ilgili konuların popüler olmasıyla görünürlük kazandı.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Vintage tarzda Cornell temalı kolej sweatshirtleri, retro üniversite estetiğine sahip bez çantalar ve okul armalı çıkart",
-   "product_keywords": [
-    {
-     "keyword": "vintage cornell sweatshirt",
-     "label": "vintage Cornell sweatshirt"
-    },
-    {
-     "keyword": "collegiate aesthetic tote",
-     "label": "kolej estetiği bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Iced Coffee Culture",
-   "heat": "Zirvede",
-   "desc": "Genç nesil arasında buzlu kahve tüketimi sadece bir içecek tercihi olmaktan çıkıp, sosyal medyada sürekli mizahı ve estetiği yapılan bir yaşam tarzı sembolü haline geldi.",
-   "why": "Reddit'in GenZ topluluğunda buzlu kahve odaklı yeni bir tartışmanın ve akımın başladığının belirtilmesiyle öne çıktı.",
+   "name": "Tel Tığ İşi Takı (Copper Wire Crochet)",
+   "heat": "Yeni çıktı",
+   "desc": "İnce bakır tellerin tığ ve örgü teknikleriyle işlenerek organik formlara dönüştürüldüğü heykelsi el yapımı takı akımı.",
+   "why": "Reddit'in viral ürün topluluğunda (r/shutupandtakemymoney) bakır tel örgülü kolyenin doğrudan yoğun ilgi görmesiyle yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Buzlu kahve için estetik cam bardaklar, kişiselleştirilmiş pipetler ve Gen Z kahve mizahı içeren minimalist çıkartmalar.",
-   "product_keywords": [
-    {
-     "keyword": "iced coffee glass",
-     "label": "buzlu kahve bardağı"
-    },
-    {
-     "keyword": "gen z coffee sticker",
-     "label": "gen z kahve çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Copper Wire Crochet Jewelry",
-   "heat": "Yükseliyor",
-   "desc": "Bakır tel kullanılarak örülen el yapımı takılar, hem endüstriyel hem de bohem tarzı bir araya getiren yeni bir el emeği takı akımıdır.",
-   "why": "Reddit'in popüler ürün paylaşım alt forumu shutupandtakemymoney'de doğrudan bu ürünün öne çıkarılmasıyla tespit edildi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı bakır tel örgü kolyeler, küpeler ve bohem tarzda tel sarma takı tasarımları.",
+   "idea": "El yapımı tığ işi bakır tel örgü kolyeler, choker'lar ve organik formlu tel küpeler.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
      "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örgü takı"
+     "keyword": "wire knit pendant",
+     "label": "tel örme kolye ucu"
     }
    ]
   },
   {
-   "name": "Carl Sagan Academic Fit",
-   "heat": "Yeni çıktı",
-   "desc": "Ünlü astrofizikçi Carl Sagan'ın 70'ler ve 80'lerdeki retro akademik tarzı (boğazlı kazaklar, kadife ceketler ve retro uzay temaları) genç erkek modasında ilham kaynağı oluyor.",
-   "why": "Reddit'in malefashionadvice topluluğunda 'Carl Sagan fit' başlığı altında bu tarzın tartışılmasıyla ortaya çıktı.",
+   "name": "Gen Z Buzlu Kahve Kültürü (Iced Coffee Aesthetic)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z'nin bir ritüele ve kimlik parçasına dönüştürdüğü, etrafında espriler ve sosyal tartışmalar dönen buzlu kahve tutkusu.",
+   "why": "r/GenZ topluluğunda gençlerin gündemi belirleyen yeni viral tartışmanın 'iced coffee' etrafında dönmesiyle öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro akademik tarzı tamamlayacak uzay temalı kadife yamalar, Carl Sagan silüetli emaye rozetler ve retro gözlük aksesua",
+   "idea": "Gen Z buzlu kahve esprileri ve estetik tipografi içeren bambu kapaklı, cam pipetli kutu kahve bardakları.",
    "product_keywords": [
     {
-     "keyword": "carl sagan enamel pin",
-     "label": "Carl Sagan broş"
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardağı"
     },
     {
-     "keyword": "retro academic corduroy",
-     "label": "retro akademik kadife"
+     "keyword": "iced coffee can glass",
+     "label": "estetik kutu cam bardak"
     }
    ]
   },
   {
-   "name": "Dolly Parton Retro Country",
+   "name": "Carl Sagan / Retro Bilim İnsanı Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "70'ler ve 80'lerin nostaljik astronom ve akademisyen tarzını boğazlı kazaklar ve retro bilim sevgisiyle harmanlayan giyim estetiği.",
+   "why": "r/malefashionadvice topluluğunda doğrudan 'Carl Sagan fit' kombiniyle vintage akademik giyim arayışının tartışılmasıyla belirdi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro astronomi illüstrasyonları ve Carl Sagan alıntıları içeren vintage eskitme tişörtler ve bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "vintage astronomy shirt",
+     "label": "vintage astronomi tişörtü"
+    },
+    {
+     "keyword": "retro science tote bag",
+     "label": "retro bilim bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "2000'ler Y2K Sokak Modası Arayışı",
    "heat": "Yükseliyor",
-   "desc": "Dolly Parton'ın arşiv fotoğraflarının yayınlanmasıyla birlikte, retro country ve vintage western estetiğine sahip ürünler yeniden popülerlik kazanıyor.",
-   "why": "Reddit'in popculturechat topluluğunda Dolly Parton'ın müzesinden yeni paylaşılan nostaljik fotoğrafların yoğun ilgi görmesiyle tetiklendi.",
+   "desc": "Gençlerin 2000'ler başı salaş, rahat ve cesur sokak stili ögelerini yeniden adlandırıp benimsediği nostalji dalgası.",
+   "why": "r/malefashionadvice altında kullanıcıların spesifik 2000'ler stillerini ve parçalarını aktif şekilde sorgulamasıyla görüldü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Nostaljik Dolly Parton tasarımlı tişörtler, retro western tarzı çıkartmalar ve 'What Would Dolly Do' yazılı pembe kovboy",
+   "idea": "Y2K estetiğine uygun grunge tipografili oversize tişörtler ve nostaljik kalın tokalı kemer aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "vintage dolly parton shirt",
-     "label": "vintage Dolly Parton tişörtü"
+     "keyword": "y2k graphic tee",
+     "label": "y2k grafik tişört"
     },
     {
-     "keyword": "retro western sticker",
-     "label": "retro western çıkartma"
+     "keyword": "y2k grunge belt",
+     "label": "y2k grunge kemer"
     }
    ]
   },
   {
-   "name": "Willem Dafoe Cottagecore Peace",
-   "heat": "Yeni çıktı",
-   "desc": "Willem Dafoe'nun çiftliğindeki keçi ve koyunları uyuturken huzur bulduğunu açıklaması, internette viral bir 'doğaya dönüş ve huzur' akımı başlattı.",
-   "why": "Reddit popculturechat topluluğunda ünlü aktörün keçi ve koyunlarla ilgili samimi açıklamasının çok popüler olmasıyla dikkat çekti.",
+   "name": "Modern Western / Teksas Country Dalgası",
+   "heat": "Yükseliyor",
+   "desc": "Country müzik parçaları ve güney yaşam tarzının genç kitleler arasında popülerleşmesiyle yükselen modern kovboy estetiği.",
+   "why": "r/OutOfTheLoop üzerinde Ella Langley ve viral olan 'Choosin Texas' şarkısına dair kültürel merakın artmasıyla öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Cottagecore estetiğine uygun, üzerinde sevimli keçi/koyun illüstrasyonları ve huzur veren alıntılar bulunan kupalar ve b",
+   "idea": "Nostaljik Teksas ve country nakışlı retro trucker şapkalar ve eskitme western grafik tişörtler.",
    "product_keywords": [
     {
-     "keyword": "cottagecore goat mug",
-     "label": "cottagecore keçi kupası"
+     "keyword": "vintage texas trucker hat",
+     "label": "retro teksas trucker şapka"
     },
     {
-     "keyword": "sheep illustration tote bag",
-     "label": "koyun illüstrasyonlu bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Y2K Menswear Revival",
-   "heat": "Zirvede",
-   "desc": "2000'lerin başındaki baggy pantolonlar, kalın kemerler ve fütüristik sokak modası aksesuarları genç erkekler arasında hızla yayılmaya devam ediyor.",
-   "why": "Reddit'in malefashionadvice topluluğunda kullanıcıların 2000'ler tarzını ve bu döneme ait kombinleri yoğun şekilde sorgulamasıyla belirlendi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Y2K tarzı kalın metal tokalı kemerler, retro sokak modası zincirleri ve fütüristik güneş gözlükleri.",
-   "product_keywords": [
-    {
-     "keyword": "y2k aesthetic belt",
-     "label": "Y2K estetik kemer"
-    },
-    {
-     "keyword": "2000s streetwear accessory",
-     "label": "2000'ler sokak modası aksesuarı"
+     "keyword": "western graphic tee",
+     "label": "western grafik tişört"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-03T14:52+00:00",
+ "trends_updated_at": "2026-10-03T18:48+00:00",
  "products": [
   {
    "name": "kapaklı ve pipetli cam buzlu kahve bardağı",
@@ -397,12 +356,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-03T14:52+00:00"
+ "generated_at": "2026-10-03T18:48+00:00"
 }

@@ -3,55 +3,14 @@
  "sample": false,
  "trends": [
   {
-   "name": "Vintage Collegiate (Sarmaşık Ligi) Estetiği",
-   "heat": "Zirvede",
-   "desc": "Amerikan üniversite kampüsü kültürünü yansıtan vintage tipografi, retro armalar ve kolej tarzı klasik giyim estetiği.",
-   "why": "TikTok'ta 'cornell' ve 'cornelluniversity' etiketlerinin üst sıralara yerleşmesi ve Reddit OutOfTheLoop'ta kampüs gündeminin yoğun tartışılmasıyla öne çıkıyor.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Retro üniversite fontuyla kişiselleştirilebilir nakışlı oversize kolej sweatshirt'leri ve kanvas kampüs çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "vintage collegiate sweatshirt",
-     "label": "vintage kolej sweatshirt"
-    },
-    {
-     "keyword": "embroidered college crewneck",
-     "label": "nakışlı üniversite kazağı"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Iced Coffee Kültürü",
-   "heat": "Hızla yükseliyor",
-   "desc": "Buzlu kahvenin yalnızca bir içecek değil; bir ruh hali, Z kuşağı mizahı ve estetik bir yaşam tarzı aksesuarı haline gelmesi.",
-   "why": "Reddit r/GenZ topluluğunda buzlu kahve etrafında dönen yeni viral tartışmalar ve gençlik trendi olarak gündeme gelmesiyle dikkat çekiyor.",
+   "name": "Wire Crochet Takı Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Tığ örgüsü tekniğini metal tel işçiliğiyle birleştiren özgün el yapımı takı akımı. Özellikle bakır ve ince telden yapılan kolyeler, organik dokuları ve heykelimsi duruşlarıyla el yapımı platformlarında öne çıkıyor.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda el yapımı 'Copper wire crochet necklace' paylaşımı haftanın en popüler içerikleri arasına girdi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Buzlu kahve temalı esprili illüstrasyonlara sahip bambu kapaklı cam kutu bardaklar ve bardak kılıfları.",
-   "product_keywords": [
-    {
-     "keyword": "iced coffee glass cup",
-     "label": "buzlu kahve cam bardağı"
-    },
-    {
-     "keyword": "coffee lover glass can",
-     "label": "kahve temalı cam bardak"
-    }
-   ]
-  },
-  {
-   "name": "Copper Wire Crochet (Tel Örgü Takı)",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel tığ ve örgü tekniklerinin ince bakır ve pirinç tellerle birleştirilerek organik formlu, heykelsi takılara dönüştürülmesi zanaatı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda tığ ile örülmüş el yapımı bakır tel kolyenin yoğun ilgi görmesiyle ortaya çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı, hafif ve bükülebilir tel örgü bohem gerdanlıklar ve statement tel küpeler.",
+   "idea": "El yapımı bakır tel örgü gerdanlık veya doğal taş detaylı tel kolye.",
    "product_keywords": [
     {
      "keyword": "wire crochet necklace",
@@ -59,52 +18,92 @@
     },
     {
      "keyword": "copper wire jewelry",
-     "label": "bakır tel el yapımı takı"
+     "label": "bakır tel takı"
     }
    ]
   },
   {
-   "name": "2000'ler Y2K Erkek Sokak Modası",
-   "heat": "Yükseliyor",
-   "desc": "2000'lerin başındaki kaykaycı silüetleri, nostaljik video oyunları estetiği ve bol kesim sokak giyiminin erkek modasına güçlü dönüşü.",
-   "why": "Reddit r/malefashionadvice'ta 2000'ler tarzı arayışı ve r/OutOfTheLoop'ta dönemin ikonik video oyunu kültürünün (Minecraft x Skate x MW2) anılmasıyla besleniyor.",
+   "name": "Gen Z Iced Coffee Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Buzlu kahvenin gençler arasında sadece bir içecek değil, günlük bir kimlik sembolü, ritüel ve espri konusu haline gelmesi. İçecek etrafında dönen tüketim alışkanlıkları ve estetik unsurlar popülerliğini koruyor.",
+   "why": "Reddit r/GenZ topluluğunda buzlu kahve tartışmaları ve buna bağlı gençlik dinamikleri haftanın en popüler gönderilerinden biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2000'ler sokak modasına uygun kalın kumaşlı bol paça kargo pantolon aksesuarları veya retro grafik baskılı bol kesim tiş",
+   "idea": "Buzlu kahve temalı esprili illüstrasyonlara sahip cam kupa (bambu kapaklı ve cam pipetli) veya su geçirmez etiket paketi",
    "product_keywords": [
     {
-     "keyword": "y2k baggy skate tee",
-     "label": "y2k kaykaycı tişörtü"
+     "keyword": "iced coffee glass cup",
+     "label": "buzlu kahve cam bardak"
     },
     {
-     "keyword": "y2k streetwear pants",
-     "label": "y2k sokak modası pantolonu"
+     "keyword": "iced coffee sticker pack",
+     "label": "buzlu kahve çıkartma paketi"
     }
    ]
   },
   {
-   "name": "Carl Sagan Retro Bilim İnsanı Estetiği",
+   "name": "Carl Sagan / Retro Professorcore",
    "heat": "Yeni çıktı",
-   "desc": "Fitilli kadifeler, boğazlı kazaklar ve nostaljik gökbilim/kozmoloji detaylarıyla birleşen 1970-80'ler entelektüel sonbahar stili.",
-   "why": "Reddit r/malefashionadvice altında sonbahar kombinlerinde 'Carl Sagan fit' tarzının doğrudan referans verilmesiyle öne çıkıyor.",
+   "desc": "70'ler ve 80'lerin nostaljik bilim insanı ve üniversite profesörü giyim estetiği. Fitilli kadife, balıkçı yaka trikolar ve vintage astronomi/bilim detayları modern gündelik giyimde aranıyor.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' başlıklı nostaljik akademik kombin tartışması ilgi topladı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Vintage astronomi ve uzay çizimleri içeren kanvas bez çantalar ve retro bilim temalı yaka iğnesi setleri.",
+   "idea": "Retro astronomi ve kozmos temalı emaye yaka iğnesi seti veya fitilli kadife bez çanta.",
    "product_keywords": [
     {
-     "keyword": "vintage astronomy tote bag",
-     "label": "retro astronomi kanvas çanta"
+     "keyword": "astronomy enamel pin",
+     "label": "astronomi yaka iğnesi"
     },
     {
-     "keyword": "retro science enamel pin",
-     "label": "vintage bilim yaka iğnesi"
+     "keyword": "corduroy tote bag",
+     "label": "fitilli kadife bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Choosin' Texas / Modern Westerncore",
+   "heat": "Yeni çıktı",
+   "desc": "Viral country şarkıları ve güney yaşam tarzının genç kitleler arasında yarattığı modern kovboy estetiği. Rustik tipografi, çizme ve şapka motifleri günlük aksesuarlara taşınıyor.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda viral hale gelen 'Choosin' Texas' akımı haftanın trend soruları arasında yer aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Güneyli sloganlara ve kovboy çizmesi nakışına sahip retro trucker şapka.",
+   "product_keywords": [
+    {
+     "keyword": "western trucker hat",
+     "label": "western trucker şapka"
+    },
+    {
+     "keyword": "southern graphic tee",
+     "label": "güney temalı baskılı tişört"
+    }
+   ]
+  },
+  {
+   "name": "Erken 2000'ler (Y2K) Sokak Modası",
+   "heat": "Yükseliyor",
+   "desc": "2000'lerin başındaki nostaljik giyim tarzı, döneme ait kalın aksesuarlar ve sokak estetiğinin genç erkekler tarafından yeniden araştırılıp uyarlanması.",
+   "why": "Reddit r/malefashionadvice'ta 2000'ler giyim tarzının adını ve parçalarını sorgulayan paylaşım yüksek etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2000'ler esintili çift delikli metal tokalı deri kemer veya Y2K tarzı pantolon zinciri.",
+   "product_keywords": [
+    {
+     "keyword": "y2k grommet belt",
+     "label": "y2k zımbalı kemer"
+    },
+    {
+     "keyword": "punk wallet chain",
+     "label": "punk pantolon zinciri"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-02T21:03+00:00",
+ "trends_updated_at": "2026-10-03T00:04+00:00",
  "products": [
   {
    "name": "buzlu kahve cam bardak",
@@ -479,5 +478,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-02T21:03+00:00"
+ "generated_at": "2026-10-03T00:04+00:00"
 }

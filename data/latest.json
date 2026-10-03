@@ -3,107 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "Gen Z Buzlu Kahve Kültürü ve Mizahı",
+   "name": "Whimsy Goth Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Z kuşağının günlük yaşam tarzının ve sosyal medya mizahının merkezinde yer alan buzlu kahve takıntısı ve buna bağlı trendler.",
-   "why": "Reddit r/GenZ topluluğunda 'yeni Gen Z tartışması buzlu kahveyle mi ilgili?' başlığıyla yoğun etkileşim alarak öne çıktı.",
+   "desc": "Karanlık gotik unsurları bohem ve mistik detaylarla birleştiren masalsı ve alternatif bir giyim/aksesuar estetiği.",
+   "why": "Reddit'in femalefashionadvice topluluğundaki kullanıcıların Whimsy Goth tarzı kıyafetleri nasıl kombinleyeceklerini tartışmasıyla öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Buzlu kahve temalı esprili cam bardaklar (beer can glass), bardak kılıfları (cup sleeves) ve su geçirmez laptop çıkartma",
+   "idea": "Mistik ay/yıldız figürlü takılar, kadife ve dantel detaylı aksesuarlar veya gotik bohem duvar süsleri.",
    "product_keywords": [
     {
-     "keyword": "iced coffee glass cup with lid and straw",
-     "label": "kapaklı ve pipetli cam buzlu kahve bardağı"
+     "keyword": "whimsigoth jewelry",
+     "label": "whimsigoth takı"
     },
     {
-     "keyword": "iced coffee lover sticker pack",
-     "label": "buzlu kahve temalı çıkartma paketi"
+     "keyword": "gothic lace choker",
+     "label": "gotik dantel choker"
     }
    ]
   },
   {
-   "name": "Bakır Tel Örgü Takı Sanatı (Wire Crochet Jewelry)",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel tığ örgü tekniğinin ince bakır ve metal tellerle birleştirilerek heykelsi takılara dönüştürüldüğü el yapımı zanaat akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda paylaşılan el yapımı bakır tel örgü kolye doğrudan alım isteği yarattı.",
+   "name": "Non-Tarnish Stacking Rings",
+   "heat": "Hızla yükseliyor",
+   "desc": "Günlük kullanımda kararmayan, su geçirmeyen ve üst üste (stacking) takılabilen minimalist yüzük kombinleri.",
+   "why": "Reddit femalefashionadvice topluluğunda günlük kullanım için kararmayan yüzük önerisi arayan kullanıcıların yoğun ilgisiyle fark edildi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Tığla örülmüş statement bakır tel kolyeler, bohem metal örgü küpeler ve el yapımı hediye takılar.",
+   "idea": "Paslanmaz çelik veya altın kaplama, üst üste kombine edilebilir minimalist yüzük setleri.",
+   "product_keywords": [
+    {
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmayan üst üste yüzükler"
+    },
+    {
+     "keyword": "waterproof minimalist rings",
+     "label": "su geçirmez minimalist yüzükler"
+    }
+   ]
+  },
+  {
+   "name": "Copper Wire Crochet Jewelry",
+   "heat": "Yeni çıktı",
+   "desc": "Ince bakır tellerin tığ işi tekniğiyle örülmesiyle elde edilen, el işçiliği ön planda otantik takı tasarımları.",
+   "why": "Reddit shutupandtakemymoney sayfasında bakır tel örgü kolyenin popülerleşmesiyle tespit edildi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı örgü bakır kolyeler, küpeler ve el dokuması metalik bohem takılar.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
-     "label": "el yapımı bakır tel örgü kolye"
+     "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "handmade wire knit jewelry",
-     "label": "örgü metal tel takı"
+     "keyword": "wire woven jewelry",
+     "label": "tel sarma takı"
     }
    ]
   },
   {
-   "name": "2000'ler (Y2K) Retro Erkek & Sokak Giyimi",
-   "heat": "Zirvede",
-   "desc": "2000'lerin başındaki nostaljik giyim kodlarının, katmanlı kombinlerin ve döneme özgü grafiklerin yeniden canlanması.",
-   "why": "Reddit r/malefashionadvice üzerinde 2000'ler tarzını tanımlama ve yeniden giyme üzerine paylaşımlar yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2000'ler estetiğinde retro tipografik grafik tişörtler, vintage trucker şapkalar ve baggy tarzı tamamlayan kanvas kemerl",
-   "product_keywords": [
-    {
-     "keyword": "y2k aesthetic graphic tee",
-     "label": "y2k estetiğinde grafik tişört"
-    },
-    {
-     "keyword": "vintage 2000s trucker hat",
-     "label": "vintage 2000ler fileli şapka"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Fit / Retro Akademik Estetik",
+   "name": "Feminized Band Tees",
    "heat": "Yükseliyor",
-   "desc": "70'ler ve 80'lerin bilim insanı ve profesör giyim tarzını (balıkçı yaka, fitilli kadife, retro bilim sembolleri) yansıtan entelektüel nostaljik tarz.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' kombini stil ilhamı olarak ilgi gördü.",
+   "desc": "Klasik ve maskülen kesim grafik/müzik grubu tişörtlerinin dantel, bağcık veya özel kesimlerle feminen tarza dönüştürülmesi.",
+   "why": "Reddit femalefashionadvice altında kullanıcıların maskülen band tişörtlerini nasıl daha kadınsı gösterebileceğine dair açtığı başlıkla dikkat çekti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Vintage astronomi ve kozmos temalı emaye yaka iğneleri, fitilli kadife bez çantalar ve retro bilim baskılı kıyafetler.",
+   "idea": "Dantel yaka ve kol detaylı custom crop band tişörtleri veya kendin-yap kesim şablonlu grafik tişörtler.",
    "product_keywords": [
     {
-     "keyword": "retro astronomy enamel pin",
-     "label": "retro astronomi emaye rozet"
+     "keyword": "custom feminine band tee",
+     "label": "özel tasarım kadın band tişörtü"
     },
     {
-     "keyword": "vintage cosmos corduroy tote bag",
-     "label": "vintage uzay temalı kadife bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Vintage Country & Dolly Parton Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Klasik country müziğin renkli, nostaljik ve sıcak retro estetiğinin moda ve ev dekorasyonunda yeniden yükselişi.",
-   "why": "Reddit r/popculturechat'te Dolly Parton'ın yeni gün yüzüne çıkan nostaljik fotoğrafları büyük ilgi topladı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Country estetiğinde işlemeli vintage tişörtler, retro cowgirl temalı kanvas tablolar ve nostaljik müzik alıntılı bez çan",
-   "product_keywords": [
-    {
-     "keyword": "vintage dolly country t shirt",
-     "label": "vintage country tarzı tişört"
-    },
-    {
-     "keyword": "retro cowgirl aesthetic wall print",
-     "label": "retro cowgirl duvar posteri"
+     "keyword": "lace detail graphic tee",
+     "label": "dantel detaylı grafik tişört"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-03T03:13+00:00",
+ "trends_updated_at": "2026-10-03T06:10+00:00",
  "products": [
   {
    "name": "kapaklı ve pipetli cam buzlu kahve bardağı",
@@ -356,12 +336,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-03T04:40+00:00"
+ "generated_at": "2026-10-03T06:10+00:00"
 }

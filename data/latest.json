@@ -3,108 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Retro Ivy League & Cornell Collegiate",
+   "name": "Copper Wire Crochet Takı",
+   "heat": "Yükseliyor",
+   "desc": "İnce bakır tellerin tığ yardımıyla örülerek zarif ve heykelsi kolyelere dönüştürüldüğü bohem el sanatı akımı.",
+   "why": "Reddit'in viral ürünler topluluğu r/shutupandtakemymoney'de 'Copper wire crochet necklace' paylaşımı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı tel örgü kolye uçları, bakır tel choker ve küpe tasarımları.",
+   "product_keywords": [
+    {
+     "keyword": "wire crochet necklace",
+     "label": "tel örgü kolye"
+    },
+    {
+     "keyword": "copper wire jewelry",
+     "label": "bakır tel takı"
+    }
+   ]
+  },
+  {
+   "name": "Modern Western & Southern Americana",
    "heat": "Hızla yükseliyor",
-   "desc": "Amerikan üniversite kampüsü ve klasik Ivy League giyim tarzına, özellikle Cornell temasına artan ilgi.",
-   "why": "TikTok'ta #cornell ve #cornelluniversity etiketleri ilk sıralarda yer alırken Reddit OutOfTheLoop'ta da en çok konuşulan konulardan biri oldu.",
+   "desc": "Güneyli Amerikan kovboy tarzı, çıtçıtlı gömlekler ve kırsal country yaşam tarzının genç popüler kültürüne yansıması.",
+   "why": "Reddit r/OutOfTheLoop'ta viral country parçası 'Choosin Texas', r/malefashionadvice'ta Güneyli giyim tarzı ve Google'da Teksas temalı 'Landman' aramalarıyla birden fazla mecrada görüldü.",
    "sources": [
-    "TikTok",
-    "Reddit"
+    "Reddit",
+    "Google"
    ],
-   "idea": "Vintage tarzda Cornell veya retro Ivy League işlemeli kalın kolej sweatshirt'leri ve kanvas bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "vintage cornell sweatshirt",
-     "label": "vintage cornell sweatshirt"
-    },
-    {
-     "keyword": "ivy league crewneck",
-     "label": "kolej tipi bisiklet yaka kazak"
-    }
-   ]
-  },
-  {
-   "name": "Non-Tarnish Stacking Jewelry",
-   "heat": "Yükseliyor",
-   "desc": "Gündelik kullanıma uygun, kararmayan, su geçirmez paslanmaz çelik veya PVD kaplama çoklu takılabilen minimalist takılar.",
-   "why": "Reddit femalefashionadvice topluluğunda kararmayan günlük yüzük arayışı haftanın en aktif tartışmalarından biri haline geldi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Su geçirmez ve kararma yapmayan altın kaplama paslanmaz çelik minimal yüzük kombin setleri.",
-   "product_keywords": [
-    {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmaz çoklu yüzük seti"
-    },
-    {
-     "keyword": "waterproof gold rings",
-     "label": "su geçirmez altın yüzük"
-    }
-   ]
-  },
-  {
-   "name": "Heavyweight Heritage Sweatshirt",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modanın kalitesizleşmesine tepki olarak doğan, ömürlük, kalın gramajlı ve kutu (boxy) kesim vintage sweatshirt arayışı.",
-   "why": "Reddit'te sweatshirt kalitelerinin düşmesi (enshittification) ve ömürlük giyim (BuyItForLife) üzerine yoğun bir ilgi oluştu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Yüksek gramajlı (%100 pamuklu, 450+ GSM), logosuz veya minimal işlemeli kutu kesim vintage tarz sweatshirt.",
-   "product_keywords": [
-    {
-     "keyword": "heavyweight cotton sweatshirt",
-     "label": "kalın gramajlı pamuk sweatshirt"
-    },
-    {
-     "keyword": "boxy fit blank crewneck",
-     "label": "kutu kesim düz sweatshirt"
-    }
-   ]
-  },
-  {
-   "name": "Modern Texas Cowgirl & Countrycore",
-   "heat": "Yükseliyor",
-   "desc": "Güneyli country müziği ve modern Teksas estetiğini birleştiren batı (western) temalı sokak giyimi ve aksesuarlar.",
-   "why": "Reddit OutOfTheLoop'ta Ella Langley ve 'Choosin Texas' şarkısının viral olmasıyla ülke genelinde country esintisi dikkat çekti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "'Choosin Texas' veya retro country tipografisine sahip fileli trucker şapkalar ve eskitme tişörtler.",
+   "idea": "Vintage esintili çıtçıtlı gömlek nakışları, çöl/çiftlik temalı retro trucker şapkalar ve country tipografili tişörtler.",
    "product_keywords": [
     {
      "keyword": "western graphic tee",
-     "label": "western grafikli tişört"
+     "label": "western baskılı tişört"
     },
     {
-     "keyword": "vintage cowgirl trucker hat",
-     "label": "vintage cowgirl fileli şapka"
+     "keyword": "vintage pearl snap shirt",
+     "label": "vintage çıtçıtlı gömlek"
     }
    ]
   },
   {
-   "name": "Feminized & Upcycled Band Tees",
+   "name": "Retro Academia & Sagan Estetiği",
    "heat": "Yeni çıktı",
-   "desc": "Maskülen ve bol kesim klasik rock/müzik tişörtlerinin kadınsı detaylar, korse bağcıkları veya kısa kesimlerle yeniden tasarlanması.",
-   "why": "Reddit femalefashionadvice'ta müzik grubu tişörtlerini kadınsı ve şık hale getirme yöntemleri yoğun talep gördü.",
+   "desc": "1970'ler ve 80'lerin astronom ve akademisyen tarzını yansıtan balıkçı yaka, kadife ceket ve kozmik nostalji stili.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' paylaşımı kullanıcılar arasında dikkat çekti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yanları bağcıklı, omuzları açık veya korse formunda dikilmiş el yapımı dönüştürülmüş (upcycled) vintage grup tişörtleri.",
+   "idea": "Retro kozmos illüstrasyonları içeren sweatshirtler ve vintage bilim temalı bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "upcycled band tee",
-     "label": "yeniden tasarlanmış grup tişörtü"
+     "keyword": "vintage astronomy shirt",
+     "label": "vintage astronomi tişörtü"
     },
     {
-     "keyword": "corset band t-shirt",
-     "label": "korse detaylı müzik tişörtü"
+     "keyword": "retro science tote bag",
+     "label": "retro bilim bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Gen Z Çeyrek Asır Krizi İronisi",
+   "heat": "Hızla yükseliyor",
+   "desc": "20'li yaşların getirdiği hayat pahalılığı, ev alamama ve erken tükenmişliği alaycı bir mizahla kucaklayan Z kuşağı tavrı.",
+   "why": "Reddit r/GenZ üzerinde 'Enjoy your 20s', 'How are Gen Zers supposed to buy a house' ve erken orta yaş krizi temalı gönderiler yoğun etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Erken yetişkinlik krizleriyle dalga geçen ironik sloganlı sticker setleri, kupa ve masaüstü motivasyon kartları.",
+   "product_keywords": [
+    {
+     "keyword": "quarter life crisis sticker",
+     "label": "çeyrek asır krizi sticker"
+    },
+    {
+     "keyword": "existential humor tote bag",
+     "label": "varoluşsal mizah bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Pastoral Keçi Terapisi Mottosu",
+   "heat": "Yeni çıktı",
+   "desc": "Willem Dafoe'nun keçilerini uyuturken bulduğu huzuru anlattığı sözden ilham alan, kırsal yaşam ve hayvan sevgisi temalı dinginlik akımı.",
+   "why": "Reddit r/popculturechat topluluğunda Willem Dafoe'nun keçileriyle ilgili 'No, they’re helping me' sözü viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Keçi çizimleri ve 'They're helping me' alıntısını taşıyan minimalist kahve kupaları ve duvar posterleri.",
+   "product_keywords": [
+    {
+     "keyword": "goat lover mug",
+     "label": "keçi temalı kupa"
+    },
+    {
+     "keyword": "cottagecore farm print",
+     "label": "pastoral çiftlik posteri"
+    }
+   ]
+  },
+  {
+   "name": "Vintage Dolly & Retro Country Nostaljisi",
+   "heat": "Yükseliyor",
+   "desc": "Dolly Parton mirası etrafında şekillenen renkli, nostaljik ve samimi 1970'ler Amerikan halk müziği estetiği.",
+   "why": "Reddit r/popculturechat'te 'Life of Many Colors' müzesinden yeni paylaşılan nostaljik fotoğraflar ilgi topladı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "70'ler retro country tipografili afişler, renkli retro işlemeli anahtarlıklar ve kanvas çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "vintage country graphic tee",
+     "label": "vintage country baskılı tişört"
+    },
+    {
+     "keyword": "retro dolly sticker",
+     "label": "retro country sticker"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-04T18:09+00:00",
+ "trends_updated_at": "2026-10-04T21:32+00:00",
  "products": [
   {
    "name": "vintage kadife ceket",
@@ -464,7 +484,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -472,12 +492,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-04T18:09+00:00"
+ "generated_at": "2026-10-04T21:32+00:00"
 }

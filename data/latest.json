@@ -3,127 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Copper wire crochet jewelry",
-   "heat": "Yükseliyor",
-   "desc": "Bakır tel kullanılarak örülen el yapımı takılar, benzersiz ve rustik estetiğiyle dikkat çekiyor.",
-   "why": "Reddit'in shutupandtakemymoney topluluğunda 'Copper wire crochet necklace' başlığıyla popüler oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı bakır tel örgü kolyeler, küpeler ve doğal taşlı tel sargı takılar.",
-   "product_keywords": [
-    {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
-    },
-    {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örgü takı"
-    }
-   ]
-  },
-  {
-   "name": "The ____ edit",
+   "name": "Retro Ivy League & Cornell Collegiate",
    "heat": "Hızla yükseliyor",
-   "desc": "Reklamcılıkta ve sosyal medyada bir konsepti veya kişisel tarzı 'The [İsim] Edit' şeklinde kürate edilmiş bir koleksiyon gibi sunma trendi.",
-   "why": "Reddit OutOfTheLoop topluluğunda bu reklam trendinin ne olduğu yoğun şekilde sorgulandı.",
+   "desc": "Amerikan üniversite kampüsü ve klasik Ivy League giyim tarzına, özellikle Cornell temasına artan ilgi.",
+   "why": "TikTok'ta #cornell ve #cornelluniversity etiketleri ilk sıralarda yer alırken Reddit OutOfTheLoop'ta da en çok konuşulan konulardan biri oldu.",
    "sources": [
+    "TikTok",
     "Reddit"
    ],
-   "idea": "Kişiselleştirilebilir 'The [İsim] Edit' yazılı minimalist bez çantalar, kupalar ve tişörtler.",
+   "idea": "Vintage tarzda Cornell veya retro Ivy League işlemeli kalın kolej sweatshirt'leri ve kanvas bez çantalar.",
    "product_keywords": [
     {
-     "keyword": "custom the edit shirt",
-     "label": "kişiye özel edit tişörtü"
+     "keyword": "vintage cornell sweatshirt",
+     "label": "vintage cornell sweatshirt"
     },
     {
-     "keyword": "personalized edit tote bag",
-     "label": "kişiselleştirilmiş bez çanta"
+     "keyword": "ivy league crewneck",
+     "label": "kolej tipi bisiklet yaka kazak"
     }
    ]
   },
   {
-   "name": "Carl Sagan fit",
-   "heat": "Yeni çıktı",
-   "desc": "Ünlü astrofizikçi Carl Sagan'ın 70'ler ve 80'ler akademisyen tarzını (kadife ceketler, balıkçı yakalar) yansıtan retro entelektüel giyim tarzı.",
-   "why": "Reddit'in malefashionadvice topluluğunda Carl Sagan'ın tarzı ve kombinleri tartışma konusu oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro bilim temalı emaye rozetler, kadife ceket yamaları ve Carl Sagan alıntıları içeren minimalist posterler.",
-   "product_keywords": [
-    {
-     "keyword": "carl sagan enamel pin",
-     "label": "carl sagan emaye rozet"
-    },
-    {
-     "keyword": "retro academic aesthetic",
-     "label": "retro akademik estetik"
-    }
-   ]
-  },
-  {
-   "name": "2000s style revival",
-   "heat": "Zirvede",
-   "desc": "2000'lerin başındaki (Y2K) sokak modası ve giyim estetiğinin gençler arasında popülerliğini koruması ve yeniden tanımlanması.",
-   "why": "Reddit'in malefashionadvice topluluğunda kullanıcılar bu dönemin tarzlarını ve isimlerini aktif olarak sorguluyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Y2K tarzı boncuklu telefon askıları, retro kamyoncu şapkaları (trucker hat) ve kelebek tokalar.",
-   "product_keywords": [
-    {
-     "keyword": "y2k beaded phone strap",
-     "label": "y2k boncuklu telefon askısı"
-    },
-    {
-     "keyword": "2000s aesthetic trucker hat",
-     "label": "2000ler estetik kamyoncu şapkası"
-    }
-   ]
-  },
-  {
-   "name": "Accidental Mr. Bean",
-   "heat": "Yeni çıktı",
-   "desc": "Tweed ceketler, kırmızı kravatlar ve kahverengi tonlarıyla karakterize edilen, mizahi bir şekilde 'Mr. Bean' tarzına benzetilen retro İngiliz akademik giyim tarzı.",
-   "why": "Reddit'in malefashionadvice topluluğunda 'Accidental Mr. Bean' başlığıyla paylaşılan kombin büyük ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro tarzda kırmızı örgü kravatlar, vintage dirsek yamaları ve mizahi Mr. Bean temalı rozetler.",
-   "product_keywords": [
-    {
-     "keyword": "red knit tie vintage",
-     "label": "kırmızı örgü kravat vintage"
-    },
-    {
-     "keyword": "retro tweed elbow patches",
-     "label": "retro tweed dirsek yaması"
-    }
-   ]
-  },
-  {
-   "name": "Dolly Parton Vintage Nostalgia",
+   "name": "Non-Tarnish Stacking Jewelry",
    "heat": "Yükseliyor",
-   "desc": "Dolly Parton'ın geçmiş yıllara ait nadir fotoğraflarının yayınlanmasıyla tetiklenen retro country ve vintage Amerikan estetiği.",
-   "why": "Reddit popculturechat topluluğunda Dolly Parton'ın müzesinden yeni paylaşılan nostaljik fotoğraflar yoğun ilgi gördü.",
+   "desc": "Gündelik kullanıma uygun, kararmayan, su geçirmez paslanmaz çelik veya PVD kaplama çoklu takılabilen minimalist takılar.",
+   "why": "Reddit femalefashionadvice topluluğunda kararmayan günlük yüzük arayışı haftanın en aktif tartışmalarından biri haline geldi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro country tarzı Dolly Parton esintili çıkartmalar, 'What Would Dolly Do' yazılı vintage kupalar ve kovboy temalı ana",
+   "idea": "Su geçirmez ve kararma yapmayan altın kaplama paslanmaz çelik minimal yüzük kombin setleri.",
    "product_keywords": [
     {
-     "keyword": "vintage dolly parton sticker",
-     "label": "vintage dolly parton çıkartması"
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmaz çoklu yüzük seti"
     },
     {
-     "keyword": "retro country aesthetic keychain",
-     "label": "retro country estetik anahtarlık"
+     "keyword": "waterproof gold rings",
+     "label": "su geçirmez altın yüzük"
+    }
+   ]
+  },
+  {
+   "name": "Heavyweight Heritage Sweatshirt",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı modanın kalitesizleşmesine tepki olarak doğan, ömürlük, kalın gramajlı ve kutu (boxy) kesim vintage sweatshirt arayışı.",
+   "why": "Reddit'te sweatshirt kalitelerinin düşmesi (enshittification) ve ömürlük giyim (BuyItForLife) üzerine yoğun bir ilgi oluştu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yüksek gramajlı (%100 pamuklu, 450+ GSM), logosuz veya minimal işlemeli kutu kesim vintage tarz sweatshirt.",
+   "product_keywords": [
+    {
+     "keyword": "heavyweight cotton sweatshirt",
+     "label": "kalın gramajlı pamuk sweatshirt"
+    },
+    {
+     "keyword": "boxy fit blank crewneck",
+     "label": "kutu kesim düz sweatshirt"
+    }
+   ]
+  },
+  {
+   "name": "Modern Texas Cowgirl & Countrycore",
+   "heat": "Yükseliyor",
+   "desc": "Güneyli country müziği ve modern Teksas estetiğini birleştiren batı (western) temalı sokak giyimi ve aksesuarlar.",
+   "why": "Reddit OutOfTheLoop'ta Ella Langley ve 'Choosin Texas' şarkısının viral olmasıyla ülke genelinde country esintisi dikkat çekti.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'Choosin Texas' veya retro country tipografisine sahip fileli trucker şapkalar ve eskitme tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "western graphic tee",
+     "label": "western grafikli tişört"
+    },
+    {
+     "keyword": "vintage cowgirl trucker hat",
+     "label": "vintage cowgirl fileli şapka"
+    }
+   ]
+  },
+  {
+   "name": "Feminized & Upcycled Band Tees",
+   "heat": "Yeni çıktı",
+   "desc": "Maskülen ve bol kesim klasik rock/müzik tişörtlerinin kadınsı detaylar, korse bağcıkları veya kısa kesimlerle yeniden tasarlanması.",
+   "why": "Reddit femalefashionadvice'ta müzik grubu tişörtlerini kadınsı ve şık hale getirme yöntemleri yoğun talep gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yanları bağcıklı, omuzları açık veya korse formunda dikilmiş el yapımı dönüştürülmüş (upcycled) vintage grup tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "upcycled band tee",
+     "label": "yeniden tasarlanmış grup tişörtü"
+    },
+    {
+     "keyword": "corset band t-shirt",
+     "label": "korse detaylı müzik tişörtü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-04T11:12+00:00",
+ "trends_updated_at": "2026-10-04T18:09+00:00",
  "products": [
   {
    "name": "vintage kadife ceket",
@@ -483,7 +464,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -491,12 +472,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-04T11:12+00:00"
+ "generated_at": "2026-10-04T18:09+00:00"
 }

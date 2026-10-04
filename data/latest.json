@@ -3,107 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Tel Tığ İşi Takı (Copper Wire Crochet)",
-   "heat": "Yeni çıktı",
-   "desc": "İnce bakır tellerin tığ ve örgü teknikleriyle işlenerek organik formlara dönüştürüldüğü heykelsi el yapımı takı akımı.",
-   "why": "Reddit'in viral ürün topluluğunda (r/shutupandtakemymoney) bakır tel örgülü kolyenin doğrudan yoğun ilgi görmesiyle yer aldı.",
+   "name": "Non-Tarnish Stacking Jewelry",
+   "heat": "Hızla yükseliyor",
+   "desc": "Günlük kullanımda duşa, denize dayanıklı, kararmayan paslanmaz çelik ve PVD altın kaplama çoklu istiflenebilir yüzük ve takı akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda günlük kullanım için kararmaz istif yüzükleri tavsiyelerinin yoğun ilgi görmesiyle öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı tığ işi bakır tel örgü kolyeler, choker'lar ve organik formlu tel küpeler.",
+   "idea": "Su geçirmez ve kararma yapmayan minimal altın kaplama paslanmaz çelik çoklu yüzük setleri.",
+   "product_keywords": [
+    {
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmaz istiflenebilir yüzük"
+    },
+    {
+     "keyword": "waterproof gold ring set",
+     "label": "su geçirmez altın yüzük seti"
+    }
+   ]
+  },
+  {
+   "name": "Wire Crochet Jewelry",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel tığ örgü tekniğinin ince bakır ve pirinç tellerle birleştirilerek heykelsi, organik el yapımı takılara dönüştürüldüğü mikro zanaat akımı.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde el yapımı bakır tel örgü kolyenin yüksek etkileşim almasıyla belirlendi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal taş detaylı el yapımı bakır ve pirinç tel örme choker kolyeler.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
      "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "wire knit pendant",
-     "label": "tel örme kolye ucu"
+     "keyword": "wire knit statement pendant",
+     "label": "el yapımı tel işlemeli kolye ucu"
     }
    ]
   },
   {
-   "name": "Gen Z Buzlu Kahve Kültürü (Iced Coffee Aesthetic)",
+   "name": "Ivy League & Collegiate Retro",
    "heat": "Hızla yükseliyor",
-   "desc": "Gen Z'nin bir ritüele ve kimlik parçasına dönüştürdüğü, etrafında espriler ve sosyal tartışmalar dönen buzlu kahve tutkusu.",
-   "why": "r/GenZ topluluğunda gençlerin gündemi belirleyen yeni viral tartışmanın 'iced coffee' etrafında dönmesiyle öne çıktı.",
+   "desc": "Köklü üniversite ve kolej estetiğinin, vintage tipografi ve armalarla günlük giyim ve aksesuarlara yansıdığı preppy/akademik tarz.",
+   "why": "TikTok'ta #cornell ve #cornelluniversity etiketlerinin en üst sıralara yerleşmesi ve Reddit r/OutOfTheLoop'ta tartışılmasıyla tespit edildi.",
    "sources": [
+    "TikTok",
     "Reddit"
    ],
-   "idea": "Gen Z buzlu kahve esprileri ve estetik tipografi içeren bambu kapaklı, cam pipetli kutu kahve bardakları.",
+   "idea": "Retro üniversite fontlarıyla nakışlı kalın kanvas bez çantalar ve kolej armalı defter kılıfları.",
    "product_keywords": [
     {
-     "keyword": "iced coffee glass cup",
-     "label": "buzlu kahve cam bardağı"
+     "keyword": "vintage collegiate tote bag",
+     "label": "vintage kolej bez çanta"
     },
     {
-     "keyword": "iced coffee can glass",
-     "label": "estetik kutu cam bardak"
+     "keyword": "retro ivy league embroidered crewneck",
+     "label": "nakışlı retro kolej sweatshirt"
     }
    ]
   },
   {
-   "name": "Carl Sagan / Retro Bilim İnsanı Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "70'ler ve 80'lerin nostaljik astronom ve akademisyen tarzını boğazlı kazaklar ve retro bilim sevgisiyle harmanlayan giyim estetiği.",
-   "why": "r/malefashionadvice topluluğunda doğrudan 'Carl Sagan fit' kombiniyle vintage akademik giyim arayışının tartışılmasıyla belirdi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro astronomi illüstrasyonları ve Carl Sagan alıntıları içeren vintage eskitme tişörtler ve bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "vintage astronomy shirt",
-     "label": "vintage astronomi tişörtü"
-    },
-    {
-     "keyword": "retro science tote bag",
-     "label": "retro bilim bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "2000'ler Y2K Sokak Modası Arayışı",
+   "name": "Heavyweight Built-to-Last Basics",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin 2000'ler başı salaş, rahat ve cesur sokak stili ögelerini yeniden adlandırıp benimsediği nostalji dalgası.",
-   "why": "r/malefashionadvice altında kullanıcıların spesifik 2000'ler stillerini ve parçalarını aktif şekilde sorgulamasıyla görüldü.",
+   "desc": "Hızlı moda kumaşlarının kalitesizleşmesine tepki olarak doğan, yüksek gramajlı, ömür boyu dayanıklı ve dikiş detaylı temel giyim arayışı.",
+   "why": "Reddit r/femalefashionadvice ('Sweatshirts enshittification') ve r/BuyItForLife alt dizinlerinde dayanıklı kumaş tartışmalarının zirve yapmasıyla öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Y2K estetiğine uygun grunge tipografili oversize tişörtler ve nostaljik kalın tokalı kemer aksesuarları.",
+   "idea": "Ağır gramaj (400+ GSM) %100 organik pamuklu, dikiş güçlendirmeli minimalist vintage kesim sweatshirtler.",
    "product_keywords": [
     {
-     "keyword": "y2k graphic tee",
-     "label": "y2k grafik tişört"
+     "keyword": "heavyweight cotton sweatshirt 400gsm",
+     "label": "ağır gramaj pamuklu sweatshirt"
     },
     {
-     "keyword": "y2k grunge belt",
-     "label": "y2k grunge kemer"
+     "keyword": "bifl vintage loopwheel hoodie",
+     "label": "dayanıklı vintage basic hoodie"
     }
    ]
   },
   {
-   "name": "Modern Western / Teksas Country Dalgası",
+   "name": "Dopamine Dressing Accessories",
    "heat": "Yükseliyor",
-   "desc": "Country müzik parçaları ve güney yaşam tarzının genç kitleler arasında popülerleşmesiyle yükselen modern kovboy estetiği.",
-   "why": "r/OutOfTheLoop üzerinde Ella Langley ve viral olan 'Choosin Texas' şarkısına dair kültürel merakın artmasıyla öne çıktı.",
+   "desc": "Ruh halini anında yükseltmeyi hedefleyen parlak, canlı renk blokları ve neşeli geometrik formların kullanıldığı neşeli aksesuar tarzı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda renkli ve neşeli kombin oluşturma üzerine yapılan tartışmalardan elde edildi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Nostaljik Teksas ve country nakışlı retro trucker şapkalar ve eskitme western grafik tişörtler.",
+   "idea": "Canlı neon ve kontrast renkli akrilik reçine saç tokaları ve eğlenceli şekilli boncuklu çanta askıları.",
    "product_keywords": [
     {
-     "keyword": "vintage texas trucker hat",
-     "label": "retro teksas trucker şapka"
+     "keyword": "dopamine dressing acrylic accessories",
+     "label": "renkli dopamin akrilik toka"
     },
     {
-     "keyword": "western graphic tee",
-     "label": "western grafik tişört"
+     "keyword": "colorful chunky bead bag strap",
+     "label": "canlı renkli boncuk çanta askısı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-03T18:48+00:00",
+ "trends_updated_at": "2026-10-04T02:46+00:00",
  "products": [
   {
    "name": "kapaklı ve pipetli cam buzlu kahve bardağı",
@@ -363,5 +364,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-10-03T18:48+00:00"
+ "generated_at": "2026-10-04T02:46+00:00"
 }

@@ -3,108 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Non-Tarnish Stacking Jewelry",
-   "heat": "Hızla yükseliyor",
-   "desc": "Günlük kullanımda duşa, denize dayanıklı, kararmayan paslanmaz çelik ve PVD altın kaplama çoklu istiflenebilir yüzük ve takı akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda günlük kullanım için kararmaz istif yüzükleri tavsiyelerinin yoğun ilgi görmesiyle öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Su geçirmez ve kararma yapmayan minimal altın kaplama paslanmaz çelik çoklu yüzük setleri.",
-   "product_keywords": [
-    {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmaz istiflenebilir yüzük"
-    },
-    {
-     "keyword": "waterproof gold ring set",
-     "label": "su geçirmez altın yüzük seti"
-    }
-   ]
-  },
-  {
-   "name": "Wire Crochet Jewelry",
+   "name": "Copper Wire Crochet (Bakır Tel Örgü Takı)",
    "heat": "Yeni çıktı",
-   "desc": "Geleneksel tığ örgü tekniğinin ince bakır ve pirinç tellerle birleştirilerek heykelsi, organik el yapımı takılara dönüştürüldüğü mikro zanaat akımı.",
-   "why": "Reddit r/shutupandtakemymoney üzerinde el yapımı bakır tel örgü kolyenin yüksek etkileşim almasıyla belirlendi.",
+   "desc": "İnce bakır tellerin tığ veya örgü teknikleriyle işlenerek heykelsi ve bohem takılara dönüştürülmesi akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda el yapımı bakır tel örgü kolye gönderisinin yüksek etkileşim almasıyla öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Doğal taş detaylı el yapımı bakır ve pirinç tel örme choker kolyeler.",
+   "idea": "El yapımı bakır tel örgü kolyeler, manşet bileklikler ve doğal taş işlemeli tel takılar.",
    "product_keywords": [
     {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
+     "keyword": "wire crochet necklace",
+     "label": "tel örgü kolye"
     },
     {
-     "keyword": "wire knit statement pendant",
-     "label": "el yapımı tel işlemeli kolye ucu"
+     "keyword": "copper wire jewelry",
+     "label": "bakır tel takı"
     }
    ]
   },
   {
-   "name": "Ivy League & Collegiate Retro",
+   "name": "Carl Sagan Fit / Retro Profesör Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "70'ler ve 80'lerin vintage akademisyen tarzını yansıtan boğazlı kazak, fitilli kadife ceket ve retro entelektüel giyim stili.",
+   "why": "Reddit r/malefashionadvice topluluğunda sonbahar kombinleri arasında 'Carl Sagan fit' paylaşımının yoğun ilgi görmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro gökbilim ve 70'ler bilim temalı vintage baskılı bez çantalar, fitilli kadife yamalar ve retro broşlar.",
+   "product_keywords": [
+    {
+     "keyword": "corduroy jacket vintage",
+     "label": "vintage kadife ceket"
+    },
+    {
+     "keyword": "carl sagan retro shirt",
+     "label": "retro bilim tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Choosin' Texas / Yeni Nesil Western Estetiği",
    "heat": "Hızla yükseliyor",
-   "desc": "Köklü üniversite ve kolej estetiğinin, vintage tipografi ve armalarla günlük giyim ve aksesuarlara yansıdığı preppy/akademik tarz.",
-   "why": "TikTok'ta #cornell ve #cornelluniversity etiketlerinin en üst sıralara yerleşmesi ve Reddit r/OutOfTheLoop'ta tartışılmasıyla tespit edildi.",
+   "desc": "Ella Langley ve country müziğin yükselişiyle birlikte popülerleşen modern güneyli ve kovboy giyim tarzı.",
+   "why": "Reddit r/OutOfTheLoop üzerinde 'Choosin' Texas' şarkısı ve Ella Langley hakkındaki tartışmaların üst sıralara çıkması.",
    "sources": [
-    "TikTok",
     "Reddit"
    ],
-   "idea": "Retro üniversite fontlarıyla nakışlı kalın kanvas bez çantalar ve kolej armalı defter kılıfları.",
+   "idea": "Kovboy çizmesi ve şapkası temalı nakışlı işlemeli sweatshirt'ler, retro western bez çantalar ve country sözlü posterler.",
    "product_keywords": [
     {
-     "keyword": "vintage collegiate tote bag",
-     "label": "vintage kolej bez çanta"
+     "keyword": "western aesthetic crewneck",
+     "label": "western sweatshirt"
     },
     {
-     "keyword": "retro ivy league embroidered crewneck",
-     "label": "nakışlı retro kolej sweatshirt"
+     "keyword": "country girl retro shirt",
+     "label": "country retro tişört"
     }
    ]
   },
   {
-   "name": "Heavyweight Built-to-Last Basics",
+   "name": "Gen Z Konut ve Erken Yaş Krizi Mizahı",
    "heat": "Yükseliyor",
-   "desc": "Hızlı moda kumaşlarının kalitesizleşmesine tepki olarak doğan, yüksek gramajlı, ömür boyu dayanıklı ve dikiş detaylı temel giyim arayışı.",
-   "why": "Reddit r/femalefashionadvice ('Sweatshirts enshittification') ve r/BuyItForLife alt dizinlerinde dayanıklı kumaş tartışmalarının zirve yapmasıyla öne çıktı.",
+   "desc": "Z kuşağının ev sahibi olamama ve erken yaşta tükenmişlik/orta yaş krizi hissini alaycı ve mizahi bir dille ifade etmesi hareketi.",
+   "why": "Reddit r/GenZ üzerinde 'How are Gen Zers supposed to buy a house' ve 'worst mid life crisis' paylaşımlarının yoğun etkileşim alması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ağır gramaj (400+ GSM) %100 organik pamuklu, dikiş güçlendirmeli minimalist vintage kesim sweatshirtler.",
+   "idea": "Ev sahibi olamama ve ekonomik tükenmişlik üzerine ironik espriler içeren minimalist kupa bardaklar, laptop çıkartmaları ",
    "product_keywords": [
     {
-     "keyword": "heavyweight cotton sweatshirt 400gsm",
-     "label": "ağır gramaj pamuklu sweatshirt"
+     "keyword": "funny gen z stickers",
+     "label": "komik z kuşağı çıkartmaları"
     },
     {
-     "keyword": "bifl vintage loopwheel hoodie",
-     "label": "dayanıklı vintage basic hoodie"
+     "keyword": "ironic quote mug",
+     "label": "ironik yazılı kupa"
     }
    ]
   },
   {
-   "name": "Dopamine Dressing Accessories",
+   "name": "2000'ler (Y2K) Erkek Giyim Rönesansı",
    "heat": "Yükseliyor",
-   "desc": "Ruh halini anında yükseltmeyi hedefleyen parlak, canlı renk blokları ve neşeli geometrik formların kullanıldığı neşeli aksesuar tarzı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda renkli ve neşeli kombin oluşturma üzerine yapılan tartışmalardan elde edildi.",
+   "desc": "2000'lerin başındaki bol kesim, kargo cepli ve nostaljik sokak giyim tarzının genç erkek modasına geri dönmesi.",
+   "why": "Reddit r/malefashionadvice topluluğunda 2000'ler tarzı kombinler ve parça tanımlama sorularının öne çıkması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı neon ve kontrast renkli akrilik reçine saç tokaları ve eğlenceli şekilli boncuklu çanta askıları.",
+   "idea": "2000'ler sokak stiline uygun retro zincirli cüzdanlar, y2k grafik baskılı bol tişörtler ve kargo pantolon aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "dopamine dressing acrylic accessories",
-     "label": "renkli dopamin akrilik toka"
+     "keyword": "y2k graphic tee",
+     "label": "y2k grafik tişört"
     },
     {
-     "keyword": "colorful chunky bead bag strap",
-     "label": "canlı renkli boncuk çanta askısı"
+     "keyword": "2000s baggy aesthetic",
+     "label": "2000ler retro giyim"
+    }
+   ]
+  },
+  {
+   "name": "Dolly Parton / Retro Country Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "Dolly Parton'ın arşiv fotoğrafları ve yaşam tarzının etkisiyle popülerliğini koruyan renkli, pozitif vintage country kültürü.",
+   "why": "Reddit r/popculturechat topluluğunda Dolly Parton'ın 'Life of Many Colors' sergisinden fotoğrafların ilgi çekmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Vintage Dolly Parton estetiğine sahip pastel renkli country tipografi baskıları, nostaljik posterler ve retro motel anah",
+   "product_keywords": [
+    {
+     "keyword": "dolly parton vintage poster",
+     "label": "vintage country poster"
+    },
+    {
+     "keyword": "retro motel keychain",
+     "label": "retro motel anahtarlık"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-04T02:46+00:00",
+ "trends_updated_at": "2026-10-04T04:32+00:00",
  "products": [
   {
    "name": "kapaklı ve pipetli cam buzlu kahve bardağı",
@@ -357,12 +376,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-04T02:46+00:00"
+ "generated_at": "2026-10-04T04:32+00:00"
 }

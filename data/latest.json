@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-05T12:05+00:00",
+ "trends_updated_at": "2026-10-05T15:07+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -174,12 +174,12 @@
   },
   "Yapay zeka": {
    "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-05T12:05+00:00"
+ "generated_at": "2026-10-05T15:07+00:00"
 }

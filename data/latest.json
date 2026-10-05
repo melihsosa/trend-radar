@@ -3,128 +3,148 @@
  "sample": false,
  "trends": [
   {
-   "name": "Collegiate Ivy League Prep",
+   "name": "Non-Tarnish Stacking Rings",
    "heat": "Hızla yükseliyor",
-   "desc": "Amerikan kolej ve Ivy League estetiğine sahip nostaljik, fitilli veya işlemeli giyim ve aksesuarlar.",
-   "why": "TikTok'ta #cornelluniversity etiketi 2. sırada yer alırken Reddit r/OutOfTheLoop'ta Cornell Üniversitesi başlığı haftalık trendlerde tartışıldı.",
+   "desc": "Günlük kullanımda kararmayan, üst üste takılabilen minimalist ve kaliteli yüzüklere yönelik yoğun bir arayış var.",
+   "why": "Reddit'in femalefashionadvice topluluğunda günlük kullanım için kararmayan yüzük önerileri isteyen popüler bir gönderi bulunuyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kararmayan, su geçirmez paslanmaz çelik veya altın dolgulu (gold-filled) minimalist yüzük setleri.",
+   "product_keywords": [
+    {
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmaz üst üste takılabilir yüzük"
+    },
+    {
+     "keyword": "waterproof gold rings",
+     "label": "su geçirmez altın yüzük"
+    }
+   ]
+  },
+  {
+   "name": "Collegiate Ivy League Aesthetic",
+   "heat": "Zirvede",
+   "desc": "Cornell University'nin hem TikTok'ta hem de Reddit'te gündem olmasıyla birlikte, klasik Amerikan kolej ve Ivy League tarzı estetik ürünler ilgi görüyor.",
+   "why": "TikTok'ta #cornelluniversity hashtag'i 2. sırada yer alırken, Reddit'te de üniversiteyle ilgili konular popülerleşti.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Vintage kolej armalı işlemeli sweatshirt'ler, retro tipografi kanvas bez çantalar ve kolej temalı çıkartmalar.",
+   "idea": "Vintage tarzda tasarlanmış kolej sweatshirtleri, Ivy League estetiğine uygun retro okul aksesuarları ve oda dekorları.",
    "product_keywords": [
     {
-     "keyword": "vintage collegiate embroidered sweatshirt",
-     "label": "vintage kolej işlemeli sweatshirt"
+     "keyword": "vintage collegiate sweatshirt",
+     "label": "vintage üniversite tarzı sweatshirt"
     },
     {
-     "keyword": "ivy league aesthetic tote bag",
-     "label": "ivy league kanvas bez çanta"
+     "keyword": "ivy league aesthetic",
+     "label": "ivy league estetiği"
     }
    ]
   },
   {
-   "name": "Non-Tarnish Minimalist Stacking",
+   "name": "Dopamine Dressing with Curves",
    "heat": "Yükseliyor",
-   "desc": "Duşta ve günlük kullanımda solmayan, kararmayan ve kat kat takılabilen minimalist takı akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda kararmayan günlük stacking (üst üste takılan) yüzük tavsiyeleri yoğun etkileşim aldı.",
+   "desc": "Kıvrımlı ve büyük beden vücut hatlarına sahip bireylerin, kendilerini mutlu hissettirecek canlı renkler ve cesur desenlerle giyinme akımıdır.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kıvrımlı hatlar için dopamin giyimi üzerine açılan başlık ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "PVD kaplamalı paslanmaz çelikten üretilmiş su geçirmez, kararma yapmayan geometrik ince yüzük setleri.",
+   "idea": "Büyük beden uyumlu, canlı renklerde el yapımı aksesuarlar, renkli iddialı takılar ve ayarlanabilir renkli kemerler.",
    "product_keywords": [
     {
-     "keyword": "waterproof non tarnish stacking rings",
-     "label": "kararmaz üst üste takılan yüzük"
+     "keyword": "dopamine dressing plus size",
+     "label": "büyük beden dopamin giyim"
     },
     {
-     "keyword": "pvd gold minimalist band",
-     "label": "pvd altın kaplama minimal yüzük"
+     "keyword": "colorful statement jewelry",
+     "label": "renkli iddialı takı"
     }
    ]
   },
   {
-   "name": "Feminized Reworked Band Merch",
+   "name": "Fashionable Laptop Backpacks",
+   "heat": "Yükseliyor",
+   "desc": "Kadınlar, günlük şık kıyafet kombinlerini bozmayacak, kaba durmayan ama aynı zamanda dizüstü bilgisayar taşıyabilecek estetik sırt çantaları arıyor.",
+   "why": "Reddit'in femalefashionadvice alt forumunda kıyafet kombinini bozmayacak laptop sırt çantası arayışı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist tasarımlı, şık deri veya kanvas malzemeden üretilmiş, kadın modasına uygun estetik laptop sırt çantaları.",
+   "product_keywords": [
+    {
+     "keyword": "aesthetic laptop backpack",
+     "label": "estetik laptop sırt çantası"
+    },
+    {
+     "keyword": "chic work backpack women",
+     "label": "şık kadın iş sırt çantası"
+    }
+   ]
+  },
+  {
+   "name": "Feminine Band Tees",
+   "heat": "Yükseliyor",
+   "desc": "Geleneksel olarak maskülen ve bol kesim olan müzik grubu tişörtlerini, daha feminen, vücuda oturan veya estetik olarak dönüştürülmüş şekilde giyme akımıdır.",
+   "why": "Reddit'te grup tişörtlerinin nasıl daha az maskülen gösterilebileceğine dair popüler bir soru soruldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Dantel detaylı, crop kesim veya özel olarak daraltılmış, ileri dönüştürülmüş (upcycled) kadın grup tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "upcycled band tee",
+     "label": "ileri dönüştürülmüş grup tişörtü"
+    },
+    {
+     "keyword": "feminine graphic t-shirt",
+     "label": "efeminen grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Baggy Styling Accessories",
+   "heat": "Hızla yükseliyor",
+   "desc": "Bol ve salaş kıyafetleri, özensiz görünmeden, bilinçli ve şık bir tarzda kombinleme arayışıdır.",
+   "why": "Reddit femalefashionadvice topluluğunda bol giyinirken nasıl şık olunacağına dair ipuçları arandı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Bol kıyafetleri estetik bir şekilde daraltmaya veya şekillendirmeye yarayan şık bel klipsleri, dekoratif iğneler ve keme",
+   "product_keywords": [
+    {
+     "keyword": "oversized clothing cinch clip",
+     "label": "bol kıyafet daraltma klipsi"
+    },
+    {
+     "keyword": "aesthetic belt chain",
+     "label": "estetik kemer zinciri"
+    }
+   ]
+  },
+  {
+   "name": "Hat Styling & Accessories",
    "heat": "Yeni çıktı",
-   "desc": "Kaba ve maskülen duran retro grup tişörtlerinin korse, bağcık veya özel kesimlerle feminen silüetlere dönüştürülmesi.",
-   "why": "Reddit r/femalefashionadvice'ta oversize müzik grubu tişörtlerini daha feminen gösterme yolları tartışıldı.",
+   "desc": "Şapka severlerin şapkalarını daha rahat taşımak, sabitlemek veya kişiselleştirmek için aksesuar arayışıdır.",
+   "why": "Reddit'in moda forumunda şapka kullanan kişilerin en iyi ipuçlarını paylaştığı bir başlık öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Korse bağcıklı bel detayına sahip veya kurdele ve fırfır eklenmiş modifiye retro grafik rock tişörtleri.",
+   "idea": "Şapkaları kişiselleştirmek için el yapımı dekoratif şapka bantları, şapka iğneleri veya seyahatlerde şapka taşımayı kola",
    "product_keywords": [
     {
-     "keyword": "corset laced graphic band tee",
-     "label": "bağcıklı korse grafik tişört"
+     "keyword": "decorative hat band",
+     "label": "dekoratif şapka bandı"
     },
     {
-     "keyword": "cropped reworked band shirt",
-     "label": "modifiye crop müzik tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Heavyweight BIFL Sweats",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modanın incelen sentetik ürünlerine tepki olarak aranan, 1990'lar tarzı ağır gramajlı ve saf pamuklu ömürlük sweatshirt'ler.",
-   "why": "Reddit r/femalefashionadvice'ta sweatshirt kalitelerindeki düşüş (enshittification) eleştirildi ve r/BuyItForLife'taki ömürlük ürün talebiyle kesişti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "450+ GSM kalınlığında, %100 pamuklu, tüylenmeyen ve dikiş takviyeli minimalist retro kesim crewneck kazaklar.",
-   "product_keywords": [
-    {
-     "keyword": "heavyweight 100 cotton blank hoodie",
-     "label": "ağır gramaj pamuklu hoodie"
-    },
-    {
-     "keyword": "450 gsm vintage crewneck",
-     "label": "450 gsm vintage bisiklet yaka kazak"
-    }
-   ]
-  },
-  {
-   "name": "Aesthetic Commuter Tech Bags",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel hantal ve kurumsal bilgisayar çantaları yerine şık sokak stiline uyum sağlayan estetik laptop sırt çantaları.",
-   "why": "Reddit r/femalefashionadvice'ta kombini bozmayan işlevsel laptop sırt çantası arayışı trend oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Zarif dikişli, minimal vegan deri detaylı ve suya dayanıklı kadın şehir içi laptop çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic laptop backpack womens",
-     "label": "estetik kadın laptop sırt çantası"
-    },
-    {
-     "keyword": "minimalist commuter backpack",
-     "label": "minimalist işe gidiş sırt çantası"
-    }
-   ]
-  },
-  {
-   "name": "Tailored Baggy Styling Hardware",
-   "heat": "Yeni çıktı",
-   "desc": "Bol ve dökümlü kıyafetleri salaş görünmeden belde toparlamaya yarayan taşınabilir giysi sabitleme ve daraltma aparatları.",
-   "why": "Reddit r/femalefashionadvice topluluğunda bol giyinirken derli toplu ve özenli görünme yöntemleri sorgulandı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bol pantolon ve eteklerin belini terziye gitmeden daraltan şık metal inci/papatya tasarımlı bel tokaları.",
-   "product_keywords": [
-    {
-     "keyword": "pants waist tightener clip",
-     "label": "pantolon beli daraltma klipsi"
-    },
-    {
-     "keyword": "baggy jeans waist cincher buckle",
-     "label": "bol jean için bel tokası"
+     "keyword": "hat clip for travel",
+     "label": "seyahat için şapka klipsi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-05T03:05+00:00",
+ "trends_updated_at": "2026-10-05T06:08+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -262,12 +282,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-05T04:59+00:00"
+ "generated_at": "2026-10-05T06:08+00:00"
 }

@@ -3,168 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Cornell University Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cornell Üniversitesi, hem sosyal medyada hem de forumlarda gençlerin yoğun ilgi gösterdiği bir kampüs estetiği ve merak konusu haline geldi.",
-   "why": "TikTok'ta en popüler ikinci hashtag olması ve Reddit OutOfTheLoop topluluğunda hakkında popüler bir başlık açılmasıyla öne çıktı.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Vintage tarzda Cornell temalı kolej sweatshirtleri, retro kampüs çıkartmaları veya özel tasarım üniversite tarzı kırtasi",
-   "product_keywords": [
-    {
-     "keyword": "cornell vintage sweatshirt",
-     "label": "Cornell vintage sweatshirt"
-    },
-    {
-     "keyword": "cornell university stickers",
-     "label": "Cornell üniversitesi çıkartmaları"
-    }
-   ]
-  },
-  {
-   "name": "Baggy Chic Styling",
+   "name": "#reggie",
    "heat": "Yükseliyor",
-   "desc": "Bol ve dökümlü (baggy) kıyafetleri paspal görünmeden, şık, yapılandırılmış ve özenli bir şekilde kombinleme arayışı.",
-   "why": "Reddit femalefashionadvice topluluğunda bol giyinirken nasıl şık ve özenli görünüleceğine dair açılan popüler başlıkta görüldü.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Bol kıyafetleri arkadan estetik bir şekilde daraltıp şekillendirmek için kullanılabilecek dekoratif giysi klipsleri veya",
-   "product_keywords": [
-    {
-     "keyword": "clothing cinch clip",
-     "label": "kıyafet daraltma klipsi"
-    },
-    {
-     "keyword": "minimalist waist belt",
-     "label": "minimalist bel kemeri"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Non-Tarnish Stacking Rings",
+   "name": "#cornelluniversity",
    "heat": "Yükseliyor",
-   "desc": "Günlük kullanımda kararmayan, suya dayanıklı ve üst üste takılabilen (stacking) minimalist yüzük trendi.",
-   "why": "Reddit femalefashionadvice forumunda günlük kullanım için kararmayan yüzük önerileri isteyen popüler gönderide yer aldı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Paslanmaz çelik veya altın dolgulu (gold-filled), kararmayan minimalist eklem ve istifleme yüzük setleri.",
-   "product_keywords": [
-    {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmayan istifleme yüzükleri"
-    },
-    {
-     "keyword": "waterproof gold filled rings",
-     "label": "su geçirmez altın dolgulu yüzükler"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Aesthetic Laptop Backpacks",
+   "name": "#janedoe",
    "heat": "Yükseliyor",
-   "desc": "Günlük şık kombinleri bozmayan, hem işlevsel hem de estetik açıdan göze hoş gelen kadın dizüstü bilgisayar sırt çantaları.",
-   "why": "Reddit femalefashionadvice'ta kıyafeti mahvetmeyecek şık laptop sırt çantası arayan popüler başlıkta ortaya çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Minimalist tasarımlı, pastel tonlarda veya deri detaylı estetik laptop sırt çantaları ve bunları süslemek için çanta aks",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic laptop backpack",
-     "label": "estetik laptop sırt çantası"
-    },
-    {
-     "keyword": "stylish commuter backpack",
-     "label": "şık iş çantası"
-    }
-   ]
-  },
-  {
-   "name": "Copper Wire Crochet Jewelry",
-   "heat": "Yeni çıktı",
-   "desc": "İnce bakır tel kullanılarak tığ işi (crochet) tekniğiyle üretilen, el yapımı ve özgün tasarımlı takılar.",
-   "why": "Reddit shutupandtakemymoney topluluğunda el yapımı bakır tel örgü kolyenin büyük ilgi görmesiyle dikkat çekti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bakır telden örülmüş, doğal taş detaylı el yapımı tığ işi kolyeler ve küpeler.",
-   "product_keywords": [
-    {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
-    },
-    {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örgü takı"
-    }
-   ]
-  },
-  {
-   "name": "Dopamine Dressing with Curves",
-   "heat": "Yükseliyor",
-   "desc": "Kıvrımlı vücut hatlarına sahip bireyler için neşe, enerji ve özgüven veren, canlı renkli 'dopamin giyimi' akımı.",
-   "why": "Reddit femalefashionadvice'ta kıvrımlı vücut hatlarında dopamin giyimi üzerine yapılan popüler ve yüksek etkileşimli tartışmada görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Her bedene uyum sağlayabilecek, canlı renklerde, neşeli ve büyük boyutlu el yapımı takılar veya aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "dopamine dressing accessories",
-     "label": "dopamin giyim aksesuarları"
-    },
-    {
-     "keyword": "colorful chunky earrings",
-     "label": "renkli büyük küpeler"
-    }
-   ]
-  },
-  {
-   "name": "Carl Sagan Aesthetic",
-   "heat": "Yeni çıktı",
-   "desc": "Ünlü astronom Carl Sagan'ın tarzından ilham alan, retro-akademik, entelektüel ve eforsuz giyim tarzı.",
-   "why": "Reddit malefashionadvice topluluğunda 'Carl Sagan fit' başlığıyla paylaşılan popüler retro kombin gönderisinde görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro uzay temalı emaye rozetler, kadife ceket dirsek yamaları veya retro akademik tarzda gözlük zincirleri.",
-   "product_keywords": [
-    {
-     "keyword": "retro space enamel pin",
-     "label": "retro uzay emaye rozet"
-    },
-    {
-     "keyword": "academic aesthetic accessories",
-     "label": "akademik estetik aksesuarlar"
-    }
-   ]
-  },
-  {
-   "name": "Y2K 2000s Revival",
-   "heat": "Zirvede",
-   "desc": "2000'lerin başındaki sokak modası, aksesuarları ve giyim tarzının genç erkekler arasında popülerliğini koruması.",
-   "why": "Reddit malefashionadvice topluluğunda 2000'ler tarzının adını ve detaylarını soran popüler gönderide yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Y2K tarzı retro kamyoncu şapkaları (trucker hat) veya kalın tokalı deri kemerler.",
-   "product_keywords": [
-    {
-     "keyword": "y2k trucker hat",
-     "label": "y2k kamyoncu şapkası"
-    },
-    {
-     "keyword": "2000s aesthetic belt",
-     "label": "2000ler estetik kemer"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-05T09:06+00:00",
+ "trends_updated_at": "2026-10-05T12:05+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -301,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-05T09:06+00:00"
+ "generated_at": "2026-10-05T12:05+00:00"
 }

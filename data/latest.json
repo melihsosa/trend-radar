@@ -3,128 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Copper Wire Crochet Takı",
-   "heat": "Yükseliyor",
-   "desc": "İnce bakır tellerin tığ yardımıyla örülerek zarif ve heykelsi kolyelere dönüştürüldüğü bohem el sanatı akımı.",
-   "why": "Reddit'in viral ürünler topluluğu r/shutupandtakemymoney'de 'Copper wire crochet necklace' paylaşımı öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı tel örgü kolye uçları, bakır tel choker ve küpe tasarımları.",
-   "product_keywords": [
-    {
-     "keyword": "wire crochet necklace",
-     "label": "tel örgü kolye"
-    },
-    {
-     "keyword": "copper wire jewelry",
-     "label": "bakır tel takı"
-    }
-   ]
-  },
-  {
-   "name": "Modern Western & Southern Americana",
+   "name": "Kararmayan Günlük Yüzük Stifi (Non-Tarnish Ring Stacking)",
    "heat": "Hızla yükseliyor",
-   "desc": "Güneyli Amerikan kovboy tarzı, çıtçıtlı gömlekler ve kırsal country yaşam tarzının genç popüler kültürüne yansıması.",
-   "why": "Reddit r/OutOfTheLoop'ta viral country parçası 'Choosin Texas', r/malefashionadvice'ta Güneyli giyim tarzı ve Google'da Teksas temalı 'Landman' aramalarıyla birden fazla mecrada görüldü.",
-   "sources": [
-    "Reddit",
-    "Google"
-   ],
-   "idea": "Vintage esintili çıtçıtlı gömlek nakışları, çöl/çiftlik temalı retro trucker şapkalar ve country tipografili tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "western graphic tee",
-     "label": "western baskılı tişört"
-    },
-    {
-     "keyword": "vintage pearl snap shirt",
-     "label": "vintage çıtçıtlı gömlek"
-    }
-   ]
-  },
-  {
-   "name": "Retro Academia & Sagan Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "1970'ler ve 80'lerin astronom ve akademisyen tarzını yansıtan balıkçı yaka, kadife ceket ve kozmik nostalji stili.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Carl Sagan fit' paylaşımı kullanıcılar arasında dikkat çekti.",
+   "desc": "Günlük kullanımda su veya kimyasallarla kararmayan, birden fazla yüzüğün üst üste takılmasıyla oluşturulan minimalist takı akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda günlük kararmayan yüzük önerileri üzerine popüler bir tartışma başlığı yer alıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro kozmos illüstrasyonları içeren sweatshirtler ve vintage bilim temalı bez çantalar.",
+   "idea": "Suya dayanıklı paslanmaz çelik veya altın kaplama minimalist üst üste takılabilir (stackable) yüzük setleri.",
    "product_keywords": [
     {
-     "keyword": "vintage astronomy shirt",
-     "label": "vintage astronomi tişörtü"
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmayan üst üste takılan yüzükler"
     },
     {
-     "keyword": "retro science tote bag",
-     "label": "retro bilim bez çanta"
+     "keyword": "waterproof gold ring set",
+     "label": "su geçirmez altın yüzük seti"
     }
    ]
   },
   {
-   "name": "Gen Z Çeyrek Asır Krizi İronisi",
-   "heat": "Hızla yükseliyor",
-   "desc": "20'li yaşların getirdiği hayat pahalılığı, ev alamama ve erken tükenmişliği alaycı bir mizahla kucaklayan Z kuşağı tavrı.",
-   "why": "Reddit r/GenZ üzerinde 'Enjoy your 20s', 'How are Gen Zers supposed to buy a house' ve erken orta yaş krizi temalı gönderiler yoğun etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Erken yetişkinlik krizleriyle dalga geçen ironik sloganlı sticker setleri, kupa ve masaüstü motivasyon kartları.",
-   "product_keywords": [
-    {
-     "keyword": "quarter life crisis sticker",
-     "label": "çeyrek asır krizi sticker"
-    },
-    {
-     "keyword": "existential humor tote bag",
-     "label": "varoluşsal mizah bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Pastoral Keçi Terapisi Mottosu",
-   "heat": "Yeni çıktı",
-   "desc": "Willem Dafoe'nun keçilerini uyuturken bulduğu huzuru anlattığı sözden ilham alan, kırsal yaşam ve hayvan sevgisi temalı dinginlik akımı.",
-   "why": "Reddit r/popculturechat topluluğunda Willem Dafoe'nun keçileriyle ilgili 'No, they’re helping me' sözü viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Keçi çizimleri ve 'They're helping me' alıntısını taşıyan minimalist kahve kupaları ve duvar posterleri.",
-   "product_keywords": [
-    {
-     "keyword": "goat lover mug",
-     "label": "keçi temalı kupa"
-    },
-    {
-     "keyword": "cottagecore farm print",
-     "label": "pastoral çiftlik posteri"
-    }
-   ]
-  },
-  {
-   "name": "Vintage Dolly & Retro Country Nostaljisi",
+   "name": "Şık Bol Kesim Sokak Tarzı (Elevated Baggy Style)",
    "heat": "Yükseliyor",
-   "desc": "Dolly Parton mirası etrafında şekillenen renkli, nostaljik ve samimi 1970'ler Amerikan halk müziği estetiği.",
-   "why": "Reddit r/popculturechat'te 'Life of Many Colors' müzesinden yeni paylaşılan nostaljik fotoğraflar ilgi topladı.",
+   "desc": "Oversize ve bol kıyafetleri salaş görünmeden, özenli ve estetik bir sokak modası kombinine dönüştürme akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda bol giyinirken şık görünme teknikleri üzerine yoğun ilgi gören bir gönderi paylaşıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "70'ler retro country tipografili afişler, renkli retro işlemeli anahtarlıklar ve kanvas çantalar.",
+   "idea": "Bol kesimi şık gösteren kaliteli kumaştan oversize sweatshirt ve tamamlayıcı minimalist aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "vintage country graphic tee",
-     "label": "vintage country baskılı tişört"
+     "keyword": "stylish baggy streetwear",
+     "label": "şık bol sokak giyimi"
     },
     {
-     "keyword": "retro dolly sticker",
-     "label": "retro country sticker"
+     "keyword": "oversized aesthetic sweatshirt",
+     "label": "oversize estetik sweatshirt"
+    }
+   ]
+  },
+  {
+   "name": "Kombini Bozmayan Estetik Laptop Çantaları",
+   "heat": "Yükseliyor",
+   "desc": "Günlük şık kıyafet kombinlerinin estetiğini bozmayan, hem fonksiyonel hem de modern tasarımlı kadın laptop sırt çantası arayışı.",
+   "why": "Reddit'te kıyafet şıklığını zedelemeyen laptop sırt çantası tavsiyeleri üzerine popüler bir soru başlığı açıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist kumaş-deri detaylı, kıyafetlerle uyumlu şık ve ince tasarımlı kadın laptop sırt çantaları.",
+   "product_keywords": [
+    {
+     "keyword": "aesthetic laptop backpack",
+     "label": "estetik laptop sırt çantası"
+    },
+    {
+     "keyword": "chic travel laptop bag",
+     "label": "şık seyahat laptop çantası"
+    }
+   ]
+  },
+  {
+   "name": "Feminen Müzik Grubu Tişörtleri (Feminized Band Tees)",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik ve maskülen kesimli rock/müzik grubu tişörtlerini daha feminen, crop veya estetik kesimlerle yeniden yorumlama akımı.",
+   "why": "Reddit'te müzik grubu tişörtlerini nasıl daha az maskülen gösterebilecekleri üzerine stil tavsiyesi arayan bir topluluk gönderisi öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kadın kesimlerine uygun uyarlanmış, dantel veya crop detaylı vintage tarzda estetik grup tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "feminine band tee",
+     "label": "feminen müzik grubu tişörtü"
+    },
+    {
+     "keyword": "cropped vintage band shirt",
+     "label": "crop vintage tişört"
+    }
+   ]
+  },
+  {
+   "name": "Dopamine Dressing (Neşeli ve Canlı Moda)",
+   "heat": "Yükseliyor",
+   "desc": "Canlı renkler ve neşeli desenler kullanarak ruh halini yükseltmeyi hedefleyen, her beden tipine uygun renkli giyim akımı.",
+   "why": "Reddit femalefashionadvice başlıklarında kıvrımlı hatlarda 'Dopamine Dressing' uygulaması üzerine popüler bir tartışma yer buldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Canlı renklere, eğlenceli motiflere sahip ekstra neşeli aksesuarlar, çantalar ve renkli üst giyim ürünleri.",
+   "product_keywords": [
+    {
+     "keyword": "dopamine dressing aesthetic",
+     "label": "dopamine dressing estetiği"
+    },
+    {
+     "keyword": "colorful dopamine fashion",
+     "label": "renkli dopamin modası"
+    }
+   ]
+  },
+  {
+   "name": "Modern Pakistan Bayram Giysisi Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel Pakistan bayram kıyafetlerinin modern dokunuşlar ve ilham panoları (inspo board) ile stilize edilmesi akımı.",
+   "why": "Reddit'te Pakistan Eid kıyafet fikirleri ve ilham panosu içerikli gönderi moda kategorisinde dikkat çekti.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel motiflerle süslenmiş modern şallar, nakışlı etnik aksesuar ve takı setleri.",
+   "product_keywords": [
+    {
+     "keyword": "pakistani eid outfit",
+     "label": "Pakistan bayram kıyafeti"
+    },
+    {
+     "keyword": "embroidered ethnic shawl",
+     "label": "nakışlı etnik şal"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-04T21:32+00:00",
+ "trends_updated_at": "2026-10-05T00:04+00:00",
  "products": [
   {
    "name": "vintage kadife ceket",
@@ -484,7 +483,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -499,5 +498,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-04T21:32+00:00"
+ "generated_at": "2026-10-05T00:04+00:00"
 }

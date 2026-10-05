@@ -3,7 +3,7 @@
  "sample": false,
  "trends": [
   {
-   "name": "#reggie",
+   "name": "#janedoe",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 1",
@@ -14,7 +14,7 @@
    "product_keywords": []
   },
   {
-   "name": "#cornelluniversity",
+   "name": "#cornell7",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 2",
@@ -25,7 +25,7 @@
    "product_keywords": []
   },
   {
-   "name": "#janedoe",
+   "name": "#liveiseasy",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 3",
@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-05T15:07+00:00",
+ "trends_updated_at": "2026-10-05T18:06+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-10-05T15:07+00:00"
+ "generated_at": "2026-10-05T18:06+00:00"
 }

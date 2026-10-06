@@ -4,166 +4,146 @@
  "trends": [
   {
    "name": "Dopamine Dressing",
-   "heat": "Hızla yükseliyor",
-   "desc": "Canlı renkler, neşeli desenler ve dikkat çekici tonlarla ruh halini iyileştirmeyi hedefleyen renkli giyim ve aksesuar akımı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kıvrımlı vücut tiplerinde canlı renk kullanımı tartışmasıyla öne çıkmıştır.",
+   "heat": "Yükseliyor",
+   "desc": "İnsanların ruh halini iyileştirmek için canlı renkler, eğlenceli desenler ve neşeli aksesuarlar kullanmasını temel alan giyim akımı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kıvrımlı vücutlar için 'Dopamine Dressing' tarzının nasıl uygulanacağının tartışılmasıyla öne çıkmaktadır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı renklerde el yapımı boncuk kolyeler, neşeli desenli bez çantalar ve renkli saç aksesuarları.",
+   "idea": "Canlı renklerde, el yapımı, neşeli desenlere sahip boncuklu takılar veya renkli el örgüsü aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "dopamine dressing jewelry",
-     "label": "dopamin giyim takıları"
+     "keyword": "dopamine dressing accessories",
+     "label": "dopamin giyim aksesuarları"
     },
     {
-     "keyword": "colorful aesthetic tote bag",
-     "label": "renkli estetik bez çanta"
+     "keyword": "colorful beaded jewelry",
+     "label": "renkli boncuklu takılar"
     }
    ]
   },
   {
-   "name": "Chic Baggy Fit",
+   "name": "Aesthetic Laptop Backpacks",
    "heat": "Yükseliyor",
-   "desc": "Özen gösterilmemiş durmadan bol ve rahat giyinme estetiği; salaş parçaları şık aksesuarlarla dengeli bir tarza dönüştürmeyi amaçlar.",
-   "why": "Reddit femalefashionadvice altında bol kıyafetlerle şık görünme yöntemleri başlığında tartışılmıştır.",
+   "desc": "Hem dizüstü bilgisayarları güvenle taşıyan hem de şık ve estetik kıyafet kombinlerini bozmayan, tasarım odaklı sırt çantalarına duyulan arayış.",
+   "why": "Reddit'in femalefashionadvice topluluğunda 'kombini bozmayan laptop sırt çantası' arayışının popüler bir başlık olması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Bol kıyafetleri şekillendiren deri bel kemerleri ve salaş kombine yapı kazandıran tişört büzme klipsleri.",
-   "product_keywords": [
-    {
-     "keyword": "t-shirt cinch clip",
-     "label": "tişört büzme klipsi"
-    },
-    {
-     "keyword": "chic leather waist belt",
-     "label": "şık deri bel kemeri"
-    }
-   ]
-  },
-  {
-   "name": "Fit-Friendly Tech Backpacks",
-   "heat": "Yükseliyor",
-   "desc": "Günlük şık ve estetik kıyafet kombinlerinin tarzını bozmayan, hem fonksiyonel hem de minimalist dizüstü bilgisayar çantası arayışı.",
-   "why": "Reddit femalefashionadvice topluluğunda kombinleri bozmayan laptop çantası önerileri başlığında dikkat çekmiştir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Minimalist kanvas veya vegan deri malzemeden üretilmiş estetik laptop sırt çantaları.",
+   "idea": "Minimalist, şık, vegan deri veya kanvas estetik laptop sırt çantaları.",
    "product_keywords": [
     {
      "keyword": "aesthetic laptop backpack",
      "label": "estetik laptop sırt çantası"
     },
     {
-     "keyword": "minimalist travel backpack",
-     "label": "minimalist seyahat sırt çantası"
+     "keyword": "stylish commuter backpack",
+     "label": "şık işe gidiş sırt çantası"
     }
    ]
   },
   {
-   "name": "Feminized Band Tees",
+   "name": "Feminine Band Shirts",
    "heat": "Yükseliyor",
-   "desc": "Erkeksi kesim vintage ve rock müzik grubu tişörtlerini dantel, büzgü veya kesim detaylarıyla feminen estetiğe uyarlama akımı.",
-   "why": "Reddit'te kadın moda topluluğunda grup tişörtlerini daha feminen gösterme yöntemleri sorusuyla öne çıkmıştır.",
+   "desc": "Geleneksel olarak maskülen kesime sahip müzik grubu tişörtlerinin (band shirts) kurdeleler, danteller veya özel kesimlerle daha feminen bir tarza uyarlanması akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda grup tişörtlerini nasıl daha feminen gösterebileceklerine dair açılan popüler başlık.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Tişörtlerin altına giyilebilen dantel detaylı büstiyerler ve tişört daraltma halkaları.",
+   "idea": "Dantel detaylı, kurdeleli veya crop kesim el yapımı feminen tarzda müzik grubu tişörtleri.",
    "product_keywords": [
     {
-     "keyword": "feminine vintage band tee",
-     "label": "feminen vintage rock tişörtü"
+     "keyword": "coquette band shirt",
+     "label": "koket tarzı grup tişörtü"
     },
     {
-     "keyword": "lace layering top",
-     "label": "dantel katmanlı büstiyer"
+     "keyword": "custom feminine band tee",
+     "label": "özel tasarım feminen grup tişörtü"
     }
    ]
   },
   {
-   "name": "Vintage Brass Heritage Items",
-   "heat": "Yükseliyor",
-   "desc": "Uzun ömürlü, el işçiliği hissiyatı veren pirinç ve geleneksel metal ev/mutfak eşyalarına yönelik dayanıklılık odaklı ilgi.",
-   "why": "Reddit BuyItForLife topluluğunda nesilden nesile geçen pirinç el değirmenlerinin popülerleşmesiyle görülmüştür.",
+   "name": "Live Is Easy",
+   "heat": "Hızla yükseliyor",
+   "desc": "Hayatın kolay ve stressiz olması gerektiği felsefesini savunan, TikTok'ta viral olan 'liveiseasy' akımı ve buna uygun minimalist yaşam ürünleri.",
+   "why": "TikTok'un popüler hashtag listesinde 'liveiseasy' etiketinin üst sıralarda yer alması.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Üzerinde 'Live is Easy' yazılı minimalist sloganlı bez çantalar veya estetik duvar posterleri.",
+   "product_keywords": [
+    {
+     "keyword": "live is easy tote bag",
+     "label": "live is easy bez çanta"
+    },
+    {
+     "keyword": "minimalist slogan mug",
+     "label": "minimalist sloganlı kupa"
+    }
+   ]
+  },
+  {
+   "name": "Vintage Brass Grinders",
+   "heat": "Yeni çıktı",
+   "desc": "Ömürlük kullanım sunan, retro tasarımlı ve dayanıklı pirinç kahve/baharat değirmenlerine yönelik ilgi.",
+   "why": "Reddit'in BuyItForLife topluluğunda onlarca yıllık pirinç değirmenlerinin hala kusursuz çalışmasının büyük ilgi görmesi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Pirinç döküm el yapımı baharat/kahve öğütücüleri ve antik görünümlü pirinç ev aksesuarları.",
+   "idea": "Geleneksel tarzda üretilmiş, yüksek kaliteli ve ömür boyu garantili pirinç el değirmenleri.",
    "product_keywords": [
     {
      "keyword": "vintage brass grinder",
-     "label": "vintage pirinç öğütücü"
+     "label": "antika pirinç değirmen"
     },
     {
-     "keyword": "handmade brass spice mill",
-     "label": "el yapımı pirinç baharat değirmeni"
+     "keyword": "manual brass coffee mill",
+     "label": "manuel pirinç kahve değirmeni"
     }
    ]
   },
   {
-   "name": "Anime Gaming Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Popüler anime oyunlarının ve kod odaklı oyun etkinliklerinin genç kitle arasında yarattığı dijital ve fiziksel koleksiyon merakı.",
-   "why": "Google yükselen aramalarda Anime Zero kodları aramalarının dikkate değer artış göstermesiyle yer almıştır.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Anime karakter temalı akrilik anahtarlıklar, laptop ve defterler için estetik sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "anime aesthetic keychain",
-     "label": "estetik anime anahtarlık"
-    },
-    {
-     "keyword": "anime sticker pack",
-     "label": "anime sticker seti"
-    }
-   ]
-  },
-  {
-   "name": "Statement Hats & Styling",
+   "name": "Baggy Fashion Styling",
    "heat": "Yükseliyor",
-   "desc": "Kombinleri tamamlayıcı bir odak noktası haline getiren özel tasarım şapka ve kafa aksesuarları kullanımı.",
-   "why": "Reddit'te şapka severlerin ipuçları ve stil önerileri paylaştığı tartışmayla gündeme gelmiştir.",
+   "desc": "Bol ve dökümlü kıyafetleri, özensiz görünmeden, şık ve planlı bir estetikle kombinleme sanatı ve buna uygun tamamlayıcı parçalar.",
+   "why": "Reddit femalefashionadvice topluluğunda bol giyinirken nasıl şık görünüleceğine dair rehber ve öneri arayışları.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı keçe veya dokuma fedora şapkalar ve ahşap şapka askı sistemleri.",
+   "idea": "Bol kıyafetleri dengelemek için kullanılabilecek minimalist deri kemerler veya silüeti toparlayan estetik aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "handmade fedora hat",
-     "label": "el yapımı fedora şapka"
+     "keyword": "baggy outfit accessories",
+     "label": "bol kıyafet aksesuarları"
     },
     {
-     "keyword": "hat display hanger",
-     "label": "şapka sergileme askısı"
+     "keyword": "minimalist leather belt",
+     "label": "minimalist deri kemer"
     }
    ]
   },
   {
-   "name": "Ethnic Festive Fashion",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel motifleri modern dokunuşlarla buluşturan, özel gün ve bayramlara yönelik etnik giyim ve şal estetiği.",
-   "why": "Reddit femalefashionadvice topluluğunda paylaşılan Pakistan Eid kıyafet ilham panosuyla dikkat çekmiştir.",
+   "name": "Hat Styling Accessories",
+   "heat": "Yeni çıktı",
+   "desc": "Şapka takmayı sevenlerin şapkalarını kişiselleştirmek, taşımak veya kombinlemek için kullandığı yaratıcı aksesuarlar.",
+   "why": "Reddit'in femalefashionadvice topluluğunda şapka severlerin ipuçlarını paylaştığı popüler tartışma konusu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel işlemeli şallar, duppata tarzı tüller ve etnik motifli takı setleri.",
+   "idea": "Şapkaları çantalara tutturmak için estetik deri şapka klipsleri veya şapka bantları.",
    "product_keywords": [
     {
-     "keyword": "embroidered dupatta shawl",
-     "label": "nakışlı etnik şal"
+     "keyword": "leather hat clip for travel",
+     "label": "seyahat için deri şapka klipsi"
     },
     {
-     "keyword": "ethnic jewelry set",
-     "label": "etnik takı seti"
+     "keyword": "custom hat band",
+     "label": "özel tasarım şapka bandı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-06T06:05+00:00",
+ "trends_updated_at": "2026-10-06T09:05+00:00",
  "products": [
   {
    "name": "minimalist sözlü duvar tablosu",
@@ -416,12 +396,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 8
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-06T06:05+00:00"
+ "generated_at": "2026-10-06T09:05+00:00"
 }

@@ -3,40 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "#janedoe",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Jane Doe / I Am Jane Doe Movement",
+   "heat": "Zirvede",
+   "desc": "Bir adalet ve dayanışma simgesi haline gelen 'Jane Doe' kimliği sosyal medyada geniş bir kitle tarafından sahiplenilmektedir.",
+   "why": "TikTok'ta ilk iki sırada (#janedoe, #iamjanedoe) yer alırken Reddit'in popculturechat ve GenZ topluluklarındaki konularla desteklenmektedir.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'I Am Jane Doe' sloganlı baskılı bez çantalar, tişörtler ve yaka rozetleri.",
+   "product_keywords": [
+    {
+     "keyword": "i am jane doe shirt",
+     "label": "I Am Jane Doe tişörtü"
+    },
+    {
+     "keyword": "jane doe tote bag",
+     "label": "Jane Doe bez çanta"
+    }
+   ]
   },
   {
-   "name": "#iamjanedoe",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "October 3rd",
+   "heat": "Hızla yükseliyor",
+   "desc": "Popüler kültürde ikonik bir gün ve söz kalıbı haline gelen 3 Ekim tarihi her yıl sosyal medyada viral bir akıma dönüşmektedir.",
+   "why": "TikTok popüler hashtag sıralamasında 3. sırada yer almaktadır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'October 3rd' temalı espirili stickers (çıkartmalar), kupalar ve pembe ağırlıklı hediye ürünleri.",
+   "product_keywords": [
+    {
+     "keyword": "october 3rd sticker",
+     "label": "3 Ekim çıkartması"
+    },
+    {
+     "keyword": "october 3rd shirt",
+     "label": "3 Ekim tişörtü"
+    }
+   ]
   },
   {
-   "name": "#october3rd",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Copper Wire Crochet (Bakır Tel Tığ İşi Takı)",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel tığ işi tekniğinin bakır telle birleştirilmesiyle yapılan el yapımı ve özgün takı estetiği.",
+   "why": "Reddit'in shutupandtakemymoney topluluğunda 'Copper wire crochet necklace' başlığıyla öne çıkmıştır.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı bakır tel örme kolyeler, bileklikler ve küpeler.",
+   "product_keywords": [
+    {
+     "keyword": "copper wire crochet necklace",
+     "label": "bakır tel tığ işi kolye"
+    },
+    {
+     "keyword": "wire crochet jewelry",
+     "label": "tel örgü takı"
+    }
+   ]
+  },
+  {
+   "name": "2000'ler (Y2K) Nostalji Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Gençlerin 2000'lerin başındaki çocukluk dönemine, televizyon karakterlerinin tarzına ve dönemin modasına duyduğu özlem.",
+   "why": "Reddit GenZ ve malefashionadvice topluluklarında 2000'ler stili ve dönemin çocukluk nostaljisi tartışılmaktadır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2000'ler estetiğini yansıtan retro grafikli tişörtler, saç aksesuarları ve dönemin tarzına uygun giyim ürünleri.",
+   "product_keywords": [
+    {
+     "keyword": "2000s style shirt",
+     "label": "2000'ler tarzı tişört"
+    },
+    {
+     "keyword": "y2k aesthetic top",
+     "label": "Y2K estetik üst"
+    }
+   ]
+  },
+  {
+   "name": "Notification Vacation (Dijital Detoks / Uçak Modu)",
+   "heat": "Yeni çıktı",
+   "desc": "Telefon bildirimlerini kapatıp 'uçak moduna' geçerek zihinsel dinlenme sağlama ve dijital dünyadan uzaklaşma yaşam tarzı.",
+   "why": "Google'da 'notification vacation' araması hızla yükselenler arasına girmiştir.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "'Airplane Mode' veya 'Notification Vacation' yazılı telefon kılıfları, bez çantalar ve dijital detoks günlükleri.",
+   "product_keywords": [
+    {
+     "keyword": "airplane mode phone case",
+     "label": "Uçak Modu telefon kılıfı"
+    },
+    {
+     "keyword": "digital detox journal",
+     "label": "Dijital Detoks günlüğü"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-07T00:04+00:00",
+ "trends_updated_at": "2026-10-07T03:04+00:00",
  "products": [
   {
    "name": "minimalist sözlü duvar tablosu",
@@ -288,13 +356,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-07T00:04+00:00"
+ "generated_at": "2026-10-07T03:04+00:00"
 }

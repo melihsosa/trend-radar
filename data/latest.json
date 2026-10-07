@@ -3,148 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Jane Doe / Cornell Solidarity",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cornell Üniversitesi'ndeki olay sonrası 'Jane Doe' takma adıyla bilinen mağdura destek olmak ve adalet arayışını vurgulamak için gençlerin başlattığı toplumsal dayanışma hareketi.",
-   "why": "TikTok'ta #janedoe ve #iamjanedoe hashtag'lerinin zirveye yerleşmesi ve Reddit GenZ ile popculturechat topluluklarında konunun yoğun şekilde tartışılması.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "'I am Jane Doe' veya 'Solidarity with Jane Doe' yazılı minimalist rozetler, destek bileklikleri ve tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "jane doe shirt",
-     "label": "Jane Doe tişörtü"
-    },
-    {
-     "keyword": "solidarity pin",
-     "label": "dayanışma rozeti"
-    }
-   ]
-  },
-  {
-   "name": "October 3rd (Mean Girls Day)",
-   "heat": "Zirvede",
-   "desc": "Kült gençlik filmi Mean Girls'e atıfta bulunarak her yıl 3 Ekim'de pembe giyinip replikleri paylaşma geleneği etrafında şekillenen popüler kültür akımı.",
-   "why": "TikTok trend listesinde #october3rd hashtag'inin 3. sıraya kadar yükselmesi.",
+   "name": "#janedoe",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "'On October 3rd he asked me what day it was' yazılı pembe kupalar, retro çıkartmalar ve özel tasarım sweatshirtler.",
-   "product_keywords": [
-    {
-     "keyword": "october 3rd pink shirt",
-     "label": "3 Ekim pembe tişört"
-    },
-    {
-     "keyword": "mean girls stickers",
-     "label": "Mean Girls çıkartmaları"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Copper Wire Crochet Jewelry",
+   "name": "#iamjanedoe",
    "heat": "Yükseliyor",
-   "desc": "Bakır tel kullanılarak tığ işi (crochet) tekniğiyle örülen, el emeği ve bohem estetiği birleştiren yeni nesil takı trendi.",
-   "why": "Reddit'in shutupandtakemymoney topluluğunda el yapımı bakır tel örgü kolyenin büyük ilgi görmesi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "El yapımı bakır tel örgü kolyeler, küpeler ve doğal taş detaylı tel sarma takılar.",
-   "product_keywords": [
-    {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
-    },
-    {
-     "keyword": "wire wrapped jewelry",
-     "label": "tel sarma takı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Willem Dafoe Goat Quote Aesthetic",
-   "heat": "Yeni çıktı",
-   "desc": "Ünlü oyuncu Willem Dafoe'nun keçileriyle bulduğu huzuru anlatan 'Onlar bana yardım ediyor' sözünün, doğaya dönüş ve zihinsel huzur arayan gençler arasında viral olması.",
-   "why": "Reddit'in popculturechat topluluğunda Dafoe'nun keçi açıklamasına dair paylaşımın çok yüksek etkileşim alması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "'They're helping me. That's the idea.' yazılı ve keçi illüstrasyonlu cottagecore tarzı kupalar, bez çantalar ve posterle",
-   "product_keywords": [
-    {
-     "keyword": "cottagecore goat mug",
-     "label": "cottagecore keçi kupası"
-    },
-    {
-     "keyword": "funny goat tote bag",
-     "label": "eğlenceli keçi bez çantası"
-    }
-   ]
-  },
-  {
-   "name": "Aurora Borealis (Northern Lights) Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "ABD genelinde görülebilen güçlü jeomanyetik fırtınalar nedeniyle Kuzey Işıkları'nın büyüleyici renklerine ve bu temanın estetiğine olan ilginin patlaması.",
-   "why": "Google arama trendlerinde 'aurora borealis' sorgusunun 2000'den fazla aramayla hızla yükselmesi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Kuzey Işıkları temalı epoksi reçine kolyeler, karanlıkta parlayan gece gökyüzü tabloları ve telefon kılıfları.",
-   "product_keywords": [
-    {
-     "keyword": "aurora borealis resin jewelry",
-     "label": "kuzey ışıkları reçine takı"
-    },
-    {
-     "keyword": "northern lights wall art",
-     "label": "kuzey ışıkları duvar tablosu"
-    }
-   ]
-  },
-  {
-   "name": "CeCe and Rocky 2010s Nostalgia",
+   "name": "#october3rd",
    "heat": "Yükseliyor",
-   "desc": "Gen Z'nin çocukluk dönemi Disney dizisi 'Shake It Up' karakterleri CeCe ve Rocky'nin renkli, katmanlı ve cesur giyim tarzına duyduğu nostaljik özlem.",
-   "why": "Reddit GenZ topluluğunda 'Büyürken kim CeCe ve Rocky gibi giyinmek isterdi?' nostalji başlığının öne çıkması.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "2010'lar esintili renkli tozluklar, kat kat tül etekler ve parlak renkli retro saç aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "2010s aesthetic leg warmers",
-     "label": "2010'lar tarzı tozluk"
-    },
-    {
-     "keyword": "layered tutu skirt",
-     "label": "katmanlı tütü etek"
-    }
-   ]
-  },
-  {
-   "name": "Accidental Mr. Bean Aesthetic",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik İngiliz akademik tarzını (tüvit ceketler, kahverengi tonları, örgü kravatlar) modern, hafif salaş ve mizahi bir şekilde yorumlayan giyim akımı.",
-   "why": "Reddit'in malefashionadvice topluluğunda 'Accidental Mr. Bean' başlığının yüksek etkileşim alması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Tüvit ceketler için dirsek yamaları, retro kahverengi örgü kravatlar ve vintage tarzı yün süveterler.",
-   "product_keywords": [
-    {
-     "keyword": "tweed elbow patches",
-     "label": "tüvit dirsek yaması"
-    },
-    {
-     "keyword": "vintage knit tie",
-     "label": "vintage örgü kravat"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-07T09:05+00:00",
+ "trends_updated_at": "2026-10-07T12:06+00:00",
  "products": [
   {
    "name": "I Am Jane Doe tişörtü",
@@ -511,13 +403,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-07T09:05+00:00"
+ "generated_at": "2026-10-07T12:06+00:00"
 }

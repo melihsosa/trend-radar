@@ -107,9 +107,55 @@
  "trends_updated_at": "2026-10-07T03:04+00:00",
  "products": [
   {
-   "name": "minimalist sözlü duvar tablosu",
-   "keyword": "minimalist quote wall art",
-   "origin": "Akım: Live Is Easy",
+   "name": "I Am Jane Doe tişörtü",
+   "keyword": "i am jane doe shirt",
+   "origin": "Akım: Jane Doe / I Am Jane Doe Movement",
+   "change": 1487.5,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    16,
+    56,
+    69,
+    60,
+    26,
+    19,
+    24,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "3 Ekim tişörtü",
+   "keyword": "october 3rd shirt",
+   "origin": "Akım: October 3rd",
+   "change": 471.4,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7,
+    7,
+    7,
+    26,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "Jane Doe bez çanta",
+   "keyword": "jane doe tote bag",
+   "origin": "Akım: Jane Doe / I Am Jane Doe Movement",
    "change": 100.0,
    "spark": [
     0,
@@ -122,7 +168,7 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0
@@ -133,20 +179,20 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": 25.0,
+   "change": 37.5,
    "spark": [
-    2,
     1,
     1,
     2,
     0,
-    2,
     0,
     2,
-    1,
     2,
     2,
+    3,
+    3,
     2,
+    0,
     1,
     0
    ],
@@ -156,22 +202,22 @@
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 15.2,
+   "change": 27.6,
    "spark": [
-    13,
     10,
     10,
     13,
+    13,
+    10,
+    10,
+    10,
+    11,
     12,
-    11,
-    10,
-    10,
-    11,
-    11,
     13,
-    16,
     15,
-    15
+    15,
+    14,
+    17
    ],
    "stale": false
   },
@@ -179,29 +225,29 @@
    "name": "Kokulu mum",
    "keyword": "scented candle",
    "origin": "İzleme listen",
-   "change": 2.8,
+   "change": 11.6,
    "spark": [
-    36,
-    34,
+    35,
     34,
     39,
     40,
     37,
-    34,
+    33,
     31,
     34,
     35,
     43,
     47,
-    34,
-    37
+    37,
+    38,
+    44
    ],
    "stale": false
   },
   {
-   "name": "özel kesim crop grup tişörtü",
-   "keyword": "custom cropped band tee",
-   "origin": "Akım: Feminine Band Shirts",
+   "name": "3 Ekim çıkartması",
+   "keyword": "october 3rd sticker",
+   "origin": "Akım: October 3rd",
    "change": 0.0,
    "spark": [
     0,
@@ -222,9 +268,9 @@
    "stale": false
   },
   {
-   "name": "vintage pirinç öğütücü",
-   "keyword": "vintage brass grinder",
-   "origin": "Akım: Vintage Brass Grinders",
+   "name": "bakır tel tığ işi kolye",
+   "keyword": "copper wire crochet necklace",
+   "origin": "Akım: Copper Wire Crochet (Bakır Tel Tığ İşi Takı)",
    "change": 0.0,
    "spark": [
     0,
@@ -245,9 +291,9 @@
    "stale": false
   },
   {
-   "name": "manuel pirinç karabiber değirmeni",
-   "keyword": "manual brass pepper mill",
-   "origin": "Akım: Vintage Brass Grinders",
+   "name": "Y2K estetik üst",
+   "keyword": "y2k aesthetic top",
+   "origin": "Akım: 2000'ler (Y2K) Nostalji Estetiği",
    "change": 0.0,
    "spark": [
     0,
@@ -268,9 +314,32 @@
    "stale": false
   },
   {
-   "name": "çabasız estetik giyim",
-   "keyword": "effortless aesthetic clothing",
-   "origin": "Akım: Live Is Easy",
+   "name": "Uçak Modu telefon kılıfı",
+   "keyword": "airplane mode phone case",
+   "origin": "Akım: Notification Vacation (Dijital Detoks / Uçak Modu)",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "Dijital Detoks günlüğü",
+   "keyword": "digital detox journal",
+   "origin": "Akım: Notification Vacation (Dijital Detoks / Uçak Modu)",
    "change": 0.0,
    "spark": [
     0,
@@ -294,22 +363,22 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": -4.5,
+   "change": -5.0,
    "spark": [
-    53,
-    54,
+    56,
     54,
     66,
     75,
-    59,
+    58,
     57,
-    54,
     53,
     52,
-    66,
-    65,
     53,
-    56
+    64,
+    63,
+    60,
+    46,
+    60
    ],
    "stale": false
   },
@@ -317,27 +386,73 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": -9.4,
+   "change": -13.9,
    "spark": [
-    33,
     40,
-    41,
+    40,
     44,
-    40,
+    41,
     36,
     32,
+    34,
+    32,
+    31,
+    34,
     33,
-    32,
-    32,
     34,
-    34,
-    30,
-    46
+    31,
+    35
+   ],
+   "stale": false
+  },
+  {
+   "name": "tel örgü takı",
+   "keyword": "wire crochet jewelry",
+   "origin": "Akım: Copper Wire Crochet (Bakır Tel Tığ İşi Takı)",
+   "change": -100.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    62,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "2000'ler tarzı tişört",
+   "keyword": "2000s style shirt",
+   "origin": "Akım: 2000'ler (Y2K) Nostalji Estetiği",
+   "change": -100.0,
+   "spark": [
+    77,
+    100,
+    0,
+    0,
+    0,
+    82,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-10-06T04:41+00:00",
+ "products_updated_at": "2026-10-07T04:44+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -361,8 +476,8 @@
   },
   "Talep ölçümü": {
    "ok": true,
-   "count": 10
+   "count": 15
   }
  },
- "generated_at": "2026-10-07T03:04+00:00"
+ "generated_at": "2026-10-07T04:44+00:00"
 }

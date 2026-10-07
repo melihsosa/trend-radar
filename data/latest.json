@@ -3,40 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "#janedoe",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Mean Girls October 3rd Nostaljisi",
+   "heat": "Zirvede",
+   "desc": "Kült Mean Girls filmindeki ikonik sahneye atıfta bulunan 'October 3rd' kutlaması ve pembe Y2K estetiği viral bir akım haline geldi.",
+   "why": "TikTok trendlerinde #october3rd etiketi 3. sıraya yükseldi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'On October 3rd he asked me what day it was' yazılı pembe sweatshirt, kupa ve Y2K tarzı sticker setleri.",
+   "product_keywords": [
+    {
+     "keyword": "october 3rd sweatshirt",
+     "label": "3 ekim temalı sweatshirt"
+    },
+    {
+     "keyword": "mean girls pink hoodie",
+     "label": "pembe mean girls kapüşonlu"
+    }
+   ]
   },
   {
-   "name": "#iamjanedoe",
+   "name": "Bakır Tel Örgü Takı (Wire Crochet Jewelry)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "İnce bakır tellerin tığ tekniğiyle örülmesiyle üretilen organik dokulu, heykelsi ve bohem el yapımı takı trendi.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda bakır tel örgü kolye tasarımı yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı bakır tel örgü gerdanlıklar, kolye uçları ve statement tel küpeler.",
+   "product_keywords": [
+    {
+     "keyword": "copper wire crochet necklace",
+     "label": "bakır tel örgü kolye"
+    },
+    {
+     "keyword": "wire knit pendant",
+     "label": "tel örme kolye ucu"
+    }
+   ]
   },
   {
-   "name": "#october3rd",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "2000'ler Disney & Katmanlı Y2K Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "2000'ler sonu ve 2010'lar başı Disney Channel gençlik dizilerindeki (Shake It Up vb.) katmanlı, renkli ve cesur giyim tarzına duyulan nostalji.",
+   "why": "Reddit r/GenZ ve r/malefashionadvice topluluklarında 2000'ler tarzı ve CeCe & Rocky kombinleri tartışıldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "2000'ler esintili katmanlı tül etekler, parlak saç aksesuarları ve retro Y2K tarzı grafikli crop üstler.",
+   "product_keywords": [
+    {
+     "keyword": "y2k layered skirt",
+     "label": "y2k katmanlı etek"
+    },
+    {
+     "keyword": "2000s vintage graphic tee",
+     "label": "2000ler retro grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Gears of War: E-Day Gaming Nostaljisi",
+   "heat": "Yükseliyor",
+   "desc": "'Gears of War: E-Day' duyurusuyla birlikte klasik oyun evrenine ve karanlık distopik oyun estetiğine olan ilgi yeniden canlandı.",
+   "why": "Google yükselen aramalarda 'gears of war: e-day' sorgusu üst sıralarda yer aldı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Distopik oyun temalı vintage eskitme baskılı grafik tişörtler, metal posterler ve masaüstü mousepad'ler.",
+   "product_keywords": [
+    {
+     "keyword": "gears of war graphic tee",
+     "label": "retro oyun grafik tişört"
+    },
+    {
+     "keyword": "retro gaming desk mat",
+     "label": "oyuncu masa matı"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-07T12:06+00:00",
+ "trends_updated_at": "2026-10-07T18:08+00:00",
  "products": [
   {
    "name": "I Am Jane Doe tişörtü",
@@ -403,13 +450,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-07T12:06+00:00"
+ "generated_at": "2026-10-07T18:08+00:00"
 }

@@ -3,88 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "I Am Jane Doe Dayanışma Hareketi",
+   "name": "Mogging & Maxxing Mizahı",
    "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin kadın hakları, kampüs güvenliği ve mağdurlara destek amacıyla başlattığı sembolik ve kolektif adalet dayanışması akımı.",
-   "why": "TikTok'ta #iamjanedoe ve #janedoe etiketlerinin ilk iki sıraya yerleşmesi ve Reddit'te (r/popculturechat, r/GenZ) konunun yoğun şekilde tartışılması.",
+   "desc": "Gen Z internet argosundaki 'mogging' (fiziksel baskınlık) ve '-maxxing' (bir özelliği maksimuma çıkarma) kalıplarının ironik mizah ve ilişki parodilerine dönüşmesi.",
+   "why": "Reddit r/TikTokCringe akışında 'Mogging' ve 'Autistic Husband Maxxing' başlıklarının viral olması.",
    "sources": [
-    "TikTok",
     "Reddit"
    ],
-   "idea": "'I Am Jane Doe' sloganlı minimalist mine (enamel) yaka iğneleri, mor kurdele temalı dayanışma bileklikleri ve bez çantal",
+   "idea": "İronik '-maxxing' ve 'Mogger' tipografisine sahip gym tişörtleri, kupalar veya mizahi sticker setleri.",
    "product_keywords": [
     {
-     "keyword": "jane doe enamel pin",
-     "label": "jane doe yaka iğnesi"
+     "keyword": "mogging meme shirt",
+     "label": "mogging baskılı tişört"
     },
     {
-     "keyword": "feminist solidarity tote bag",
-     "label": "dayanışma bez çanta"
+     "keyword": "ironic maxxing sticker",
+     "label": "mizahi maxxing çıkartması"
     }
    ]
   },
   {
-   "name": "Copper Wire Crochet (Tel Örgü Takı Sanatı)",
+   "name": "Estetik Laptop Sırt Çantaları",
+   "heat": "Yükseliyor",
+   "desc": "Kaba teknoloji çantaları yerine, kadınların şık ofis veya günlük kombinlerini bozmayan minimalist, zarif sırt çantası arayışı.",
+   "why": "Reddit r/femalefashionadvice'ta kıyafeti bozmayacak laptop sırt çantası konusunun en popüler paylaşımlardan biri olması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Korumalı laptop bölmesine sahip, ince profilli, vegan deri veya su geçirmez kanvas şık kadın sırt çantası.",
+   "product_keywords": [
+    {
+     "keyword": "aesthetic laptop backpack",
+     "label": "estetik laptop sırt çantası"
+    },
+    {
+     "keyword": "chic work backpack women",
+     "label": "şık kadın iş çantası"
+    }
+   ]
+  },
+  {
+   "name": "Vintage Pirinç Kahve ve Baharat Değirmenleri",
+   "heat": "Yükseliyor",
+   "desc": "Plastik ve bozulabilir elektrikli mutfak gereçlerine karşı nesilden nesile aktarılan, dayanıklı pirinç ve metal manuel değirmenlere artan ilgi.",
+   "why": "Reddit r/BuyItForLife topluluğunda nostaljik ve ömürlük pirinç değirmen paylaşımlarının yoğun ilgi görmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel döküm pirinç gövdeli, dayanıklı mekanizmalı el yapımı manuel kahve veya karabiber değirmeni.",
+   "product_keywords": [
+    {
+     "keyword": "brass manual coffee grinder",
+     "label": "pirinç el kahve değirmeni"
+    },
+    {
+     "keyword": "handcrafted brass spice mill",
+     "label": "el yapımı pirinç baharat değirmeni"
+    }
+   ]
+  },
+  {
+   "name": "Kişiselleştirilmiş Maraton Hatıraları",
+   "heat": "Zirvede",
+   "desc": "Sonbahar maraton sezonuyla birlikte yarışçıların rotalarını, koşu derecelerini ve başarılarını sergileme eğilimi.",
+   "why": "Google Trends verilerinde 'chicago marathon' aramalarının hızla zirve yapması.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Yarışçının adı, göğüs numarası ve bitirme süresiyle özelleştirilebilen maraton rotası harita posteri veya ahşap madalya ",
+   "product_keywords": [
+    {
+     "keyword": "marathon route map personalized",
+     "label": "kişiye özel maraton rota tablosu"
+    },
+    {
+     "keyword": "wooden marathon medal hanger",
+     "label": "ahşap maraton madalya askılığı"
+    }
+   ]
+  },
+  {
+   "name": "Şapka Özelleştirme Aksesuarları",
    "heat": "Yeni çıktı",
-   "desc": "Geleneksel tığ işi tekniğinin bakır ve metal tellerle birleştirilerek heykelsi, bohem ve organik formlu takılara dönüştürülmesi akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda bakır tel örgülü kolyenin doğrudan satın alma ilgisiyle viral olması.",
+   "desc": "Klasik fötr, panama veya keçe şapkaları kişiselleştirmek ve tarz katmak için kullanılan el yapımı tamamlayıcı parçalar.",
+   "why": "Reddit r/femalefashionadvice üzerinde şapka kullanımı ve aksesuarlarına yönelik ipuçlarının öne çıkması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı bükülebilir bakır tel örgü gerdanlıklar, doğal taş detaylı tel tığ işi kolyeler ve küpeler.",
+   "idea": "Şapkalara kolayca takılabilen el yapımı deri/boncuklu şapka bantları ve vintage pirinç şapka iğneleri.",
    "product_keywords": [
     {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
+     "keyword": "leather hat band",
+     "label": "deri şapka bandı"
     },
     {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örgü takı"
+     "keyword": "vintage hat pin accessories",
+     "label": "vintage şapka iğnesi"
     }
    ]
   },
   {
-   "name": "2000'ler & CeCe-Rocky Katmanlı Dans Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z'nin çocukluk dönemi 2000'ler başı ve Disney gençlik dizilerindeki enerjik, katmanlı, renkli ve cesur giyim tarzına duyduğu nostalji.",
-   "why": "Reddit r/GenZ ve r/malefashionadvice topluluklarında dönemin katmanlı tarzlarının ve nostaljik stil ikonlarının tekrar aranması.",
+   "name": "Masif Pirinç Ayakkabı Çekeceği",
+   "heat": "Yeni çıktı",
+   "desc": "Ayakkabı ömrünü koruma ritüelini estetik ve nostaljik bir bakım alışkanlığına dönüştüren vintage çekecek merakı.",
+   "why": "Reddit moda topluluğunda ayakkabı çekeceği kullanımının faydaları üzerine yoğun etkileşim oluşması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Y2K tarzı katmanlı tül etekler, bacak ısıtıcıları (leg warmers), kalın tokalı gösterişli kemerler ve renkli sokak dansı ",
+   "idea": "Deri askı detaylı, hediye kutulu, üzerine isim veya monogram kazınabilen masif pirinç ayakkabı çekeceği.",
    "product_keywords": [
     {
-     "keyword": "y2k statement belt",
-     "label": "y2k gösterişli kemer"
+     "keyword": "solid brass shoe horn",
+     "label": "masif pirinç çekecek"
     },
     {
-     "keyword": "y2k leg warmers",
-     "label": "y2k bacak ısıtıcı"
-    }
-   ]
-  },
-  {
-   "name": "Doğal Yün & Heritage Triko Dönüşü",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modanın sentetik kumaşlarına tepki olarak geleneksel, kalın dokulu ve zamansız saf yün kazakların yeniden değer kazanması hareketi.",
-   "why": "Reddit r/malefashionadvice üzerinde kullanıcıların vintage ve saf yün kazakları yeniden keşfetmesi ve benzersiz örgü modelleri araması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Vintage desenli el örgüsü kalın yün kazaklar ve zanaatkar işi dokulu yün hırkalar.",
-   "product_keywords": [
-    {
-     "keyword": "chunky wool sweater",
-     "label": "kalın yün kazak"
-    },
-    {
-     "keyword": "vintage knit sweater",
-     "label": "vintage örgü kazak"
+     "keyword": "personalized engraved shoehorn",
+     "label": "kişiye özel işlemeli çekecek"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T09:06+00:00",
+ "trends_updated_at": "2026-10-08T12:06+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -329,7 +368,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -337,12 +376,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-08T09:06+00:00"
+ "generated_at": "2026-10-08T12:06+00:00"
 }

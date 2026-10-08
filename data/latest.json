@@ -3,87 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Copper Wire Crochet (Bakır Tel Örgü Takı)",
-   "heat": "Yeni çıktı",
-   "desc": "İnce bakır tellerin tığ işi teknikleriyle örülmesiyle oluşturulan, el emeği vurgulu ve organik formlu takı estetiği.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Copper wire crochet necklace' paylaşımı öne çıktı.",
+   "name": "I Am Jane Doe Hareketi",
+   "heat": "Zirvede",
+   "desc": "Adalet ve kadın dayanışmasını odağına alan, sessiz kalmama mesajı taşıyan viral sosyal hareket.",
+   "why": "TikTok'ta #iamjanedoe ve #janedoe en çok kullanılan etiketler olurken Reddit'te ses kayıtlarının ortaya çıkmasıyla gündeme oturdu.",
    "sources": [
+    "TikTok",
     "Reddit"
    ],
-   "idea": "El yapımı tığ işi bakır tel kolyeler, bileklikler veya meraklıları için tel örgü takı yapım kiti (DIY kit).",
+   "idea": "Minimalist tipografik 'I Am Jane Doe' veya kadın gücünü vurgulayan sloganlı kanvas tote bag ve yaka rozetleri.",
    "product_keywords": [
     {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
+     "keyword": "women empowerment tote bag",
+     "label": "kadın dayanışması bez çanta"
     },
     {
-     "keyword": "wire crochet jewelry kit",
-     "label": "tel örgü takı kiti"
+     "keyword": "feminist solidarity pin",
+     "label": "feminist dayanışma rozeti"
     }
    ]
   },
   {
-   "name": "2000'ler Nostaljisi & Y2K Estetiği",
+   "name": "Non-Tarnish Stacking Rings",
    "heat": "Yükseliyor",
-   "desc": "2000'li yılların gençlik dizilerindeki ikonik giyim tarzlarını ve dönemin renkli, katmanlı modasını yeniden canlandıran akım.",
-   "why": "Reddit r/GenZ ve r/malefashionadvice topluluklarında 2000'ler giyim tarzı ve dönemin popüler çocukluk dizileri tartışıldı.",
+   "desc": "Günlük kullanımda kararmayan, su geçirmez ve üst üste kombinlenebilen minimalist yüzük akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda kararmayan günlük yüzük arayışı öne çıkan tartışmalar arasında yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2000'ler estetiğini yansıtan katmanlı giyim kombinleri, nostaljik aksesuar setleri ve temalı rozetler.",
+   "idea": "PVD altın kaplama, suya dayanıklı ve kararma yapmayan minimalist eklem/istifleme yüzük setleri.",
    "product_keywords": [
     {
-     "keyword": "y2k aesthetic clothing",
-     "label": "y2k estetiği giyim"
+     "keyword": "non tarnish stacking rings",
+     "label": "kararmaz üst üste takılan yüzükler"
     },
     {
-     "keyword": "2000s nostalgia outfit",
-     "label": "2000ler nostalji kıyafeti"
+     "keyword": "waterproof gold rings",
+     "label": "su geçirmez altın yüzük"
     }
    ]
   },
   {
-   "name": "Amerikan Güneyi & Western Stili",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel Amerikan Güneyi ve kovboy kültüründen esinlenen, rustik desenli gömlekler ve otantik detaylar içeren giyim tarzı.",
-   "why": "Reddit r/malefashionadvice topluluğunda Amerikan Güneyi tarzı gömlekler ve kombinler popüler gönderiler arasında yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Nakış ve cep detaylı western tarzı gömlekler, rustik deri aksesuarlar veya otantik desenli giyim ürünleri.",
-   "product_keywords": [
-    {
-     "keyword": "western style shirt",
-     "label": "western tarzı gömlek"
-    },
-    {
-     "keyword": "southern americana shirt",
-     "label": "güney amerika tarzı gömlek"
-    }
-   ]
-  },
-  {
-   "name": "Disney Cruise Seyahat Teması",
+   "name": "Mogging & Maxxing Akımı",
    "heat": "Hızla yükseliyor",
-   "desc": "Disney'in yeni gemisi 'Disney Believe' duyurusuyla birlikte yükselişe geçen tematik aile tatili ve seyahat hazırlığı kültürü.",
-   "why": "Google yükselen aramalarda 'disney believe' sorgusu yüksek arama hacmiyle üst sıralara çıktı.",
+   "desc": "Gen-Z'nin özgüven, görünüş ve yaşam tarzı mizahı etrafında şekillenen 'mogging' ve '-maxxing' internet argosu estetiği.",
+   "why": "Reddit TikTokCringe üzerinde 'Mogging' ve 'Autistic Husband Maxxing' başlıklı viral paylaşımlarla popülerlik kazandı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik 'Mogging' ve '-maxxing' tipografik sloganlarına sahip retro Gen-Z tişörtleri ve laptop çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "mogging graphic tee",
+     "label": "mogging baskılı tişört"
+    },
+    {
+     "keyword": "looksmaxxing sticker",
+     "label": "looksmaxxing çıkartma"
+    }
+   ]
+  },
+  {
+   "name": "Fit-Friendly Laptop Backpacks",
+   "heat": "Yükseliyor",
+   "desc": "Kıyafet kombinlerinin şıklığını bozmayan, ofis ve sokak stiline uyumlu minimalist ve estetik laptop sırt çantaları.",
+   "why": "Reddit moda topluluklarında tarzı bozmayacak laptop sırt çantası önerileri yoğun talep gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Suni deri veya su geçirmez mat kumaştan üretilmiş, minimalist ve şık bölmeli ince laptop sırt çantası.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist laptop backpack",
+     "label": "minimalist laptop sırt çantası"
+    },
+    {
+     "keyword": "aesthetic work backpack",
+     "label": "estetik iş sırt çantası"
+    }
+   ]
+  },
+  {
+   "name": "BIFL Pirinç Vintage Değirmenler",
+   "heat": "Yükseliyor",
+   "desc": "'Ömür boyu dayanıklı' (Buy It For Life) mantığıyla nesilden nesile aktarılan pirinç mekanik öğütücüler ve nostaljik mutfak aletleri.",
+   "why": "Reddit BuyItForLife topluluğunda onlarca yıllık antika pirinç öğütücüler yüksek etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel desenli, el yapımı pirinç manuel kahve ve baharat değirmeni.",
+   "product_keywords": [
+    {
+     "keyword": "vintage brass coffee grinder",
+     "label": "vintage pirinç kahve değirmeni"
+    },
+    {
+     "keyword": "manual brass spice mill",
+     "label": "manuel pirinç baharat değirmeni"
+    }
+   ]
+  },
+  {
+   "name": "GTA 6 Synthwave Hype",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni GTA söylentileri ve streaming haberleriyle tetiklenen 80'ler retro Miami ve neon synthwave oyun estetiği.",
+   "why": "Google yükselen aramalarda gta6 sorgusu streaming ve hak haberleriyle ani çıkış yaptı.",
    "sources": [
     "Google"
    ],
-   "idea": "Disney gemi seyahatlerine özel kişiselleştirilebilir magnetler, temalı uyumlu aile tişörtleri ve pasaport kılıfları.",
+   "idea": "Retro neon Miami paletine sahip RGB aydınlatmalı geniş oyuncu masa matı ve masa dekoru neon tabelalar.",
    "product_keywords": [
     {
-     "keyword": "disney cruise door magnets",
-     "label": "disney cruise kapı magneti"
+     "keyword": "synthwave neon desk mat",
+     "label": "synthwave neon mousepad"
     },
     {
-     "keyword": "disney cruise family shirts",
-     "label": "disney cruise aile tişörtü"
+     "keyword": "retro gaming neon sign",
+     "label": "retro oyun neon tabela"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-07T21:04+00:00",
+ "trends_updated_at": "2026-10-08T00:04+00:00",
  "products": [
   {
    "name": "I Am Jane Doe tişörtü",
@@ -443,7 +484,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -451,12 +492,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-07T21:04+00:00"
+ "generated_at": "2026-10-08T00:04+00:00"
 }

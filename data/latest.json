@@ -3,128 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "I Am Jane Doe Hareketi",
-   "heat": "Zirvede",
-   "desc": "Adalet ve kadın dayanışmasını odağına alan, sessiz kalmama mesajı taşıyan viral sosyal hareket.",
-   "why": "TikTok'ta #iamjanedoe ve #janedoe en çok kullanılan etiketler olurken Reddit'te ses kayıtlarının ortaya çıkmasıyla gündeme oturdu.",
+   "name": "Copper Wire Crochet Jewelry",
+   "heat": "Yeni çıktı",
+   "desc": "Bakır tel kullanılarak tığ işi/örgü tekniğiyle üretilen, zarif ve el yapımı takı estetiği.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda bakır tel örgü kolye paylaşımı yüksek etkileşim almıştır.",
    "sources": [
-    "TikTok",
     "Reddit"
    ],
-   "idea": "Minimalist tipografik 'I Am Jane Doe' veya kadın gücünü vurgulayan sloganlı kanvas tote bag ve yaka rozetleri.",
+   "idea": "El yapımı bakır tel örgü kolyeler, bileklikler ve küpeler.",
    "product_keywords": [
     {
-     "keyword": "women empowerment tote bag",
-     "label": "kadın dayanışması bez çanta"
+     "keyword": "copper wire crochet necklace",
+     "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "feminist solidarity pin",
-     "label": "feminist dayanışma rozeti"
+     "keyword": "wire crochet jewelry",
+     "label": "tel örgü takı"
     }
    ]
   },
   {
-   "name": "Non-Tarnish Stacking Rings",
+   "name": "Re-discovering Wool Sweaters",
    "heat": "Yükseliyor",
-   "desc": "Günlük kullanımda kararmayan, su geçirmez ve üst üste kombinlenebilen minimalist yüzük akımı.",
-   "why": "Reddit femalefashionadvice topluluğunda kararmayan günlük yüzük arayışı öne çıkan tartışmalar arasında yer aldı.",
+   "desc": "Geleneksel dokulara dönüşü ve kaliteli soğuk hava kombinlerini öne çıkaran doğal yün kazak akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda yün kazakların yeniden keşfi ve stillendirilmesi üzerine tartışmalar popülerleşmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "PVD altın kaplama, suya dayanıklı ve kararma yapmayan minimalist eklem/istifleme yüzük setleri.",
+   "idea": "Doğal yün kumaştan yapılmış vintage stil kazaklar ve örgü süveterler.",
    "product_keywords": [
     {
-     "keyword": "non tarnish stacking rings",
-     "label": "kararmaz üst üste takılan yüzükler"
+     "keyword": "wool sweater knitwear",
+     "label": "yün kazak triko"
     },
     {
-     "keyword": "waterproof gold rings",
-     "label": "su geçirmez altın yüzük"
+     "keyword": "vintage wool sweater",
+     "label": "vintage yün kazak"
     }
    ]
   },
   {
-   "name": "Mogging & Maxxing Akımı",
+   "name": "2000s Teen Nostalgia Style",
+   "heat": "Yükseliyor",
+   "desc": "Z Kuşağının 2000'li yılların gençlik dizilerinden ve gardırop stillerinden ilham aldığı nostaljik giyim trendi.",
+   "why": "Reddit r/GenZ ve r/malefashionadvice topluluklarında 2000'ler tarzı ve dönemin ikonik kıyafetleri üzerine paylaşımlar öne çıkmaktadır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Y2K tarzı renkli katmanlı giyim parçaları, baskılı bebek tişörtleri (baby tee) ve döneme ait aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "y2k aesthetic top",
+     "label": "Y2K estetik üst"
+    },
+    {
+     "keyword": "2000s nostalgia fashion",
+     "label": "2000ler nostalji modası"
+    }
+   ]
+  },
+  {
+   "name": "Shop With Confidence",
    "heat": "Hızla yükseliyor",
-   "desc": "Gen-Z'nin özgüven, görünüş ve yaşam tarzı mizahı etrafında şekillenen 'mogging' ve '-maxxing' internet argosu estetiği.",
-   "why": "Reddit TikTokCringe üzerinde 'Mogging' ve 'Autistic Husband Maxxing' başlıklı viral paylaşımlarla popülerlik kazandı.",
+   "desc": "E-ticarette satıcıların ürün paketleme, kalite güvencesi ve şeffaflık süreçlerini öne çıkardığı alışveriş akımı.",
+   "why": "TikTok Creative Center verilerinde #shopwithconfidence etiketi 3. sırada yükselen trendler arasındadır.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "İronik 'Mogging' ve '-maxxing' tipografik sloganlarına sahip retro Gen-Z tişörtleri ve laptop çıkartmaları.",
+   "idea": "Küçük işletmeler için özelleştirilebilir müşteri teşekkür kartları, kalite mühür yapıştırmaları ve şık paketleme aksesua",
    "product_keywords": [
     {
-     "keyword": "mogging graphic tee",
-     "label": "mogging baskılı tişört"
+     "keyword": "packaging thank you cards",
+     "label": "paketleme teşekkür kartları"
     },
     {
-     "keyword": "looksmaxxing sticker",
-     "label": "looksmaxxing çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "Fit-Friendly Laptop Backpacks",
-   "heat": "Yükseliyor",
-   "desc": "Kıyafet kombinlerinin şıklığını bozmayan, ofis ve sokak stiline uyumlu minimalist ve estetik laptop sırt çantaları.",
-   "why": "Reddit moda topluluklarında tarzı bozmayacak laptop sırt çantası önerileri yoğun talep gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Suni deri veya su geçirmez mat kumaştan üretilmiş, minimalist ve şık bölmeli ince laptop sırt çantası.",
-   "product_keywords": [
-    {
-     "keyword": "minimalist laptop backpack",
-     "label": "minimalist laptop sırt çantası"
-    },
-    {
-     "keyword": "aesthetic work backpack",
-     "label": "estetik iş sırt çantası"
-    }
-   ]
-  },
-  {
-   "name": "BIFL Pirinç Vintage Değirmenler",
-   "heat": "Yükseliyor",
-   "desc": "'Ömür boyu dayanıklı' (Buy It For Life) mantığıyla nesilden nesile aktarılan pirinç mekanik öğütücüler ve nostaljik mutfak aletleri.",
-   "why": "Reddit BuyItForLife topluluğunda onlarca yıllık antika pirinç öğütücüler yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel desenli, el yapımı pirinç manuel kahve ve baharat değirmeni.",
-   "product_keywords": [
-    {
-     "keyword": "vintage brass coffee grinder",
-     "label": "vintage pirinç kahve değirmeni"
-    },
-    {
-     "keyword": "manual brass spice mill",
-     "label": "manuel pirinç baharat değirmeni"
-    }
-   ]
-  },
-  {
-   "name": "GTA 6 Synthwave Hype",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni GTA söylentileri ve streaming haberleriyle tetiklenen 80'ler retro Miami ve neon synthwave oyun estetiği.",
-   "why": "Google yükselen aramalarda gta6 sorgusu streaming ve hak haberleriyle ani çıkış yaptı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Retro neon Miami paletine sahip RGB aydınlatmalı geniş oyuncu masa matı ve masa dekoru neon tabelalar.",
-   "product_keywords": [
-    {
-     "keyword": "synthwave neon desk mat",
-     "label": "synthwave neon mousepad"
-    },
-    {
-     "keyword": "retro gaming neon sign",
-     "label": "retro oyun neon tabela"
+     "keyword": "custom product seal stickers",
+     "label": "özel ürün mühür çıkartmaları"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T00:04+00:00",
+ "trends_updated_at": "2026-10-08T03:04+00:00",
  "products": [
   {
    "name": "I Am Jane Doe tişörtü",
@@ -484,7 +443,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -492,12 +451,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-08T00:04+00:00"
+ "generated_at": "2026-10-08T03:04+00:00"
 }

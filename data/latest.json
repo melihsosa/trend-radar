@@ -3,127 +3,148 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mogging & Maxxing Mizahı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z internet argosundaki 'mogging' (fiziksel baskınlık) ve '-maxxing' (bir özelliği maksimuma çıkarma) kalıplarının ironik mizah ve ilişki parodilerine dönüşmesi.",
-   "why": "Reddit r/TikTokCringe akışında 'Mogging' ve 'Autistic Husband Maxxing' başlıklarının viral olması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İronik '-maxxing' ve 'Mogger' tipografisine sahip gym tişörtleri, kupalar veya mizahi sticker setleri.",
-   "product_keywords": [
-    {
-     "keyword": "mogging meme shirt",
-     "label": "mogging baskılı tişört"
-    },
-    {
-     "keyword": "ironic maxxing sticker",
-     "label": "mizahi maxxing çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Estetik Laptop Sırt Çantaları",
-   "heat": "Yükseliyor",
-   "desc": "Kaba teknoloji çantaları yerine, kadınların şık ofis veya günlük kombinlerini bozmayan minimalist, zarif sırt çantası arayışı.",
-   "why": "Reddit r/femalefashionadvice'ta kıyafeti bozmayacak laptop sırt çantası konusunun en popüler paylaşımlardan biri olması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Korumalı laptop bölmesine sahip, ince profilli, vegan deri veya su geçirmez kanvas şık kadın sırt çantası.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic laptop backpack",
-     "label": "estetik laptop sırt çantası"
-    },
-    {
-     "keyword": "chic work backpack women",
-     "label": "şık kadın iş çantası"
-    }
-   ]
-  },
-  {
-   "name": "Vintage Pirinç Kahve ve Baharat Değirmenleri",
-   "heat": "Yükseliyor",
-   "desc": "Plastik ve bozulabilir elektrikli mutfak gereçlerine karşı nesilden nesile aktarılan, dayanıklı pirinç ve metal manuel değirmenlere artan ilgi.",
-   "why": "Reddit r/BuyItForLife topluluğunda nostaljik ve ömürlük pirinç değirmen paylaşımlarının yoğun ilgi görmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel döküm pirinç gövdeli, dayanıklı mekanizmalı el yapımı manuel kahve veya karabiber değirmeni.",
-   "product_keywords": [
-    {
-     "keyword": "brass manual coffee grinder",
-     "label": "pirinç el kahve değirmeni"
-    },
-    {
-     "keyword": "handcrafted brass spice mill",
-     "label": "el yapımı pirinç baharat değirmeni"
-    }
-   ]
-  },
-  {
-   "name": "Kişiselleştirilmiş Maraton Hatıraları",
+   "name": "I am Jane Doe",
    "heat": "Zirvede",
-   "desc": "Sonbahar maraton sezonuyla birlikte yarışçıların rotalarını, koşu derecelerini ve başarılarını sergileme eğilimi.",
-   "why": "Google Trends verilerinde 'chicago marathon' aramalarının hızla zirve yapması.",
+   "desc": "Cornell Üniversitesi'ndeki bir olayla bağlantılı olarak ortaya çıkan ve cinsel saldırı mağdurlarını desteklemeyi amaçlayan toplumsal bir dayanışma hareketi.",
+   "why": "TikTok'ta #iamjanedoe ve #janedoe etiketlerinin ilk iki sıraya yerleşmesi ve Reddit'te Cornell olayıyla ilgili yoğun paylaşımların yapılması.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Mağdurlara destek amaçlı 'I am Jane Doe' veya 'I Stand With Jane Doe' yazılı minimalist rozetler, çıkartmalar (stickers)",
+   "product_keywords": [
+    {
+     "keyword": "i stand with jane doe sticker",
+     "label": "Jane Doe destek çıkartması"
+    },
+    {
+     "keyword": "jane doe support pin",
+     "label": "Jane Doe destek rozeti"
+    }
+   ]
+  },
+  {
+   "name": "Copper Wire Crochet Jewelry",
+   "heat": "Yükseliyor",
+   "desc": "İnce bakır tellerin tığ işi (crochet) teknikleriyle örülerek benzersiz, el yapımı takılara dönüştürülmesi akımı.",
+   "why": "Reddit'in 'shutupandtakemymoney' topluluğunda bakır tel örgü kolyenin büyük ilgi görmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı bakır tel örgü kolyeler, küpeler ve doğal taşlarla süslenmiş tel sargı takılar.",
+   "product_keywords": [
+    {
+     "keyword": "copper wire crochet necklace",
+     "label": "bakır tel örgü kolye"
+    },
+    {
+     "keyword": "wire wrapped crochet jewelry",
+     "label": "tel sargı örgü takı"
+    }
+   ]
+  },
+  {
+   "name": "I have no idea who you are",
+   "heat": "Yeni çıktı",
+   "desc": "Yargıç Mindy Glazer'ın, ünlü olduğunu iddia eden Rick Ross'a verdiği 'Sizin kim olduğunuz hakkında hiçbir fikrim yok' yanıtının viral bir mizah unsuruna dönüşmesi.",
+   "why": "Reddit popculturechat topluluğunda bu diyalogla ilgili paylaşımın haftanın en popüler gönderilerinden biri olması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Üzerinde 'I have no idea who you are' yazan esprili kupalar, tişörtler, ofis masası tabelaları ve çıkartmalar.",
+   "product_keywords": [
+    {
+     "keyword": "i have no idea who you are mug",
+     "label": "kim olduğun hakkında fikrim yok kupası"
+    },
+    {
+     "keyword": "funny judge quote shirt",
+     "label": "esprili hakim sözü tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Willem Dafoe's Goat & Sheep Lifestyle",
+   "heat": "Yükseliyor",
+   "desc": "Willem Dafoe'nun keçi ve koyunlarını yatırırken huzur bulduğunu söylemesiyle başlayan, doğaya dönüş ve hayvan sevgisini yücelten mikro-yaşam tarzı akımı.",
+   "why": "Reddit popculturechat topluluğunda Dafoe'nun 'Onlar bana yardım ediyor' (They're helping me) sözünün çok popüler olması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Keçi ve koyun illüstrasyonlu, üzerinde 'They're helping me' yazan cottagecore tarzı kupalar, bez çantalar ve duvar poste",
+   "product_keywords": [
+    {
+     "keyword": "cottagecore goat mug",
+     "label": "cottagecore keçi kupası"
+    },
+    {
+     "keyword": "they are helping me shirt",
+     "label": "bana yardım ediyorlar tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Re-discovering Wool Sweaters",
+   "heat": "Yükseliyor",
+   "desc": "Sonbaharın gelişiyle birlikte klasik, kaliteli ve benzersiz örgü yün kazakların yeniden keşfedilmesi ve vintage tarzda kombinlenmesi.",
+   "why": "Reddit malefashionadvice topluluğunda 'Re-discovering wool sweaters' ve benzersiz kazakların nasıl kombinleneceğine dair başlıkların öne çıkması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Vintage tarzda el örgüsü yün kazaklar, hırkalar ve kazak bakım kitleri (tiftik temizleyiciler, özel sabunlar).",
+   "product_keywords": [
+    {
+     "keyword": "vintage wool sweater",
+     "label": "vintage yün kazak"
+    },
+    {
+     "keyword": "hand knit wool cardigan",
+     "label": "el örgüsü yün hırka"
+    }
+   ]
+  },
+  {
+   "name": "Indigenous Peoples' Day",
+   "heat": "Hızla yükseliyor",
+   "desc": "ABD'de 12 Ekim'de kutlanan yerli halklar gününün yaklaşmasıyla birlikte yerli kültürüne, tarihine ve sanatsal motiflerine olan ilginin artması.",
+   "why": "Google'da 'october 12 holiday' aramasının yüksek hacimle hızla yükselenler listesine girmesi.",
    "sources": [
     "Google"
    ],
-   "idea": "Yarışçının adı, göğüs numarası ve bitirme süresiyle özelleştirilebilen maraton rotası harita posteri veya ahşap madalya ",
+   "idea": "Yerli halklar gününü kutlayan özel tasarım tişörtler, farkındalık çıkartmaları ve yerli motifli el yapımı dekoratif ürün",
    "product_keywords": [
     {
-     "keyword": "marathon route map personalized",
-     "label": "kişiye özel maraton rota tablosu"
+     "keyword": "indigenous peoples day shirt",
+     "label": "yerli halklar günü tişörtü"
     },
     {
-     "keyword": "wooden marathon medal hanger",
-     "label": "ahşap maraton madalya askılığı"
+     "keyword": "native american art print",
+     "label": "kızılderili sanat baskısı"
     }
    ]
   },
   {
-   "name": "Şapka Özelleştirme Aksesuarları",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik fötr, panama veya keçe şapkaları kişiselleştirmek ve tarz katmak için kullanılan el yapımı tamamlayıcı parçalar.",
-   "why": "Reddit r/femalefashionadvice üzerinde şapka kullanımı ve aksesuarlarına yönelik ipuçlarının öne çıkması.",
+   "name": "2000s Style Revival",
+   "heat": "Yükseliyor",
+   "desc": "2000'li yılların başındaki erkek giyim tarzının, özellikle retro detaylar ve bol kesimlerle genç nesil arasında yeniden popülerleşmesi.",
+   "why": "Reddit malefashionadvice topluluğunda 2000'ler tarzının ne olduğunun sorulması ve retro kombinlerin ilgi görmesi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Şapkalara kolayca takılabilen el yapımı deri/boncuklu şapka bantları ve vintage pirinç şapka iğneleri.",
+   "idea": "2000'ler tarzı kargo pantolonlar, retro güneş gözlükleri, zincirli cüzdanlar ve vintage baget çantalar.",
    "product_keywords": [
     {
-     "keyword": "leather hat band",
-     "label": "deri şapka bandı"
+     "keyword": "y2k mens fashion",
+     "label": "y2k erkek modası"
     },
     {
-     "keyword": "vintage hat pin accessories",
-     "label": "vintage şapka iğnesi"
-    }
-   ]
-  },
-  {
-   "name": "Masif Pirinç Ayakkabı Çekeceği",
-   "heat": "Yeni çıktı",
-   "desc": "Ayakkabı ömrünü koruma ritüelini estetik ve nostaljik bir bakım alışkanlığına dönüştüren vintage çekecek merakı.",
-   "why": "Reddit moda topluluğunda ayakkabı çekeceği kullanımının faydaları üzerine yoğun etkileşim oluşması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Deri askı detaylı, hediye kutulu, üzerine isim veya monogram kazınabilen masif pirinç ayakkabı çekeceği.",
-   "product_keywords": [
-    {
-     "keyword": "solid brass shoe horn",
-     "label": "masif pirinç çekecek"
-    },
-    {
-     "keyword": "personalized engraved shoehorn",
-     "label": "kişiye özel işlemeli çekecek"
+     "keyword": "2000s retro sunglasses",
+     "label": "2000ler retro güneş gözlüğü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T12:06+00:00",
+ "trends_updated_at": "2026-10-08T15:06+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -368,7 +389,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -376,12 +397,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-08T12:06+00:00"
+ "generated_at": "2026-10-08T15:06+00:00"
 }

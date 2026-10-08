@@ -3,148 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "I am Jane Doe",
-   "heat": "Zirvede",
-   "desc": "Cornell Üniversitesi'ndeki bir olayla bağlantılı olarak ortaya çıkan ve cinsel saldırı mağdurlarını desteklemeyi amaçlayan toplumsal bir dayanışma hareketi.",
-   "why": "TikTok'ta #iamjanedoe ve #janedoe etiketlerinin ilk iki sıraya yerleşmesi ve Reddit'te Cornell olayıyla ilgili yoğun paylaşımların yapılması.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Mağdurlara destek amaçlı 'I am Jane Doe' veya 'I Stand With Jane Doe' yazılı minimalist rozetler, çıkartmalar (stickers)",
-   "product_keywords": [
-    {
-     "keyword": "i stand with jane doe sticker",
-     "label": "Jane Doe destek çıkartması"
-    },
-    {
-     "keyword": "jane doe support pin",
-     "label": "Jane Doe destek rozeti"
-    }
-   ]
-  },
-  {
-   "name": "Copper Wire Crochet Jewelry",
-   "heat": "Yükseliyor",
-   "desc": "İnce bakır tellerin tığ işi (crochet) teknikleriyle örülerek benzersiz, el yapımı takılara dönüştürülmesi akımı.",
-   "why": "Reddit'in 'shutupandtakemymoney' topluluğunda bakır tel örgü kolyenin büyük ilgi görmesi.",
+   "name": "Copper Wire Crochet Takı",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel tığ işi tekniğinin ince bakır ve metal tellerle heykelsi takılara dönüştürüldüğü el yapımı zanaat akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda bakır tel örgü kolyenin viral ilgi görmesiyle ortaya çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı bakır tel örgü kolyeler, küpeler ve doğal taşlarla süslenmiş tel sargı takılar.",
+   "idea": "Özel büküm bakır telden tığ ile örülmüş choker kolye, tel örgü sallantılı küpeler ve kolye uçları.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
-     "label": "bakır tel örgü kolye"
+     "label": "bakır tel tığ işi kolye"
     },
     {
-     "keyword": "wire wrapped crochet jewelry",
-     "label": "tel sargı örgü takı"
+     "keyword": "wire crochet jewelry",
+     "label": "tel örgü takı"
     }
    ]
   },
   {
-   "name": "I have no idea who you are",
-   "heat": "Yeni çıktı",
-   "desc": "Yargıç Mindy Glazer'ın, ünlü olduğunu iddia eden Rick Ross'a verdiği 'Sizin kim olduğunuz hakkında hiçbir fikrim yok' yanıtının viral bir mizah unsuruna dönüşmesi.",
-   "why": "Reddit popculturechat topluluğunda bu diyalogla ilgili paylaşımın haftanın en popüler gönderilerinden biri olması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Üzerinde 'I have no idea who you are' yazan esprili kupalar, tişörtler, ofis masası tabelaları ve çıkartmalar.",
-   "product_keywords": [
-    {
-     "keyword": "i have no idea who you are mug",
-     "label": "kim olduğun hakkında fikrim yok kupası"
-    },
-    {
-     "keyword": "funny judge quote shirt",
-     "label": "esprili hakim sözü tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Willem Dafoe's Goat & Sheep Lifestyle",
-   "heat": "Yükseliyor",
-   "desc": "Willem Dafoe'nun keçi ve koyunlarını yatırırken huzur bulduğunu söylemesiyle başlayan, doğaya dönüş ve hayvan sevgisini yücelten mikro-yaşam tarzı akımı.",
-   "why": "Reddit popculturechat topluluğunda Dafoe'nun 'Onlar bana yardım ediyor' (They're helping me) sözünün çok popüler olması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Keçi ve koyun illüstrasyonlu, üzerinde 'They're helping me' yazan cottagecore tarzı kupalar, bez çantalar ve duvar poste",
-   "product_keywords": [
-    {
-     "keyword": "cottagecore goat mug",
-     "label": "cottagecore keçi kupası"
-    },
-    {
-     "keyword": "they are helping me shirt",
-     "label": "bana yardım ediyorlar tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Re-discovering Wool Sweaters",
-   "heat": "Yükseliyor",
-   "desc": "Sonbaharın gelişiyle birlikte klasik, kaliteli ve benzersiz örgü yün kazakların yeniden keşfedilmesi ve vintage tarzda kombinlenmesi.",
-   "why": "Reddit malefashionadvice topluluğunda 'Re-discovering wool sweaters' ve benzersiz kazakların nasıl kombinleneceğine dair başlıkların öne çıkması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Vintage tarzda el örgüsü yün kazaklar, hırkalar ve kazak bakım kitleri (tiftik temizleyiciler, özel sabunlar).",
-   "product_keywords": [
-    {
-     "keyword": "vintage wool sweater",
-     "label": "vintage yün kazak"
-    },
-    {
-     "keyword": "hand knit wool cardigan",
-     "label": "el örgüsü yün hırka"
-    }
-   ]
-  },
-  {
-   "name": "Indigenous Peoples' Day",
+   "name": "Dungeon Crawler Carl Fandom Merch",
    "heat": "Hızla yükseliyor",
-   "desc": "ABD'de 12 Ekim'de kutlanan yerli halklar gününün yaklaşmasıyla birlikte yerli kültürüne, tarihine ve sanatsal motiflerine olan ilginin artması.",
-   "why": "Google'da 'october 12 holiday' aramasının yüksek hacimle hızla yükselenler listesine girmesi.",
+   "desc": "Peacock dizisi uyarlaması duyurulan ve kült hayran kitlesi olan LitRPG/fantastik kitap serisine yönelik popülerlik patlaması.",
+   "why": "Google Hızlı Yükselenler listesinde 'dungeon crawler carl peacock series' aramasının ani yükselişe geçmesi.",
    "sources": [
     "Google"
    ],
-   "idea": "Yerli halklar gününü kutlayan özel tasarım tişörtler, farkındalık çıkartmaları ve yerli motifli el yapımı dekoratif ürün",
+   "idea": "Seriye özel Prenses Donut ve Carl temalı illüstrasyonlu kitap ayraçları, fandom kupaları ve laptop sticker setleri.",
    "product_keywords": [
     {
-     "keyword": "indigenous peoples day shirt",
-     "label": "yerli halklar günü tişörtü"
+     "keyword": "dungeon crawler carl bookmark",
+     "label": "dungeon crawler carl kitap ayracı"
     },
     {
-     "keyword": "native american art print",
-     "label": "kızılderili sanat baskısı"
+     "keyword": "litrpg bookish merch",
+     "label": "litrpg temalı hediyelik eşya"
     }
    ]
   },
   {
-   "name": "2000s Style Revival",
+   "name": "2010'lar CeCe & Rocky Katmanlı Dans Nostaljisi",
    "heat": "Yükseliyor",
-   "desc": "2000'li yılların başındaki erkek giyim tarzının, özellikle retro detaylar ve bol kesimlerle genç nesil arasında yeniden popülerleşmesi.",
-   "why": "Reddit malefashionadvice topluluğunda 2000'ler tarzının ne olduğunun sorulması ve retro kombinlerin ilgi görmesi.",
+   "desc": "Z kuşağının 2010'lar başı Disney Channel (Shake It Up) dizisi estetiğine, renkli katmanlı giyime ve dans aksesuarlarına duyduğu nostaljik ilgi.",
+   "why": "Reddit r/GenZ topluluğunda CeCe ve Rocky gibi giyinme özleminin viral tartışma başlatması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2000'ler tarzı kargo pantolonlar, retro güneş gözlükleri, zincirli cüzdanlar ve vintage baget çantalar.",
+   "idea": "Renkli tül dans tütüsü, parmaksız neon eldivenler, kat kat giyilebilir parlak tozluklar (leg warmers).",
    "product_keywords": [
     {
-     "keyword": "y2k mens fashion",
-     "label": "y2k erkek modası"
+     "keyword": "y2k 2010s leg warmers",
+     "label": "2010'lar dans tozluğu"
     },
     {
-     "keyword": "2000s retro sunglasses",
-     "label": "2000ler retro güneş gözlüğü"
+     "keyword": "shake it up costume",
+     "label": "shake it up esintili aksesuar"
+    }
+   ]
+  },
+  {
+   "name": "Geleneksel Yün Triko & El Örgüsü Rönesansı",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı modanın sentetik kalitesizliğinden bıkan tüketicilerin dayanıklı, doğal ve vintage dokulu hakiki yün giysilere dönmesi.",
+   "why": "Reddit r/malefashionadvice topluluğunda Uniqlo kalitesinin düşüşü ve 'yün kazakları yeniden keşfetme' gönderilerinin öne çıkması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Hakiki kuzu yününden el örgüsü süveterler, balıkçı yaka kaba dokulu yün kazaklar ve el yapımı yün bakım keseleri.",
+   "product_keywords": [
+    {
+     "keyword": "handmade wool knit sweater",
+     "label": "el örgüsü yün kazak"
+    },
+    {
+     "keyword": "chunky wool knit vest",
+     "label": "kalın dokulu yün süveter"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T15:06+00:00",
+ "trends_updated_at": "2026-10-08T18:04+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -397,12 +336,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-08T15:06+00:00"
+ "generated_at": "2026-10-08T18:04+00:00"
 }

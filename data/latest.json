@@ -3,168 +3,88 @@
  "sample": false,
  "trends": [
   {
-   "name": "Jane Doe & Cornell True Crime Kültürü",
-   "heat": "Zirvede",
-   "desc": "Sosyal medyada büyük yankı uyandıran 'Jane Doe' davası ve 'Cornell 7' ses kayıtları etrafında dönen internet dedektifliği ve adalet arayışı akımı.",
-   "why": "TikTok'ta 'iamjanedoe' ve 'janedoe' hashtag'lerinin ilk iki sırada yer alması ve Reddit'te Cornell ses kayıtlarının gündem olmasıyla görünmektedir.",
+   "name": "I Am Jane Doe Dayanışma Hareketi",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin kadın hakları, kampüs güvenliği ve mağdurlara destek amacıyla başlattığı sembolik ve kolektif adalet dayanışması akımı.",
+   "why": "TikTok'ta #iamjanedoe ve #janedoe etiketlerinin ilk iki sıraya yerleşmesi ve Reddit'te (r/popculturechat, r/GenZ) konunun yoğun şekilde tartışılması.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Sosyal farkındalık yaratan veya 'Justice for Jane Doe' temalı minimalist rozetler, çıkartmalar ve bez çantalar.",
+   "idea": "'I Am Jane Doe' sloganlı minimalist mine (enamel) yaka iğneleri, mor kurdele temalı dayanışma bileklikleri ve bez çantal",
    "product_keywords": [
     {
-     "keyword": "justice sticker",
-     "label": "Adalet temalı çıkartma"
+     "keyword": "jane doe enamel pin",
+     "label": "jane doe yaka iğnesi"
     },
     {
-     "keyword": "statement tote bag",
-     "label": "mesaj içerikli bez çanta"
+     "keyword": "feminist solidarity tote bag",
+     "label": "dayanışma bez çanta"
     }
    ]
   },
   {
-   "name": "Mogging & Maxxing Kültürü",
-   "heat": "Yükseliyor",
-   "desc": "Gençler arasında popüler olan, dış görünüşü ve kişisel özellikleri optimize etmeyi mizahi bir dille ifade eden 'mogging' ve '-maxxing' internet jargonları.",
-   "why": "Reddit'in TikTokCringe topluluğunda 'Mogging' ve 'Autistic Husband Maxxing' başlıklarının öne çıkmasıyla görünmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Üzerinde 'Mogger', 'Mogging in progress' veya '-maxxing' temalı mizahi yazılar bulunan tişörtler, kupalar ve çıkartmalar",
-   "product_keywords": [
-    {
-     "keyword": "mogging shirt",
-     "label": "Mogging tişörtü"
-    },
-    {
-     "keyword": "funny maxxing sticker",
-     "label": "eğlenceli maxxing çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Copper Wire Crochet Takılar",
+   "name": "Copper Wire Crochet (Tel Örgü Takı Sanatı)",
    "heat": "Yeni çıktı",
-   "desc": "Bakır tel kullanılarak tığ işi (crochet) tekniğiyle yapılan özgün, estetik ve el yapımı takı tasarımları.",
-   "why": "Reddit'in 'shutupandtakemymoney' topluluğunda 'Copper wire crochet necklace' başlığının yoğun ilgi görmesiyle tespit edilmiştir.",
+   "desc": "Geleneksel tığ işi tekniğinin bakır ve metal tellerle birleştirilerek heykelsi, bohem ve organik formlu takılara dönüştürülmesi akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda bakır tel örgülü kolyenin doğrudan satın alma ilgisiyle viral olması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Bakır telden örülmüş el yapımı kolyeler, küpeler veya bu takıların yapımını öğreten DIY (Kendin Yap) başlangıç setleri.",
+   "idea": "El yapımı bükülebilir bakır tel örgü gerdanlıklar, doğal taş detaylı tel tığ işi kolyeler ve küpeler.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
-     "label": "Bakır tel örgü kolye"
+     "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "wire crochet jewelry kit",
-     "label": "tel örgü takı seti"
+     "keyword": "wire crochet jewelry",
+     "label": "tel örgü takı"
     }
    ]
   },
   {
-   "name": "Kıyafeti Bozmayan Estetik Laptop Çantaları",
+   "name": "2000'ler & CeCe-Rocky Katmanlı Dans Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Günlük şıklığı ve kıyafet kombinini (fit) bozmayacak, hem işlevsel hem de minimalist tasarıma sahip kadın laptop sırt çantaları arayışı.",
-   "why": "Reddit'in 'femalefashionadvice' topluluğunda 'Laptop backpack that doesn’t ruin your fit?' sorusunun popüler olmasıyla görünmektedir.",
+   "desc": "Gen Z'nin çocukluk dönemi 2000'ler başı ve Disney gençlik dizilerindeki enerjik, katmanlı, renkli ve cesur giyim tarzına duyduğu nostalji.",
+   "why": "Reddit r/GenZ ve r/malefashionadvice topluluklarında dönemin katmanlı tarzlarının ve nostaljik stil ikonlarının tekrar aranması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Şık kıyafetlerle uyumlu, ince, minimalist, pastel tonlarda veya vegan deri laptop sırt çantaları.",
+   "idea": "Y2K tarzı katmanlı tül etekler, bacak ısıtıcıları (leg warmers), kalın tokalı gösterişli kemerler ve renkli sokak dansı ",
    "product_keywords": [
     {
-     "keyword": "aesthetic laptop backpack",
-     "label": "Estetik laptop sırt çantası"
+     "keyword": "y2k statement belt",
+     "label": "y2k gösterişli kemer"
     },
     {
-     "keyword": "minimalist tech backpack female",
-     "label": "kadınlar için minimalist teknoloji sırt çantası"
+     "keyword": "y2k leg warmers",
+     "label": "y2k bacak ısıtıcı"
     }
    ]
   },
   {
-   "name": "P.T. (Silent Hills) Horror Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Efsanevi iptal edilen korku oyunu P.T.'nin (Silent Hills) PC portunun çıkmasıyla birlikte oyun dünyasında yeniden canlanan korku estetiği akımı.",
-   "why": "Google'da 'hideo kojima pt pc port' aramasının hızla yükselişe geçmesiyle tespit edilmiştir.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "P.T. oyunundaki ikonik koridor, radyo veya karakterler temalı posterler, neon lambalar ve oyun odası dekorasyon ürünleri",
-   "product_keywords": [
-    {
-     "keyword": "pt silent hills poster",
-     "label": "PT Silent Hills posteri"
-    },
-    {
-     "keyword": "horror game decor",
-     "label": "korku oyunu dekoru"
-    }
-   ]
-  },
-  {
-   "name": "Dünya Uzay Haftası Estetiği",
-   "heat": "Zirvede",
-   "desc": "Dünya Uzay Haftası (Semana Mundial del Espacio) kapsamında gökyüzü gözlemciliği, yıldızlar ve kozmos temalı ürünlere olan ilginin artması.",
-   "why": "Google'da 'semana mundial del espacio 2026' aramasının yüksek hacimle yükselişe geçmesiyle görünmektedir.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Kişiselleştirilmiş yıldız haritaları, galaksi temalı takılar veya karanlıkta parlayan takımyıldız dekorasyonları.",
-   "product_keywords": [
-    {
-     "keyword": "custom star map",
-     "label": "Kişiye özel yıldız haritası"
-    },
-    {
-     "keyword": "galaxy jewelry celestial",
-     "label": "galaksi temalı göksel takı"
-    }
-   ]
-  },
-  {
-   "name": "Hat People Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Şapkaları günlük tarzlarının ana parçası haline getiren kişilerin şapka bakımı, saklama çözümleri ve kombinleme arayışları.",
-   "why": "Reddit'in 'femalefashionadvice' topluluğunda 'Hat People - what are your top tips?' başlığının ilgi görmesiyle tespit edilmiştir.",
+   "name": "Doğal Yün & Heritage Triko Dönüşü",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı modanın sentetik kumaşlarına tepki olarak geleneksel, kalın dokulu ve zamansız saf yün kazakların yeniden değer kazanması hareketi.",
+   "why": "Reddit r/malefashionadvice üzerinde kullanıcıların vintage ve saf yün kazakları yeniden keşfetmesi ve benzersiz örgü modelleri araması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Şapkaların formunu koruyan estetik duvar askıları, şapka kutuları veya şapkaları süslemek için özel tasarım şapka iğnele",
+   "idea": "Vintage desenli el örgüsü kalın yün kazaklar ve zanaatkar işi dokulu yün hırkalar.",
    "product_keywords": [
     {
-     "keyword": "aesthetic hat hanger",
-     "label": "Estetik şapka askısı"
+     "keyword": "chunky wool sweater",
+     "label": "kalın yün kazak"
     },
     {
-     "keyword": "custom hat pins",
-     "label": "özel tasarım şapka iğneleri"
-    }
-   ]
-  },
-  {
-   "name": "Eid Kombin Planlama ve Aksesuarları",
-   "heat": "Yeni çıktı",
-   "desc": "Eid (Bayram) için geleneksel Pakistan kıyafetleri ve kombin ilhamları arayan gençlerin estetik hazırlık süreci.",
-   "why": "Reddit'in 'femalefashionadvice' topluluğunda 'Pakistani Eid Outfit Inspo Board' paylaşımının öne çıkmasıyla görünmektedir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Eid kıyafetleriyle uyumlu el yapımı geleneksel takılar (jhumka küpeler vb.) veya dijital Eid kombin planlayıcı şablonlar",
-   "product_keywords": [
-    {
-     "keyword": "handmade jhumka earrings",
-     "label": "El yapımı Jhumka küpeler"
-    },
-    {
-     "keyword": "eid outfit planner digital",
-     "label": "dijital Eid kombin planlayıcı"
+     "keyword": "vintage knit sweater",
+     "label": "vintage örgü kazak"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T06:06+00:00",
+ "trends_updated_at": "2026-10-08T09:06+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -417,12 +337,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 8
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-08T06:06+00:00"
+ "generated_at": "2026-10-08T09:06+00:00"
 }

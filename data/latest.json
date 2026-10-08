@@ -3,87 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Copper Wire Crochet Takı",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel tığ işi tekniğinin ince bakır ve metal tellerle heykelsi takılara dönüştürüldüğü el yapımı zanaat akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda bakır tel örgü kolyenin viral ilgi görmesiyle ortaya çıktı.",
+   "name": "Mogging & Looksmaxxing Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z internet kültüründe yüz hatları ve duruş üzerinden mizahi estetik üstünlük kurma akımı.",
+   "why": "Reddit r/TikTokCringe topluluğunda viral olan 'Mogging' başlığıyla öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Özel büküm bakır telden tığ ile örülmüş choker kolye, tel örgü sallantılı küpeler ve kolye uçları.",
+   "idea": "Esprili 'Mogger' ve çene hattı temalı grafik tişörtler, kupa bardaklar ve su matarası çıkartmaları.",
    "product_keywords": [
     {
-     "keyword": "copper wire crochet necklace",
-     "label": "bakır tel tığ işi kolye"
+     "keyword": "mogging meme shirt",
+     "label": "mogging temalı tişört"
     },
     {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örgü takı"
+     "keyword": "mogger sticker",
+     "label": "mogger çıkartma"
     }
    ]
   },
   {
-   "name": "Dungeon Crawler Carl Fandom Merch",
-   "heat": "Hızla yükseliyor",
-   "desc": "Peacock dizisi uyarlaması duyurulan ve kült hayran kitlesi olan LitRPG/fantastik kitap serisine yönelik popülerlik patlaması.",
-   "why": "Google Hızlı Yükselenler listesinde 'dungeon crawler carl peacock series' aramasının ani yükselişe geçmesi.",
+   "name": "Kıyafet Uyumlu Estetik Laptop Sırt Çantası",
+   "heat": "Yükseliyor",
+   "desc": "Ofise veya üniversiteye giden gençlerin hantal teknik çantalar yerine şık kıyafetleri bozmayan ince profilli çanta arayışı.",
+   "why": "Reddit r/femalefashionadvice'ta 'Laptop backpack that doesn’t ruin your fit?' sorusunun yoğun etkileşim almasıyla görülüyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kıyafet kombinleriyle uyumlu minimalist vegan deri veya kanvas laptop sırt çantası.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist laptop backpack",
+     "label": "minimalist laptop sırt çantası"
+    },
+    {
+     "keyword": "aesthetic work backpack",
+     "label": "estetik iş sırt çantası"
+    }
+   ]
+  },
+  {
+   "name": "BIFL Pirinç El Değirmenleri",
+   "heat": "Yükseliyor",
+   "desc": "Ömürlük dayanıklılık (Buy It For Life) arayan tüketicilerin pirinç döküm nostaljik el değirmenlerine yönelmesi.",
+   "why": "Reddit r/BuyItForLife'ta dededen kalma pirinç değirmenlerin onlarca yıldır kusursuz çalışmasıyla ilgili paylaşımların öne çıkması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geleneksel motifli, dayanıklı el yapımı pirinç kahve ve baharat el değirmeni.",
+   "product_keywords": [
+    {
+     "keyword": "brass manual grinder",
+     "label": "pirinç el değirmeni"
+    },
+    {
+     "keyword": "vintage brass coffee mill",
+     "label": "vintage pirinç kahve öğütücü"
+    }
+   ]
+  },
+  {
+   "name": "Zanaatkar İşi Ayakkabı Çekecekleri",
+   "heat": "Yeni çıktı",
+   "desc": "Ayakkabı formunu koruma ve klasik ayakkabı bakımına geri dönüşle birlikte çekeceklerin stil aksesuarı haline gelmesi.",
+   "why": "Reddit r/femalefashionadvice'ta ayakkabı çekeceği kullanımına dair tartışmanın dikkat çekmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kişiye özel isim yazılabilen pirinç veya oymalı masif ahşap cep boy ayakkabı çekeceği.",
+   "product_keywords": [
+    {
+     "keyword": "handcrafted shoehorn",
+     "label": "el yapımı ayakkabı çekeceği"
+    },
+    {
+     "keyword": "custom engraved shoe horn",
+     "label": "özel isimli metal çekecek"
+    }
+   ]
+  },
+  {
+   "name": "Klasik Güvenlikli Tıraş Setleri",
+   "heat": "Yükseliyor",
+   "desc": "Tek kullanımlık plastik bıçaklardan kaçınıp vintage metal tıraş makinelerine ve nostaljik berber ritüellerine dönüş.",
+   "why": "Reddit r/BuyItForLife'ta Henson tipi metal tıraş makineleri ve antika alet takaslarının popülerleşmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Klasik tıraş makineleri için hakiki deri seyahat kılıfı veya ahşap masaüstü standı.",
+   "product_keywords": [
+    {
+     "keyword": "safety razor leather case",
+     "label": "deri tıraş bıçağı kılıfı"
+    },
+    {
+     "keyword": "wooden razor stand",
+     "label": "ahşap tıraş makinesi standı"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Zodiac Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Astrolojik sembollerin casusluk ve retro çizgi roman karanlık estetiğiyle birleştiği yeni popüler kültür dalgası.",
+   "why": "Google Trends'te 'marvel zodiac' aramasının 2000+ hacimle ani yükselişe geçmesi.",
    "sources": [
     "Google"
    ],
-   "idea": "Seriye özel Prenses Donut ve Carl temalı illüstrasyonlu kitap ayraçları, fandom kupaları ve laptop sticker setleri.",
+   "idea": "Zodyak takımyıldızı ve çizgi roman esintili retro illüstrasyon posterleri veya kumaş yamaları.",
    "product_keywords": [
     {
-     "keyword": "dungeon crawler carl bookmark",
-     "label": "dungeon crawler carl kitap ayracı"
+     "keyword": "vintage zodiac graphic tee",
+     "label": "vintage burç tişörtü"
     },
     {
-     "keyword": "litrpg bookish merch",
-     "label": "litrpg temalı hediyelik eşya"
+     "keyword": "zodiac aesthetic patch",
+     "label": "astroloji arması"
     }
    ]
   },
   {
-   "name": "2010'lar CeCe & Rocky Katmanlı Dans Nostaljisi",
+   "name": "Şapka Taşıma ve Sergileme Aksesuarları",
    "heat": "Yükseliyor",
-   "desc": "Z kuşağının 2010'lar başı Disney Channel (Shake It Up) dizisi estetiğine, renkli katmanlı giyime ve dans aksesuarlarına duyduğu nostaljik ilgi.",
-   "why": "Reddit r/GenZ topluluğunda CeCe ve Rocky gibi giyinme özleminin viral tartışma başlatması.",
+   "desc": "Kombinlerini fötr veya geniş kenarlı şapkalarla tamamlayanların şapkaları deforme etmeden taşıma ve saklama ihtiyacı.",
+   "why": "Reddit r/femalefashionadvice'ta 'Hat People' ipuçları ve aksesuarları üzerine başlayan tartışma.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Renkli tül dans tütüsü, parmaksız neon eldivenler, kat kat giyilebilir parlak tozluklar (leg warmers).",
+   "idea": "Çantaya asılan manyetik deri şapka klipsi ve duvara monte dekoratif şapka askılıkları.",
    "product_keywords": [
     {
-     "keyword": "y2k 2010s leg warmers",
-     "label": "2010'lar dans tozluğu"
+     "keyword": "magnetic hat clip for bag",
+     "label": "manyetik çanta şapka klipsi"
     },
     {
-     "keyword": "shake it up costume",
-     "label": "shake it up esintili aksesuar"
-    }
-   ]
-  },
-  {
-   "name": "Geleneksel Yün Triko & El Örgüsü Rönesansı",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modanın sentetik kalitesizliğinden bıkan tüketicilerin dayanıklı, doğal ve vintage dokulu hakiki yün giysilere dönmesi.",
-   "why": "Reddit r/malefashionadvice topluluğunda Uniqlo kalitesinin düşüşü ve 'yün kazakları yeniden keşfetme' gönderilerinin öne çıkması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Hakiki kuzu yününden el örgüsü süveterler, balıkçı yaka kaba dokulu yün kazaklar ve el yapımı yün bakım keseleri.",
-   "product_keywords": [
-    {
-     "keyword": "handmade wool knit sweater",
-     "label": "el örgüsü yün kazak"
-    },
-    {
-     "keyword": "chunky wool knit vest",
-     "label": "kalın dokulu yün süveter"
+     "keyword": "aesthetic wall hat rack",
+     "label": "duvar için şapka askılığı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T18:04+00:00",
+ "trends_updated_at": "2026-10-08T21:05+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -328,7 +388,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -336,12 +396,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-08T18:04+00:00"
+ "generated_at": "2026-10-08T21:05+00:00"
 }

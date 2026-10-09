@@ -106,94 +106,25 @@
  "trends_updated_at": "2026-10-09T03:04+00:00",
  "products": [
   {
-   "name": "yün kazak triko",
-   "keyword": "wool sweater knitwear",
-   "origin": "Akım: Re-discovering Wool Sweaters",
-   "change": 120.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    10,
-    0,
-    0,
-    0,
-    0,
-    12,
-    0,
-    10,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "Evcil hayvan portresi",
-   "keyword": "custom pet portrait",
-   "origin": "İzleme listen",
-   "change": 57.1,
-   "spark": [
-    0,
-    0,
-    0,
-    2,
-    1,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    1,
-    0
-   ],
-   "stale": false
-  },
-  {
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 30.1,
+   "change": 22.2,
    "spark": [
-    10,
-    12,
-    12,
-    10,
-    9,
-    10,
-    10,
-    12,
-    13,
     15,
-    14,
-    14,
     13,
-    14
-   ],
-   "stale": false
-  },
-  {
-   "name": "vintage yün kazak",
-   "keyword": "vintage wool sweater",
-   "origin": "Akım: Re-discovering Wool Sweaters",
-   "change": 8.5,
-   "spark": [
-    65,
-    73,
-    69,
-    61,
-    64,
-    51,
-    50,
-    49,
-    66,
-    71,
-    54,
-    67,
-    63,
-    100
+    12,
+    12,
+    12,
+    12,
+    14,
+    15,
+    18,
+    17,
+    17,
+    16,
+    14,
+    13
    ],
    "stale": false
   },
@@ -201,22 +132,45 @@
    "name": "Kokulu mum",
    "keyword": "scented candle",
    "origin": "İzleme listen",
-   "change": 7.6,
+   "change": 8.2,
    "spark": [
-    33,
-    37,
+    46,
+    46,
+    43,
     39,
     36,
-    32,
-    29,
-    32,
-    33,
+    40,
     41,
-    45,
-    35,
-    38,
-    32,
-    32
+    49,
+    55,
+    43,
+    47,
+    43,
+    36,
+    42
+   ],
+   "stale": false
+  },
+  {
+   "name": "vintage yün kazak",
+   "keyword": "vintage wool sweater",
+   "origin": "Akım: Re-discovering Wool Sweaters",
+   "change": 0.9,
+   "spark": [
+    100,
+    91,
+    85,
+    81,
+    78,
+    66,
+    70,
+    86,
+    93,
+    76,
+    91,
+    90,
+    87,
+    53
    ],
    "stale": false
   },
@@ -241,12 +195,12 @@
     0,
     0
    ],
-   "stale": false
+   "stale": true
   },
   {
-   "name": "tel örgü takı",
-   "keyword": "wire crochet jewelry",
-   "origin": "Akım: Copper Wire Crochet Jewelry",
+   "name": "bütçe zarfı düzenleyici",
+   "keyword": "budget binder with cash envelopes",
+   "origin": "Akım: First of the Month Reset",
    "change": 0.0,
    "spark": [
     0,
@@ -267,9 +221,55 @@
    "stale": false
   },
   {
-   "name": "Y2K estetik üst",
-   "keyword": "y2k aesthetic top",
-   "origin": "Akım: 2000s Teen Nostalgia Style",
+   "name": "yün kazak bakım tarağı",
+   "keyword": "cashmere wool comb",
+   "origin": "Akım: Re-discovering Wool Sweaters",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "2010lar estetik grafik tişört",
+   "keyword": "2010s aesthetic graphic tee",
+   "origin": "Akım: 2010s Disney Teen Nostaljisi",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "y2k çoklu bileklik seti",
+   "keyword": "y2k layered bracelet set",
+   "origin": "Akım: 2010s Disney Teen Nostaljisi",
    "change": 0.0,
    "spark": [
     0,
@@ -293,22 +293,45 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": -6.8,
+   "change": -4.4,
    "spark": [
-    51,
+    76,
+    86,
+    68,
+    67,
     63,
-    72,
-    55,
-    54,
-    51,
-    50,
-    50,
-    62,
-    61,
+    60,
+    60,
+    75,
+    74,
+    69,
+    57,
+    57,
     56,
-    47,
-    45,
-    48
+    71
+   ],
+   "stale": false
+  },
+  {
+   "name": "Evcil hayvan portresi",
+   "keyword": "custom pet portrait",
+   "origin": "İzleme listen",
+   "change": -7.7,
+   "spark": [
+    2,
+    0,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    0
    ],
    "stale": false
   },
@@ -316,27 +339,27 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": -12.6,
+   "change": -11.3,
    "spark": [
+    52,
+    46,
+    42,
+    37,
+    40,
     38,
-    41,
+    37,
+    40,
+    40,
     39,
-    35,
+    39,
     32,
-    32,
-    30,
-    30,
-    33,
-    32,
-    32,
-    33,
-    25,
-    31
+    31,
+    38
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-10-08T04:42+00:00",
+ "products_updated_at": "2026-10-09T04:42+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -363,5 +386,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-10-09T03:04+00:00"
+ "generated_at": "2026-10-09T04:42+00:00"
 }

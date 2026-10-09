@@ -3,40 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "#shopwithconfidence",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "October 3rd (Mean Girls Day)",
+   "heat": "Zirvede",
+   "desc": "Kült gençlik filmi Mean Girls'ün ikonik sahnesine ithafen kutlanan, pembe renk ve 2000'ler (Y2K) alıntılarıyla viral olan popüler kültür günü.",
+   "why": "TikTok'ta #october3rd etiketi trend listesinde 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'On October 3rd he asked me what day it was' yazılı pembe kupa bardak, tote çanta veya sticker paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "october 3rd mean girls shirt",
+     "label": "Mean Girls 3 Ekim tişörtü"
+    },
+    {
+     "keyword": "mean girls quote mug",
+     "label": "Mean Girls alıntılı kupa"
+    }
+   ]
   },
   {
-   "name": "#october3rd",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Mogging & Looksmaxxing",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin estetik olarak başkalarından üstün görünmesini ve çene hattını vurgulamasını mizahi bir dille anlatan viral Gen-Z ve spor salonu jargonu.",
+   "why": "Reddit'te r/TikTokCringe topluluğunda 'Mogging' konulu paylaşım haftanın en popülerleri arasına girdi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "İronik 'Mogging in progress' veya 'Mogger' yazılı oversize spor salonu tişörtleri ve laptop sticker'ları.",
+   "product_keywords": [
+    {
+     "keyword": "mogging gym shirt",
+     "label": "mogging spor tişörtü"
+    },
+    {
+     "keyword": "looksmaxxing meme sticker",
+     "label": "looksmaxxing meme etiketi"
+    }
+   ]
   },
   {
-   "name": "#firstofthemonth",
+   "name": "Autumning It Up (Cozy Yün Triko)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Sonbaharın gelişiyle birlikte nostaljik yün kazaklara, toprak tonlarına ve katmanlı 'cozy' sonbahar giyim tarzına dönüş hareketi.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Autumning it up' ve 'Re-discovering wool sweaters' başlıkları öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro desenli el örgüsü kazak yapım şablonları (knitting patterns) veya vintage tarzı kalın dokuma sonbahar kazakları.",
+   "product_keywords": [
+    {
+     "keyword": "chunky wool knit sweater",
+     "label": "kalın yün örgü kazak"
+    },
+    {
+     "keyword": "fall aesthetic crewneck",
+     "label": "sonbahar temalı sweatshirt"
+    }
+   ]
+  },
+  {
+   "name": "First of the Month (Monthly Reset)",
+   "heat": "Yükseliyor",
+   "desc": "Her ayın ilk gününde yeni hedefler belirleme, bütçe yapma ve yaşam alanını düzenleme alışkanlığı etrafında oluşan viral yaşam tarzı akımı.",
+   "why": "TikTok'ta #firstofthemonth etiketi haftanın en popüler ilk 3 etiketi arasında yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Etsy üzerinden indirilebilir dijital 'Monthly Reset' hedef ve bütçe planlayıcı şablonları.",
+   "product_keywords": [
+    {
+     "keyword": "monthly reset planner digital",
+     "label": "dijital aylık planlayıcı"
+    },
+    {
+     "keyword": "habit tracker printable",
+     "label": "yazdırılabilir alışkanlık takipçisi"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-09T12:06+00:00",
+ "trends_updated_at": "2026-10-09T15:06+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -304,20 +351,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-09T12:06+00:00"
+ "generated_at": "2026-10-09T15:06+00:00"
 }

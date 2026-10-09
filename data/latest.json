@@ -3,87 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Day)",
-   "heat": "Zirvede",
-   "desc": "Kült gençlik filmi Mean Girls'ün ikonik 'On October 3rd he asked me what day it was' sahnesine dayanan yıllık popüler kültür kutlaması.",
-   "why": "TikTok'ta #october3rd etiketi en popüler 2. sırada yer alarak viral etkileşim aldı.",
+   "name": "#shopwithconfidence",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Pembe renk temalı, film alıntılı 'October 3rd' grafik tişörtler, kupalar ve nostaljik Y2K çıkartma paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "october 3rd shirt",
-     "label": "3 ekim tişörtü"
-    },
-    {
-     "keyword": "mean girls aesthetic sticker",
-     "label": "mean girls temalı çıkartma"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Mogging & Looksmaxxing",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin görünüş ve çene hattı üzerinden mizahi üstünlük kurma kültürünü ifade eden internet jargonu ve meme akımı.",
-   "why": "Reddit'in popüler topluluğu r/TikTokCringe'de 'Mogging' başlığı haftanın en çok konuşulan gönderileri arasında yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İronik 'Mogger' ve 'Mewing' sloganlı baskılı tişörtler, şapkalar ve vinil stickerlar.",
-   "product_keywords": [
-    {
-     "keyword": "mogger graphic tee",
-     "label": "mogger grafik tişört"
-    },
-    {
-     "keyword": "mewing meme sticker",
-     "label": "mewing meme çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Aesthetic Laptop Backpack",
+   "name": "#october3rd",
    "heat": "Yükseliyor",
-   "desc": "Şık ve özenli kıyafet kombinlerini bozmayan, kaba durmayan minimalist ve estetik teknoloji/laptop çantası arayışı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Laptop backpack that doesn’t ruin your fit?' başlığı öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "İnce profilli, şık vegan deri veya su geçirmez kumaştan üretilmiş minimalist kadın laptop sırt çantası.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic laptop backpack",
-     "label": "estetik laptop sırt çantası"
-    },
-    {
-     "keyword": "minimalist commuter backpack",
-     "label": "minimalist iş sırt çantası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Custom Brass Shoehorn (Kişiselleştirilmiş Çekecek)",
-   "heat": "Yeni çıktı",
-   "desc": "Ayakkabı ömrünü uzatma, klasik bakım ritüelleri ve 'ömürlük eşya' (BIFL) felsefesiyle birleşen vintage ayakkabı çekeceği merakı.",
-   "why": "Reddit r/femalefashionadvice'ta çekecek kullanımı tartışılırken r/BuyItForLife topluluğunda pirinç ve ömürlük aksesuarlar gündem oldu.",
+   "name": "#firstofthemonth",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "İsim veya baş harf kazınabilir masif pirinç veya deri askılı el yapımı ayakkabı çekeceği hediye seti.",
-   "product_keywords": [
-    {
-     "keyword": "custom brass shoehorn",
-     "label": "kişiye özel pirinç çekecek"
-    },
-    {
-     "keyword": "personalized shoe horn",
-     "label": "özel isimli ayakkabı çekeceği"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-09T09:06+00:00",
+ "trends_updated_at": "2026-10-09T12:06+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -351,20 +304,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-09T09:06+00:00"
+ "generated_at": "2026-10-09T12:06+00:00"
 }

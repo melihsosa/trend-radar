@@ -3,147 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mogging & Looksmaxxing Kültürü",
+   "name": "Copper Wire Crochet Jewelry",
+   "heat": "Yükseliyor",
+   "desc": "El yapımı bakır tellerden tığ işi/kroşe tekniğiyle örülerek yapılan estetik ve özgün takı tasarımları.",
+   "why": "Reddit'in shutupandtakemymoney topluluğunda bakır tel örgü kolye paylaşımı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El işçiliği bakır tel örgü kolyeler, bileklikler ve küpe setleri.",
+   "product_keywords": [
+    {
+     "keyword": "copper wire crochet necklace",
+     "label": "bakır tel örgü kolye"
+    },
+    {
+     "keyword": "wire crochet jewelry",
+     "label": "tel örgü takı"
+    }
+   ]
+  },
+  {
+   "name": "Aesthetic Laptop Backpacks",
+   "heat": "Yükseliyor",
+   "desc": "Gençlerin şık kombinlerini bozmadan laptop taşımalarını sağlayan estetik, minimalist ve fonksiyonel sırt çantası arayışı.",
+   "why": "Reddit'in femalefashionadvice topluluğunda kombinleri bozmayan laptop çantası araması gündem oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Şık kumaştan veya deri detaylı, kıyafetlerle uyumlu estetik kadın laptop sırt çantaları.",
+   "product_keywords": [
+    {
+     "keyword": "aesthetic laptop backpack",
+     "label": "estetik laptop sırt çantası"
+    },
+    {
+     "keyword": "chic laptop bag women",
+     "label": "şık kadın laptop çantası"
+    }
+   ]
+  },
+  {
+   "name": "Grown-Up Rave Wear",
+   "heat": "Yükseliyor",
+   "desc": "Genç yetişkinlerin rave ve müzik festivallerinde aşırı çocuksu kalmayan, daha olgun ve kaliteli kombin/aksesuar arayışı.",
+   "why": "Reddit femalefashionadvice kanalında yetişkinlerin rave etkinliklerinde ne giyeceğine dair başlık açıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist ve kaliteli festival giyim ürünleri, şık vücut zincirleri ve yetişkin rave aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "rave outfits for adults",
+     "label": "yetişkin rave kıyafetleri"
+    },
+    {
+     "keyword": "chic festival fashion",
+     "label": "şık festival modası"
+    }
+   ]
+  },
+  {
+   "name": "Mogging Meme Slang",
    "heat": "Hızla yükseliyor",
-   "desc": "Gen Z internet kültüründe yüz hatları ve duruş üzerinden mizahi estetik üstünlük kurma akımı.",
-   "why": "Reddit r/TikTokCringe topluluğunda viral olan 'Mogging' başlığıyla öne çıkıyor.",
+   "desc": "Gençler ve İnternet kültüründe fiziksel duruş veya görünüşle başkasına üstünlük kurmayı ifade eden popüler 'mogging' mizahı.",
+   "why": "Reddit TikTokCringe topluluğunda Mogging başlığı altında viral içerik yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Esprili 'Mogger' ve çene hattı temalı grafik tişörtler, kupa bardaklar ve su matarası çıkartmaları.",
+   "idea": "Mogging sloganlı mizahi tişörtler, kupalar ve baskılı etiketler (sticker).",
    "product_keywords": [
     {
-     "keyword": "mogging meme shirt",
-     "label": "mogging temalı tişört"
+     "keyword": "mogging shirt",
+     "label": "mogging tişörtü"
     },
     {
-     "keyword": "mogger sticker",
-     "label": "mogger çıkartma"
+     "keyword": "mogging sticker",
+     "label": "mogging etiketi"
     }
    ]
   },
   {
-   "name": "Kıyafet Uyumlu Estetik Laptop Sırt Çantası",
+   "name": "Pakistani Eid Outfit Aesthetic",
    "heat": "Yükseliyor",
-   "desc": "Ofise veya üniversiteye giden gençlerin hantal teknik çantalar yerine şık kıyafetleri bozmayan ince profilli çanta arayışı.",
-   "why": "Reddit r/femalefashionadvice'ta 'Laptop backpack that doesn’t ruin your fit?' sorusunun yoğun etkileşim almasıyla görülüyor.",
+   "desc": "Pakistan geleneksel bayram (Eid) kıyafetlerinin renkli, nakışlı ve etnik estetiğinden ilham alan moda akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda Pakistani Eid Outfit ilham panosu paylaşıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kıyafet kombinleriyle uyumlu minimalist vegan deri veya kanvas laptop sırt çantası.",
+   "idea": "Geleneksel nakışlı etnik şallar, el yapımı takı setleri ve bayram aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "minimalist laptop backpack",
-     "label": "minimalist laptop sırt çantası"
+     "keyword": "pakistani eid outfit",
+     "label": "pakistan eid kıyafeti"
     },
     {
-     "keyword": "aesthetic work backpack",
-     "label": "estetik iş sırt çantası"
+     "keyword": "embroidered ethnic shawl",
+     "label": "nakışlı etnik şal"
     }
    ]
   },
   {
-   "name": "BIFL Pirinç El Değirmenleri",
+   "name": "Flat Shoe Styling Accessories",
    "heat": "Yükseliyor",
-   "desc": "Ömürlük dayanıklılık (Buy It For Life) arayan tüketicilerin pirinç döküm nostaljik el değirmenlerine yönelmesi.",
-   "why": "Reddit r/BuyItForLife'ta dededen kalma pirinç değirmenlerin onlarca yıldır kusursuz çalışmasıyla ilgili paylaşımların öne çıkması.",
+   "desc": "Topuklu ayakkabı giymek istemeyen kadınların düz ve sevimli ayakkabıları şıklaştıracak aksesuar arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda topuklu olmayan sevimli ayakkabı önerileri tartışıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel motifli, dayanıklı el yapımı pirinç kahve ve baharat el değirmeni.",
+   "idea": "Düz babet ve ayakkabılara takılabilen çıkarılabilir fiyonk ve klipsli ayakkabı süsleri.",
    "product_keywords": [
     {
-     "keyword": "brass manual grinder",
-     "label": "pirinç el değirmeni"
+     "keyword": "shoe clips for flats",
+     "label": "düz ayakkabı klipsi"
     },
     {
-     "keyword": "vintage brass coffee mill",
-     "label": "vintage pirinç kahve öğütücü"
-    }
-   ]
-  },
-  {
-   "name": "Zanaatkar İşi Ayakkabı Çekecekleri",
-   "heat": "Yeni çıktı",
-   "desc": "Ayakkabı formunu koruma ve klasik ayakkabı bakımına geri dönüşle birlikte çekeceklerin stil aksesuarı haline gelmesi.",
-   "why": "Reddit r/femalefashionadvice'ta ayakkabı çekeceği kullanımına dair tartışmanın dikkat çekmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiye özel isim yazılabilen pirinç veya oymalı masif ahşap cep boy ayakkabı çekeceği.",
-   "product_keywords": [
-    {
-     "keyword": "handcrafted shoehorn",
-     "label": "el yapımı ayakkabı çekeceği"
-    },
-    {
-     "keyword": "custom engraved shoe horn",
-     "label": "özel isimli metal çekecek"
-    }
-   ]
-  },
-  {
-   "name": "Klasik Güvenlikli Tıraş Setleri",
-   "heat": "Yükseliyor",
-   "desc": "Tek kullanımlık plastik bıçaklardan kaçınıp vintage metal tıraş makinelerine ve nostaljik berber ritüellerine dönüş.",
-   "why": "Reddit r/BuyItForLife'ta Henson tipi metal tıraş makineleri ve antika alet takaslarının popülerleşmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Klasik tıraş makineleri için hakiki deri seyahat kılıfı veya ahşap masaüstü standı.",
-   "product_keywords": [
-    {
-     "keyword": "safety razor leather case",
-     "label": "deri tıraş bıçağı kılıfı"
-    },
-    {
-     "keyword": "wooden razor stand",
-     "label": "ahşap tıraş makinesi standı"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Zodiac Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Astrolojik sembollerin casusluk ve retro çizgi roman karanlık estetiğiyle birleştiği yeni popüler kültür dalgası.",
-   "why": "Google Trends'te 'marvel zodiac' aramasının 2000+ hacimle ani yükselişe geçmesi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Zodyak takımyıldızı ve çizgi roman esintili retro illüstrasyon posterleri veya kumaş yamaları.",
-   "product_keywords": [
-    {
-     "keyword": "vintage zodiac graphic tee",
-     "label": "vintage burç tişörtü"
-    },
-    {
-     "keyword": "zodiac aesthetic patch",
-     "label": "astroloji arması"
-    }
-   ]
-  },
-  {
-   "name": "Şapka Taşıma ve Sergileme Aksesuarları",
-   "heat": "Yükseliyor",
-   "desc": "Kombinlerini fötr veya geniş kenarlı şapkalarla tamamlayanların şapkaları deforme etmeden taşıma ve saklama ihtiyacı.",
-   "why": "Reddit r/femalefashionadvice'ta 'Hat People' ipuçları ve aksesuarları üzerine başlayan tartışma.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Çantaya asılan manyetik deri şapka klipsi ve duvara monte dekoratif şapka askılıkları.",
-   "product_keywords": [
-    {
-     "keyword": "magnetic hat clip for bag",
-     "label": "manyetik çanta şapka klipsi"
-    },
-    {
-     "keyword": "aesthetic wall hat rack",
-     "label": "duvar için şapka askılığı"
+     "keyword": "cute flat shoe accessories",
+     "label": "sevimli ayakkabı aksesuarları"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-08T21:05+00:00",
+ "trends_updated_at": "2026-10-09T00:05+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -388,7 +368,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -396,12 +376,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-08T21:05+00:00"
+ "generated_at": "2026-10-09T00:05+00:00"
 }

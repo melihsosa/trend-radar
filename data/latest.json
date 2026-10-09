@@ -3,127 +3,107 @@
  "sample": false,
  "trends": [
   {
+   "name": "October 3rd (Mean Girls Day)",
+   "heat": "Zirvede",
+   "desc": "Kült gençlik filmi Mean Girls repliklerine dayanan, pembe renk paletinin ve film nostaljisinin kutlandığı viral takvim akımı.",
+   "why": "TikTok Creative Center verilerinde #october3rd etiketi en popüler 2. sırada yer alıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Pembe renkli 'On October 3rd' alıntılı sweatshirt'ler, retro posterler ve tematik kırtasiye ürünleri.",
+   "product_keywords": [
+    {
+     "keyword": "october 3rd sweatshirt",
+     "label": "3 ekim alıntılı sweatshirt"
+    },
+    {
+     "keyword": "mean girls quote tote bag",
+     "label": "mean girls bez çanta"
+    }
+   ]
+  },
+  {
    "name": "Copper Wire Crochet Jewelry",
    "heat": "Yükseliyor",
-   "desc": "El yapımı bakır tellerden tığ işi/kroşe tekniğiyle örülerek yapılan estetik ve özgün takı tasarımları.",
-   "why": "Reddit'in shutupandtakemymoney topluluğunda bakır tel örgü kolye paylaşımı öne çıktı.",
+   "desc": "Geleneksel tığ ve örgü işçiliğinin bakır tellerle birleştirilerek heykelsi ve organik takılara dönüştürülmesi akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda tel örgü kolye tasarımı öne çıkan gönderiler arasında yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El işçiliği bakır tel örgü kolyeler, bileklikler ve küpe setleri.",
+   "idea": "El yapımı bakır tel örgü gerdanlıklar, küpeler ve doğal taş detaylı tel takılar.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
      "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "wire crochet jewelry",
-     "label": "tel örgü takı"
+     "keyword": "wire knit pendant",
+     "label": "tel örme kolye ucu"
     }
    ]
   },
   {
-   "name": "Aesthetic Laptop Backpacks",
-   "heat": "Yükseliyor",
-   "desc": "Gençlerin şık kombinlerini bozmadan laptop taşımalarını sağlayan estetik, minimalist ve fonksiyonel sırt çantası arayışı.",
-   "why": "Reddit'in femalefashionadvice topluluğunda kombinleri bozmayan laptop çantası araması gündem oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Şık kumaştan veya deri detaylı, kıyafetlerle uyumlu estetik kadın laptop sırt çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic laptop backpack",
-     "label": "estetik laptop sırt çantası"
-    },
-    {
-     "keyword": "chic laptop bag women",
-     "label": "şık kadın laptop çantası"
-    }
-   ]
-  },
-  {
-   "name": "Grown-Up Rave Wear",
-   "heat": "Yükseliyor",
-   "desc": "Genç yetişkinlerin rave ve müzik festivallerinde aşırı çocuksu kalmayan, daha olgun ve kaliteli kombin/aksesuar arayışı.",
-   "why": "Reddit femalefashionadvice kanalında yetişkinlerin rave etkinliklerinde ne giyeceğine dair başlık açıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Minimalist ve kaliteli festival giyim ürünleri, şık vücut zincirleri ve yetişkin rave aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "rave outfits for adults",
-     "label": "yetişkin rave kıyafetleri"
-    },
-    {
-     "keyword": "chic festival fashion",
-     "label": "şık festival modası"
-    }
-   ]
-  },
-  {
-   "name": "Mogging Meme Slang",
+   "name": "First of the Month Reset",
    "heat": "Hızla yükseliyor",
-   "desc": "Gençler ve İnternet kültüründe fiziksel duruş veya görünüşle başkasına üstünlük kurmayı ifade eden popüler 'mogging' mizahı.",
-   "why": "Reddit TikTokCringe topluluğunda Mogging başlığı altında viral içerik yer aldı.",
+   "desc": "Her yeni ayın ilk gününde bütçe, ev düzeni, alışkanlıklar ve hedefleri sıfırlayıp yeniden planlama yaşam tarzı hareketi.",
+   "why": "TikTok'ta #firstofthemonth etiketi en popüler trendler arasında 3. sırada yer alıyor.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Mogging sloganlı mizahi tişörtler, kupalar ve baskılı etiketler (sticker).",
+   "idea": "Aylık rutin takip defterleri, akrilik duvar takvimleri ve nakit bütçeleme zarf cüzdanları.",
    "product_keywords": [
     {
-     "keyword": "mogging shirt",
-     "label": "mogging tişörtü"
+     "keyword": "monthly reset planner",
+     "label": "aylık planlayıcı ajanda"
     },
     {
-     "keyword": "mogging sticker",
-     "label": "mogging etiketi"
+     "keyword": "budget binder with cash envelopes",
+     "label": "bütçe zarfı düzenleyici"
     }
    ]
   },
   {
-   "name": "Pakistani Eid Outfit Aesthetic",
+   "name": "Re-discovering Wool Sweaters",
    "heat": "Yükseliyor",
-   "desc": "Pakistan geleneksel bayram (Eid) kıyafetlerinin renkli, nakışlı ve etnik estetiğinden ilham alan moda akımı.",
-   "why": "Reddit femalefashionadvice topluluğunda Pakistani Eid Outfit ilham panosu paylaşıldı.",
+   "desc": "Hızlı moda sentetik trikolarından kaçıp vintage, kalın dokulu ve doğal yün kazaklara dönme sonbahar estetiği.",
+   "why": "Reddit r/malefashionadvice topluluğunda yün kazakların yeniden keşfi ve sonbahar triko kombinleri yoğun ilgi görüyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geleneksel nakışlı etnik şallar, el yapımı takı setleri ve bayram aksesuarları.",
+   "idea": "Doğal dokulu kalın örgü kazaklar, el yapımı yün hırkalar ve ahşap yün bakım tarakları.",
    "product_keywords": [
     {
-     "keyword": "pakistani eid outfit",
-     "label": "pakistan eid kıyafeti"
+     "keyword": "vintage wool sweater",
+     "label": "vintage yün kazak"
     },
     {
-     "keyword": "embroidered ethnic shawl",
-     "label": "nakışlı etnik şal"
+     "keyword": "cashmere wool comb",
+     "label": "yün kazak bakım tarağı"
     }
    ]
   },
   {
-   "name": "Flat Shoe Styling Accessories",
-   "heat": "Yükseliyor",
-   "desc": "Topuklu ayakkabı giymek istemeyen kadınların düz ve sevimli ayakkabıları şıklaştıracak aksesuar arayışı.",
-   "why": "Reddit femalefashionadvice topluluğunda topuklu olmayan sevimli ayakkabı önerileri tartışıldı.",
+   "name": "2010s Disney Teen Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "Z kuşağının 2010'lar başı Shake It Up (CeCe & Rocky) dönemi maksimalist, katmanlı ve parlak gençlik modasını nostaljiyle sahiplenmesi.",
+   "why": "Reddit r/GenZ topluluğunda çocukluk dönemi Disney dizisi stillerine duyulan özlem viral etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Düz babet ve ayakkabılara takılabilen çıkarılabilir fiyonk ve klipsli ayakkabı süsleri.",
+   "idea": "2010'lar temalı katmanlı parlak aksesuarlar, grafik baskılı nostaljik tişörtler ve renkli bileklik setleri.",
    "product_keywords": [
     {
-     "keyword": "shoe clips for flats",
-     "label": "düz ayakkabı klipsi"
+     "keyword": "2010s aesthetic graphic tee",
+     "label": "2010lar estetik grafik tişört"
     },
     {
-     "keyword": "cute flat shoe accessories",
-     "label": "sevimli ayakkabı aksesuarları"
+     "keyword": "y2k layered bracelet set",
+     "label": "y2k çoklu bileklik seti"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-09T00:05+00:00",
+ "trends_updated_at": "2026-10-09T03:04+00:00",
  "products": [
   {
    "name": "yün kazak triko",
@@ -376,12 +356,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-09T00:05+00:00"
+ "generated_at": "2026-10-09T03:04+00:00"
 }

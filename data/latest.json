@@ -3,107 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Day)",
-   "heat": "Zirvede",
-   "desc": "Kült gençlik filmi Mean Girls'ün ikonik repliğine dayanan, pembe renk ve Y2K alıntılarını kutlayan sonbahar popüler kültür günü.",
-   "why": "TikTok'ta #october3rd etiketi 2. sırada popüler hashtag olarak listelendi.",
+   "name": "#shopwithconfidence",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "'It's October 3rd' ve 'On Wednesdays We Wear Pink' yazılı pembe sweatshirtler, kupalar ve Y2K nostalji çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "october 3rd pink sweatshirt",
-     "label": "ekim 3 pembe sweatshirt"
-    },
-    {
-     "keyword": "mean girls sticker pack",
-     "label": "mean girls çıkartma paketi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Aurora Borealis (Kuzey Işıkları)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kuzey Işıkları'nın ABD'nin geniş bölgelerinde çıplak gözle izlenebilir hale gelmesiyle canlanan gökyüzü ve kozmik gece estetiği.",
-   "why": "Google'da 'aurora' aramaları 1000+ hacimle hızla yükselenler arasına girdi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Karanlıkta parlayan kuzey ışıkları reçine kolyeleri, aurora manzaralı güneş kapanları ve akrilik gece gökyüzü tabloları.",
-   "product_keywords": [
-    {
-     "keyword": "aurora borealis resin necklace",
-     "label": "kuzey ışıkları reçine kolye"
-    },
-    {
-     "keyword": "northern lights suncatcher",
-     "label": "aurora güneş kapanı"
-    }
-   ]
-  },
-  {
-   "name": "Hunger Games / Mockingjay Revival",
+   "name": "#october3rd",
    "heat": "Yükseliyor",
-   "desc": "Kırmızı halıdaki Katniss göndermesiyle yeniden alevlenen distopik okçuluk, isyan sembolleri ve nostaljik Açlık Oyunları estetiği.",
-   "why": "Google aramalarında 'hunger games' terimi Mckenna Grace'in Katniss gelinliği stili sonrası 1000+ hacimle trend oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Google"
+    "TikTok"
    ],
-   "idea": "Mockingjay (Alaycı Kuş) motifli metal yakalık iğneleri, minimalist ok temalı takılar ve replikli kanvas bez çantalar.",
-   "product_keywords": [
-    {
-     "keyword": "mockingjay pin badge",
-     "label": "alaycı kuş metal rozet"
-    },
-    {
-     "keyword": "hunger games tote bag",
-     "label": "açlık oyunları bez çanta"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Sonbahar Yün & Retro Triko (Chunky Wool Fit)",
+   "name": "#firstofthemonth",
    "heat": "Yükseliyor",
-   "desc": "Hızlı modadaki kalite kaybına tepki olarak öne çıkan; kalın örgülü, doğal yünlü ve hafif 'Mr. Bean' tarzı nostaljik sonbahar triko giyim trendi.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Re-discovering wool sweaters', 'Autumning it up' ve 'Accidental Mr. Bean' başlıkları öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "El örgüsü kalın dokulu yün kazak örgü desen rehberleri (PDF pattern), retro tarz el yapımı yün bereler ve atkılar.",
-   "product_keywords": [
-    {
-     "keyword": "chunky knit wool sweater pattern",
-     "label": "kalın örgü yün kazak şablonu"
-    },
-    {
-     "keyword": "handmade wool beanie",
-     "label": "el yapımı yün bere"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Shake It Up / Katmanlı Gençlik Stili",
-   "heat": "Yeni çıktı",
-   "desc": "Gen Z'nin 2010'lar başı Disney Channel dizilerine duyduğu özlemle şekillenen renkli, bol katmanlı ve maksimalist sokak modası nostaljisi.",
-   "why": "Reddit r/GenZ altında 'Who else wanted to dress like CeCe and Rocky growing up?' sorusu haftanın en çok konuşulanları arasına girdi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar disko-pop estetiğinde katmanlı renkli boncuklu bileklikler ve Shake It Up esintili nostaljik illüstrasyon çıkar",
-   "product_keywords": [
-    {
-     "keyword": "2010s beaded bracelet stack",
-     "label": "2010lar boncuk bileklik seti"
-    },
-    {
-     "keyword": "nostalgic y2k aesthetic stickers",
-     "label": "nostaljik y2k estetik çıkartma"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-09T18:05+00:00",
+ "trends_updated_at": "2026-10-09T21:05+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -378,13 +311,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-09T18:05+00:00"
+ "generated_at": "2026-10-09T21:05+00:00"
 }

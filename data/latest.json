@@ -3,107 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Day)",
+   "name": "October 3rd (Mean Girls Günü)",
    "heat": "Zirvede",
-   "desc": "Kült gençlik filmi Mean Girls repliklerine dayanan, pembe renk paletinin ve film nostaljisinin kutlandığı viral takvim akımı.",
-   "why": "TikTok Creative Center verilerinde #october3rd etiketi en popüler 2. sırada yer alıyor.",
+   "desc": "Popüler kültürde ikonik hale gelen 3 Ekim tarihi, gençlerin TikTok'ta pembe giyinme ve özel replik içerikleri paylaştığı yıllık viral bir akımdır.",
+   "why": "TikTok Creative Center verilerinde #october3rd etiketi en popüler 2. sırada yer almıştır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Pembe renkli 'On October 3rd' alıntılı sweatshirt'ler, retro posterler ve tematik kırtasiye ürünleri.",
+   "idea": "Üzerinde 'On October 3rd' repliği yazılı pembe tonlarında t-shirtler, kupalar, motivasyonel ajandalar ve estetik çıkartm",
    "product_keywords": [
     {
-     "keyword": "october 3rd sweatshirt",
-     "label": "3 ekim alıntılı sweatshirt"
+     "keyword": "october 3rd shirt",
+     "label": "3 ekim tişörtü"
     },
     {
-     "keyword": "mean girls quote tote bag",
-     "label": "mean girls bez çanta"
+     "keyword": "mean girls pink mug",
+     "label": "mean girls pembe kupa"
     }
    ]
   },
   {
-   "name": "Copper Wire Crochet Jewelry",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel tığ ve örgü işçiliğinin bakır tellerle birleştirilerek heykelsi ve organik takılara dönüştürülmesi akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda tel örgü kolye tasarımı öne çıkan gönderiler arasında yer aldı.",
+   "name": "Copper Wire Crochet (Bakır Tel Örgü Takı)",
+   "heat": "Yeni çıktı",
+   "desc": "İnce bakır tellerin tığ yardımıyla örülerek özgün kolyeler ve takılar haline getirildiği el yapımı zanaat akımıdır.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda el yapımı bakır tel örgü kolye paylaşımı haftanın en popüler gönderileri arasına girmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı bakır tel örgü gerdanlıklar, küpeler ve doğal taş detaylı tel takılar.",
+   "idea": "El yapımı tel örgü ve sarma teknikleriyle hazırlanmış doğal taşlı bakır kolye uçları ve takı tasarımları.",
    "product_keywords": [
     {
      "keyword": "copper wire crochet necklace",
      "label": "bakır tel örgü kolye"
     },
     {
-     "keyword": "wire knit pendant",
-     "label": "tel örme kolye ucu"
+     "keyword": "wire woven pendant",
+     "label": "tel sarma kolye ucu"
     }
    ]
   },
   {
-   "name": "First of the Month Reset",
-   "heat": "Hızla yükseliyor",
-   "desc": "Her yeni ayın ilk gününde bütçe, ev düzeni, alışkanlıklar ve hedefleri sıfırlayıp yeniden planlama yaşam tarzı hareketi.",
-   "why": "TikTok'ta #firstofthemonth etiketi en popüler trendler arasında 3. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Aylık rutin takip defterleri, akrilik duvar takvimleri ve nakit bütçeleme zarf cüzdanları.",
-   "product_keywords": [
-    {
-     "keyword": "monthly reset planner",
-     "label": "aylık planlayıcı ajanda"
-    },
-    {
-     "keyword": "budget binder with cash envelopes",
-     "label": "bütçe zarfı düzenleyici"
-    }
-   ]
-  },
-  {
-   "name": "Re-discovering Wool Sweaters",
+   "name": "2000'ler (Y2K) Nostaljisi",
    "heat": "Yükseliyor",
-   "desc": "Hızlı moda sentetik trikolarından kaçıp vintage, kalın dokulu ve doğal yün kazaklara dönme sonbahar estetiği.",
-   "why": "Reddit r/malefashionadvice topluluğunda yün kazakların yeniden keşfi ve sonbahar triko kombinleri yoğun ilgi görüyor.",
+   "desc": "Gen Z kitlesinin 2000'ler başındaki TV karakterlerinin stillerine, katmanlı giyime ve dönemin renkli retro estetiğine duyduğu ilgidir.",
+   "why": "Reddit r/GenZ ve r/malefashionadvice topluluklarında 2000'ler modası ve çocukluk dizilerinin giyim tarzları popüler tartışma konusu olmuştur.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Doğal dokulu kalın örgü kazaklar, el yapımı yün hırkalar ve ahşap yün bakım tarakları.",
+   "idea": "2000'ler estetiğine uygun grafik baskılı tişörtler, katmanlı kombin parçaları ve dönemin ruhunu yansıtan renkli takılar.",
    "product_keywords": [
     {
-     "keyword": "vintage wool sweater",
-     "label": "vintage yün kazak"
+     "keyword": "y2k aesthetic shirt",
+     "label": "y2k estetik tişört"
     },
     {
-     "keyword": "cashmere wool comb",
-     "label": "yün kazak bakım tarağı"
+     "keyword": "2000s style graphic tee",
+     "label": "2000ler tarzı grafik tişört"
     }
    ]
   },
   {
-   "name": "2010s Disney Teen Nostaljisi",
-   "heat": "Yeni çıktı",
-   "desc": "Z kuşağının 2010'lar başı Shake It Up (CeCe & Rocky) dönemi maksimalist, katmanlı ve parlak gençlik modasını nostaljiyle sahiplenmesi.",
-   "why": "Reddit r/GenZ topluluğunda çocukluk dönemi Disney dizisi stillerine duyulan özlem viral etkileşim aldı.",
+   "name": "Autumning It Up (Sonbahar Örgü Estetiği)",
+   "heat": "Yükseliyor",
+   "desc": "Sonbahar mevsiminin gelmesiyle birlikte sıcak tutan yün kazaklara, dokulu trikolara ve kahve randevusu kombinlerine odaklanan mevsimsel yaşam tarzı ve moda akımıdır.",
+   "why": "Reddit r/malefashionadvice topluluğunda yün kazakların yeniden keşfi ve sonbahar kombinleri üzerine çok sayıda popüler başlık öne çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2010'lar temalı katmanlı parlak aksesuarlar, grafik baskılı nostaljik tişörtler ve renkli bileklik setleri.",
+   "idea": "Özel tasarım el örgüsü sonbahar kazakları, dokulu yün atkılar ve kahverengi/toprak tonlarında kumaş tote çantalar.",
    "product_keywords": [
     {
-     "keyword": "2010s aesthetic graphic tee",
-     "label": "2010lar estetik grafik tişört"
+     "keyword": "cozy autumn wool sweater",
+     "label": "rahat sonbahar yün kazak"
     },
     {
-     "keyword": "y2k layered bracelet set",
-     "label": "y2k çoklu bileklik seti"
+     "keyword": "fall knit scarf",
+     "label": "sonbahar örgü atkı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-09T03:04+00:00",
+ "trends_updated_at": "2026-10-09T06:06+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -379,12 +359,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-09T04:42+00:00"
+ "generated_at": "2026-10-09T06:06+00:00"
 }

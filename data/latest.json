@@ -3,18 +3,18 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd / Mean Girls Kültü",
+   "name": "October 3rd (Mean Girls Günü)",
    "heat": "Zirvede",
-   "desc": "Mean Girls filminin meşhur repliğine dayanan ve gençlerin her yıl kutladığı pembe tonlu pop-kültür günü.",
-   "why": "TikTok trend hashtag listesinde #october3rd 2. sırada yer alarak doğrudan viral oldu.",
+   "desc": "Kült gençlik filmi Mean Girls'ün ikonik '3 Ekim' sahnesi her yıl bu tarihte sosyal medyada devasa bir meme ve kutlama akımına dönüşüyor.",
+   "why": "TikTok trend listesinde '#october3rd' etiketi 2. sırada yer alarak viral oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "İkonik repliği içeren pembe seramik kupa, retro yazı tipli sweatshirt ve laptop çıkartmaları.",
+   "idea": "İkonik replikli pembe sweatshirt'ler, retro Mean Girls baskılı bez çantalar ve 'On October 3rd' temalı sticker setleri.",
    "product_keywords": [
     {
      "keyword": "october 3rd sweatshirt",
-     "label": "3 ekim sweatshirt"
+     "label": "3 ekim temalı sweatshirt"
     },
     {
      "keyword": "mean girls sticker pack",
@@ -23,108 +23,87 @@
    ]
   },
   {
-   "name": "Retro Pokemon Hoenn Nostaljisi",
+   "name": "Retro Pokémon Nostaljisi (GBA / Hoenn Dönemi)",
    "heat": "Hızla yükseliyor",
-   "desc": "Game Boy Advance dönemi Pokemon Ruby, Sapphire ve Emerald oyunlarına yönelik retro oyun ve 2000'ler başı nostaljisi.",
-   "why": "Google yükselen aramalarda 'pokemon ruby sapphire emerald' retro oyun duyurularıyla birlikte ani yükseliş gösterdi.",
+   "desc": "Retro Nintendo Game Boy Advance dönemi Pokémon oyunlarının (Ruby, Sapphire, Emerald) modern konsollara gelme beklentisi ve nostaljik estetiği yeniden canlandı.",
+   "why": "Google aramalarında 'pokemon ruby sapphire emerald switch' sorgusu 5000+ arama hacmiyle hızla yükselenlerde yer aldı.",
    "sources": [
     "Google"
    ],
-   "idea": "Hoenn bölgesi haritası estetik duvar posteri ve ahşap retro Game Boy kaset sergileme standları.",
+   "idea": "Retro GBA kartuşu şeklinde çerçeveli 3D gölge kutusu sanatları (shadow box art) veya Hoenn haritası vintage posterleri.",
    "product_keywords": [
     {
-     "keyword": "pokemon hoenn map poster",
-     "label": "pokemon hoenn harita posteri"
+     "keyword": "pokemon cartridge shadow box",
+     "label": "pokemon kartuş çerçeve tablosu"
     },
     {
-     "keyword": "game boy cartridge display stand",
-     "label": "game boy kaset sergileme standı"
+     "keyword": "hoenn map retro print",
+     "label": "hoenn haritası retro poster"
     }
    ]
   },
   {
-   "name": "GTA 6 Bekleyişi ve Neon Vice Estetiği",
+   "name": "DIY Kumaş Mumalama (Waxed Canvas Ceketler)",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin merakla beklediği GTA 6 etrafında yeniden canlanan 80'ler Miami ve neon retro suç estetiği.",
-   "why": "Reddit r/GenZ topluluğunda 'GTA 6' tartışmaları öne çıkarken Google'da 'grand theft auto' araması yükselişe geçti.",
-   "sources": [
-    "Reddit",
-    "Google"
-   ],
-   "idea": "Vice City temalı retro neon LED masa lambaları ve 80'ler tarzı grafik masa matları.",
-   "product_keywords": [
-    {
-     "keyword": "vice city neon sign",
-     "label": "vice city neon tabela"
-    },
-    {
-     "keyword": "retro gaming desk mat",
-     "label": "retro oyuncu masa matı"
-    }
-   ]
-  },
-  {
-   "name": "DIY Kumaş Vakslama (Waxed Canvas)",
-   "heat": "Yeni çıktı",
-   "desc": "Mevcut ceket ve kanvas eşyaları doğal balmumuyla kaplayarak su geçirmez ve eskitme vintage doku kazandırma akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı ceketin evde vakslanması projesi yoğun ilgi gördü.",
+   "desc": "Sonbahar modasında standart veya uygun fiyatlı ceketleri özel balmumu kalıplarıyla suya dayanıklı vintage 'wax jacket' stiline dönüştürme akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı ceketlerin balmumu ile işlenmesi ('Costco Shirt Jacket Before/After Wax Process') popüler oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ceket, şapka ve kanvas çantalar için doğal içerikli kumaş vakslama kalıbı ve DIY bakım seti.",
+   "idea": "Doğal balmumu ve fırça içeren evde ceket/kanvas mumalama DIY bakım kitleri ve su itici mum kalıpları.",
    "product_keywords": [
     {
      "keyword": "fabric wax bar",
-     "label": "kumaş vakslama kalıbı"
+     "label": "kumaş mumlama kalıbı"
     },
     {
-     "keyword": "canvas waterproofing kit",
-     "label": "kanvas su geçirmezlik kiti"
+     "keyword": "canvas waxing kit",
+     "label": "kanvas kumaş mumlama kiti"
     }
    ]
   },
   {
-   "name": "First of the Month / Yeni Ay Planlama Ritüeli",
+   "name": "Mogging & Looksmaxxing Gen Z Mizahı",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin her ayın birinci gününde finansal hedeflerini, bütçelerini ve kişisel rutinlerini sıfırlama akımı.",
-   "why": "TikTok'ta #firstofthemonth etiketi en popüler 3. hashtag olarak trendlere girdi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Ay başı bütçe ve hedef takibi sağlayan minimalist dijital planlayıcılar ve nakit zarf bütçe defterleri.",
-   "product_keywords": [
-    {
-     "keyword": "monthly budget planner printable",
-     "label": "aylık bütçe planlayıcı çıktısı"
-    },
-    {
-     "keyword": "cash envelope binder",
-     "label": "nakit zarflı bütçe defteri"
-    }
-   ]
-  },
-  {
-   "name": "Resim Keşifli Bulmaca Kitapları (Picture-Reveal)",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik kelime avı veya sayı bulmacalarının çözüldükçe gizli bir piksel/çizim görselini ortaya çıkardığı analog hobi trendi.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda görsel açığa çıkaran kelime avı bulmaca kitabı öne çıktı.",
+   "desc": "Gen Z ve Alfa kuşağının sosyal medyada fiziksel üstünlük taslama veya ironik özgüven gösterme amacıyla kullandığı 'mogging' argo ve meme akımı.",
+   "why": "Reddit r/TikTokCringe topluluğunda 'Mogging' başlığı viral paylaşımlar arasına girdi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Evde yazdırılabilir (printable) tematik görsel keşif bulmaca sayfaları ve dinlendirici aktivite paketleri.",
+   "idea": "İronik 'Certified Mogger' veya 'Bye Bye' yazılı sporcu tişörtleri, kupa bardaklar ve spor salonu temalı Gen Z sticker'la",
    "product_keywords": [
     {
-     "keyword": "printable nonogram puzzle book",
-     "label": "yazdırılabilir nonogram bulmaca kitabı"
+     "keyword": "mogging meme shirt",
+     "label": "mogging temalı tişört"
     },
     {
-     "keyword": "picture reveal puzzle printable",
-     "label": "resimli gizli bulmaca çıktısı"
+     "keyword": "looksmaxxing sticker",
+     "label": "looksmaxxing çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal Word Search (Gizli Resimli Bulmaca)",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kelime avı bulmacalarını çözerken harflerin arkasından pikselli gizli hayvan ve doğa çizimlerinin ortaya çıktığı interaktif aktivite kitapları.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda 70 resim açığa çıkaran bulmaca kitabı yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yetişkinler ve çocuklar için dijital indirilebilir (printable PDF) veya basılı 'resim açığa çıkaran' tematik kelime bulm",
+   "product_keywords": [
+    {
+     "keyword": "picture reveal word search",
+     "label": "resim çıkaran kelime bulmacası"
+    },
+    {
+     "keyword": "printable puzzle activity book",
+     "label": "yazdırılabilir bulmaca aktivite kitabı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-10T09:04+00:00",
+ "trends_updated_at": "2026-10-10T12:03+00:00",
  "products": [
   {
    "name": "aylık reset planlayıcı",
@@ -492,12 +471,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-10T09:04+00:00"
+ "generated_at": "2026-10-10T12:03+00:00"
 }

@@ -3,149 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd / Mean Girls Day",
-   "heat": "Zirvede",
-   "desc": "Kült Mean Girls filmine gönderme olarak her 3 Ekim'de pembe giyinme ve unutulmaz replikleri paylaşma etrafında oluşan viral popüler kültür günü.",
-   "why": "TikTok trendlerinde #october3rd etiketi 2. sırada yer alarak zirve yaptı.",
+   "name": "#shopwithconfidence",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "'On October 3rd he asked me what day it was' alıntılı pembe grafik baskılı sweatshirt ve kupa bardaklar.",
-   "product_keywords": [
-    {
-     "keyword": "mean girls october 3rd sweatshirt",
-     "label": "mean girls 3 ekim sweatshirt"
-    },
-    {
-     "keyword": "october 3rd pink mug",
-     "label": "3 ekim pembe kupa"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "DIY Kumaş Balmumu Kaplama (Waxed Jacket)",
+   "name": "#october3rd",
    "heat": "Yükseliyor",
-   "desc": "Uygun fiyatlı ceket ve gömlekleri doğal balmumu ile kaplayarak dayanıklı, vintage ve rustik outdoor parçalara dönüştürme hareketi.",
-   "why": "Reddit MaleFashionAdvice topluluğunda uygun fiyatlı bir ceketin balmumu kaplama öncesi/sonrası dönüşümü viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ceket ve kanvas çantaları evde su geçirmez hale getirmek için doğal kumaş balmumu kalıbı ve süngerden oluşan DIY bakım k",
-   "product_keywords": [
-    {
-     "keyword": "fabric wax bar for jackets",
-     "label": "ceket kumaş balmumu kalıbı"
-    },
-    {
-     "keyword": "canvas waxing kit",
-     "label": "kanvas ağdalama kiti"
-    }
-   ]
-  },
-  {
-   "name": "Buc-ee's & Southern Americana Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Buc-ee's gibi ikonik güney eyaletleri yol üstü tesisleri ve sevimli kunduz maskotu çevresinde gelişen ironik, retro Amerikan yolculuk kültürü.",
-   "why": "Google'da 'buc ee's' aramaları yükselirken Reddit'te güney Amerika giyim tarzı üzerine paylaşımlar ilgi gördü.",
-   "sources": [
-    "Google",
-    "Reddit"
-   ],
-   "idea": "Retro diner ve benzinlik tabelası estetiğinde vintage illüstrasyonlu tişörtler ve fileli trucker şapkalar.",
-   "product_keywords": [
-    {
-     "keyword": "vintage roadside trucker hat",
-     "label": "retro yol üstü fileli şapka"
-    },
-    {
-     "keyword": "retro gas station graphic tee",
-     "label": "vintage benzinlik grafik tişört"
-    }
-   ]
-  },
-  {
-   "name": "Avengers & Doomsday Fan Nostaljisi",
-   "heat": "Yükseliyor",
-   "desc": "Duyurulan Avengers Doomsday filmi ve Avengers temalı eğlence alanları çevresinde yeniden alevlenen çizgi roman/süper kahraman heyecanı.",
-   "why": "Google'da 'avengers campus' aramaları sıçrama yaparken Reddit GenZ'de Avengers Doomsday tartışması öne çıktı.",
-   "sources": [
-    "Google",
-    "Reddit"
-   ],
-   "idea": "Minimalist süper kahraman maskesi çizimli işlemeli hoodie'ler veya metalik fandom anahtarlıkları.",
-   "product_keywords": [
-    {
-     "keyword": "minimalist superhero embroidered hoodie",
-     "label": "minimalist süper kahraman işlemeli hoodie"
-    },
-    {
-     "keyword": "comic villain keychain",
-     "label": "çizgi roman kötüsü anahtarlık"
-    }
-   ]
-  },
-  {
-   "name": "First of the Month Bütçeleme Ritüeli",
-   "heat": "Hızla yükseliyor",
-   "desc": "Ayın ilk gününde bütçe planlaması yapma, nakit zarflama ve yeni ay hedefleri belirleme odaklı Gen Z finans ve yaşam tarzı ritüeli.",
-   "why": "TikTok'ta #firstofthemonth etiketi en popüler 3. sırada trend oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Fermuarlı zarflara sahip bütçe planlama klasörü (cash stuffing binder) ve ay başı meydan okuma çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "cash stuffing budget binder",
-     "label": "nakit zarflı bütçe klasörü"
-    },
-    {
-     "keyword": "monthly budget challenge printable",
-     "label": "aylık bütçe meydan okuma çıktısı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Picture-Reveal Görsel Çıkaran Bulmacalar",
-   "heat": "Yeni çıktı",
-   "desc": "Kelimeler bulundukça arka planda gizli bir hayvan veya dinozor piksel illüstrasyonunun ortaya çıktığı yenilikçi kelime avı bulmaca akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan temalı görsel ortaya çıkaran kelime avı kitabı paylaşılarak ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Evde hemen basılabilir formatta (printable PDF) hayvan temalı resim çıkaran interaktif kelime avı bulmaca sayfaları seti",
-   "product_keywords": [
-    {
-     "keyword": "picture reveal word search printable",
-     "label": "görsel çıkaran kelime bulmacası çıktısı"
-    },
-    {
-     "keyword": "interactive puzzle book pdf",
-     "label": "interaktif bulmaca kitabı pdf"
-    }
-   ]
-  },
-  {
-   "name": "Grandpa Core / Mr. Bean Yün Kazak Stili",
+   "name": "#firstofthemonth",
    "heat": "Yükseliyor",
-   "desc": "İngiliz nostaljisi, Mr. Bean karakterinin salaş şıklığı ve kalın yün trikolarla kurgulanan sonbahar vintage giyim estetiği.",
-   "why": "Reddit MaleFashionAdvice topluluğunda 'Re-discovering wool sweaters' ve 'Accidental Mr. Bean' başlıkları öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Eski yün ve kaşmir kazakları yenilemek için ahşap saplı tiftik temizleme tarağı ve sedir ağacı kazak saklama torbası.",
-   "product_keywords": [
-    {
-     "keyword": "wooden cashmere sweater comb",
-     "label": "ahşap kaşmir kazak tarağı"
-    },
-    {
-     "keyword": "wool sweater defuzzer",
-     "label": "yün kazak tüy temizleyici"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-10T18:03+00:00",
+ "trends_updated_at": "2026-10-10T21:03+00:00",
  "products": [
   {
    "name": "aylık reset planlayıcı",
@@ -512,13 +403,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-10T18:03+00:00"
+ "generated_at": "2026-10-10T21:03+00:00"
 }

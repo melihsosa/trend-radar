@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#shopwithconfidence",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "October 3rd (Mean Girls Günü)",
+   "heat": "Zirvede",
+   "desc": "Her yıl 3 Ekim'de 'Mean Girls' filmine atıfta bulunarak kutlanan; pembe estetik ve ikonik replikler etrafında şekillenen popüler kültür akımı.",
+   "why": "TikTok'ta '#october3rd' etiketinin 2. sırada yer almasıyla öne çıkıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Pembe nakış işlemeli 'October 3rd' temalı sonbahar sweatshirt'leri ve retro tipografi çıkartma setleri.",
+   "product_keywords": [
+    {
+     "keyword": "october 3rd sweatshirt",
+     "label": "3 Ekim sweatshirt"
+    },
+    {
+     "keyword": "mean girls pink stickers",
+     "label": "pembe temalı film çıkartmaları"
+    }
+   ]
   },
   {
-   "name": "#october3rd",
+   "name": "DIY Kumaş Mumalama (Waxed Canvas Ceket Dönüşümü)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Sıradan pamuklu veya kanvas ceketleri doğal balmumu kalıplarıyla kaplayarak su geçirmez, dayanıklı ve vintage 'workwear' havasına büründürme hareketi.",
+   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı ceketlerin balmumu ile retro görünüme kavuşturulduğu paylaşımların öne çıkması.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Ceket, şapka ve kanvas çantalar için doğal arı mumu ve parafin içeren kumaş bakım mumu kalıbı (fabric wax bar).",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar",
+     "label": "kumaş mumu kalıbı"
+    },
+    {
+     "keyword": "diy waxed canvas kit",
+     "label": "kendin yap kanvas mumlama kiti"
+    }
+   ]
   },
   {
-   "name": "#firstofthemonth",
+   "name": "Masif Pirinç & Ömürlük El Aletleri (BIFL Heritage)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Dayanıksız modern plastik mutfak aletleri yerine nesilden nesile aktarılabilen masif pirinç, paslanmaz metal ve ağır işçilikli gereçleri tercih etme akımı.",
+   "why": "Reddit r/BuyItForLife topluluğunda dededen kalma pirinç değirmenlerin ve antika dayanıklı mutfak aletlerinin yoğun ilgi görmesi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Geleneksel motifli, el yapımı masif pirinç karabiber veya kahve el değirmeni.",
+   "product_keywords": [
+    {
+     "keyword": "brass pepper grinder",
+     "label": "pirinç karabiber değirmeni"
+    },
+    {
+     "keyword": "manual brass spice mill",
+     "label": "manuel pirinç baharat değirmeni"
+    }
+   ]
+  },
+  {
+   "name": "Doğal Yün Kazak & Sonbahar Katmanlama",
+   "heat": "Hızla yükseliyor",
+   "desc": "Hızlı moda sentetik kumaşlar yerine doğal yün trikoların, klasik kalıpların ve katmanlı sonbahar kombinlerinin yeniden benimsenmesi.",
+   "why": "Reddit r/malefashionadvice'ta 'Re-discovering wool sweaters' ve 'Autumning it up' paylaşımlarının trend olması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yün kazakların tüylenmesini temizleyen el yapımı ahşap yün bakım tarağı ve el örgüsü doğal yün süveterler.",
+   "product_keywords": [
+    {
+     "keyword": "wool sweater comb",
+     "label": "yün kazak tarağı"
+    },
+    {
+     "keyword": "hand knitted wool vest",
+     "label": "el örgüsü yün süveter"
+    }
+   ]
+  },
+  {
+   "name": "CeCe & Rocky (2010'lar Başı Dans Estetiği)",
+   "heat": "Yeni çıktı",
+   "desc": "Gen Z'nin çocukluk yıllarındaki Shake It Up dizisi tarzına duyduğu; renkli, katmanlı, parıltılı ve cesur 2010'lar başı giyim nostaljisi.",
+   "why": "Reddit r/GenZ üzerinde kullanıcıların çocukluktaki CeCe ve Rocky giyim tarzı nostaljisini yoğun şekilde tartışması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2010'lar tarzı parıltılı katmanlı tozluklar (leg warmers) ve çok katmanlı boncuklu bileklik setleri.",
+   "product_keywords": [
+    {
+     "keyword": "knit leg warmers",
+     "label": "örgü bacak ısıtıcısı tozluk"
+    },
+    {
+     "keyword": "y2k layered charm bracelet",
+     "label": "y2k çoklu boncuk bileklik"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-09T21:05+00:00",
+ "trends_updated_at": "2026-10-10T00:04+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -304,20 +371,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-09T21:05+00:00"
+ "generated_at": "2026-10-10T00:04+00:00"
 }

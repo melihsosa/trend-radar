@@ -3,107 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Günü)",
+   "name": "October 3rd (Mean Girls Day)",
    "heat": "Zirvede",
-   "desc": "Her yıl 3 Ekim'de 'Mean Girls' filmine atıfta bulunarak kutlanan; pembe estetik ve ikonik replikler etrafında şekillenen popüler kültür akımı.",
-   "why": "TikTok'ta '#october3rd' etiketinin 2. sırada yer almasıyla öne çıkıyor.",
+   "desc": "Gençler ve Y2K popüler kültür takipçileri arasında ikonik replik üzerinden kutlanan, pembe ve nostaljik estetiğe dayalı viral kültür günü.",
+   "why": "TikTok trendlerinde #october3rd etiketi 2. sıraya yerleşerek doğrudan zirveye çıktı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Pembe nakış işlemeli 'October 3rd' temalı sonbahar sweatshirt'leri ve retro tipografi çıkartma setleri.",
+   "idea": "İkonik alıntıyı içeren pembe tipografik tişörtler, bez çantalar, Y2K tarzı sticker paketleri ve masa takvimi kartları.",
    "product_keywords": [
     {
-     "keyword": "october 3rd sweatshirt",
-     "label": "3 Ekim sweatshirt"
+     "keyword": "october 3rd shirt",
+     "label": "3 ekim tişörtü"
     },
     {
-     "keyword": "mean girls pink stickers",
-     "label": "pembe temalı film çıkartmaları"
+     "keyword": "mean girls sticker pack",
+     "label": "mean girls çıkartma paketi"
     }
    ]
   },
   {
-   "name": "DIY Kumaş Mumalama (Waxed Canvas Ceket Dönüşümü)",
+   "name": "Mogging & Looksmaxxing",
    "heat": "Yükseliyor",
-   "desc": "Sıradan pamuklu veya kanvas ceketleri doğal balmumu kalıplarıyla kaplayarak su geçirmez, dayanıklı ve vintage 'workwear' havasına büründürme hareketi.",
-   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı ceketlerin balmumu ile retro görünüme kavuşturulduğu paylaşımların öne çıkması.",
+   "desc": "Genç internet kültüründe çene hattı, postür ve estetik görünümle başkalarını geride bırakmayı ifade eden viral mizah ve fitness alt kültürü.",
+   "why": "Reddit'in TikTokCringe topluluğunda 'Mogging' temalı video haftanın en çok etkileşim alan gönderilerinden biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Ceket, şapka ve kanvas çantalar için doğal arı mumu ve parafin içeren kumaş bakım mumu kalıbı (fabric wax bar).",
+   "idea": "Mizahi 'mogging' ve çene hattı illüstrasyonlu oversize spor salonu tişörtleri (pump cover) ve su matarası çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "mogging gym shirt",
+     "label": "mogging spor salonu tişörtü"
+    },
+    {
+     "keyword": "looksmaxxing sticker",
+     "label": "looksmaxxing çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "DIY Kumaş Vakslama (Waxed Canvas Craft)",
+   "heat": "Yükseliyor",
+   "desc": "Standart kanvas ceketleri ve çantaları doğal mum kalıplarıyla kaplayarak su geçirmez ve rustik vintage parçalara dönüştürme akımı.",
+   "why": "Reddit malefashionadvice topluluğunda uygun fiyatlı ceketlerin evde vakslanması projesi yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kanvas ceket ve çantalar için el yapımı doğal balmumu bakım kalıpları ve DIY kumaş vakslama başlangıç kitleri.",
    "product_keywords": [
     {
      "keyword": "fabric wax bar",
-     "label": "kumaş mumu kalıbı"
+     "label": "kumaş vakslama kalıbı"
     },
     {
-     "keyword": "diy waxed canvas kit",
-     "label": "kendin yap kanvas mumlama kiti"
+     "keyword": "waxed canvas jacket care kit",
+     "label": "mumlu kanvas bakım kiti"
     }
    ]
   },
   {
-   "name": "Masif Pirinç & Ömürlük El Aletleri (BIFL Heritage)",
-   "heat": "Yükseliyor",
-   "desc": "Dayanıksız modern plastik mutfak aletleri yerine nesilden nesile aktarılabilen masif pirinç, paslanmaz metal ve ağır işçilikli gereçleri tercih etme akımı.",
-   "why": "Reddit r/BuyItForLife topluluğunda dededen kalma pirinç değirmenlerin ve antika dayanıklı mutfak aletlerinin yoğun ilgi görmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geleneksel motifli, el yapımı masif pirinç karabiber veya kahve el değirmeni.",
-   "product_keywords": [
-    {
-     "keyword": "brass pepper grinder",
-     "label": "pirinç karabiber değirmeni"
-    },
-    {
-     "keyword": "manual brass spice mill",
-     "label": "manuel pirinç baharat değirmeni"
-    }
-   ]
-  },
-  {
-   "name": "Doğal Yün Kazak & Sonbahar Katmanlama",
-   "heat": "Hızla yükseliyor",
-   "desc": "Hızlı moda sentetik kumaşlar yerine doğal yün trikoların, klasik kalıpların ve katmanlı sonbahar kombinlerinin yeniden benimsenmesi.",
-   "why": "Reddit r/malefashionadvice'ta 'Re-discovering wool sweaters' ve 'Autumning it up' paylaşımlarının trend olması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Yün kazakların tüylenmesini temizleyen el yapımı ahşap yün bakım tarağı ve el örgüsü doğal yün süveterler.",
-   "product_keywords": [
-    {
-     "keyword": "wool sweater comb",
-     "label": "yün kazak tarağı"
-    },
-    {
-     "keyword": "hand knitted wool vest",
-     "label": "el örgüsü yün süveter"
-    }
-   ]
-  },
-  {
-   "name": "CeCe & Rocky (2010'lar Başı Dans Estetiği)",
+   "name": "Resim Ortaya Çıkaran Bulmaca Kitapları (Picture-Reveal Puzzl",
    "heat": "Yeni çıktı",
-   "desc": "Gen Z'nin çocukluk yıllarındaki Shake It Up dizisi tarzına duyduğu; renkli, katmanlı, parıltılı ve cesur 2010'lar başı giyim nostaljisi.",
-   "why": "Reddit r/GenZ üzerinde kullanıcıların çocukluktaki CeCe ve Rocky giyim tarzı nostaljisini yoğun şekilde tartışması.",
+   "desc": "Kelime avı yaparken işaretlenen harflerin arka planda gizli bir hayvan veya dinozor silüeti oluşturduğu yenilikçi zeka oyunu konsepti.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan ve dinozor temalı resim çıkaran bulmaca kitabı öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2010'lar tarzı parıltılı katmanlı tozluklar (leg warmers) ve çok katmanlı boncuklu bileklik setleri.",
+   "idea": "Etsy'de dijital indirilebilir (PDF) veya basılı olarak satılabilecek tematik resim ortaya çıkaran kelime avı bulmaca say",
    "product_keywords": [
     {
-     "keyword": "knit leg warmers",
-     "label": "örgü bacak ısıtıcısı tozluk"
+     "keyword": "picture reveal word search",
+     "label": "resim çıkaran kelime bulmacası"
     },
     {
-     "keyword": "y2k layered charm bracelet",
-     "label": "y2k çoklu boncuk bileklik"
+     "keyword": "printable puzzle book",
+     "label": "yazdırılabilir bulmaca kitabı"
+    }
+   ]
+  },
+  {
+   "name": "First of the Month (Monthly Reset)",
+   "heat": "Yükseliyor",
+   "desc": "Her ayın ilk gününde bütçe planlama, yaşam alanını temizleme ve hedefleri sıfırlama etrafında şekillenen popüler yaşam tarzı ve ritüel akımı.",
+   "why": "TikTok'ta #firstofthemonth etiketi en popüler etiketler arasında 3. sıraya yerleşti.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Dijital tabletler için 'Monthly Reset' planlayıcı şablonları ve ay başı bütçe/hedef takip çizelgeleri.",
+   "product_keywords": [
+    {
+     "keyword": "monthly reset planner",
+     "label": "aylık reset planlayıcı"
+    },
+    {
+     "keyword": "budget tracker printable",
+     "label": "yazdırılabilir bütçe takipçisi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-10T00:04+00:00",
+ "trends_updated_at": "2026-10-10T03:04+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -371,7 +371,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -386,5 +386,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-10-10T00:04+00:00"
+ "generated_at": "2026-10-10T03:04+00:00"
 }

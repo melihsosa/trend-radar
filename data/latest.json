@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#shopwithconfidence",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "October 3rd (Mean Girls Day)",
+   "heat": "Zirvede",
+   "desc": "Kült gençlik filmi Mean Girls'ün meşhur repliği etrafında şekillenen pembe renk kodlu ve Y2K estetiğine dayalı yıllık popüler kutlama akımı.",
+   "why": "TikTok trend hashtag sıralamasında #october3rd doğrudan 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Pembe renkli 'On October 3rd he asked me what day it was' yazılı kanvas bez çantalar ve bardak altlıkları.",
+   "product_keywords": [
+    {
+     "keyword": "mean girls october 3rd shirt",
+     "label": "3 ekim mean girls tişörtü"
+    },
+    {
+     "keyword": "october 3rd pink tote bag",
+     "label": "3 ekim temalı pembe bez çanta"
+    }
+   ]
   },
   {
-   "name": "#october3rd",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "National Boyfriend Day",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kullanıcıların erkek arkadaşlarına hediye aldığı, romantik veya esprili anılar paylaştığı özel gün akımı.",
+   "why": "TikTok hashtag listesinde #nationalboyfriendsday 3. sırada en çok etkileşim alan konulardan biri oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Çiftler için fotoğraflı veya özel koordinat/tarih baskılı el yapımı deri anahtarlık ve hatıra kartları.",
+   "product_keywords": [
+    {
+     "keyword": "custom boyfriend keychain",
+     "label": "kişiye özel erkek arkadaş anahtarlığı"
+    },
+    {
+     "keyword": "personalized anniversary wallet card",
+     "label": "kişiselleştirilmiş cüzdan hatıra kartı"
+    }
+   ]
   },
   {
-   "name": "#firstofthemonth",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "ComplexCon Streetwear Aesthetic",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sokak modası, sneaker kültürü ve yeni nesil grafik sanatının birleştiği fuar etrafında canlanan giyim ve aksesuar akımı.",
+   "why": "TikTok'ta #complexcon etiketi yükselenler listesinde 2. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Özel tasarım metalik spor ayakkabı bağcık süsleri (lace charms) ve kalın fitilli grafik sokak modası çorapları.",
+   "product_keywords": [
+    {
+     "keyword": "sneaker lace charm",
+     "label": "ayakkabı bağcık aksesuarı"
+    },
+    {
+     "keyword": "streetwear graphic socks",
+     "label": "sokak modası grafik çorap"
+    }
+   ]
+  },
+  {
+   "name": "Mogging & Looksmaxxing",
+   "heat": "Yükseliyor",
+   "desc": "Gen-Z internet kültüründe çene hattı, yüz hatları ve estetik üstünlük esprilerini kapsayan viral 'looksmaxxing' jargon akımı.",
+   "why": "Reddit r/TikTokCringe ve gençlik mizahı başlıklarında 'Mogging' konusu haftanın popüler gönderileri arasına girdi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik 'Mogger' ve 'Bye Bye / Mewing' yazılı grafik spor salonu tişörtleri ve çıkartma (sticker) paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "mogging meme shirt",
+     "label": "mogging temalı mizahi tişört"
+    },
+    {
+     "keyword": "mewing jawline sticker",
+     "label": "mewing çıkartma seti"
+    }
+   ]
+  },
+  {
+   "name": "Western Formal",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel kovboy ve country estetiğini resmi davet/gala şıklığıyla birleştiren hibrit retro giyim tarzı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'Western Formal' gala kombinleri arayışı öne çıkan tartışmalardan oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yarı değerli doğal taşlar veya el yapımı metal işlemelerle süslenmiş şık deri Bolo kravatlar (bolo tie).",
+   "product_keywords": [
+    {
+     "keyword": "handmade bolo tie",
+     "label": "el yapımı bolo kravat"
+    },
+    {
+     "keyword": "western collar tips",
+     "label": "western gömlek yaka ucu süsü"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal Word Search",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kelime bulmacalarını boyama ve görsel keşfiyle birleştirerek ekran detoksu sunan yeni nesil 'cozy' basılı aktivite kitapları.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda görsel açığa çıkaran kelime avı bulmaca kitabı yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Etsy üzerinden anında indirilip yazdırılabilen (printable) hayvan veya doğa temalı resim çıkaran bulmaca sayfaları seti.",
+   "product_keywords": [
+    {
+     "keyword": "printable word search puzzle",
+     "label": "yazdırılabilir kelime bulmacası"
+    },
+    {
+     "keyword": "picture reveal puzzle book",
+     "label": "resim ortaya çıkaran bulmaca kitabı"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-10T21:03+00:00",
+ "trends_updated_at": "2026-10-11T00:04+00:00",
  "products": [
   {
    "name": "aylık reset planlayıcı",
@@ -403,13 +490,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-10T21:03+00:00"
+ "generated_at": "2026-10-11T00:04+00:00"
 }

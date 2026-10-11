@@ -3,127 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Day)",
+   "name": "National Boyfriend's Day",
    "heat": "Zirvede",
-   "desc": "Mean Girls filminin ikonik repliği üzerinden her yıl 3 Ekim'de kutlanan pembe ağırlıklı Y2K popüler kültür günü.",
-   "why": "TikTok'ta 'october3rd' etiketi 1. sıraya yükselerek viral oldu.",
+   "desc": "Erkek arkadaşlara özel jestlerin yapıldığı ve hediyelerin verildiği sosyal medya kutlama akımı.",
+   "why": "TikTok'ta #nationalboyfriendsday etiketi en popüler trendler arasında 3. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "'On October 3rd he asked me what day it was' yazılı pembe nostaljik tişört, bez çanta veya kupa.",
+   "idea": "Erkek arkadaş için kişiselleştirilmiş hediyelik eşyalar, özel yazılı anahtarlıklar veya anı kartları.",
    "product_keywords": [
     {
-     "keyword": "october 3rd shirt",
-     "label": "3 ekim tişörtü"
-    },
-    {
-     "keyword": "mean girls pink mug",
-     "label": "mean girls pembe kupa"
-    }
-   ]
-  },
-  {
-   "name": "National Boyfriend Day",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların erkek arkadaşlarına sevgilerini göstermek ve hediyeleşmek için paylaşımlar yaptığı özel kutlama akımı.",
-   "why": "TikTok trend listesinde 'nationalboyfriendsday' etiketi ilk 3'e girdi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Çift fotoğraflı Spotify kodlu akrilik plaket veya isim/tarih işlemeli erkek deri cüzdanı.",
-   "product_keywords": [
-    {
-     "keyword": "boyfriend anniversary gift",
+     "keyword": "national boyfriend day gift",
      "label": "erkek arkadaş hediye"
     },
     {
-     "keyword": "custom engraved wallet",
-     "label": "kişiye özel cüzdan"
+     "keyword": "personalized gift for boyfriend",
+     "label": "kişiselleştirilmiş erkek arkadaş hediyesi"
     }
    ]
   },
   {
    "name": "Western Formal",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel Batı/kovboy detaylarını klasik gala ve resmi davet şıklığıyla harmanlayan melez giyim estetiği.",
-   "why": "Reddit r/femalefashionadvice topluluğunda resmi etkinlikler için Batı tarzı parçaların kombinlenmesi öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Doğal taşlı el yapımı gümüş bolo kravat (bolo tie) ve işlemeli western tarzı deri kemerler.",
-   "product_keywords": [
-    {
-     "keyword": "western bolo tie",
-     "label": "batı tarzı bolo kravat"
-    },
-    {
-     "keyword": "vintage cowboy belt",
-     "label": "vintage kovboy kemeri"
-    }
-   ]
-  },
-  {
-   "name": "ComplexCon Streetwear Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sokak modası, sneaker kültürü, pop-art ve sokak sanatı tutkunlarının oluşturduğu yeni nesil giyim akımı.",
-   "why": "TikTok'ta 'complexcon' etiketi en popüler 2. etiket konumunda.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Distressed (eskitme) oversize grafik sokak modası hoodie veya özel tasarım pin/yama koleksiyonu.",
-   "product_keywords": [
-    {
-     "keyword": "streetwear graphic hoodie",
-     "label": "streetwear grafik kapüşonlu"
-    },
-    {
-     "keyword": "urban streetwear patch",
-     "label": "sokak modası yama"
-    }
-   ]
-  },
-  {
-   "name": "Mogging & Looksmaxxing",
-   "heat": "Yükseliyor",
-   "desc": "Genç internet kültüründe çene hattı, duruş ve fiziksel üstünlük üzerinden türeyen mizahi estetik akımı.",
-   "why": "Reddit r/TikTokCringe topluluğunda 'Mogging' başlığı yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "'Mogger' ve çene hattı silüeti tipografisine sahip mizahi sporcu tişörtü veya sticker paketi.",
-   "product_keywords": [
-    {
-     "keyword": "mogger gym shirt",
-     "label": "mizahi sporcu tişörtü"
-    },
-    {
-     "keyword": "looksmaxxing sticker",
-     "label": "looksmaxxing çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "Fit-Friendly Laptop Backpacks",
    "heat": "Yeni çıktı",
-   "desc": "Klasik kaba iş çantası görünümünden uzak, şık kıyafetleri bozmayan minimalist ve estetik kadın laptop çantası arayışı.",
-   "why": "Reddit r/femalefashionadvice'da kombini bozmayan laptop çantaları tartışması üst sıralarda yer aldı.",
+   "desc": "Kovboy/Kuzey Amerika estetiğinin modern ve şık gece kıyafetleriyle harmanlandığı disiplinlerarası stil akımı.",
+   "why": "Reddit femalefashionadvice panosunda Western Formal konseptine uygun stil önerileri tartışıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Vegan deriden üretilmiş, ince profilli ve şık kıyafetlerle uyumlu minimalist kadın dizüstü bilgisayar sırt çantası.",
+   "idea": "Western temalı şık bolo kravatlar, işlemeli deri aksesuarlar veya kovboy figürlü takılar.",
    "product_keywords": [
     {
-     "keyword": "minimalist leather laptop backpack",
-     "label": "minimalist deri laptop çantası"
+     "keyword": "western formal bolo tie",
+     "label": "western formal bolo kravat"
     },
     {
-     "keyword": "aesthetic work backpack women",
-     "label": "şık kadın sırt çantası"
+     "keyword": "western aesthetic accessory",
+     "label": "western estetik aksesuar"
+    }
+   ]
+  },
+  {
+   "name": "Mogging",
+   "heat": "Yükseliyor",
+   "desc": "Gen-Z ve internet kültüründe fiziksel duruş veya tarz olarak başkalarını geride bırakmayı ifade eden mizahi terim.",
+   "why": "Reddit TikTokCringe topluluğunda Mogging başlığı öne çıkan gönderiler arasında yer aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Üzerinde Mogging ifadesi veya esprili Gen-Z sloganları olan grafik baskılı tişört ve kupalar.",
+   "product_keywords": [
+    {
+     "keyword": "mogging shirt",
+     "label": "mogging tişört"
+    },
+    {
+     "keyword": "mogging mug",
+     "label": "mogging kupa"
+    }
+   ]
+  },
+  {
+   "name": "Şık Laptop Sırt Çantası",
+   "heat": "Yükseliyor",
+   "desc": "Günlük kıyafet şıklığını bozmayan, hem estetik hem de işlevsel laptop sırt çantası arayışı.",
+   "why": "Reddit femalefashionadvice panosunda kombinleri bozmayacak laptop çantası tavsiyeleri gündem oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Estetik, minimalist ve şık tasarımlı deri veya kanvas laptop çantaları.",
+   "product_keywords": [
+    {
+     "keyword": "aesthetic laptop backpack",
+     "label": "estetik laptop sırt çantası"
+    },
+    {
+     "keyword": "chic laptop bag",
+     "label": "şık laptop çantası"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal Word Search",
+   "heat": "Yeni çıktı",
+   "desc": "Bulmaca çözüldükçe gizli bir resmin ortaya çıktığı, aktivite ve stresi azaltma odaklı yeni nesil bulmaca konsepti.",
+   "why": "Reddit shutupandtakemymoney panosunda resim ortaya çıkaran hayvan temalı bulmaca kitabı yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Özel temalı (doğa, hayvanlar) resim ortaya çıkaran görsel bulmaca ve aktivite defterleri.",
+   "product_keywords": [
+    {
+     "keyword": "picture reveal word search",
+     "label": "resim çıkaran kelime bulmacası"
+    },
+    {
+     "keyword": "visual puzzle book",
+     "label": "görsel bulmaca kitabı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T09:04+00:00",
+ "trends_updated_at": "2026-10-11T12:04+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -537,12 +517,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 17
   }
  },
- "generated_at": "2026-10-11T09:04+00:00"
+ "generated_at": "2026-10-11T12:04+00:00"
 }

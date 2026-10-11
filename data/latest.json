@@ -3,107 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "National Boyfriend's Day",
+   "name": "October 3rd (Mean Girls Day)",
    "heat": "Zirvede",
-   "desc": "Erkek arkadaşlara özel jestlerin yapıldığı ve hediyelerin verildiği sosyal medya kutlama akımı.",
-   "why": "TikTok'ta #nationalboyfriendsday etiketi en popüler trendler arasında 3. sırada yer aldı.",
+   "desc": "Mean Girls filminin meşhur repliğine dayanan, pembe renk ve Y2K popüler kültür nostaljisinin kutlandığı viral gün.",
+   "why": "TikTok trend hashtag listesinde 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Erkek arkadaş için kişiselleştirilmiş hediyelik eşyalar, özel yazılı anahtarlıklar veya anı kartları.",
+   "idea": "Pembe renkli 'On October 3rd He Asked Me What Day It Was' temalı nostaljik grafik tişörtler, bardak altlıkları ve çıkart",
    "product_keywords": [
     {
-     "keyword": "national boyfriend day gift",
-     "label": "erkek arkadaş hediye"
+     "keyword": "mean girls october 3rd shirt",
+     "label": "Mean Girls 3 Ekim tişörtü"
     },
     {
-     "keyword": "personalized gift for boyfriend",
-     "label": "kişiselleştirilmiş erkek arkadaş hediyesi"
+     "keyword": "october 3rd sticker pack",
+     "label": "3 Ekim çıkartma paketi"
     }
    ]
   },
   {
-   "name": "Western Formal",
-   "heat": "Yeni çıktı",
-   "desc": "Kovboy/Kuzey Amerika estetiğinin modern ve şık gece kıyafetleriyle harmanlandığı disiplinlerarası stil akımı.",
-   "why": "Reddit femalefashionadvice panosunda Western Formal konseptine uygun stil önerileri tartışıldı.",
+   "name": "National Boyfriend Day",
+   "heat": "Zirvede",
+   "desc": "Gençlerin partnerlerine esprili, duygusal veya kişiye özel hediyeler vererek sosyal medyada paylaştığı özel gün akımı.",
+   "why": "TikTok popüler hashtag listesinde 3. sıraya yükseldi.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Western temalı şık bolo kravatlar, işlemeli deri aksesuarlar veya kovboy figürlü takılar.",
+   "idea": "Erkek arkadaş için kişiselleştirilebilir deri anahtarlıklar, Spotify şarkı kodlu akrilik plaketler veya mizahi tebrik ka",
    "product_keywords": [
     {
-     "keyword": "western formal bolo tie",
-     "label": "western formal bolo kravat"
+     "keyword": "custom boyfriend keychain",
+     "label": "Kişiye özel erkek arkadaş anahtarlığı"
     },
     {
-     "keyword": "western aesthetic accessory",
-     "label": "western estetik aksesuar"
+     "keyword": "boyfriend funny card",
+     "label": "Erkek arkadaşa komik tebrik kartı"
     }
    ]
   },
   {
-   "name": "Mogging",
+   "name": "ComplexCon Sokak Modası",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sneaker kültürü, sokak modası, limitli koleksiyon ürünleri ve grafik odaklı giyim tarzını merkezine alan gençlik hareketi.",
+   "why": "TikTok'ta en çok izlenen ve aranan hashtag'ler arasında 2. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Sneaker bağcık aksesuarları (lace dubrae), sokak stili kordon uçları veya özel tipografik sokak modası yamaları.",
+   "product_keywords": [
+    {
+     "keyword": "sneaker lace charms",
+     "label": "Spor ayakkabı bağcık süsü"
+    },
+    {
+     "keyword": "streetwear patch",
+     "label": "Sokak stili tekstil yaması"
+    }
+   ]
+  },
+  {
+   "name": "Kendin Yap Wax Kumaş ve Ceket Bakımı",
    "heat": "Yükseliyor",
-   "desc": "Gen-Z ve internet kültüründe fiziksel duruş veya tarz olarak başkalarını geride bırakmayı ifade eden mizahi terim.",
-   "why": "Reddit TikTokCringe topluluğunda Mogging başlığı öne çıkan gönderiler arasında yer aldı.",
+   "desc": "Erkek giyiminde uygun fiyatlı mont ve ceketlerin geleneksel yöntemlerle mumlanarak dayanıklı, vintage bir görünüme kavuşturulması trendi.",
+   "why": "Reddit r/malefashionadvice topluluğunda ceket waxlama öncesi/sonrası gönderisi yoğun etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Üzerinde Mogging ifadesi veya esprili Gen-Z sloganları olan grafik baskılı tişört ve kupalar.",
+   "idea": "Tekstil için tamamen doğal içerikli kalıp kumaş balmumu (fabric wax bar) ve uygulama süngerinden oluşan kendin-yap bakım",
    "product_keywords": [
     {
-     "keyword": "mogging shirt",
-     "label": "mogging tişört"
+     "keyword": "fabric wax bar",
+     "label": "Kumaş wax balmumu kalıbı"
     },
     {
-     "keyword": "mogging mug",
-     "label": "mogging kupa"
+     "keyword": "diy waxed canvas kit",
+     "label": "Kendin yap kumaş waxlama kiti"
     }
    ]
   },
   {
-   "name": "Şık Laptop Sırt Çantası",
-   "heat": "Yükseliyor",
-   "desc": "Günlük kıyafet şıklığını bozmayan, hem estetik hem de işlevsel laptop sırt çantası arayışı.",
-   "why": "Reddit femalefashionadvice panosunda kombinleri bozmayacak laptop çantası tavsiyeleri gündem oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Estetik, minimalist ve şık tasarımlı deri veya kanvas laptop çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "aesthetic laptop backpack",
-     "label": "estetik laptop sırt çantası"
-    },
-    {
-     "keyword": "chic laptop bag",
-     "label": "şık laptop çantası"
-    }
-   ]
-  },
-  {
-   "name": "Picture-Reveal Word Search",
+   "name": "Görsel Açığa Çıkaran İnteraktif Bulmacalar",
    "heat": "Yeni çıktı",
-   "desc": "Bulmaca çözüldükçe gizli bir resmin ortaya çıktığı, aktivite ve stresi azaltma odaklı yeni nesil bulmaca konsepti.",
-   "why": "Reddit shutupandtakemymoney panosunda resim ortaya çıkaran hayvan temalı bulmaca kitabı yoğun ilgi gördü.",
+   "desc": "Kelime avı çözüldükçe gizli bir hayvan veya figür görselinin ortaya çıktığı, ekran detoksu vadeden hibrit bulmaca formatı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan temalı çizim açığa çıkaran kelime avı kitabı öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Özel temalı (doğa, hayvanlar) resim ortaya çıkaran görsel bulmaca ve aktivite defterleri.",
+   "idea": "Etsy üzerinden anında indirilip yazdırılabilen (printable PDF) tematik, gizli resimli kelime arama sayfaları ve etkinlik",
    "product_keywords": [
     {
      "keyword": "picture reveal word search",
-     "label": "resim çıkaran kelime bulmacası"
+     "label": "Görsel açığa çıkaran kelime bulmacası"
     },
     {
-     "keyword": "visual puzzle book",
-     "label": "görsel bulmaca kitabı"
+     "keyword": "printable puzzle book pdf",
+     "label": "Yazdırılabilir bulmaca kitapçığı PDF"
+    }
+   ]
+  },
+  {
+   "name": "Kaiju / Retro Canavar Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Godzilla ve King Ghidorah yeni fragmanlarıyla tetiklenen, nostaljik Japon kaiju ve dev canavar illüstrasyonlarına yönelik genç fandom ilgisi.",
+   "why": "Google yükselen aramalarda yeni Godzilla ve King Ghidorah fragmanı ani arama artışı yakaladı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Japon retro poster tarzında Godzilla ve Kaiju esintili emaye yaka iğneleri (enamel pins) ve ahşap retro duvar posterleri",
+   "product_keywords": [
+    {
+     "keyword": "kaiju enamel pin",
+     "label": "Kaiju emaye yaka iğnesi"
+    },
+    {
+     "keyword": "japanese monster poster",
+     "label": "Japon canavar posteri"
+    }
+   ]
+  },
+  {
+   "name": "Rustik Sonbahar Triko & Yün Bakımı",
+   "heat": "Yükseliyor",
+   "desc": "Havalara bağlı olarak gardıroplarda kalın yün kazaklara, dokulu gömleklere ve rustik sonbahar renklerine dönüş hareketi.",
+   "why": "Reddit r/malefashionadvice üzerinde yün kazaklara dönüş ve sonbahar dokulu giysiler üzerine çok sayıda popüler başlık açıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal sedir ağacından elde yapılmış yün tiftik temizleme tarağı veya el örgüsü merinos yünü sonbahar bereleri.",
+   "product_keywords": [
+    {
+     "keyword": "wool sweater comb",
+     "label": "Yün kazak tiftik tarağı"
+    },
+    {
+     "keyword": "merino wool beanie",
+     "label": "Merinos yünü bere"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T12:04+00:00",
+ "trends_updated_at": "2026-10-11T15:03+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -517,12 +557,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 17
   }
  },
- "generated_at": "2026-10-11T12:04+00:00"
+ "generated_at": "2026-10-11T15:03+00:00"
 }

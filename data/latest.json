@@ -3,127 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Day)",
+   "name": "Mean Girls / October 3rd Nostaljisi",
    "heat": "Zirvede",
-   "desc": "Kült gençlik filmi Mean Girls'ün meşhur repliği etrafında şekillenen pembe renk kodlu ve Y2K estetiğine dayalı yıllık popüler kutlama akımı.",
-   "why": "TikTok trend hashtag sıralamasında #october3rd doğrudan 1. sırada yer aldı.",
+   "desc": "Kült gençlik filmi Mean Girls'ün meşhur repliği etrafında şekillenen, her yıl 3 Ekim'de kutlanan pembe ve nostaljik Y2K estetiği.",
+   "why": "TikTok'ta #october3rd etiketi ABD genelinde 1. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Pembe renkli 'On October 3rd he asked me what day it was' yazılı kanvas bez çantalar ve bardak altlıkları.",
+   "idea": "'It's October 3rd' yazılı pembe retro kupalar, Y2K tarzı grafik tişörtler ve nostaljik sticker paketleri.",
    "product_keywords": [
     {
-     "keyword": "mean girls october 3rd shirt",
-     "label": "3 ekim mean girls tişörtü"
+     "keyword": "october 3rd shirt",
+     "label": "ekim 3 pembe tişört"
     },
     {
-     "keyword": "october 3rd pink tote bag",
-     "label": "3 ekim temalı pembe bez çanta"
+     "keyword": "mean girls aesthetic sticker",
+     "label": "mean girls temalı sticker"
     }
    ]
   },
   {
-   "name": "National Boyfriend Day",
+   "name": "National Boyfriend Day Hediyeleri",
+   "heat": "Zirvede",
+   "desc": "Ekim ayı başında kutlanan Ulusal Erkek Arkadaş Günü kapsamında partnerlere yönelik duygusal, esprili ve kişiselleştirilmiş hediyeler sunma akımı.",
+   "why": "TikTok Creative Center verilerinde #nationalboyfriendsday etiketi en popüler 3. sırada yer alıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Kişiye özel koordinat veya tarih işlemeli deri anahtarlık, fotoğraf baskılı cüzdan kartı.",
+   "product_keywords": [
+    {
+     "keyword": "personalized boyfriend gift",
+     "label": "kişiye özel erkek arkadaş hediyesi"
+    },
+    {
+     "keyword": "custom boyfriend wallet card",
+     "label": "özel mesajlı cüzdan kartı"
+    }
+   ]
+  },
+  {
+   "name": "ComplexCon Sokak Modası Hype'ı",
    "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların erkek arkadaşlarına hediye aldığı, romantik veya esprili anılar paylaştığı özel gün akımı.",
-   "why": "TikTok hashtag listesinde #nationalboyfriendsday 3. sırada en çok etkileşim alan konulardan biri oldu.",
+   "desc": "Genç sokak giyim (streetwear), sneaker ve pop-art alt kültürünü harmanlayan etkinlik çevresinde yükselen grafik ve aksesuar trendi.",
+   "why": "TikTok trendlerinde #complexcon etiketi 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Çiftler için fotoğraflı veya özel koordinat/tarih baskılı el yapımı deri anahtarlık ve hatıra kartları.",
+   "idea": "Özgün grafik illüstrasyonlu sokak giyim t-shirtleri, şapka ve ceketler için emaye yaka iğneleri (enamel pins).",
    "product_keywords": [
     {
-     "keyword": "custom boyfriend keychain",
-     "label": "kişiye özel erkek arkadaş anahtarlığı"
+     "keyword": "streetwear graphic tee",
+     "label": "sokak modası grafik tişört"
     },
     {
-     "keyword": "personalized anniversary wallet card",
-     "label": "kişiselleştirilmiş cüzdan hatıra kartı"
+     "keyword": "urban enamel pin",
+     "label": "urban emaye yaka iğnesi"
     }
    ]
   },
   {
-   "name": "ComplexCon Streetwear Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sokak modası, sneaker kültürü ve yeni nesil grafik sanatının birleştiği fuar etrafında canlanan giyim ve aksesuar akımı.",
-   "why": "TikTok'ta #complexcon etiketi yükselenler listesinde 2. sırada yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Özel tasarım metalik spor ayakkabı bağcık süsleri (lace charms) ve kalın fitilli grafik sokak modası çorapları.",
-   "product_keywords": [
-    {
-     "keyword": "sneaker lace charm",
-     "label": "ayakkabı bağcık aksesuarı"
-    },
-    {
-     "keyword": "streetwear graphic socks",
-     "label": "sokak modası grafik çorap"
-    }
-   ]
-  },
-  {
-   "name": "Mogging & Looksmaxxing",
+   "name": "Kendin Yap Kumaş Mumalama (DIY Waxed Jacket)",
    "heat": "Yükseliyor",
-   "desc": "Gen-Z internet kültüründe çene hattı, yüz hatları ve estetik üstünlük esprilerini kapsayan viral 'looksmaxxing' jargon akımı.",
-   "why": "Reddit r/TikTokCringe ve gençlik mizahı başlıklarında 'Mogging' konusu haftanın popüler gönderileri arasına girdi.",
+   "desc": "Uygun fiyatlı gömlek ve ceketleri balmumu ile kaplayarak dayanıklı, rustik ve suya dayanıklı 'waxed workwear' görünümüne kavuşturma hareketi.",
+   "why": "Reddit r/malefashionadvice topluluğunda gömlek ceketinin mumlama öncesi/sonrası projesi yoğun ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İronik 'Mogger' ve 'Bye Bye / Mewing' yazılı grafik spor salonu tişörtleri ve çıkartma (sticker) paketleri.",
+   "idea": "Kıyafet ve kanvas çantalar için doğal içerikli kumaş su geçirmezlik wax kalıbı ve bakım kiti.",
    "product_keywords": [
     {
-     "keyword": "mogging meme shirt",
-     "label": "mogging temalı mizahi tişört"
+     "keyword": "fabric wax bar",
+     "label": "kumaş mumlama balmumu kalıbı"
     },
     {
-     "keyword": "mewing jawline sticker",
-     "label": "mewing çıkartma seti"
+     "keyword": "waxed canvas conditioner",
+     "label": "mumlanmış kumaş bakım kremi"
     }
    ]
   },
   {
-   "name": "Western Formal",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel kovboy ve country estetiğini resmi davet/gala şıklığıyla birleştiren hibrit retro giyim tarzı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Western Formal' gala kombinleri arayışı öne çıkan tartışmalardan oldu.",
+   "name": "Nostaljik Sonbahar Triko & Yün Bakımı",
+   "heat": "Yükseliyor",
+   "desc": "Havanın soğumasıyla geleneksel yün kazaklara, vintage dokulara ve zamansız sonbahar katmanlama (layering) stiline dönüş akımı.",
+   "why": "Reddit r/malefashionadvice üzerinde 'Re-discovering wool sweaters' ve 'Autumning it up' paylaşımları öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yarı değerli doğal taşlar veya el yapımı metal işlemelerle süslenmiş şık deri Bolo kravatlar (bolo tie).",
+   "idea": "Yün kazaklar için doğal sedir ağacı saklama halkaları ve el yapımı tiftik temizleme tarağı.",
    "product_keywords": [
     {
-     "keyword": "handmade bolo tie",
-     "label": "el yapımı bolo kravat"
+     "keyword": "cashmere wool comb",
+     "label": "yün kazak tiftik tarağı"
     },
     {
-     "keyword": "western collar tips",
-     "label": "western gömlek yaka ucu süsü"
+     "keyword": "cedar sweater rings",
+     "label": "sedir ağacı kazak koruyucu"
     }
    ]
   },
   {
-   "name": "Picture-Reveal Word Search",
+   "name": "Görsel Ortaya Çıkaran Bulmaca Kitapları",
    "heat": "Yeni çıktı",
-   "desc": "Klasik kelime bulmacalarını boyama ve görsel keşfiyle birleştirerek ekran detoksu sunan yeni nesil 'cozy' basılı aktivite kitapları.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda görsel açığa çıkaran kelime avı bulmaca kitabı yoğun ilgi gördü.",
+   "desc": "Kelimeler bulundukça ızgara üzerinde gizli bir resim veya silüet oluşturan, ekransız rahatlama sağlayan yenilikçi bulmaca konsepti.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda resim ortaya çıkaran hayvan temalı bulmaca kitabı yoğun beğeni topladı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Etsy üzerinden anında indirilip yazdırılabilen (printable) hayvan veya doğa temalı resim çıkaran bulmaca sayfaları seti.",
+   "idea": "Yazdırılabilir (printable PDF) veya ciltli tematik görsel kelime bulmaca aktivite kitabı.",
    "product_keywords": [
     {
      "keyword": "printable word search puzzle",
-     "label": "yazdırılabilir kelime bulmacası"
+     "label": "yazdırılabilir kelime avı bulmacası"
     },
     {
-     "keyword": "picture reveal puzzle book",
-     "label": "resim ortaya çıkaran bulmaca kitabı"
+     "keyword": "adult activity puzzle book",
+     "label": "yetişkin aktivite bulmaca kitabı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T00:04+00:00",
+ "trends_updated_at": "2026-10-11T03:04+00:00",
  "products": [
   {
    "name": "aylık reset planlayıcı",
@@ -498,5 +498,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-11T00:04+00:00"
+ "generated_at": "2026-10-11T03:04+00:00"
 }

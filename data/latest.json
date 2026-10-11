@@ -3,147 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "October 3rd (Mean Girls Day)",
+   "name": "Mogging & Looksmaxxing Kültürü",
    "heat": "Zirvede",
-   "desc": "Mean Girls filminin meşhur repliğine dayanan, pembe renk ve Y2K popüler kültür nostaljisinin kutlandığı viral gün.",
-   "why": "TikTok trend hashtag listesinde 1. sırada yer aldı.",
+   "desc": "Gen Z ve internet erkek alt kültürlerinde fiziksel cazibe, keskin çene hatları ve duruşla başkalarını gölgede bırakmayı ifade eden viral argo ve estetik akımı.",
+   "why": "TikTokCringe topluluğunda 'Mogging' başlığıyla viral olarak tartışılması.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "Pembe renkli 'On October 3rd He Asked Me What Day It Was' temalı nostaljik grafik tişörtler, bardak altlıkları ve çıkart",
+   "idea": "İronik 'Mogger' tipografili tişörtler, çene hattı temalı komik çıkartmalar (sticker) ve minimalist gua sha yüz masajı he",
    "product_keywords": [
     {
-     "keyword": "mean girls october 3rd shirt",
-     "label": "Mean Girls 3 Ekim tişörtü"
+     "keyword": "mogging meme shirt",
+     "label": "mogging temalı tişört"
     },
     {
-     "keyword": "october 3rd sticker pack",
-     "label": "3 Ekim çıkartma paketi"
+     "keyword": "looksmaxxing sticker pack",
+     "label": "looksmaxxing çıkartma paketi"
     }
    ]
   },
   {
-   "name": "National Boyfriend Day",
-   "heat": "Zirvede",
-   "desc": "Gençlerin partnerlerine esprili, duygusal veya kişiye özel hediyeler vererek sosyal medyada paylaştığı özel gün akımı.",
-   "why": "TikTok popüler hashtag listesinde 3. sıraya yükseldi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Erkek arkadaş için kişiselleştirilebilir deri anahtarlıklar, Spotify şarkı kodlu akrilik plaketler veya mizahi tebrik ka",
-   "product_keywords": [
-    {
-     "keyword": "custom boyfriend keychain",
-     "label": "Kişiye özel erkek arkadaş anahtarlığı"
-    },
-    {
-     "keyword": "boyfriend funny card",
-     "label": "Erkek arkadaşa komik tebrik kartı"
-    }
-   ]
-  },
-  {
-   "name": "ComplexCon Sokak Modası",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sneaker kültürü, sokak modası, limitli koleksiyon ürünleri ve grafik odaklı giyim tarzını merkezine alan gençlik hareketi.",
-   "why": "TikTok'ta en çok izlenen ve aranan hashtag'ler arasında 2. sırada yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Sneaker bağcık aksesuarları (lace dubrae), sokak stili kordon uçları veya özel tipografik sokak modası yamaları.",
-   "product_keywords": [
-    {
-     "keyword": "sneaker lace charms",
-     "label": "Spor ayakkabı bağcık süsü"
-    },
-    {
-     "keyword": "streetwear patch",
-     "label": "Sokak stili tekstil yaması"
-    }
-   ]
-  },
-  {
-   "name": "Kendin Yap Wax Kumaş ve Ceket Bakımı",
+   "name": "Western Formal (Resmi Kovboy) Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Erkek giyiminde uygun fiyatlı mont ve ceketlerin geleneksel yöntemlerle mumlanarak dayanıklı, vintage bir görünüme kavuşturulması trendi.",
-   "why": "Reddit r/malefashionadvice topluluğunda ceket waxlama öncesi/sonrası gönderisi yoğun etkileşim aldı.",
+   "desc": "Geleneksel vahşi batı ve kovboy giyim kodlarının balo, gala ve resmi davet kıyafetleriyle cinsiyetsiz ve vintage dokunuşlarla harmanlanması.",
+   "why": "r/femalefashionadvice topluluğunda 'Western Formal' gala davetleri için dönem ve cinsiyet karması kombin arayışı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Tekstil için tamamen doğal içerikli kalıp kumaş balmumu (fabric wax bar) ve uygulama süngerinden oluşan kendin-yap bakım",
+   "idea": "El yapımı doğal taşlı gümüş bolo kravatlar, western işlemeli yaka broşları ve kovboy kemeri tokası motifli aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "fabric wax bar",
-     "label": "Kumaş wax balmumu kalıbı"
+     "keyword": "handmade bolo tie",
+     "label": "el yapımı bolo kravat"
     },
     {
-     "keyword": "diy waxed canvas kit",
-     "label": "Kendin yap kumaş waxlama kiti"
+     "keyword": "western collar tips",
+     "label": "western gömlek yaka ucu"
     }
    ]
   },
   {
-   "name": "Görsel Açığa Çıkaran İnteraktif Bulmacalar",
+   "name": "Grown-Up Rave (Yetişkin Festival/Parti Giyimi)",
    "heat": "Yeni çıktı",
-   "desc": "Kelime avı çözüldükçe gizli bir hayvan veya figür görselinin ortaya çıktığı, ekran detoksu vadeden hibrit bulmaca formatı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan temalı çizim açığa çıkaran kelime avı kitabı öne çıktı.",
+   "desc": "20'li yaşların sonu ve 30'lu yaşlardaki elektronik müzik dinleyicilerinin aşırı açık/neon parçalar yerine daha sofistike, kaliteli ve konforlu parti kombinleri tercihi.",
+   "why": "r/femalefashionadvice'ta yetişkinlerin rave partileri için şık ve olgun kıyafet tavsiyeleri sorması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Etsy üzerinden anında indirilip yazdırılabilen (printable PDF) tematik, gizli resimli kelime arama sayfaları ve etkinlik",
+   "idea": "Şık tül/file festival kimonoları, minimal deri bel çantaları ve boyunda taşınabilir lüks kulak tıkacı saklama kolyeleri.",
    "product_keywords": [
     {
-     "keyword": "picture reveal word search",
-     "label": "Görsel açığa çıkaran kelime bulmacası"
+     "keyword": "rave duster kimono",
+     "label": "festival tül kimono"
     },
     {
-     "keyword": "printable puzzle book pdf",
-     "label": "Yazdırılabilir bulmaca kitapçığı PDF"
+     "keyword": "earplug case necklace",
+     "label": "kulak tıkacı kılıf kolye"
     }
    ]
   },
   {
-   "name": "Kaiju / Retro Canavar Estetiği",
+   "name": "Fit-Friendly Laptop Çantaları (Kombin Dostu Sırt Çantası)",
    "heat": "Yükseliyor",
-   "desc": "Godzilla ve King Ghidorah yeni fragmanlarıyla tetiklenen, nostaljik Japon kaiju ve dev canavar illüstrasyonlarına yönelik genç fandom ilgisi.",
-   "why": "Google yükselen aramalarda yeni Godzilla ve King Ghidorah fragmanı ani arama artışı yakaladı.",
+   "desc": "Ofise veya okula giderken klasik kaba teknoloji çantaları yerine şık, zarif günlük kıyafetleri ve takımları bozmayan minimalist sırt çantası talebi.",
+   "why": "r/femalefashionadvice'ta kıyafeti ve tarzı bozmayacak laptop çantası arayışının öne çıkması.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "Japon retro poster tarzında Godzilla ve Kaiju esintili emaye yaka iğneleri (enamel pins) ve ahşap retro duvar posterleri",
+   "idea": "İnce profilli, vegan deri, altın donanımlı ve iş kıyafetlerine uyumlu minimalist kadın laptop sırt çantası.",
    "product_keywords": [
     {
-     "keyword": "kaiju enamel pin",
-     "label": "Kaiju emaye yaka iğnesi"
+     "keyword": "sleek leather laptop backpack",
+     "label": "zarif deri laptop sırt çantası"
     },
     {
-     "keyword": "japanese monster poster",
-     "label": "Japon canavar posteri"
+     "keyword": "aesthetic commuter backpack",
+     "label": "estetik iş çantası"
     }
    ]
   },
   {
-   "name": "Rustik Sonbahar Triko & Yün Bakımı",
-   "heat": "Yükseliyor",
-   "desc": "Havalara bağlı olarak gardıroplarda kalın yün kazaklara, dokulu gömleklere ve rustik sonbahar renklerine dönüş hareketi.",
-   "why": "Reddit r/malefashionadvice üzerinde yün kazaklara dönüş ve sonbahar dokulu giysiler üzerine çok sayıda popüler başlık açıldı.",
+   "name": "Heritage Masif Pirinç Çekecek ve Ayakkabı Bakımı",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik deri ayakkabıların ömrünü uzatmayı hedefleyen, hızlı tüketime inat ömürlük ve estetik metal bakım gereçlerine dönüş hareketi.",
+   "why": "r/femalefashionadvice'ta ayakkabı çekeceği kullanımının faydalarının tartışılması ve r/BuyItForLife'taki antika/kalıcı alet ilgisi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Doğal sedir ağacından elde yapılmış yün tiftik temizleme tarağı veya el örgüsü merinos yünü sonbahar bereleri.",
+   "idea": "Kişiye özel isim veya tarih kazınabilen, deri saplı masif döküm pirinç cep ayakkabı çekeceği.",
    "product_keywords": [
     {
-     "keyword": "wool sweater comb",
-     "label": "Yün kazak tiftik tarağı"
+     "keyword": "personalized brass shoehorn",
+     "label": "kişiye özel pirinç çekecek"
     },
     {
-     "keyword": "merino wool beanie",
-     "label": "Merinos yünü bere"
+     "keyword": "pocket shoe horn leather",
+     "label": "deri detaylı cep çekeceği"
+    }
+   ]
+  },
+  {
+   "name": "Retro Endüstriyel BIFL Masa Aksesuarları",
+   "heat": "Yükseliyor",
+   "desc": "Plastik modern ofis malzemeleri yerine 70'ler ve 80'ler sanayi tasarımını yansıtan, ağır metal ve ömür boyu dayanıklı masaüstü gereçlerine duyulan nostaljik ilgi.",
+   "why": "r/BuyItForLife'ta Swingline 99 gibi klasik ağır metal zımba ve retro aletlerin 'ömürlük efsane' olarak öne çıkarılması.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro döküm çelik veya pirinç masaüstü bant kesici, vintage esintili kağıt ağırlığı ve metal zımba düzenleyici kitler.",
+   "product_keywords": [
+    {
+     "keyword": "vintage style metal stapler",
+     "label": "vintage metal zımba"
+    },
+    {
+     "keyword": "brass desktop tape dispenser",
+     "label": "pirinç masaüstü bant kesici"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T15:03+00:00",
+ "trends_updated_at": "2026-10-11T18:03+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -540,8 +521,8 @@
  "products_updated_at": "2026-10-11T04:42+00:00",
  "status": {
   "TikTok": {
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "error": "TikTok Creative Center'dan veri alınamadı"
   },
   "YouTube": {
    "ok": false,
@@ -549,7 +530,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -557,12 +538,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 17
   }
  },
- "generated_at": "2026-10-11T15:03+00:00"
+ "generated_at": "2026-10-11T18:03+00:00"
 }

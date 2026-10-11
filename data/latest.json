@@ -3,128 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mogging & Looksmaxxing Kültürü",
-   "heat": "Zirvede",
-   "desc": "Gen Z ve internet erkek alt kültürlerinde fiziksel cazibe, keskin çene hatları ve duruşla başkalarını gölgede bırakmayı ifade eden viral argo ve estetik akımı.",
-   "why": "TikTokCringe topluluğunda 'Mogging' başlığıyla viral olarak tartışılması.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "İronik 'Mogger' tipografili tişörtler, çene hattı temalı komik çıkartmalar (sticker) ve minimalist gua sha yüz masajı he",
-   "product_keywords": [
-    {
-     "keyword": "mogging meme shirt",
-     "label": "mogging temalı tişört"
-    },
-    {
-     "keyword": "looksmaxxing sticker pack",
-     "label": "looksmaxxing çıkartma paketi"
-    }
-   ]
-  },
-  {
-   "name": "Western Formal (Resmi Kovboy) Estetiği",
+   "name": "Mogging",
    "heat": "Yükseliyor",
-   "desc": "Geleneksel vahşi batı ve kovboy giyim kodlarının balo, gala ve resmi davet kıyafetleriyle cinsiyetsiz ve vintage dokunuşlarla harmanlanması.",
-   "why": "r/femalefashionadvice topluluğunda 'Western Formal' gala davetleri için dönem ve cinsiyet karması kombin arayışı.",
+   "desc": "Gen Z ve internet kültüründe birinin duruş veya görünüşüyle çevresindekileri gölgede bırakmasını ifade eden mizahi estetik ve argodur.",
+   "why": "Reddit TikTokCringe topluluğunda popüler gönderiler arasında yer alarak viral kültürde yeniden öne çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı doğal taşlı gümüş bolo kravatlar, western işlemeli yaka broşları ve kovboy kemeri tokası motifli aksesuarlar.",
+   "idea": "Mogging ve looksmaxxing temalı esprili spor salonu tişörtleri ve laptop/su matarası çıkartmaları.",
    "product_keywords": [
     {
-     "keyword": "handmade bolo tie",
-     "label": "el yapımı bolo kravat"
+     "keyword": "mogging gym shirt",
+     "label": "mogging spor salonu tişörtü"
     },
     {
-     "keyword": "western collar tips",
-     "label": "western gömlek yaka ucu"
+     "keyword": "mogging aesthetic sticker",
+     "label": "mogging estetik çıkartma"
     }
    ]
   },
   {
-   "name": "Grown-Up Rave (Yetişkin Festival/Parti Giyimi)",
+   "name": "Western Formal",
+   "heat": "Hızla yükseliyor",
+   "desc": "Klasik resmi gala giyimi ile batı/kovboy stilini (bolo kravatlar, özel kemer tokaları, süslemeli yaka uçları) birleştiren melez bir moda estetiğidir.",
+   "why": "Reddit femalefashionadvice topluluğunda resmi davetler için batı tarzı kıyafetlerin birleştirilmesi trendi olarak tartışılmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal taşlı el yapımı bolo kravat ve oymalı vintage esintili batı tarzı kemer tokası.",
+   "product_keywords": [
+    {
+     "keyword": "western bolo tie",
+     "label": "batı tarzı bolo kravat"
+    },
+    {
+     "keyword": "engraved western belt buckle",
+     "label": "oymalı kovboy kemer tokası"
+    }
+   ]
+  },
+  {
+   "name": "Grown-Up Rave",
    "heat": "Yeni çıktı",
-   "desc": "20'li yaşların sonu ve 30'lu yaşlardaki elektronik müzik dinleyicilerinin aşırı açık/neon parçalar yerine daha sofistike, kaliteli ve konforlu parti kombinleri tercihi.",
-   "why": "r/femalefashionadvice'ta yetişkinlerin rave partileri için şık ve olgun kıyafet tavsiyeleri sorması.",
+   "desc": "20'li yaşların sonu ve 30'larındaki müzikseverlerin aşırı çılgın ve kalitesiz festival kıyafetleri yerine tercih ettiği şık, konforlu ve olgun festival giyim tarzıdır.",
+   "why": "Reddit femalefashionadvice topluluğunda yetişkin festival giyimi arayışında olan kullanıcıların tartışmasıyla gündeme gelmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Şık tül/file festival kimonoları, minimal deri bel çantaları ve boyunda taşınabilir lüks kulak tıkacı saklama kolyeleri.",
+   "idea": "Minimalist şık festival bel/göğüs çantası ve rave kombinlerine uygun rahat deri aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "rave duster kimono",
-     "label": "festival tül kimono"
+     "keyword": "leather festival fanny pack",
+     "label": "deri festival bel çantası"
     },
     {
-     "keyword": "earplug case necklace",
-     "label": "kulak tıkacı kılıf kolye"
+     "keyword": "minimalist rave harness",
+     "label": "minimalist rave vücut koşumu"
     }
    ]
   },
   {
-   "name": "Fit-Friendly Laptop Çantaları (Kombin Dostu Sırt Çantası)",
-   "heat": "Yükseliyor",
-   "desc": "Ofise veya okula giderken klasik kaba teknoloji çantaları yerine şık, zarif günlük kıyafetleri ve takımları bozmayan minimalist sırt çantası talebi.",
-   "why": "r/femalefashionadvice'ta kıyafeti ve tarzı bozmayacak laptop çantası arayışının öne çıkması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İnce profilli, vegan deri, altın donanımlı ve iş kıyafetlerine uyumlu minimalist kadın laptop sırt çantası.",
-   "product_keywords": [
-    {
-     "keyword": "sleek leather laptop backpack",
-     "label": "zarif deri laptop sırt çantası"
-    },
-    {
-     "keyword": "aesthetic commuter backpack",
-     "label": "estetik iş çantası"
-    }
-   ]
-  },
-  {
-   "name": "Heritage Masif Pirinç Çekecek ve Ayakkabı Bakımı",
+   "name": "Artisan Shoehorn",
    "heat": "Yeni çıktı",
-   "desc": "Klasik deri ayakkabıların ömrünü uzatmayı hedefleyen, hızlı tüketime inat ömürlük ve estetik metal bakım gereçlerine dönüş hareketi.",
-   "why": "r/femalefashionadvice'ta ayakkabı çekeceği kullanımının faydalarının tartışılması ve r/BuyItForLife'taki antika/kalıcı alet ilgisi.",
+   "desc": "Ayakkabı ömrünü uzatmak ve klasik ayakkabı bakım ritüelini canlandırmak için plastik yerine pirinç ve ahşap gibi ömürlük malzemelerin tercih edilmesidir.",
+   "why": "Reddit femalefashionadvice ve sürdürülebilir ürün tartışmalarında ayakkabı ömrünü koruma bağlamında öne çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kişiye özel isim veya tarih kazınabilen, deri saplı masif döküm pirinç cep ayakkabı çekeceği.",
+   "idea": "Kişiye özel isim veya tarih kazınmış masif pirinç seyahat ayakkabı çekeceği.",
    "product_keywords": [
     {
-     "keyword": "personalized brass shoehorn",
-     "label": "kişiye özel pirinç çekecek"
+     "keyword": "engraved brass shoehorn",
+     "label": "özel kazınmış pirinç çekecek"
     },
     {
-     "keyword": "pocket shoe horn leather",
-     "label": "deri detaylı cep çekeceği"
+     "keyword": "leather handle shoehorn",
+     "label": "deri saplı ayakkabı çekeceği"
     }
    ]
   },
   {
-   "name": "Retro Endüstriyel BIFL Masa Aksesuarları",
+   "name": "BIFL (Buy It For Life)",
    "heat": "Yükseliyor",
-   "desc": "Plastik modern ofis malzemeleri yerine 70'ler ve 80'ler sanayi tasarımını yansıtan, ağır metal ve ömür boyu dayanıklı masaüstü gereçlerine duyulan nostaljik ilgi.",
-   "why": "r/BuyItForLife'ta Swingline 99 gibi klasik ağır metal zımba ve retro aletlerin 'ömürlük efsane' olarak öne çıkarılması.",
+   "desc": "Hızlı tüketime tepki olarak nesiller boyu kullanılabilecek, tamir edilebilir ve dayanıklı günlük eşyalara yönelen yaşam tarzı hareketidir.",
+   "why": "Reddit BuyItForLife topluluğunda NYT Wirecutter listesi ve yıllara meydan okuyan dayanıklı ürün paylaşımlarının yoğun etkileşim almasıyla doğrulanmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Retro döküm çelik veya pirinç masaüstü bant kesici, vintage esintili kağıt ağırlığı ve metal zımba düzenleyici kitler.",
+   "idea": "Tek parça kalın deriden dikişsiz cüzdan ve masif pirinçten üretilmiş ömürlük anahtarlık.",
    "product_keywords": [
     {
-     "keyword": "vintage style metal stapler",
-     "label": "vintage metal zımba"
+     "keyword": "full grain leather wallet",
+     "label": "tam damarlı deri cüzdan"
     },
     {
-     "keyword": "brass desktop tape dispenser",
-     "label": "pirinç masaüstü bant kesici"
+     "keyword": "solid brass keychain edc",
+     "label": "masif pirinç edc anahtarlık"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T18:03+00:00",
+ "trends_updated_at": "2026-10-11T21:04+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -538,12 +517,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 17
   }
  },
- "generated_at": "2026-10-11T18:03+00:00"
+ "generated_at": "2026-10-11T21:04+00:00"
 }

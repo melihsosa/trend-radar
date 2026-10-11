@@ -3,127 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mean Girls / October 3rd Nostaljisi",
+   "name": "October 3rd (Mean Girls Day)",
    "heat": "Zirvede",
-   "desc": "Kült gençlik filmi Mean Girls'ün meşhur repliği etrafında şekillenen, her yıl 3 Ekim'de kutlanan pembe ve nostaljik Y2K estetiği.",
-   "why": "TikTok'ta #october3rd etiketi ABD genelinde 1. sıraya yerleşti.",
+   "desc": "Popüler kültür klasiği Mean Girls filmine atıfta bulunarak her 3 Ekim'de kutlanan pembe giyinme ve espirili replikleri paylaşma akımı.",
+   "why": "TikTok Trendlerinde #october3rd etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "'It's October 3rd' yazılı pembe retro kupalar, Y2K tarzı grafik tişörtler ve nostaljik sticker paketleri.",
+   "idea": "Pembe renkli 'On October 3rd He Asked Me What Day It Was' yazılı sweatshirt ve retro kupa tasarımları.",
    "product_keywords": [
     {
-     "keyword": "october 3rd shirt",
-     "label": "ekim 3 pembe tişört"
+     "keyword": "october 3rd sweatshirt",
+     "label": "3 ekim sweatshirt"
     },
     {
-     "keyword": "mean girls aesthetic sticker",
-     "label": "mean girls temalı sticker"
+     "keyword": "mean girls pink mug",
+     "label": "mean girls pembe kupa"
     }
    ]
   },
   {
-   "name": "National Boyfriend Day Hediyeleri",
+   "name": "National Boyfriend Day",
    "heat": "Zirvede",
-   "desc": "Ekim ayı başında kutlanan Ulusal Erkek Arkadaş Günü kapsamında partnerlere yönelik duygusal, esprili ve kişiselleştirilmiş hediyeler sunma akımı.",
-   "why": "TikTok Creative Center verilerinde #nationalboyfriendsday etiketi en popüler 3. sırada yer alıyor.",
+   "desc": "Gençlerin erkek arkadaşlarına anlamlı hediyeler hazırlayıp paylaştığı viral ilişki kutlama günü.",
+   "why": "TikTok Trendlerinde #nationalboyfriendsday etiketi ilk 3'e girdi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Kişiye özel koordinat veya tarih işlemeli deri anahtarlık, fotoğraf baskılı cüzdan kartı.",
+   "idea": "Erkek arkadaşa hediye edilmek üzere kişiselleştirilebilir tarihli deri anahtarlık veya koordinat işlemeli bileklik.",
    "product_keywords": [
     {
-     "keyword": "personalized boyfriend gift",
-     "label": "kişiye özel erkek arkadaş hediyesi"
+     "keyword": "personalized boyfriend keychain",
+     "label": "kişiye özel sevgili anahtarlığı"
     },
     {
-     "keyword": "custom boyfriend wallet card",
-     "label": "özel mesajlı cüzdan kartı"
+     "keyword": "custom coordinates bracelet",
+     "label": "özel koordinatlı bileklik"
     }
    ]
   },
   {
-   "name": "ComplexCon Sokak Modası Hype'ı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Genç sokak giyim (streetwear), sneaker ve pop-art alt kültürünü harmanlayan etkinlik çevresinde yükselen grafik ve aksesuar trendi.",
-   "why": "TikTok trendlerinde #complexcon etiketi 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Özgün grafik illüstrasyonlu sokak giyim t-shirtleri, şapka ve ceketler için emaye yaka iğneleri (enamel pins).",
-   "product_keywords": [
-    {
-     "keyword": "streetwear graphic tee",
-     "label": "sokak modası grafik tişört"
-    },
-    {
-     "keyword": "urban enamel pin",
-     "label": "urban emaye yaka iğnesi"
-    }
-   ]
-  },
-  {
-   "name": "Kendin Yap Kumaş Mumalama (DIY Waxed Jacket)",
+   "name": "DIY Waxed Jacket (Heritage Craft)",
    "heat": "Yükseliyor",
-   "desc": "Uygun fiyatlı gömlek ve ceketleri balmumu ile kaplayarak dayanıklı, rustik ve suya dayanıklı 'waxed workwear' görünümüne kavuşturma hareketi.",
-   "why": "Reddit r/malefashionadvice topluluğunda gömlek ceketinin mumlama öncesi/sonrası projesi yoğun ilgi gördü.",
+   "desc": "Kullanıcıların uygun fiyatlı ceket ve kanvas kıyafetleri doğal balmumu ile mumlayarak su geçirmez ve vintage heritage görünümüne kavuşturduğu DIY giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı ceketlerin evde mumlanarak dönüştürülmesi en popüler gönderilerden oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kıyafet ve kanvas çantalar için doğal içerikli kumaş su geçirmezlik wax kalıbı ve bakım kiti.",
+   "idea": "Kanvas ceket ve çantalar için evde uygulanabilir doğal kumaş mumlama kalıbı ve bakım kiti.",
    "product_keywords": [
     {
      "keyword": "fabric wax bar",
-     "label": "kumaş mumlama balmumu kalıbı"
+     "label": "kumaş mumu kalıbı"
     },
     {
-     "keyword": "waxed canvas conditioner",
-     "label": "mumlanmış kumaş bakım kremi"
+     "keyword": "jacket rewaxing kit",
+     "label": "ceket mumlama bakım kiti"
     }
    ]
   },
   {
-   "name": "Nostaljik Sonbahar Triko & Yün Bakımı",
+   "name": "ComplexCon Streetwear Aesthetic",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sneakerhead ve genç sokak giyimi meraklılarının öncülük ettiği, festival havasında koleksiyonluk urban giyim ve özel tasarım aksesuar akımı.",
+   "why": "TikTok'ta #complexcon etiketi 2. sıraya yükseldi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Spor ayakkabılar için kişiselleştirilebilir metal bağcık süsleri (lace charms / dubrae) ve urban sokak tarzı pinler.",
+   "product_keywords": [
+    {
+     "keyword": "sneaker lace charms",
+     "label": "spor ayakkabı bağcık süsü"
+    },
+    {
+     "keyword": "streetwear metal dubrae",
+     "label": "streetwear metal bağcık tokası"
+    }
+   ]
+  },
+  {
+   "name": "Browser & AI Mini-Gaming Nostalgia",
    "heat": "Yükseliyor",
-   "desc": "Havanın soğumasıyla geleneksel yün kazaklara, vintage dokulara ve zamansız sonbahar katmanlama (layering) stiline dönüş akımı.",
-   "why": "Reddit r/malefashionadvice üzerinde 'Re-discovering wool sweaters' ve 'Autumning it up' paylaşımları öne çıktı.",
+   "desc": "Tarayıcı tabanlı mini oyunların ve yapay zeka ile oluşturulan basit piksel oyunlarının nostaljik olarak yeniden gündeme gelmesi.",
+   "why": "Google'da 'ai games' araması yükselişe geçti ve Reddit r/OutOfTheLoop'ta web oyunlarının geri dönüşü gündem oldu.",
    "sources": [
+    "Google",
     "Reddit"
    ],
-   "idea": "Yün kazaklar için doğal sedir ağacı saklama halkaları ve el yapımı tiftik temizleme tarağı.",
+   "idea": "Retro web oyunları ve piksel grafik temalı çalışma masası sümeni (desk mat) ve nostaljik oyun çıkartmaları.",
    "product_keywords": [
     {
-     "keyword": "cashmere wool comb",
-     "label": "yün kazak tiftik tarağı"
+     "keyword": "retro pixel desk mat",
+     "label": "retro piksel masa matı"
     },
     {
-     "keyword": "cedar sweater rings",
-     "label": "sedir ağacı kazak koruyucu"
+     "keyword": "pixel game sticker pack",
+     "label": "piksel oyun çıkartma paketi"
     }
    ]
   },
   {
-   "name": "Görsel Ortaya Çıkaran Bulmaca Kitapları",
+   "name": "Picture-Reveal Puzzle Books",
    "heat": "Yeni çıktı",
-   "desc": "Kelimeler bulundukça ızgara üzerinde gizli bir resim veya silüet oluşturan, ekransız rahatlama sağlayan yenilikçi bulmaca konsepti.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda resim ortaya çıkaran hayvan temalı bulmaca kitabı yoğun beğeni topladı.",
+   "desc": "Klasik kelime bulmacalarının çözüldükçe gizli bir hayvan veya figür görselini ortaya çıkardığı yenilikçi rahatlama ve hobi formatı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Picture-Reveal Word Search Puzzles' projesi yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yazdırılabilir (printable PDF) veya ciltli tematik görsel kelime bulmaca aktivite kitabı.",
+   "idea": "Etsy'de dijital indirmeye uygun, çözüldükçe piksel resim oluşturan tematik kelime avı bulmaca şablonları.",
    "product_keywords": [
     {
-     "keyword": "printable word search puzzle",
-     "label": "yazdırılabilir kelime avı bulmacası"
+     "keyword": "picture reveal word search",
+     "label": "resim çıkaran kelime avı"
     },
     {
-     "keyword": "adult activity puzzle book",
-     "label": "yetişkin aktivite bulmaca kitabı"
+     "keyword": "printable pixel puzzle",
+     "label": "yazdırılabilir piksel bulmaca"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T03:04+00:00",
+ "trends_updated_at": "2026-10-11T06:05+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -544,5 +545,5 @@
    "count": 17
   }
  },
- "generated_at": "2026-10-11T04:42+00:00"
+ "generated_at": "2026-10-11T06:05+00:00"
 }

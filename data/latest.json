@@ -3,87 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mogging Kültürü",
+   "name": "Mogging & Looksmaxxing Kültürü",
    "heat": "Hızla yükseliyor",
-   "desc": "Gen Z internet mizahında ve 'looksmaxxing' akımında popüler olan, görünüş ve çene hattı üstünlüğü kurmayı ifade eden viral argo.",
-   "why": "Reddit r/TikTokCringe topluluğunda 'Mogging' başlığı yüksek etkileşim alarak öne çıkmıştır.",
+   "desc": "Gen Z ve Alfa kuşağı arasında yüz hatları, çene yapısı ve baskın estetik görünüm üzerinden gelişen viral internet jargonu ve mizah akımı.",
+   "why": "Reddit TikTokCringe topluluğunda 'Mogging' başlığı yüksek etkileşim alarak öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Mogging ve looksmaxxing esprileri içeren tipografik tişörtler, bez çantalar ve laptop çıkartmaları.",
+   "idea": "İroni içeren 'Mogger' / 'Bye Bye' yazılı çene hattı temalı grafik tişörtler ve sticker paketleri.",
    "product_keywords": [
     {
      "keyword": "mogging meme shirt",
-     "label": "mogging temalı mizah tişörtü"
+     "label": "mogging meme tişörtü"
     },
     {
      "keyword": "looksmaxxing sticker pack",
-     "label": "looksmaxxing çıkartma seti"
+     "label": "looksmaxxing çıkartma paketi"
     }
    ]
   },
   {
-   "name": "Western Formal Estetiği",
+   "name": "DIY Mumlu Kumaş (Waxed Canvas) Yenileme",
    "heat": "Yükseliyor",
-   "desc": "Geleneksel kovboy ve western giyim unsurlarının şık gala ve resmi davet kıyafetleriyle harmanlandığı hibrit giyim tarzı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Western Formal' gala kombinleri üzerine trend başlığı açılmıştır.",
+   "desc": "Uygun fiyatlı ceket ve çantaları doğal balmumu kalıplarıyla kaplayarak su geçirmez, dayanıklı ve vintage hale getirme zanaatı.",
+   "why": "Reddit malefashionadvice topluluğunda ucuz bir ceketin mumlama işlemi öncesi ve sonrası büyük ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Özel tasarım el yapımı taşlı bolo kravatlar, pirinç gömlek yaka uçları ve western işlemeli deri aksesuarlar.",
+   "idea": "Evde ceket ve kanvas çanta mumlamak için doğal içerikli kumaş balmumu kalıbı ve fırça kiti.",
    "product_keywords": [
     {
-     "keyword": "handmade bolo tie",
-     "label": "el yapımı bolo kravat"
+     "keyword": "fabric wax bar",
+     "label": "kumaş balmumu kalıbı"
     },
     {
-     "keyword": "western collar tips",
-     "label": "western gömlek yaka ucu"
+     "keyword": "diy waxed canvas kit",
+     "label": "kendin yap mumlu kanvas kiti"
     }
    ]
   },
   {
-   "name": "Miami Vice '85 Retro Dalgası",
+   "name": "Western Formal (Kovboy Gala) Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Geleneksel kovboy/western aksesuarlarının resmi davet ve gece kıyafetleriyle harmanlandığı hibrit giyim tarzı.",
+   "why": "Reddit femalefashionadvice topluluğunda Western Formal galalar için stil arayışları öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Takım elbiseler ve abiye yakalar için yarı değerli taşlarla el yapımı Western bolo kravatlar ve metal yaka iğneleri.",
+   "product_keywords": [
+    {
+     "keyword": "western bolo tie",
+     "label": "kovboy bolo kravat"
+    },
+    {
+     "keyword": "metal collar tips",
+     "label": "metal gömlek yaka ucu"
+    }
+   ]
+  },
+  {
+   "name": "Resim Ortaya Çıkaran Bulmaca (Picture-Reveal Puzzles)",
    "heat": "Yeni çıktı",
-   "desc": "1980'lerin pastel tonları, neon çizgileri ve retro yaz esintilerini barındıran Miami dedektif estetiğinin popüler kültüre dönüşü.",
-   "why": "Google'da 'miami vice 85' sorgusu yeni film duyurusuyla 1000'den fazla arama alarak hızla yükselmiştir.",
+   "desc": "Kelimeler bulundukça arka planda gizli bir hayvan veya dinozor görselinin ortaya çıktığı yenilikçi kelime avı kitapları.",
+   "why": "Reddit shutupandtakemymoney topluluğunda bu formatı sunan bulmaca kitabı viral oldu.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "80'ler retro synthwave ve pastel neon renk paletine sahip duvar posterleri ve grafik baskılı tişörtler.",
+   "idea": "Etsy üzerinden indirilebilir (printable) veya basılı 'resim ortaya çıkaran' tematik kelime bulmaca sayfaları.",
    "product_keywords": [
     {
-     "keyword": "80s synthwave art print",
-     "label": "80ler retro sanat posteri"
+     "keyword": "picture reveal puzzle book",
+     "label": "resimli bulmaca kitabı"
     },
     {
-     "keyword": "retro pastel graphic tee",
-     "label": "pastel retro grafik tişört"
+     "keyword": "printable word search art",
+     "label": "yazdırılabilir görsel kelime avı"
     }
    ]
   },
   {
-   "name": "Adult Rave Modası",
+   "name": "Grown-Up Rave (Yetişkin Festival Modası)",
    "heat": "Yükseliyor",
-   "desc": "Genç yetişkinlerin festival ve rave etkinliklerinde aşırı neon/plastik yerine şıklığı ve konforu bir arada aradığı olgun festival stili.",
-   "why": "Reddit r/femalefashionadvice'ta yetişkin rave giyim kombinleri üzerine odaklanan tartışma öne çıkmıştır.",
+   "desc": "Olgun festival katılımcılarının aşırı açık ve sentetik parti kıyafetleri yerine tercih ettiği konforlu, şık ve kaliteli rave giyimi.",
+   "why": "Reddit femalefashionadvice topluluğunda 30 yaş üstü için rave kıyafeti önerileri tartışıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Hem gece kulübüne hem festivale uygun minimalist holografik veya deri çapraz festival çantaları.",
+   "idea": "Nefes alabilen keten/pamuk kumaştan üretilmiş, karanlıkta hafif parlayan veya püsküllü zarif festival kimonoları.",
    "product_keywords": [
     {
-     "keyword": "festival crossbody bag",
-     "label": "festival çapraz göğüs çantası"
+     "keyword": "boho festival kimono",
+     "label": "bohem festival kimonosu"
     },
     {
-     "keyword": "rave chest pack",
-     "label": "rave bel çantası"
+     "keyword": "adult rave outfit",
+     "label": "yetişkin festival kombini"
+    }
+   ]
+  },
+  {
+   "name": "FGTeeV & Aile Gaming Kültürü",
+   "heat": "Zirvede",
+   "desc": "YouTube ve TikTok'ta milyonlarca çocuğun ve ailenin takip ettiği oyun/eğlence içeriği kültürü.",
+   "why": "TikTok Creative Center verilerinde #fgteev en popüler etiketler arasında 2. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Genç oyuncu kitleye ve oyun tutkunu ailelere yönelik kişiselleştirilebilir 'Gamer Family' temalı kupa ve parti süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "gamer family mug",
+     "label": "oyuncu aile kupası"
+    },
+    {
+     "keyword": "gaming party decorations",
+     "label": "gaming parti süslemeleri"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-12T15:11+00:00",
+ "trends_updated_at": "2026-10-12T18:04+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -213,7 +253,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -221,12 +261,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 4
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-12T15:11+00:00"
+ "generated_at": "2026-10-12T18:04+00:00"
 }

@@ -3,67 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "DIY Ceket Mumalama (Fabric Waxing)",
-   "heat": "Yükseliyor",
-   "desc": "Uygun fiyatlı mont ve gömlek ceketleri evde özel balmumu karışımlarıyla wax'layarak vintage, su geçirmez iş kıyafeti (workwear) estetiğine dönüştürme trendi.",
-   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı bir ceketin evde wax uygulanarak dönüştürülmesi yoğun ilgi gördü.",
+   "name": "Mogging Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z internet mizahında ve 'looksmaxxing' akımında popüler olan, görünüş ve çene hattı üstünlüğü kurmayı ifade eden viral argo.",
+   "why": "Reddit r/TikTokCringe topluluğunda 'Mogging' başlığı yüksek etkileşim alarak öne çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kıyafet ve kanvas çantalar için doğal balmumu bazlı DIY ceket wax kalıbı ve bakım kiti.",
+   "idea": "Mogging ve looksmaxxing esprileri içeren tipografik tişörtler, bez çantalar ve laptop çıkartmaları.",
    "product_keywords": [
     {
-     "keyword": "fabric wax bar",
-     "label": "kumaş wax kalıbı"
+     "keyword": "mogging meme shirt",
+     "label": "mogging temalı mizah tişörtü"
     },
     {
-     "keyword": "canvas waterproofing wax",
-     "label": "kanvas su geçirmezlik mumu"
+     "keyword": "looksmaxxing sticker pack",
+     "label": "looksmaxxing çıkartma seti"
     }
    ]
   },
   {
-   "name": "Resim Ortaya Çıkaran Kelime Avı (Picture-Reveal Word Search)",
+   "name": "Western Formal Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Geleneksel kovboy ve western giyim unsurlarının şık gala ve resmi davet kıyafetleriyle harmanlandığı hibrit giyim tarzı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'Western Formal' gala kombinleri üzerine trend başlığı açılmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Özel tasarım el yapımı taşlı bolo kravatlar, pirinç gömlek yaka uçları ve western işlemeli deri aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "handmade bolo tie",
+     "label": "el yapımı bolo kravat"
+    },
+    {
+     "keyword": "western collar tips",
+     "label": "western gömlek yaka ucu"
+    }
+   ]
+  },
+  {
+   "name": "Miami Vice '85 Retro Dalgası",
    "heat": "Yeni çıktı",
-   "desc": "Klasik bulmacaları görsel sanatla birleştiren, kelimeler bulundukça arka planda hayvan veya dinozor silüetlerinin belirdiği interaktif hobi kitapları.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan temalı çizim ortaya çıkaran bulmaca kitabı paylaşılarak öne çıktı.",
+   "desc": "1980'lerin pastel tonları, neon çizgileri ve retro yaz esintilerini barındıran Miami dedektif estetiğinin popüler kültüre dönüşü.",
+   "why": "Google'da 'miami vice 85' sorgusu yeni film duyurusuyla 1000'den fazla arama alarak hızla yükselmiştir.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "Etsy üzerinden anında indirilebilir (printable PDF) gizli resimli hayvan temalı kelime bulmaca sayfaları.",
+   "idea": "80'ler retro synthwave ve pastel neon renk paletine sahip duvar posterleri ve grafik baskılı tişörtler.",
    "product_keywords": [
     {
-     "keyword": "picture reveal word search",
-     "label": "resimli kelime bulmacası"
+     "keyword": "80s synthwave art print",
+     "label": "80ler retro sanat posteri"
     },
     {
-     "keyword": "printable mystery puzzle book",
-     "label": "yazdırılabilir gizemli bulmaca kitabı"
+     "keyword": "retro pastel graphic tee",
+     "label": "pastel retro grafik tişört"
     }
    ]
   },
   {
-   "name": "Yün Kıyafet Restorasyonu ve Bakımı",
+   "name": "Adult Rave Modası",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar gardıroplarında sentetik kumaşlardan kaçınıp klasik yün kazak ve pantolonlara yönelen tüketicilerin kıyafet koruma ve bakım odağı.",
-   "why": "Reddit r/malefashionadvice'ta yün kazakların yeniden keşfi ve yün pantolonlara geçiş tartışmaları üst sıralarda yer aldı.",
+   "desc": "Genç yetişkinlerin festival ve rave etkinliklerinde aşırı neon/plastik yerine şıklığı ve konforu bir arada aradığı olgun festival stili.",
+   "why": "Reddit r/femalefashionadvice'ta yetişkin rave giyim kombinleri üzerine odaklanan tartışma öne çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yün kazaklar için tiftik temizleme tarağı ve güve kovucu doğal sedir ağacı bakım seti.",
+   "idea": "Hem gece kulübüne hem festivale uygun minimalist holografik veya deri çapraz festival çantaları.",
    "product_keywords": [
     {
-     "keyword": "wool sweater comb",
-     "label": "yün kazak tarağı"
+     "keyword": "festival crossbody bag",
+     "label": "festival çapraz göğüs çantası"
     },
     {
-     "keyword": "cedar garment care kit",
-     "label": "sedir ağacı kıyafet bakım seti"
+     "keyword": "rave chest pack",
+     "label": "rave bel çantası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-12T12:10+00:00",
+ "trends_updated_at": "2026-10-12T15:11+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -193,7 +213,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -201,12 +221,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 3
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-12T12:10+00:00"
+ "generated_at": "2026-10-12T15:11+00:00"
 }

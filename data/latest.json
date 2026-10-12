@@ -4,106 +4,86 @@
  "trends": [
   {
    "name": "Mogging",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kişinin görünüş ve duruşuyla ortamdaki diğer kişileri gölgede bırakmasını tanımlayan, looksmaxxing estetiğiyle bağlantılı viral Gen-Z ve Gen-Alpha internet jargonu.",
-   "why": "Reddit TikTokCringe topluluğunda doğrudan 'Mogging' başlığıyla popüler paylaşımlar arasında yer alıyor.",
+   "heat": "Yükseliyor",
+   "desc": "TikTok ve internet kültüründen yayılan, kişinin dış görünüşüyle başkalarını gölgede bırakmasını ifade eden viral estetik ve mizah terimi.",
+   "why": "Reddit'in TikTokCringe topluluğunda öne çıkan popüler gönderiler arasında yer almıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Mogging ve looksmaxxing temalı esprili tişörtler, kupa bardaklar ve laptop stickerları.",
+   "idea": "Mogging terimini içeren tipografik tişörtler, mizahi sloganlı kupa bardaklar ve posterler.",
    "product_keywords": [
     {
-     "keyword": "mogging meme shirt",
-     "label": "mogging mizah tişörtü"
+     "keyword": "mogging shirt",
+     "label": "Mogging tişörtü"
     },
     {
-     "keyword": "looksmaxxing sticker",
-     "label": "looksmaxxing çıkartması"
+     "keyword": "mogging mug",
+     "label": "Mogging kupa bardak"
     }
    ]
   },
   {
    "name": "Western Formal",
-   "heat": "Yükseliyor",
-   "desc": "Klasik kovboy ve western giyim unsurlarının şık gala ve resmi davet kıyafetleriyle harmanlandığı hibrit giyim ve aksesuar estetiği.",
-   "why": "Reddit femalefashionadvice topluluğunda western esintili resmi gala giyimi üzerine açılan tartışmada öne çıkıyor.",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel Western/kovboy estetiğini resmi davet ve gala şıklığıyla harmanlayan hibrit moda tarzı.",
+   "why": "Reddit femalefashionadvice topluluğunda gala ve davet kombinleri için yükselen bir stil fikri olarak tartışılmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı pirinç veya yarı değerli taşlı bolo kravatlar ve western motifli şık kemer aksesuarları.",
+   "idea": "Özel tasarım bolo kravatlar, nakışlı kovboy detaylı yaka iğneleri ve otantik metal aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "handmade bolo tie",
-     "label": "el yapımı bolo kravat"
+     "keyword": "western formal bolo tie",
+     "label": "Western formal bolo kravat"
     },
     {
-     "keyword": "western belt buckle",
-     "label": "kovboy kemer tokası"
+     "keyword": "western style formal accessory",
+     "label": "Western tarzı resmi aksesuar"
     }
    ]
   },
   {
    "name": "Grown-Up Rave",
    "heat": "Yeni çıktı",
-   "desc": "Aşırı neon ve tek kullanımlık festival kıyafetleri yerine yetişkinler için tasarlanmış şık, konforlu ve kaliteli elektronik müzik/rave giyim ve aksesuar akımı.",
-   "why": "Reddit femalefashionadvice topluluğunda yetişkinlerin rave etkinliklerinde ne giymesi gerektiği üzerine yükselen tartışmada görülüyor.",
+   "desc": "Rave ve müzik festivallerine katılan yetişkinlerin tercih ettiği daha konforlu, kaliteli ve olgun festival giyim tarzı.",
+   "why": "Reddit femalefashionadvice sayfasında festival ve rave giyiminde konfor ile şıklığı arayanlar tarafından sorgulanmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kompakt deri festival göğüs çantaları, şık kulak tıkacı taşıma anahtarlıkları ve minimalist reflektif aksesuarlar.",
+   "idea": "Şık reflektörlü bel çantaları, konforlu minimal festival takıları ve yetişkinlere yönelik rave aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "leather festival bag",
-     "label": "deri festival çantası"
+     "keyword": "chic rave outfit",
+     "label": "Şık rave kıyafeti"
     },
     {
-     "keyword": "rave earplug case",
-     "label": "kulak tıkacı kılıfı"
+     "keyword": "reflective festival bag",
+     "label": "Reflektörlü festival çantası"
     }
    ]
   },
   {
-   "name": "Artisanal Shoehorn",
-   "heat": "Yeni çıktı",
-   "desc": "Ayakkabıların formunu koruyarak uzun ömürlü kullanım sağlayan ve geleneksel 'ömürlük ürün' anlayışıyla yeniden değer kazanan klasik ayakkabı çekecekleri.",
-   "why": "Reddit femalefashionadvice ve BuyItForLife topluluklarında ayakkabı bakımı ve dayanıklı eşya başlıklarında tartışılıyor.",
+   "name": "Carrie Book Culture",
+   "heat": "Hızla yükseliyor",
+   "desc": "Stephen King'in ikonik 'Carrie' romanının yeni dizi uyarlamaları haberleriyle birlikte tekrar yükselişe geçen retro korku edebiyatı ilgisi.",
+   "why": "Google'da 'carrie book' araması binlerce arama hacmiyle hızla yükselenler listesine girmiştir.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "Kişiye özel isim kazınabilen masif pirinç veya ahşap ayakkabı çekeceği ve deri askılık seti.",
+   "idea": "Vintage korku kitabı estetiğinde tasarlanmış ahşap veya metal ayraçlar, baskılı bez çantalar ve retro tişörtler.",
    "product_keywords": [
     {
-     "keyword": "brass shoe horn",
-     "label": "pirinç ayakkabı çekeceği"
+     "keyword": "carrie stephen king shirt",
+     "label": "Carrie Stephen King tişörtü"
     },
     {
-     "keyword": "personalized shoe horn",
-     "label": "kişiye özel ayakkabı çekeceği"
-    }
-   ]
-  },
-  {
-   "name": "FGTeeV Gamer Estetiği",
-   "heat": "Zirvede",
-   "desc": "Milyonlarca çocuk ve gencin takip ettiği FGTeeV oyun ve aile kanalı çevresinde gelişen canlı, renkli oyun kültürü fandomu.",
-   "why": "TikTok trend hashtag listesinde #fgteev etiketi 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Çocuk ve genç oyuncular için kişiselleştirilmiş ahşap veya LED ışıklı oyuncu odası kapı tabelaları.",
-   "product_keywords": [
-    {
-     "keyword": "custom gaming room sign",
-     "label": "özel oyun odası tabelası"
-    },
-    {
-     "keyword": "gamer name plate",
-     "label": "oyuncu isim plaketi"
+     "keyword": "horror book bookmark",
+     "label": "Korku kitabı ayracı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-12T00:05+00:00",
+ "trends_updated_at": "2026-10-12T03:06+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -517,12 +497,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 17
   }
  },
- "generated_at": "2026-10-12T00:05+00:00"
+ "generated_at": "2026-10-12T03:06+00:00"
 }

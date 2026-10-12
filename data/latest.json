@@ -4,106 +4,106 @@
  "trends": [
   {
    "name": "Mogging",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z ve internet kültüründe birinin duruş veya görünüşüyle çevresindekileri gölgede bırakmasını ifade eden mizahi estetik ve argodur.",
-   "why": "Reddit TikTokCringe topluluğunda popüler gönderiler arasında yer alarak viral kültürde yeniden öne çıkmıştır.",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kişinin görünüş ve duruşuyla ortamdaki diğer kişileri gölgede bırakmasını tanımlayan, looksmaxxing estetiğiyle bağlantılı viral Gen-Z ve Gen-Alpha internet jargonu.",
+   "why": "Reddit TikTokCringe topluluğunda doğrudan 'Mogging' başlığıyla popüler paylaşımlar arasında yer alıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Mogging ve looksmaxxing temalı esprili spor salonu tişörtleri ve laptop/su matarası çıkartmaları.",
+   "idea": "Mogging ve looksmaxxing temalı esprili tişörtler, kupa bardaklar ve laptop stickerları.",
    "product_keywords": [
     {
-     "keyword": "mogging gym shirt",
-     "label": "mogging spor salonu tişörtü"
+     "keyword": "mogging meme shirt",
+     "label": "mogging mizah tişörtü"
     },
     {
-     "keyword": "mogging aesthetic sticker",
-     "label": "mogging estetik çıkartma"
+     "keyword": "looksmaxxing sticker",
+     "label": "looksmaxxing çıkartması"
     }
    ]
   },
   {
    "name": "Western Formal",
-   "heat": "Hızla yükseliyor",
-   "desc": "Klasik resmi gala giyimi ile batı/kovboy stilini (bolo kravatlar, özel kemer tokaları, süslemeli yaka uçları) birleştiren melez bir moda estetiğidir.",
-   "why": "Reddit femalefashionadvice topluluğunda resmi davetler için batı tarzı kıyafetlerin birleştirilmesi trendi olarak tartışılmıştır.",
+   "heat": "Yükseliyor",
+   "desc": "Klasik kovboy ve western giyim unsurlarının şık gala ve resmi davet kıyafetleriyle harmanlandığı hibrit giyim ve aksesuar estetiği.",
+   "why": "Reddit femalefashionadvice topluluğunda western esintili resmi gala giyimi üzerine açılan tartışmada öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Doğal taşlı el yapımı bolo kravat ve oymalı vintage esintili batı tarzı kemer tokası.",
+   "idea": "El yapımı pirinç veya yarı değerli taşlı bolo kravatlar ve western motifli şık kemer aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "western bolo tie",
-     "label": "batı tarzı bolo kravat"
+     "keyword": "handmade bolo tie",
+     "label": "el yapımı bolo kravat"
     },
     {
-     "keyword": "engraved western belt buckle",
-     "label": "oymalı kovboy kemer tokası"
+     "keyword": "western belt buckle",
+     "label": "kovboy kemer tokası"
     }
    ]
   },
   {
    "name": "Grown-Up Rave",
    "heat": "Yeni çıktı",
-   "desc": "20'li yaşların sonu ve 30'larındaki müzikseverlerin aşırı çılgın ve kalitesiz festival kıyafetleri yerine tercih ettiği şık, konforlu ve olgun festival giyim tarzıdır.",
-   "why": "Reddit femalefashionadvice topluluğunda yetişkin festival giyimi arayışında olan kullanıcıların tartışmasıyla gündeme gelmiştir.",
+   "desc": "Aşırı neon ve tek kullanımlık festival kıyafetleri yerine yetişkinler için tasarlanmış şık, konforlu ve kaliteli elektronik müzik/rave giyim ve aksesuar akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda yetişkinlerin rave etkinliklerinde ne giymesi gerektiği üzerine yükselen tartışmada görülüyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Minimalist şık festival bel/göğüs çantası ve rave kombinlerine uygun rahat deri aksesuarlar.",
+   "idea": "Kompakt deri festival göğüs çantaları, şık kulak tıkacı taşıma anahtarlıkları ve minimalist reflektif aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "leather festival fanny pack",
-     "label": "deri festival bel çantası"
+     "keyword": "leather festival bag",
+     "label": "deri festival çantası"
     },
     {
-     "keyword": "minimalist rave harness",
-     "label": "minimalist rave vücut koşumu"
+     "keyword": "rave earplug case",
+     "label": "kulak tıkacı kılıfı"
     }
    ]
   },
   {
-   "name": "Artisan Shoehorn",
+   "name": "Artisanal Shoehorn",
    "heat": "Yeni çıktı",
-   "desc": "Ayakkabı ömrünü uzatmak ve klasik ayakkabı bakım ritüelini canlandırmak için plastik yerine pirinç ve ahşap gibi ömürlük malzemelerin tercih edilmesidir.",
-   "why": "Reddit femalefashionadvice ve sürdürülebilir ürün tartışmalarında ayakkabı ömrünü koruma bağlamında öne çıkmıştır.",
+   "desc": "Ayakkabıların formunu koruyarak uzun ömürlü kullanım sağlayan ve geleneksel 'ömürlük ürün' anlayışıyla yeniden değer kazanan klasik ayakkabı çekecekleri.",
+   "why": "Reddit femalefashionadvice ve BuyItForLife topluluklarında ayakkabı bakımı ve dayanıklı eşya başlıklarında tartışılıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kişiye özel isim veya tarih kazınmış masif pirinç seyahat ayakkabı çekeceği.",
+   "idea": "Kişiye özel isim kazınabilen masif pirinç veya ahşap ayakkabı çekeceği ve deri askılık seti.",
    "product_keywords": [
     {
-     "keyword": "engraved brass shoehorn",
-     "label": "özel kazınmış pirinç çekecek"
+     "keyword": "brass shoe horn",
+     "label": "pirinç ayakkabı çekeceği"
     },
     {
-     "keyword": "leather handle shoehorn",
-     "label": "deri saplı ayakkabı çekeceği"
+     "keyword": "personalized shoe horn",
+     "label": "kişiye özel ayakkabı çekeceği"
     }
    ]
   },
   {
-   "name": "BIFL (Buy It For Life)",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı tüketime tepki olarak nesiller boyu kullanılabilecek, tamir edilebilir ve dayanıklı günlük eşyalara yönelen yaşam tarzı hareketidir.",
-   "why": "Reddit BuyItForLife topluluğunda NYT Wirecutter listesi ve yıllara meydan okuyan dayanıklı ürün paylaşımlarının yoğun etkileşim almasıyla doğrulanmıştır.",
+   "name": "FGTeeV Gamer Estetiği",
+   "heat": "Zirvede",
+   "desc": "Milyonlarca çocuk ve gencin takip ettiği FGTeeV oyun ve aile kanalı çevresinde gelişen canlı, renkli oyun kültürü fandomu.",
+   "why": "TikTok trend hashtag listesinde #fgteev etiketi 2. sırada yer alıyor.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Tek parça kalın deriden dikişsiz cüzdan ve masif pirinçten üretilmiş ömürlük anahtarlık.",
+   "idea": "Çocuk ve genç oyuncular için kişiselleştirilmiş ahşap veya LED ışıklı oyuncu odası kapı tabelaları.",
    "product_keywords": [
     {
-     "keyword": "full grain leather wallet",
-     "label": "tam damarlı deri cüzdan"
+     "keyword": "custom gaming room sign",
+     "label": "özel oyun odası tabelası"
     },
     {
-     "keyword": "solid brass keychain edc",
-     "label": "masif pirinç edc anahtarlık"
+     "keyword": "gamer name plate",
+     "label": "oyuncu isim plaketi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-11T21:04+00:00",
+ "trends_updated_at": "2026-10-12T00:05+00:00",
  "products": [
   {
    "name": "kişiye özel erkek arkadaş hediyesi",
@@ -500,8 +500,8 @@
  "products_updated_at": "2026-10-11T04:42+00:00",
  "status": {
   "TikTok": {
-   "ok": false,
-   "error": "TikTok Creative Center'dan veri alınamadı"
+   "ok": true,
+   "count": 3
   },
   "YouTube": {
    "ok": false,
@@ -524,5 +524,5 @@
    "count": 17
   }
  },
- "generated_at": "2026-10-11T21:04+00:00"
+ "generated_at": "2026-10-12T00:05+00:00"
 }

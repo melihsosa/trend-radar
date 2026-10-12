@@ -3,40 +3,67 @@
  "sample": false,
  "trends": [
   {
-   "name": "#hurricaneisaias",
+   "name": "DIY Ceket Mumalama (Fabric Waxing)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "desc": "Uygun fiyatlı mont ve gömlek ceketleri evde özel balmumu karışımlarıyla wax'layarak vintage, su geçirmez iş kıyafeti (workwear) estetiğine dönüştürme trendi.",
+   "why": "Reddit r/malefashionadvice topluluğunda uygun fiyatlı bir ceketin evde wax uygulanarak dönüştürülmesi yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Kıyafet ve kanvas çantalar için doğal balmumu bazlı DIY ceket wax kalıbı ve bakım kiti.",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar",
+     "label": "kumaş wax kalıbı"
+    },
+    {
+     "keyword": "canvas waterproofing wax",
+     "label": "kanvas su geçirmezlik mumu"
+    }
+   ]
   },
   {
-   "name": "#fgteev",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Resim Ortaya Çıkaran Kelime Avı (Picture-Reveal Word Search)",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik bulmacaları görsel sanatla birleştiren, kelimeler bulundukça arka planda hayvan veya dinozor silüetlerinin belirdiği interaktif hobi kitapları.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan temalı çizim ortaya çıkaran bulmaca kitabı paylaşılarak öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Etsy üzerinden anında indirilebilir (printable PDF) gizli resimli hayvan temalı kelime bulmaca sayfaları.",
+   "product_keywords": [
+    {
+     "keyword": "picture reveal word search",
+     "label": "resimli kelime bulmacası"
+    },
+    {
+     "keyword": "printable mystery puzzle book",
+     "label": "yazdırılabilir gizemli bulmaca kitabı"
+    }
+   ]
   },
   {
-   "name": "#justgolive",
+   "name": "Yün Kıyafet Restorasyonu ve Bakımı",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Sonbahar gardıroplarında sentetik kumaşlardan kaçınıp klasik yün kazak ve pantolonlara yönelen tüketicilerin kıyafet koruma ve bakım odağı.",
+   "why": "Reddit r/malefashionadvice'ta yün kazakların yeniden keşfi ve yün pantolonlara geçiş tartışmaları üst sıralarda yer aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Yün kazaklar için tiftik temizleme tarağı ve güve kovucu doğal sedir ağacı bakım seti.",
+   "product_keywords": [
+    {
+     "keyword": "wool sweater comb",
+     "label": "yün kazak tarağı"
+    },
+    {
+     "keyword": "cedar garment care kit",
+     "label": "sedir ağacı kıyafet bakım seti"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-12T09:07+00:00",
+ "trends_updated_at": "2026-10-12T12:10+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -166,20 +193,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 3
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-12T09:07+00:00"
+ "generated_at": "2026-10-12T12:10+00:00"
 }

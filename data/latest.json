@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mogging & Looksmaxxing",
-   "heat": "Zirvede",
-   "desc": "Genç erkekler arasında fiziksel görünüşle başkalarını geride bırakma ve çene hattı estetiği etrafında dönen viral internet alt kültürü.",
-   "why": "Reddit TikTokCringe topluluğunda 'Mogging' başlığıyla popüler gönderiler arasında yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "'Mogger' ve 'Looksmaxxing' temalı mizahi tişörtler, çıkartmalar ve çene hattı antrenman takip çizelgeleri.",
-   "product_keywords": [
-    {
-     "keyword": "mogger sticker",
-     "label": "Mogger çıkartması"
-    },
-    {
-     "keyword": "looksmaxxing hoodie",
-     "label": "Looksmaxxing kapüşonlu üst"
-    }
-   ]
-  },
-  {
-   "name": "Dungeon Crawler Carl Fandom",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kült LitRPG bilimkurgu serisinin live-action diziye uyarlanacağı haberiyle yeniden patlayan hayran kitlesi akımı.",
-   "why": "Google yükselen aramalarda 'dungeon crawler carl live action' araması haber çıkışıyla ani hacim kazandı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Baş karakter Carl ve kedisi Princess Donut temalı fan kupaları, yamalar (patch) ve 'Goddammit Donut' sloganlı bez çantal",
-   "product_keywords": [
-    {
-     "keyword": "princess donut mug",
-     "label": "Princess Donut kupası"
-    },
-    {
-     "keyword": "crawler embroidered patch",
-     "label": "nakışlı zindan temalı yama"
-    }
-   ]
-  },
-  {
-   "name": "DIY Ceket Mumalama (Fabric Waxing)",
+   "name": "#hurricaneisaias",
    "heat": "Yükseliyor",
-   "desc": "Uygun fiyatlı gömlek ceketleri ve kanvas kumaşları balmumu ile kaplayarak dayanıklı, vintage bir iş giysisine dönüştürme akımı.",
-   "why": "Reddit malefashionadvice topluluğunda ucuz ceketin mumalama öncesi/sonrası dönüşümü viral ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kanvas kumaş ve ceketler için doğal balmumu kalıpları ve DIY kumaş su geçirmezlik bakım kitleri.",
-   "product_keywords": [
-    {
-     "keyword": "canvas fabric wax bar",
-     "label": "kanvas kumaş balmumu kalıbı"
-    },
-    {
-     "keyword": "diy jacket waxing kit",
-     "label": "kendin yap ceket mumalama kiti"
-    }
-   ]
-  },
-  {
-   "name": "Picture-Reveal Bulmaca Kitapları",
-   "heat": "Yeni çıktı",
-   "desc": "Kelime avı bulmacaları çözüldükçe arka planda hayvan ve doğa silüetlerinin ortaya çıktığı yenilikçi sakinleştirici hobi trendi.",
-   "why": "Reddit shutupandtakemymoney topluluğunda 'Malinia Vol. 1' adlı resim ortaya çıkaran bulmaca projesi öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Etsy'de dijital indirme (printable PDF) olarak satılabilecek tematik gizli resimli kelime arama bulmaca sayfaları.",
-   "product_keywords": [
-    {
-     "keyword": "picture reveal puzzle printable",
-     "label": "yazdırılabilir resimli bulmaca"
-    },
-    {
-     "keyword": "mystery word search book",
-     "label": "gizemli kelime arama kitabı"
-    }
-   ]
-  },
-  {
-   "name": "FGTeeV Oyun Kültürü",
-   "heat": "Yükseliyor",
-   "desc": "Çocuk ve genç kitlede popüler olan FGTeeV oyun evreni ve karakterlerine yönelik dijital hayranlık dalgası.",
-   "why": "TikTok'ta '#fgteev' etiketi en çok izlenen hashtag'ler listesinde 2. sırada yer aldı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Oyuncu odaları için kişiselleştirilebilir neon tarzı akrilik oda tabelaları ve oyuncu doğum günü parti setleri.",
-   "product_keywords": [
-    {
-     "keyword": "gamer acrylic sign",
-     "label": "oyuncu akrilik tabela"
-    },
-    {
-     "keyword": "gaming party printables",
-     "label": "oyuncu temalı parti seti"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Yün Giysi Bakımı & Vintage Autumn Layering",
+   "name": "#fgteev",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar gardırobunda yün pantolon ve kalın yün kazaklara dönüşle birlikte sürdürülebilir giysi bakımına olan ilginin artması.",
-   "why": "Reddit malefashionadvice üzerinde yün pantolon kullanımı ve yün kazakları yeniden keşfetme tartışmaları peş peşe öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Yün kazaklar için ahşap tiftik temizleme tarağı, sedir ağacı naftalin alternatifi askı blokları ve doğal yün yıkama sabu",
-   "product_keywords": [
-    {
-     "keyword": "sweater comb wool care",
-     "label": "yün kazak tiftik tarağı"
-    },
-    {
-     "keyword": "cedar wood wardrobe blocks",
-     "label": "sedir ağacı dolap blokları"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#justgolive",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-13T06:08+00:00",
+ "trends_updated_at": "2026-10-13T09:07+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -421,13 +334,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-13T06:08+00:00"
+ "generated_at": "2026-10-13T09:07+00:00"
 }

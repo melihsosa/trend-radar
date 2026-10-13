@@ -3,40 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "#hurricaneisaias",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Mogging & Looksmaxxing Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z ve Alfa gençliği arasında popüler olan, çene hattı ve genel fiziksel üstünlük taslama üzerinden dönen internet mizahı ve estetik akımı.",
+   "why": "Reddit'in TikTokCringe topluluğunda 'Mogging' başlığı haftanın en popüler içeriklerinden biri olarak öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Mogging ve çene hattı (mewing) temalı esprili spor salonu tişörtleri, sticker paketleri ve motivasyonel masa tabelaları.",
+   "product_keywords": [
+    {
+     "keyword": "mogging gym shirt",
+     "label": "mogging spor tişörtü"
+    },
+    {
+     "keyword": "mewing sticker pack",
+     "label": "mewing çıkartma paketi"
+    }
+   ]
   },
   {
-   "name": "#fgteev",
+   "name": "Western Formal Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Geleneksel batı/kovboy motiflerinin resmi giyim ve modern şıklıkla harmanlandığı, cinsiyetsiz ve vintage esintili kıyafet stili.",
+   "why": "Reddit'te r/femalefashionadvice altında 'Western Formal gala' kombini tartışılırken Google Trends'te country/western dizisi Heartland yükselişte yer aldı.",
    "sources": [
-    "TikTok"
+    "Reddit",
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı özel tasarım bolo kravatlar (bolo tie), western tarzı metal kemer tokaları ve işlemeli yaka iğneleri.",
+   "product_keywords": [
+    {
+     "keyword": "handmade bolo tie",
+     "label": "el yapımı bolo kravat"
+    },
+    {
+     "keyword": "western collar tips",
+     "label": "western gömlek yaka ucu"
+    }
+   ]
   },
   {
-   "name": "#justgolive",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Picture-Reveal Bulmaca Kitapları",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kelime bulmacalarını görsel sanatla birleştirerek kelimeler çözüldükçe gizli illüstrasyonların ortaya çıktığı yaratıcı aktivite formatı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda 'Malinia: Picture-Reveal Word Search' projesi yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Etsy'de anında indirilebilir (printable PDF) tematik picture-reveal kelime bulmaca sayfaları ve dijital aktivite kitapla",
+   "product_keywords": [
+    {
+     "keyword": "picture reveal word search",
+     "label": "görsel açığa çıkaran bulmaca"
+    },
+    {
+     "keyword": "printable puzzle book",
+     "label": "yazdırılabilir bulmaca kitabı"
+    }
+   ]
+  },
+  {
+   "name": "Grown-Up Rave & Festival Stili",
+   "heat": "Yeni çıktı",
+   "desc": "Rave ve elektronik müzik etkinliklerine katılan yetişkinlerin aşırı açık neon kıyafetler yerine konforlu, sofistike ve kaliteli festival giyimine yönelmesi.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'What does a grown up wear to a rave?' başlığı yüksek etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist holografik/reflektif bel çantaları, şık festival kimonoları ve konforlu pelerinler.",
+   "product_keywords": [
+    {
+     "keyword": "adult rave kimono",
+     "label": "rave festival kimonosu"
+    },
+    {
+     "keyword": "reflective festival fanny pack",
+     "label": "reflektif festival bel çantası"
+    }
+   ]
+  },
+  {
+   "name": "Live Streaming & JustGoLive Kültürü",
+   "heat": "Zirvede",
+   "desc": "Gençlerin içerik üreticiliğine ve canlı yayıncılığa adım atmasını teşvik eden interaktif yayın ve oda estetiği hareketi.",
+   "why": "TikTok Creative Center verilerinde #justgolive etiketi ABD genelinde 3. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Canlı yayın yapanlar için kişiselleştirilebilir neon 'On Air / Live' masa tabelaları ve yayıncı arka plan dekorları.",
+   "product_keywords": [
+    {
+     "keyword": "on air neon sign",
+     "label": "canlı yayında neon tabela"
+    },
+    {
+     "keyword": "streamer backdrop decor",
+     "label": "yayıncı arka plan dekoru"
+    }
+   ]
+  },
+  {
+   "name": "FGTeeV Gamer Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "YouTube ve oyun dünyasında büyüyen genç kitlelerin benimsediği neşeli, renkli aile ve çocuk odaklı gamer alt kültürü.",
+   "why": "TikTok trend hashtag listesinde oyun ve içerik kanalı #fgteev 2. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Genç oyuncu odaları için kişiselleştirilmiş ahşap oyun kolu isimlikleri ve renkli pikselli gamer posterleri.",
+   "product_keywords": [
+    {
+     "keyword": "custom gaming room sign",
+     "label": "kişiye özel oyuncu odası tabelası"
+    },
+    {
+     "keyword": "pixel gamer art print",
+     "label": "piksel oyun duvar posteri"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-13T00:07+00:00",
+ "trends_updated_at": "2026-10-13T03:06+00:00",
  "products": [
   {
    "name": "Kokulu mum",
@@ -173,13 +261,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-13T00:07+00:00"
+ "generated_at": "2026-10-13T03:06+00:00"
 }

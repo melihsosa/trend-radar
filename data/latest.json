@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#hurricaneisaias",
+   "name": "DIY Kumaş Mumlama (Waxed Canvas Upcycling)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "desc": "Uygun fiyatlı hızlı moda ve zincir mağaza ceketlerini evde wax/balmumu ile işleyerek dayanıklı, vintage ve su geçirmez hale getirme akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 25 dolarlık ceketlerin ev yapımı mumlama ile dönüştürülmesi büyük ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Kanvas ceket ve çantalar için el yapımı doğal kumaş mumlama kalıbı ve DIY uygulama kiti.",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar",
+     "label": "kumaş mumlama kalıbı"
+    },
+    {
+     "keyword": "canvas wax kit",
+     "label": "kanvas wax bakım kiti"
+    }
+   ]
   },
   {
-   "name": "#fgteev",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Peter Griffin Core",
+   "heat": "Yeni çıktı",
+   "desc": "Karakterin ikonik beyaz gömlek ve yeşil pantolon kombinine dayanan, çizgi dizi normcore tarzını sokak modasına taşıyan ironik giyim estetiği.",
+   "why": "Reddit r/malefashionadvice altında günün kombini (OOTD) olarak 'Peter Griffin core' tarzının öne çıkmasıyla konuşulmaya başlandı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "İronik 'Peter Griffin Core' tipografik grafik tişörtler ve minimalist yeşil-beyaz nakışlı aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "peter griffin core shirt",
+     "label": "ironik grafik tişört"
+    },
+    {
+     "keyword": "ironic normcore tote bag",
+     "label": "normcore bez çanta"
+    }
+   ]
   },
   {
-   "name": "#justgolive",
+   "name": "2014 Nostaljisi (Tumblr Era Nostalgia)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Z kuşağının 2014 yılı internet ve gençlik kültürünü hayatın en iyi dönemi olarak yüceltip o dönemin estetiğine dönme arzusu.",
+   "why": "Reddit r/GenZ topluluğunda 2014'ten bu yana hayatın kötüye gittiği ve o yılların özlendiği temalı gönderi yüksek etkileşim aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "2014 Tumblr estetiğini yansıtan nostaljik sticker setleri, retro indie fontlu bez çantalar ve posterler.",
+   "product_keywords": [
+    {
+     "keyword": "2014 tumblr aesthetic sticker",
+     "label": "2014 estetiği çıkartma paketi"
+    },
+    {
+     "keyword": "indie aesthetic tote bag",
+     "label": "indie estetik bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "İronik Gym Güçlenme Sloganları (Gym Irony)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kadın spor kıyafetlerine yapılan geleneksel ve ahlakçı eleştirileri tersine çeviren, mizahi ve güçlendirici spor salonu söz kalıpları.",
+   "why": "Reddit r/popculturechat'te Ego Nwodim'in 'Whore Reporting for Duty' spor salonu tepkisi ve kadın spor giyim tartışmaları viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik spor motivasyon sloganları içeren paslanmaz çelik su mataraları ve kanvas spor çantaları.",
+   "product_keywords": [
+    {
+     "keyword": "funny gym water bottle",
+     "label": "esprili spor su matarası"
+    },
+    {
+     "keyword": "sarcastic gym tote bag",
+     "label": "mizahi spor çantası"
+    }
+   ]
+  },
+  {
+   "name": "Geleneksel Yün Giysi Rönesansı (Wool Revival)",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı modadaki sentetik kumaş düşüşüne tepki olarak günlük kullanımda saf yün pantolon ve kazaklara yönelen uzun ömürlü giyim tercihi.",
+   "why": "Reddit r/malefashionadvice ve r/BuyItForLife gruplarında günlük yün pantolon kullanımı ve yün kazakların yeniden keşfi tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yün kazak ve pantolonlar için el yapımı sedir ağacı bakım blokları ve doğal güve kovucu ahşap askı aparatları.",
+   "product_keywords": [
+    {
+     "keyword": "cedar wool sweater block",
+     "label": "yün giysi sedir bakım bloğu"
+    },
+    {
+     "keyword": "wool garment care kit",
+     "label": "yün kıyafet bakım kiti"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-13T09:07+00:00",
+ "trends_updated_at": "2026-10-13T12:08+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -327,20 +394,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 75
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-13T09:07+00:00"
+ "generated_at": "2026-10-13T12:08+00:00"
 }

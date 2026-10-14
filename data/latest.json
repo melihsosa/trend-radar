@@ -3,127 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Mogging & Looksmaxxing Kültürü",
-   "heat": "Zirvede",
-   "desc": "Gençlerin görünüş ve çene hattı üzerinden rekabetini ve özgüvenini mizahi şekilde ifade eden internet akımı.",
-   "why": "Reddit TikTokCringe başlıklarında doğrudan 'Mogging' kavramı viral video olarak öne çıkıyor.",
+   "name": "Renkli Külotlu Çorap (Bright Tights)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Monokrom veya sade kış kombinlerine canlı kırmızı, kobalt mavisi ve pastel renklerde opak çoraplar ekleyerek odak noktası oluşturan sokak modası akımı.",
+   "why": "Reddit'in popüler moda topluluğunda 'Bright (and not so bright) Tights' ilham albümü haftanın öne çıkanları arasında yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İronik 'Mogging' ve 'Looksmaxxer' tipografi baskılı spor salonu tişörtleri ve laptop çıkartmaları.",
+   "idea": "Vişne çürüğü, zeytin yeşili ve elektrik mavisi tonlarında kaliteli opak külotlu çorap setleri.",
    "product_keywords": [
     {
-     "keyword": "mogging shirt",
+     "keyword": "bright colored tights",
+     "label": "renkli külotlu çorap"
+    },
+    {
+     "keyword": "colorful opaque tights",
+     "label": "opak renkli çorap"
+    }
+   ]
+  },
+  {
+   "name": "Mogging & Looksmaxxing Kültürü",
+   "heat": "Zirvede",
+   "desc": "Gen Z internet mizahında çene hattı ve yüz hatlarıyla başkalarını gölgede bırakmayı ifade eden viral meme akımı.",
+   "why": "Reddit TikTokCringe topluluğunda 'Mogging' başlığı yüksek etkileşim alarak en popüler gönderiler arasına girdi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Mizahi 'Mogger' ve 'Mewing' tipografili oversize tişörtler, kupalar ve sticker paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "mogging meme shirt",
      "label": "mogging temalı tişört"
     },
     {
-     "keyword": "looksmaxxing sticker",
-     "label": "looksmaxxing çıkartması"
+     "keyword": "looksmaxxing sticker pack",
+     "label": "looksmaxxing çıkartma seti"
     }
    ]
   },
   {
-   "name": "Kendin Yap (DIY) Kumaş & Ceket Mumlatma",
-   "heat": "Yükseliyor",
-   "desc": "Uygun fiyatlı mont ve gömlek ceketleri balmumu bazlı özel kalıplarla waxlayıp su geçirmez ve vintage işçi stiline dönüştürme pratiği.",
-   "why": "Reddit MaleFashionAdvice topluluğunda ucuz bir ceketin waxlama öncesi ve sonrası dönüşümü yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Doğal içerikli kumaş ve kanvas ceket cilalama/su geçirmezlik wax kalıbı ve DIY bakım kiti.",
-   "product_keywords": [
-    {
-     "keyword": "fabric wax bar",
-     "label": "kumaş cilalama mumu"
-    },
-    {
-     "keyword": "canvas waterproofing wax",
-     "label": "kanvas su geçirmezlik waxı"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals & Hero Shooter Estetiği",
+   "name": "Marvel Rivals Oyun Aksesuarları",
    "heat": "Hızla yükseliyor",
-   "desc": "Yeni süper kahraman takım nişancı oyununun yarattığı karakter odaklı rekabetçi oyun heyecanı ve estetiği.",
-   "why": "TikTok trend hashtag'lerinde '#marvelrivalsavengers' üst sıralarda yer alıyor.",
+   "desc": "Yeni nesil süper kahraman takım nişancı oyununun çıkışıyla oyuncular arasında hızla yükselen estetik ve fandom dalgası.",
+   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' etiketi 2. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karakter silüetlerinden ilham alan geniş boy oyuncu mousepadleri ve retro arcade tarzı oyun odası posterleri.",
+   "idea": "Oyunun çizim tarzına uygun özel illüstrasyonlu geniş mousepad/desk mat ürünleri ve kişiselleştirilmiş mekanik klavye tuş",
    "product_keywords": [
     {
-     "keyword": "gaming desk mat",
-     "label": "oyun masa matı"
+     "keyword": "marvel rivals desk mat",
+     "label": "geniş oyuncu mouse pad"
     },
     {
-     "keyword": "superhero desk pad",
-     "label": "süper kahraman masa pedi"
+     "keyword": "gaming custom keycaps",
+     "label": "özel tasarım klavye tuşu"
     }
    ]
   },
   {
-   "name": "'Whore Reporting for Duty' İronik Gym Sloganı",
+   "name": "Western Formal (Modern Kovboy Şıklığı)",
+   "heat": "Yükseliyor",
+   "desc": "Klasik takım elbise ve gece kıyafetlerini geleneksel western aksesuarlarıyla harmanlayan modern kovboy estetiği.",
+   "why": "Reddit femalefashionadvice topluluğunda 'Western Formal gala' konseptine yönelik kombin arayışları öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal taşlı (turkuaz, oniks) el yapımı deri bolo kravatlar ve oymalı metal yaka iğneleri.",
+   "product_keywords": [
+    {
+     "keyword": "western bolo tie",
+     "label": "kovboy bolo kravat"
+    },
+    {
+     "keyword": "vintage collar tips",
+     "label": "vintage metal yaka iğnesi"
+    }
+   ]
+  },
+  {
+   "name": "BIFL El Yapımı Deri Çantalar",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı tüketim yerine bir ömür boyu kullanılabilecek, eskidikçe güzelleşen zanaat işi hakiki deri çanta ve aksesuarlara yönelim.",
+   "why": "Reddit BuyItForLife topluluğunda el yapımı deri sırt çantası ('handcrafted leather backpack') haftanın en çok konuşulan gönderilerinden oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist tasarımlı, kalın dikişli ve kişiselleştirilebilir isim baskılı hakiki deri sırt çantası.",
+   "product_keywords": [
+    {
+     "keyword": "handcrafted leather backpack",
+     "label": "el yapımı deri sırt çantası"
+    },
+    {
+     "keyword": "full grain leather rucksack",
+     "label": "hakiki deri çanta"
+    }
+   ]
+  },
+  {
+   "name": "Analog & Kısa Korku Estetiği (TikTok Horror)",
    "heat": "Yeni çıktı",
-   "desc": "Spor salonu kıyafetlerine yönelik eleştirilere meydan okuyan, kadınların sahiplendiği esprili ve güçlendirici antrenman sloganı.",
-   "why": "Reddit PopCultureChat'te SNL oyuncusu Ego Nwodim'in spor salonu aynası paylaşımıyla viral oldu.",
+   "desc": "Genç içerik üreticileri arasında yükselen analog korku, karanlık retro görsel hikaye anlatımı ve gotik estetik.",
+   "why": "TikTok Creative Center trendlerinde '#tiktokscaryhorrorcontest' etiketi ilk 3 sırada kendine yer buldu.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Baskılı oversize spor salonu pump cover tişörtü veya paslanmaz çelik su matarası.",
+   "idea": "Karanlık retro korku sanatı baskıları, analog VHS tarzı posterler ve gotik temalı dekoratif mumlar.",
    "product_keywords": [
     {
-     "keyword": "reporting for duty gym shirt",
-     "label": "gym sloganlı tişört"
+     "keyword": "analog horror art print",
+     "label": "korku temalı sanat baskısı"
     },
     {
-     "keyword": "gym pump cover tshirt",
-     "label": "oversize spor salonu tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Resim Açığa Çıkaran (Picture-Reveal) Bulmaca Kitapları",
-   "heat": "Yükseliyor",
-   "desc": "Kelimeler bulundukça arka planda gizli piksel hayvan veya dinozor çizimlerinin ortaya çıktığı interaktif bulmaca konsepti.",
-   "why": "Reddit ShutUpAndTakeMyMoney topluluğunda hayvan temalı resimli kelime bulmaca kitabı yoğun ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiye özel temalarda hazırlanmış, çözüldükçe illüstrasyon oluşturan indirilebilir (printable) PDF bulmaca sayfaları.",
-   "product_keywords": [
-    {
-     "keyword": "picture reveal word search",
-     "label": "resimli kelime bulmaca kitabı"
-    },
-    {
-     "keyword": "adult puzzle book printable",
-     "label": "yazdırılabilir bulmaca defteri"
-    }
-   ]
-  },
-  {
-   "name": "Toprak Tonlu Sonbahar Yürüyüşü (Autumn Walk Aesthetic)",
-   "heat": "Yükseliyor",
-   "desc": "Zeytin yeşili, kahverengi ve yün dokuların öne çıktığı nostaljik, konforlu sonbahar açık hava giyim tarzı.",
-   "why": "Reddit MaleFashionAdvice'ta sonbahar yürüyüşü kombinleri ve zeytin yeşili/kahverengi uyumu üzerine tartışmalar trend oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Toprak tonlarında el yapımı yün bere veya sonbahar doğa yürüyüşü temalı kanvas bez çanta.",
-   "product_keywords": [
-    {
-     "keyword": "olive green wool beanie",
-     "label": "zeytin yeşili yün bere"
-    },
-    {
-     "keyword": "autumn canvas tote bag",
-     "label": "sonbahar kanvas bez çanta"
+     "keyword": "gothic aesthetic poster",
+     "label": "gotik estetik poster"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-13T21:15+00:00",
+ "trends_updated_at": "2026-10-14T00:12+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -414,7 +414,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -429,5 +429,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-10-13T21:15+00:00"
+ "generated_at": "2026-10-14T00:12+00:00"
 }

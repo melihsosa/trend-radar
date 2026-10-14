@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Renkli Külotlu Çorap (Bright Tights)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Monokrom veya sade kış kombinlerine canlı kırmızı, kobalt mavisi ve pastel renklerde opak çoraplar ekleyerek odak noktası oluşturan sokak modası akımı.",
-   "why": "Reddit'in popüler moda topluluğunda 'Bright (and not so bright) Tights' ilham albümü haftanın öne çıkanları arasında yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Vişne çürüğü, zeytin yeşili ve elektrik mavisi tonlarında kaliteli opak külotlu çorap setleri.",
-   "product_keywords": [
-    {
-     "keyword": "bright colored tights",
-     "label": "renkli külotlu çorap"
-    },
-    {
-     "keyword": "colorful opaque tights",
-     "label": "opak renkli çorap"
-    }
-   ]
-  },
-  {
-   "name": "Mogging & Looksmaxxing Kültürü",
-   "heat": "Zirvede",
-   "desc": "Gen Z internet mizahında çene hattı ve yüz hatlarıyla başkalarını gölgede bırakmayı ifade eden viral meme akımı.",
-   "why": "Reddit TikTokCringe topluluğunda 'Mogging' başlığı yüksek etkileşim alarak en popüler gönderiler arasına girdi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Mizahi 'Mogger' ve 'Mewing' tipografili oversize tişörtler, kupalar ve sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "mogging meme shirt",
-     "label": "mogging temalı tişört"
-    },
-    {
-     "keyword": "looksmaxxing sticker pack",
-     "label": "looksmaxxing çıkartma seti"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Oyun Aksesuarları",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil süper kahraman takım nişancı oyununun çıkışıyla oyuncular arasında hızla yükselen estetik ve fandom dalgası.",
-   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' etiketi 2. sırada yer aldı.",
+   "name": "#hurricaneisaias",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Oyunun çizim tarzına uygun özel illüstrasyonlu geniş mousepad/desk mat ürünleri ve kişiselleştirilmiş mekanik klavye tuş",
-   "product_keywords": [
-    {
-     "keyword": "marvel rivals desk mat",
-     "label": "geniş oyuncu mouse pad"
-    },
-    {
-     "keyword": "gaming custom keycaps",
-     "label": "özel tasarım klavye tuşu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Western Formal (Modern Kovboy Şıklığı)",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Klasik takım elbise ve gece kıyafetlerini geleneksel western aksesuarlarıyla harmanlayan modern kovboy estetiği.",
-   "why": "Reddit femalefashionadvice topluluğunda 'Western Formal gala' konseptine yönelik kombin arayışları öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Doğal taşlı (turkuaz, oniks) el yapımı deri bolo kravatlar ve oymalı metal yaka iğneleri.",
-   "product_keywords": [
-    {
-     "keyword": "western bolo tie",
-     "label": "kovboy bolo kravat"
-    },
-    {
-     "keyword": "vintage collar tips",
-     "label": "vintage metal yaka iğnesi"
-    }
-   ]
-  },
-  {
-   "name": "BIFL El Yapımı Deri Çantalar",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı tüketim yerine bir ömür boyu kullanılabilecek, eskidikçe güzelleşen zanaat işi hakiki deri çanta ve aksesuarlara yönelim.",
-   "why": "Reddit BuyItForLife topluluğunda el yapımı deri sırt çantası ('handcrafted leather backpack') haftanın en çok konuşulan gönderilerinden oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Minimalist tasarımlı, kalın dikişli ve kişiselleştirilebilir isim baskılı hakiki deri sırt çantası.",
-   "product_keywords": [
-    {
-     "keyword": "handcrafted leather backpack",
-     "label": "el yapımı deri sırt çantası"
-    },
-    {
-     "keyword": "full grain leather rucksack",
-     "label": "hakiki deri çanta"
-    }
-   ]
-  },
-  {
-   "name": "Analog & Kısa Korku Estetiği (TikTok Horror)",
-   "heat": "Yeni çıktı",
-   "desc": "Genç içerik üreticileri arasında yükselen analog korku, karanlık retro görsel hikaye anlatımı ve gotik estetik.",
-   "why": "TikTok Creative Center trendlerinde '#tiktokscaryhorrorcontest' etiketi ilk 3 sırada kendine yer buldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karanlık retro korku sanatı baskıları, analog VHS tarzı posterler ve gotik temalı dekoratif mumlar.",
-   "product_keywords": [
-    {
-     "keyword": "analog horror art print",
-     "label": "korku temalı sanat baskısı"
-    },
-    {
-     "keyword": "gothic aesthetic poster",
-     "label": "gotik estetik poster"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-14T00:12+00:00",
+ "trends_updated_at": "2026-10-14T03:16+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -414,20 +327,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-14T00:12+00:00"
+ "generated_at": "2026-10-14T03:16+00:00"
 }

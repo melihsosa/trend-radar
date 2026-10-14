@@ -3,40 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "#hurricaneisaias",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Bright & Statement Tights",
+   "heat": "Hızla yükseliyor",
+   "desc": "Klasik siyah külotlu çorapların yerini alan, cesur renk ve desenlerle kombinin merkezine oturan çorap akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda renkli ve dikkat çekici külotlu çorap ilham albümleri yoğun ilgi görüyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Canlı renk geçişli (ombré), elle boyanmış veya özel illüstrasyon baskılı külotlu çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "colorful tights",
+     "label": "renkli külotlu çorap"
+    },
+    {
+     "keyword": "patterned tights",
+     "label": "desenli külotlu çorap"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Marvel Rivals Oyun Aksesuarları",
+   "heat": "Hızla yükseliyor",
+   "desc": "Marvel Rivals oyununun çıkışıyla oyuncu ve gençlik kitlesinde hızla yayılan takım ve süper kahraman temalı hayran kültürü.",
+   "why": "TikTok Creative Center'da #marvelrivalsavengers etiketi 2. sıraya yükselerek viral oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Marvel Rivals karakterlerinden ilham alan özel tasarım klavye tuş başlıkları (keycaps) ve masa matları.",
+   "product_keywords": [
+    {
+     "keyword": "custom keycaps",
+     "label": "özel tasarım tuş başlığı"
+    },
+    {
+     "keyword": "gaming desk mat",
+     "label": "oyuncu masa matı"
+    }
+   ]
   },
   {
-   "name": "#tiktokscaryhorrorcontest",
+   "name": "Western Formal Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Kovboy ve vahşi batı unsurlarını (bolo kravatlar, metal yaka uçları, işlemeler) resmi davet kıyafetleriyle harmanlayan hibrit stil.",
+   "why": "Reddit r/femalefashionadvice'ta resmi galalar ve davetler için Western Formal konsepti tartışılıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı doğal taşlı bolo kravatlar ve oymalı metal kovboy gömlek yaka uçları.",
+   "product_keywords": [
+    {
+     "keyword": "bolo tie",
+     "label": "bolo kravat"
+    },
+    {
+     "keyword": "western collar tips",
+     "label": "kovboy gömlek yaka ucu"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal Bulmaca Kitapları",
+   "heat": "Yeni çıktı",
+   "desc": "Kelime avı yapıldıkça boşlukların veya çizgilerin bir piksel görsel/illüstrasyon ortaya çıkardığı yenilikçi hobi ve aktivite kitapları.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde görsel ortaya çıkaran kelime avı bulmaca kitabı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Çözüldükçe hayvan veya nostaljik figürler ortaya çıkaran yazdırılabilir (PDF) veya fiziksel tematik kelime avı defteri.",
+   "product_keywords": [
+    {
+     "keyword": "picture reveal puzzle book",
+     "label": "görsel çıkaran bulmaca kitabı"
+    },
+    {
+     "keyword": "printable word search",
+     "label": "yazdırılabilir kelime bulmacası"
+    }
+   ]
+  },
+  {
+   "name": "Modcloth Tarzı Retro Canlanışı",
+   "heat": "Yükseliyor",
+   "desc": "1950'ler ve vintage esintili eğlenceli desenler, Peter Pan yakalar ve A-kesim silüetlerin yeniden popülerleşmesi.",
+   "why": "Reddit r/femalefashionadvice'ta Modcloth estetiğinin ve retro tarzın geri dönüşü sorgulanıp ilgi görüyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı retro desenli takılıp çıkarılabilir Peter Pan yakalar ve vintage kesim kloş etekler.",
+   "product_keywords": [
+    {
+     "keyword": "detachable peter pan collar",
+     "label": "takıp çıkarılabilir bebe yaka"
+    },
+    {
+     "keyword": "retro a line skirt",
+     "label": "retro A kesim etek"
+    }
+   ]
+  },
+  {
+   "name": "Korku ve Ürkütücü DIY Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Kısa formatlı korku içerikleriyle beslenen, gotik ve ürpertici el yapımı objelere odaklanan karanlık yaratıcı trend.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi en çok izlenen ve üretilen akımlar arasına girdi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı gotik reçine figürler, korku temalı illüstrasyon çıkartma paketleri ve karanlıkta parlayan takılar.",
+   "product_keywords": [
+    {
+     "keyword": "horror stickers",
+     "label": "korku temalı çıkartma paketi"
+    },
+    {
+     "keyword": "spooky resin art",
+     "label": "gotik reçine biblo"
+    }
+   ]
+  },
+  {
+   "name": "Ömürlük El Yapımı Deri Çantalar",
+   "heat": "Zirvede",
+   "desc": "Hızlı modadan kaçıp bir ömür kullanılabilecek, zamansız ve kaliteli el işçiliği deri aksesuarlara yönelen bilinçli tüketim akımı.",
+   "why": "Reddit r/BuyItForLife topluluğunda nesiller boyu saklanabilecek el yapımı deri sırt çantaları büyük beğeni topladı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kişiselleştirilebilir, kalın hakiki deriden elde dikilmiş minimalist sırt çantaları ve cüzdanlar.",
+   "product_keywords": [
+    {
+     "keyword": "handcrafted leather backpack",
+     "label": "el yapımı deri sırt çantası"
+    },
+    {
+     "keyword": "full grain leather bag",
+     "label": "hakiki deri çanta"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-14T18:19+00:00",
+ "trends_updated_at": "2026-10-14T21:17+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -173,13 +280,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-14T18:19+00:00"
+ "generated_at": "2026-10-14T21:17+00:00"
 }

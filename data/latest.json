@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-14T12:18+00:00",
+ "trends_updated_at": "2026-10-14T15:20+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -166,7 +166,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -174,12 +174,12 @@
   },
   "Yapay zeka": {
    "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-14T12:18+00:00"
+ "generated_at": "2026-10-14T15:20+00:00"
 }

@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Bright Statement Tights",
+   "name": "#hurricaneisaias",
    "heat": "Yükseliyor",
-   "desc": "Kıyafet kombinlerinde standart siyah/ten rengi yerine odak noktası haline gelen canlı renkli, baskılı veya degrade külotlu çorap akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığıyla popülerleştiği görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El boyaması degrade renk geçişli opak çoraplar veya özel illüstrasyon baskılı külotlu çoraplar.",
-   "product_keywords": [
-    {
-     "keyword": "colorful tights",
-     "label": "renkli külotlu çorap"
-    },
-    {
-     "keyword": "patterned tights",
-     "label": "desenli külotlu çorap"
-    }
-   ]
-  },
-  {
-   "name": "The Hunger Games Nostaljisi",
-   "heat": "Hızla yükseliyor",
-   "desc": "'Sunrise on the Reaping' yapımıyla yeniden alevlenen Açlık Oyunları distopik estetiği ve fandom aksesuarları akımı.",
-   "why": "Google yükselen aramalarda 'the hunger games' sorgusu ve yeni film duyurularıyla trend oldu.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Distopik alıntılar taşıyan kanvas çantalar, Alaycı Kuş ilhamlı pirinç/gümüş takılar ve fandom temalı defterler.",
-   "product_keywords": [
-    {
-     "keyword": "mockingjay necklace",
-     "label": "alaycı kuş kolye"
-    },
-    {
-     "keyword": "hunger games tote bag",
-     "label": "açlık oyunları bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Western Formal",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel kovboy ve western giyim öğelerinin modern şık ve resmi davet kıyafetleriyle harmanlandığı hibrit giyim estetiği.",
-   "why": "Reddit r/femalefashionadvice'ta 'Western Formal' gala konsepti ve dönem stillerini harmanlama tartışmasıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı yarı değerli taşlı bolo kravatlar, işlemeli western yaka uçları ve özel tasarım kemer tokaları.",
-   "product_keywords": [
-    {
-     "keyword": "bolo tie",
-     "label": "bolo kravat"
-    },
-    {
-     "keyword": "western belt buckle",
-     "label": "kovboy kemer tokası"
-    }
-   ]
-  },
-  {
-   "name": "Ömürlük El Yapımı Deri Eşyalar",
-   "heat": "Zirvede",
-   "desc": "Hızlı tüketim yerine yıllarca kullanılabilecek, zamansız ve kaliteli el işçiliği deri ürünlere yönelen 'Buy It For Life' yaşam tarzı.",
-   "why": "Reddit r/BuyItForLife topluluğunda el yapımı deri sırt çantası ve kalıcı tüketim ürünleri yoğun beğeni topladı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Tamamen el dikişiyle üretilen, kişiselleştirilebilir hakiki deri sırt çantası ve minimalist seyahat cüzdanları.",
-   "product_keywords": [
-    {
-     "keyword": "leather backpack",
-     "label": "deri sırt çantası"
-    },
-    {
-     "keyword": "handmade leather bag",
-     "label": "el yapımı deri çanta"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Gamer Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Marvel Rivals oyunu etrafında toplanan oyuncu topluluğunun benimsediği tematik oyun odası ve masaüstü donanım tarzı.",
-   "why": "TikTok'ta #marvelrivalsavengers etiketi en popüler ikinci sırada yer aldı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Çizgi roman ve oyun sanatı esintili geniş masa matları (desk mat) ve özel tasarım klavye tuş başlıkları.",
-   "product_keywords": [
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    },
-    {
-     "keyword": "artisan keycap",
-     "label": "tasarım klavye tuşu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Korku ve Gotik İllüstrasyon",
-   "heat": "Hızla yükseliyor",
-   "desc": "Korku, gerilim ve ürkütücü sanat akımlarının giyilebilir ürünler ile dekoratif ev eşyalarına yansıdığı karanlık gotik estetik.",
-   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketi 3. sıraya yerleşti.",
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "El çizimi korku illüstrasyonları içeren sanat baskıları, gotik soya mumları ve karanlık temalı tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "horror art print",
-     "label": "korku sanat baskısı"
-    },
-    {
-     "keyword": "gothic candle",
-     "label": "gotik mum"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-14T09:20+00:00",
+ "trends_updated_at": "2026-10-14T12:18+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -253,20 +166,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 75
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-14T09:20+00:00"
+ "generated_at": "2026-10-14T12:18+00:00"
 }

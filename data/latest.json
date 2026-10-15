@@ -3,129 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Horror & Spooky Creator Aesthetic",
+   "name": "Fortnitemares & Spooky Gaming",
    "heat": "Hızla yükseliyor",
-   "desc": "Cadılar Bayramı dönemiyle birlikte korku temalı içerikler, interaktif korku odaları ve ürkütücü el yapımı dekorlar viral ilgi görüyor.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' hashtag'inin üst sıralara çıkması ve Google'da 'escape halloween' aramalarındaki hızlı artış bu ilgiyi gösteriyor.",
+   "desc": "Cadılar Bayramı döneminde oyuncu topluluğunda yükselen korku temalı dijital etkinlikler, loş estetik ve ürkütücü içerik üretimi kültürü.",
+   "why": "Google yükselen aramalarda Fortnitemares güncellemesi öne çıkarken, TikTok'ta #tiktokscaryhorrorcontest etiketi zirvede yer alıyor.",
    "sources": [
     "TikTok",
-    "Google",
-    "Reddit"
+    "Google"
    ],
-   "idea": "El yapımı korku temalı oda dekorları, karanlıkta parlayan korku aksesuarları ve tematik Cadılar Bayramı kaçış oyunu kitl",
+   "idea": "Karanlıkta parlayan korku temalı oyuncu masa matları (desk mat) ve Cadılar Bayramı temalı oyuncu vinil sticker paketleri",
    "product_keywords": [
     {
-     "keyword": "horror escape room prop",
-     "label": "korku kaçış odası dekoru"
+     "keyword": "spooky desk mat",
+     "label": "korku temalı masa matı"
     },
     {
-     "keyword": "spooky home decor",
-     "label": "ürkütücü ev dekorasyonu"
+     "keyword": "halloween gaming stickers",
+     "label": "cadılar bayramı oyuncu çıkartması"
     }
    ]
   },
   {
-   "name": "Bright Statement Tights",
+   "name": "DIY Waxed Canvas & Giysi Vakslama",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar-kış kombinlerinde klasik opak çoraplar yerine canlı renkli, sıra dışı ve dikkat çeken külotlu çorapların odak noktası haline gelmesi akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda renkli çorap ilham albümleri ve kombin tartışmaları yüksek etkileşim aldı.",
+   "desc": "Gençlerin hızlı tüketim kıyafetlerini su geçirmez, dayanıklı ve vintage bir görünüme kavuşturmak için evde katı balmumuyla kapladığı outdoor DIY akımı.",
+   "why": "Reddit malefashionadvice topluluğunda uygun fiyatlı bir ceket üzerine uygulanan ev yapımı vakslama süreci yoğun ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Özel boyanmış canlı renk geçişli (omre) külotlu çoraplar veya desenli retro çorap setleri.",
+   "idea": "Ceket, şapka ve kanvas çantalar için fırçası ve zımparasıyla birlikte gelen doğal kumaş vakslama kalıbı kiti.",
    "product_keywords": [
     {
-     "keyword": "colorful opaque tights",
-     "label": "renkli opak külotlu çorap"
+     "keyword": "fabric wax bar",
+     "label": "kumaş vakslama kalıbı"
     },
     {
-     "keyword": "funky patterned tights",
-     "label": "çılgın desenli çorap"
+     "keyword": "canvas waxing kit",
+     "label": "kanvas kumaş vaks kiti"
     }
    ]
   },
   {
-   "name": "Western Formal Gala",
+   "name": "Marvel Rivals & Hero-Shooter Fandom",
    "heat": "Yeni çıktı",
-   "desc": "Geleneksel resmi davet kıyafetlerinin kovboy ve western estetiği detaylarıyla (işlemeli yakalar, deri aksesuarlar, bolo kravatlar) harmanlandığı şık bir stil.",
-   "why": "Reddit'te resmi galalar için western unsurlarını dönemsel detaylarla birleştiren stil arayışı öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı yarı değerli taşlı veya gümüş işlemeli modern bolo kravatlar ve şapka süsleme bantları.",
-   "product_keywords": [
-    {
-     "keyword": "handcrafted bolo tie",
-     "label": "el yapımı bolo kravat"
-    },
-    {
-     "keyword": "western lapel pin",
-     "label": "western yaka iğnesi"
-    }
-   ]
-  },
-  {
-   "name": "Heirloom Handcrafted Leather",
-   "heat": "Yükseliyor",
-   "desc": "Tüketicilerin hızlı moda yerine nesiller boyu kullanılabilecek, dayanıklı ve zanaatkar işi hakiki deri ürünlere yöneldiği uzun ömürlü tüketim hareketi.",
-   "why": "Reddit r/BuyItForLife topluluğunda el yapımı hakiki deri sırt çantası ve ömürlük ürün paylaşımları yoğun takdir topladı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiye özel isim baskılı, kalın dikişli ve rustik görünümlü el yapımı hakiki deri mini sırt çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "handcrafted leather backpack",
-     "label": "el yapımı deri sırt çantası"
-    },
-    {
-     "keyword": "full grain leather bag",
-     "label": "hakiki sırçalı deri çanta"
-    }
-   ]
-  },
-  {
-   "name": "Grown-Up Rave Wear",
-   "heat": "Yeni çıktı",
-   "desc": "Elektronik müzik etkinliklerinde aşırı neon veya klişe festival kıyafetleri yerine olgun, şık, fonksiyonel ve minimalist tasarımların tercih edilmesi.",
-   "why": "Reddit moda panolarında yetişkin festival katılımcıları için rahat ve estetik giyim arayışları tartışıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Minimalist reflektörlü çapraz göğüs çantaları ve karanlıkta hafif parlayan fonksiyonel festival yelekleri.",
-   "product_keywords": [
-    {
-     "keyword": "minimalist festival harness bag",
-     "label": "minimalist festival göğüs çantası"
-    },
-    {
-     "keyword": "reflective chest rig",
-     "label": "reflektörlü göğüs yeleği"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Hero-Shooter Fandom",
-   "heat": "Yükseliyor",
-   "desc": "Yeni nesil süper kahraman nişancı oyununun oluşturduğu görsel dünya etrafında şekillenen masaüstü ve oyuncu aksesuarı ilgisi.",
-   "why": "TikTok'ta '#marvelrivalsavengers' etiketi oyunun duyurusu ve testleriyle birlikte hızla trendler listesine girdi.",
+   "desc": "Marvel süper kahramanlarını rekabetçi takım nişancı dinamikleriyle buluşturan yeni oyun etrafında oluşan oyuncu ve cosplay alt kültürü.",
+   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi en popüler etiketler arasında ilk üçe girdi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karakter silüetlerinden ilham alan el yapımı mekanik klavye tuşları (artisan keycaps) ve özel dikişli desk matler.",
+   "idea": "Marvel Rivals karakter yetenek simgelerini taşıyan 3D baskı artisan mekanik klavye tuşları (keycap) ve LED masa lambalar",
    "product_keywords": [
     {
-     "keyword": "custom gaming desk mat",
-     "label": "özel tasarım oyuncu masa matı"
+     "keyword": "artisan keycap",
+     "label": "özel mekanik klavye tuşu"
     },
     {
-     "keyword": "superhero artisan keycap",
-     "label": "süper kahraman artisan klavye tuşu"
+     "keyword": "gamer led lamp",
+     "label": "oyuncu led masa lambası"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal Bulmaca Kitapları",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kelime bulmacalarını piksel sanatı ve boyama mekaniğiyle birleştirip çözüldükçe gizli resim ortaya çıkaran rahatlatıcı ekran detoksu akımı.",
+   "why": "Reddit shutupandtakemymoney topluluğunda hayvan ve dinozor temalı resim ortaya çıkaran kelime avı bulmaca kitabı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Etsy üzerinden anında indirilebilen dijital/yazdırılabilir (printable) tematik görsel ortaya çıkaran kelime avı sayfalar",
+   "product_keywords": [
+    {
+     "keyword": "printable word search puzzle",
+     "label": "yazdırılabilir kelime bulmacası"
+    },
+    {
+     "keyword": "picture reveal puzzle book",
+     "label": "görsel ortaya çıkaran bulmaca kitabı"
+    }
+   ]
+  },
+  {
+   "name": "İronik Gym & Antrenman Mizahı",
+   "heat": "Yükseliyor",
+   "desc": "Spor salonu kıyafetlerine ve kadın fitness kültürüne yönelik geleneksel eleştirileri tiye alan, özgüvenli ve mizahi slogan hareketi.",
+   "why": "Reddit popculturechat topluluğunda spor salonu şortları tartışması ve komedyenlerin buna verdiği mizahi tepkiler viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Spor salonu kültürünü alaya alan ironik tipografik bez çantalar (tote bag) ve su matarası için suya dayanıklı sloganlı s",
+   "product_keywords": [
+    {
+     "keyword": "funny gym tote bag",
+     "label": "komik fitness bez çantası"
+    },
+    {
+     "keyword": "gym humor vinyl sticker",
+     "label": "spor mizahı vinil çıkartma"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-15T06:18+00:00",
+ "trends_updated_at": "2026-10-15T09:19+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -370,7 +349,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -378,12 +357,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-15T06:18+00:00"
+ "generated_at": "2026-10-15T09:19+00:00"
 }

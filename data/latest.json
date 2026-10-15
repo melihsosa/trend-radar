@@ -3,108 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Bright Statement Tights",
+   "name": "#hurricaneisaias",
    "heat": "Yükseliyor",
-   "desc": "Klasik siyah veya ten rengi çoraplar yerine kıyafetin odak noktası haline gelen canlı renkli, pastel veya desenli opak külotlu çorap akımı.",
-   "why": "Reddit'in r/femalefashionadvice topluluğunda renkli çorap ilham albümü ('Bright Tights Inspo Album') bu haftanın en çok ilgi gören moda başlıklarından biri oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "El boyaması degrade renkli çoraplar, dantel dokulu veya nakış detaylı renkli külotlu çorap setleri.",
-   "product_keywords": [
-    {
-     "keyword": "colorful opaque tights",
-     "label": "renkli opak çorap"
-    },
-    {
-     "keyword": "patterned tights",
-     "label": "desenli külotlu çorap"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Western Formal & Cowgirl Gala",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
-   "desc": "Geleneksel kovboy/western stilinin resmi gece kıyafetleri, takım elbiseler ve gala elbiseleriyle harmanlandığı şık neo-western giyim akımı.",
-   "why": "Reddit r/femalefashionadvice üzerinde 'Western Formal' gala konseptleri ve dönem tarzlarının harmanlanması tartışması öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Özel taşlı pirinç/gümüş bolo kravatlar, kovboy çizmesi nakışlı gece çantaları ve takım elbiseler için oymalı western yak",
-   "product_keywords": [
-    {
-     "keyword": "western bolo tie",
-     "label": "kovboy bolo kravat"
-    },
-    {
-     "keyword": "cowboy collar tips",
-     "label": "western gömlek yaka ucu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "DIY Horror & Spooky Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Korku temalı içeriklerin, ürkütücü hikaye anlatımının ve gotik/iskelet figürlerinin günlük popüler kültüre taşındığı karanlık estetik.",
-   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketi 2. sıraya yerleşirken, Reddit TikTokCringe'de dev iskelet hırsızlığı viral oldu.",
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "TikTok",
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Gotik korku temalı el yapımı soya mumu tasarımları, karanlıkta parlayan iskelet ve canavar çıkartma paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "gothic skeleton candle",
-     "label": "gotik iskelet mum"
-    },
-    {
-     "keyword": "spooky horror stickers",
-     "label": "korku temalı çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "BIFL Heritage Leathercraft",
-   "heat": "Zirvede",
-   "desc": "Hızlı modanın kalitesizliğine tepki olarak ömür boyu kullanılabilecek, zamansız, tamir edilebilir ve doğal patine alan deri ürünleri tercih etme hareketi.",
-   "why": "Reddit r/BuyItForLife topluluğunda el yapımı deri sırt çantası ve ucuz sentetik ürünlerden vazgeçme tartışmaları yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiselleştirilebilir, kalın mumlu iplikle dikilmiş el yapımı hakiki deri kartlık veya minimalist sırt çantası.",
-   "product_keywords": [
-    {
-     "keyword": "handcrafted leather backpack",
-     "label": "el yapımı deri sırt çantası"
-    },
-    {
-     "keyword": "full grain leather cardholder",
-     "label": "hakiki deri kartlık"
-    }
-   ]
-  },
-  {
-   "name": "ModCloth Quirky Retro Revival",
-   "heat": "Yeni çıktı",
-   "desc": "2010'ların başındaki neşeli, vintage esintili, Peter Pan yakalı ve retro figürlü 'indie/twee' tarzının geri dönüşü.",
-   "why": "Reddit r/femalefashionadvice'ta Modcloth estetiğinin ve nostaljik vintage-indie parçaların yeniden canlanması trend olarak tartışılıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Retro emaye yaka iğneleri, vintage illüstrasyonlu bez çantalar ve çıkartılabilir Peter Pan yaka aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "detachable peter pan collar",
-     "label": "takıp çıkarılabilir bebe yaka"
-    },
-    {
-     "keyword": "vintage enamel collar pin",
-     "label": "vintage emaye yaka iğnesi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-15T12:18+00:00",
+ "trends_updated_at": "2026-10-15T15:21+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -349,20 +281,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-15T12:18+00:00"
+ "generated_at": "2026-10-15T15:21+00:00"
 }

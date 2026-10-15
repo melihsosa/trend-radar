@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#hurricaneisaias",
+   "name": "DIY Waxed Canvas & Jacket Customization",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "desc": "Kullanıcıların uygun fiyatlı iş ceketlerini veya kanvas giysilerini evde özel wax kalıplarıyla mumlayarak vintage, su geçirmez outdoor parçalara dönüştürme akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda Costco ceketlerinin balmumu ile modifiye edilme süreci büyük ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Doğal balmumu ve yağ karışımından oluşan DIY ceket ve çanta mumlama kalıbı (fabric wax bar).",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar",
+     "label": "kumaş cilalama mumu"
+    },
+    {
+     "keyword": "diy waxed canvas kit",
+     "label": "kendin yap mumlu kanvas seti"
+    }
+   ]
   },
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Marvel Rivals Hero Aesthetic",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni Marvel Rivals oyununun yarattığı heyecanla birlikte oyuncular arasında popülerleşen süper kahraman temalı masa üstü ve oyun odası estetiği.",
+   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi hızla yükselerek 3. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Marvel Rivals kahramanlarının renk paletlerine ve sembollerine uygun özel tasarım artisan mekanik klavye tuşları (keycap",
+   "product_keywords": [
+    {
+     "keyword": "artisan keycaps",
+     "label": "özel mekanik klavye tuşu"
+    },
+    {
+     "keyword": "gaming desk mat",
+     "label": "oyuncu masa matı"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
+   "name": "Ironic Gym 'Reporting for Duty' Movement",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Spor salonu kıyafetlerine yönelik eleştirilere tepki olarak doğan, kadınların spor yapma özgürlüğünü mizahla birleştiren ironik fitness söylemi.",
+   "why": "Reddit r/popculturechat üzerinde Ego Nwodim'in 'Whore Reporting for Duty' paylaşımı ve spor giyim tartışmaları trend oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik spor salonu esprileri ve 'Reporting for Duty' tipografisi içeren kanvas spor çantaları veya oversized antrenman t",
+   "product_keywords": [
+    {
+     "keyword": "funny gym tote bag",
+     "label": "esprili spor salonu bez çantası"
+    },
+    {
+     "keyword": "feminist gym shirt",
+     "label": "feminist fitness tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "Peter Griffin Core",
+   "heat": "Yeni çıktı",
+   "desc": "Popüler kültür ikonu Peter Griffin'in ikonik yeşil pantolon ve beyaz gömlek stilini ironik sokak modasına uyarlayan yeni nesil dadcore akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' kombini viral bir stil tartışması başlattı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik Peter Griffin nakışlı dad-hat şapkalar ve minimalist illüstrasyonlu vintage yıkamalı tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "dadcore embroidered hat",
+     "label": "dadcore işlemeli şapka"
+    },
+    {
+     "keyword": "ironic cartoon graphic tee",
+     "label": "ironik çizgi film grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Indie & Analog Horror Creator Contest",
+   "heat": "Hızla yükseliyor",
+   "desc": "TikTok'taki yarışmayla ivme kazanan, kısa korku hikayeleri ve rahatsız edici görsel sanatlar üreten gençlerin yarattığı karanlık kurgu estetiği.",
+   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketi 2. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Analog korku ve karanlık estetik çizimler barındıran posterler ve gotik temalı emaye rozet setleri.",
+   "product_keywords": [
+    {
+     "keyword": "horror aesthetic stickers",
+     "label": "korku temalı çıkartma"
+    },
+    {
+     "keyword": "dark art print",
+     "label": "karanlık illüstrasyon baskı"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal Puzzle Books",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik bulmacaları görsel bir ödüle dönüştüren, kelimeler bulundukça arka planda gizli piksel hayvan veya figür illüstrasyonları ortaya çıkaran interaktif bulmaca konsepti.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Malinia: Picture-Reveal Word Search' ürünü viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Etsy üzerinden indirilebilir ve yazdırılabilir (printable) gizemli resim ortaya çıkaran tematik bulmaca kitapçıkları.",
+   "product_keywords": [
+    {
+     "keyword": "printable word search puzzle",
+     "label": "yazdırılabilir kelime bulmacası"
+    },
+    {
+     "keyword": "mystery reveal puzzle book",
+     "label": "gizemli resim bulmaca kitabı"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-15T15:21+00:00",
+ "trends_updated_at": "2026-10-15T18:17+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -288,13 +375,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-15T15:21+00:00"
+ "generated_at": "2026-10-15T18:17+00:00"
 }

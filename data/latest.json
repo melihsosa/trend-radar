@@ -3,134 +3,54 @@
  "sample": false,
  "trends": [
   {
-   "name": "Bright & Statement Tights",
+   "name": "Bright Tights Estetiği",
    "heat": "Hızla yükseliyor",
-   "desc": "Klasik siyah külotlu çorapların yerini alan, cesur renk ve desenlerle kombinin merkezine oturan çorap akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda renkli ve dikkat çekici külotlu çorap ilham albümleri yoğun ilgi görüyor.",
+   "desc": "Geleneksel siyah ve ten rengi çoraplar yerine kıyafetin odak noktası haline gelen canlı ve parlak renkli külotlu çorap kombini trendi.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığıyla popülerleşti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Canlı renk geçişli (ombré), elle boyanmış veya özel illüstrasyon baskılı külotlu çoraplar.",
+   "idea": "Canlı renklerde (kobalt mavisi, zümrüt yeşili, fuşya) el boyaması veya batik desenli opak külotlu çorap setleri.",
    "product_keywords": [
     {
-     "keyword": "colorful tights",
-     "label": "renkli külotlu çorap"
+     "keyword": "bright colored tights",
+     "label": "renkli opak külotlu çorap"
     },
     {
-     "keyword": "patterned tights",
-     "label": "desenli külotlu çorap"
+     "keyword": "colorful opaque tights",
+     "label": "canlı külotlu çorap"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Oyun Aksesuarları",
-   "heat": "Hızla yükseliyor",
-   "desc": "Marvel Rivals oyununun çıkışıyla oyuncu ve gençlik kitlesinde hızla yayılan takım ve süper kahraman temalı hayran kültürü.",
-   "why": "TikTok Creative Center'da #marvelrivalsavengers etiketi 2. sıraya yükselerek viral oldu.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Marvel Rivals karakterlerinden ilham alan özel tasarım klavye tuş başlıkları (keycaps) ve masa matları.",
-   "product_keywords": [
-    {
-     "keyword": "custom keycaps",
-     "label": "özel tasarım tuş başlığı"
-    },
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    }
-   ]
-  },
-  {
-   "name": "Western Formal Estetiği",
+   "name": "Western Formal (Modern Kovboy Şıklığı)",
    "heat": "Yükseliyor",
-   "desc": "Kovboy ve vahşi batı unsurlarını (bolo kravatlar, metal yaka uçları, işlemeler) resmi davet kıyafetleriyle harmanlayan hibrit stil.",
-   "why": "Reddit r/femalefashionadvice'ta resmi galalar ve davetler için Western Formal konsepti tartışılıyor.",
+   "desc": "Kovboy/western detaylarının resmi davet, gala ve akşam şıklığı giyimiyle cinsiyetsiz biçimde harmanlanması akımı.",
+   "why": "Reddit r/femalefashionadvice'da gala ve resmi davetler için 'Western Formal' tarzı harmanlama tartışması öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı doğal taşlı bolo kravatlar ve oymalı metal kovboy gömlek yaka uçları.",
+   "idea": "Gala ve takım elbiseler için doğal taşlı, el yapımı gümüş veya pirinç işlemeli lüks bolo kravatlar.",
    "product_keywords": [
     {
-     "keyword": "bolo tie",
-     "label": "bolo kravat"
+     "keyword": "western bolo tie",
+     "label": "western bolo kravat"
     },
     {
-     "keyword": "western collar tips",
-     "label": "kovboy gömlek yaka ucu"
+     "keyword": "formal cowboy accessories",
+     "label": "kovboy tarzı resmi aksesuarlar"
     }
    ]
   },
   {
-   "name": "Picture-Reveal Bulmaca Kitapları",
-   "heat": "Yeni çıktı",
-   "desc": "Kelime avı yapıldıkça boşlukların veya çizgilerin bir piksel görsel/illüstrasyon ortaya çıkardığı yenilikçi hobi ve aktivite kitapları.",
-   "why": "Reddit r/shutupandtakemymoney üzerinde görsel ortaya çıkaran kelime avı bulmaca kitabı öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Çözüldükçe hayvan veya nostaljik figürler ortaya çıkaran yazdırılabilir (PDF) veya fiziksel tematik kelime avı defteri.",
-   "product_keywords": [
-    {
-     "keyword": "picture reveal puzzle book",
-     "label": "görsel çıkaran bulmaca kitabı"
-    },
-    {
-     "keyword": "printable word search",
-     "label": "yazdırılabilir kelime bulmacası"
-    }
-   ]
-  },
-  {
-   "name": "Modcloth Tarzı Retro Canlanışı",
+   "name": "BIFL Zanaatkar Deri Çantalar",
    "heat": "Yükseliyor",
-   "desc": "1950'ler ve vintage esintili eğlenceli desenler, Peter Pan yakalar ve A-kesim silüetlerin yeniden popülerleşmesi.",
-   "why": "Reddit r/femalefashionadvice'ta Modcloth estetiğinin ve retro tarzın geri dönüşü sorgulanıp ilgi görüyor.",
+   "desc": "Hızlı modanın ucuz ve dayanıksız ürünlerine tepki olarak ortaya çıkan, ömür boyu kullanıma uygun el yapımı kaliteli deri ürün arayışı.",
+   "why": "Reddit r/BuyItForLife topluluğunda ömür boyu saklanacak el yapımı deri sırt çantası ve ucuz ürün almayı bırakma paylaşımları dikkat çekti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı retro desenli takılıp çıkarılabilir Peter Pan yakalar ve vintage kesim kloş etekler.",
-   "product_keywords": [
-    {
-     "keyword": "detachable peter pan collar",
-     "label": "takıp çıkarılabilir bebe yaka"
-    },
-    {
-     "keyword": "retro a line skirt",
-     "label": "retro A kesim etek"
-    }
-   ]
-  },
-  {
-   "name": "Korku ve Ürkütücü DIY Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Kısa formatlı korku içerikleriyle beslenen, gotik ve ürpertici el yapımı objelere odaklanan karanlık yaratıcı trend.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi en çok izlenen ve üretilen akımlar arasına girdi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "El yapımı gotik reçine figürler, korku temalı illüstrasyon çıkartma paketleri ve karanlıkta parlayan takılar.",
-   "product_keywords": [
-    {
-     "keyword": "horror stickers",
-     "label": "korku temalı çıkartma paketi"
-    },
-    {
-     "keyword": "spooky resin art",
-     "label": "gotik reçine biblo"
-    }
-   ]
-  },
-  {
-   "name": "Ömürlük El Yapımı Deri Çantalar",
-   "heat": "Zirvede",
-   "desc": "Hızlı modadan kaçıp bir ömür kullanılabilecek, zamansız ve kaliteli el işçiliği deri aksesuarlara yönelen bilinçli tüketim akımı.",
-   "why": "Reddit r/BuyItForLife topluluğunda nesiller boyu saklanabilecek el yapımı deri sırt çantaları büyük beğeni topladı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiselleştirilebilir, kalın hakiki deriden elde dikilmiş minimalist sırt çantaları ve cüzdanlar.",
+   "idea": "Kişiselleştirilebilir isim/baş harf baskılı, kalın mumlu iplik dikişli el yapımı hakiki deri sırt çantası.",
    "product_keywords": [
     {
      "keyword": "handcrafted leather backpack",
@@ -138,12 +58,72 @@
     },
     {
      "keyword": "full grain leather bag",
-     "label": "hakiki deri çanta"
+     "label": "hakiki deri sırt çantası"
+    }
+   ]
+  },
+  {
+   "name": "Grown-Up Rave (Sofistike Festival Modası)",
+   "heat": "Yeni çıktı",
+   "desc": "Aşırı neon ve ucuz festival kıyafetleri yerine daha olgun, kaliteli ve şık rave kombinleri arayan kitlenin giyim tarzı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda yetişkinlerin rave etkinliklerinde ne giyeceğine dair güçlü bir talep ve tartışma görüldü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Karanlıkta parlayan veya reflektif kumaştan üretilmiş şık kimono, yelek ve fonksiyonel minimalist festival göğüs çantala",
+   "product_keywords": [
+    {
+     "keyword": "sophisticated rave wear",
+     "label": "şık festival rave giyim"
+    },
+    {
+     "keyword": "reflective festival kimono",
+     "label": "reflektif festival kimonosu"
+    }
+   ]
+  },
+  {
+   "name": "Horror Creator Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sosyal medyada korku hikayeleri ve ürpertici konseptler üreten içerik üreticilerinin yaydığı gotik ve karanlık tasarım trendi.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' etiketi ilk sıralara yerleşerek yoğun etkileşim aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "El yapımı gotik ve korku temalı reçine küpeler, minyatür kuru kafa/yaratık figürlü takılar ve oda dekorasyonu mumluklar.",
+   "product_keywords": [
+    {
+     "keyword": "horror gothic earrings",
+     "label": "gotik korku küpesi"
+    },
+    {
+     "keyword": "spooky handmade jewelry",
+     "label": "korku temalı el yapımı takı"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Oyuncu Aksesuarları",
+   "heat": "Zirvede",
+   "desc": "Marvel temalı yeni nesil nişancı oyununun yarattığı heyecanla süper kahraman estetiğinin oyuncu ekipmanlarına yansıması.",
+   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' etiketi 2. sırada yer alarak viral oldu.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Süper kahraman sembolleri taşıyan el yapımı reçine artisan mekanik klavye tuşları (keycap) ve özel illüstrasyonlu masa m",
+   "product_keywords": [
+    {
+     "keyword": "superhero artisan keycap",
+     "label": "süper kahraman artisan tuş başlığı"
+    },
+    {
+     "keyword": "custom gaming desk mat",
+     "label": "özel tasarım oyuncu masa pedi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-14T21:17+00:00",
+ "trends_updated_at": "2026-10-15T00:11+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -273,7 +253,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -281,12 +261,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-14T21:17+00:00"
+ "generated_at": "2026-10-15T00:11+00:00"
 }

@@ -3,127 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "DIY Waxed Canvas & Jacket Customization",
+   "name": "Statement & Colorful Tights",
    "heat": "Yükseliyor",
-   "desc": "Kullanıcıların uygun fiyatlı iş ceketlerini veya kanvas giysilerini evde özel wax kalıplarıyla mumlayarak vintage, su geçirmez outdoor parçalara dönüştürme akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda Costco ceketlerinin balmumu ile modifiye edilme süreci büyük ilgi gördü.",
+   "desc": "Sonbahar-kış kombinlerinde klasik opak çoraplar yerine canlı renkli, desenli veya degrade 'statement' külotlu çorapların odak noktası haline gelmesi.",
+   "why": "Reddit femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığıyla popülerleştiği görülüyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Doğal balmumu ve yağ karışımından oluşan DIY ceket ve çanta mumlama kalıbı (fabric wax bar).",
+   "idea": "El boyaması degrade veya cesur retro renklerde (hardal, kobalt mavisi, bordo) külotlu çoraplar.",
    "product_keywords": [
     {
-     "keyword": "fabric wax bar",
-     "label": "kumaş cilalama mumu"
+     "keyword": "colorful tights",
+     "label": "renkli külotlu çorap"
     },
     {
-     "keyword": "diy waxed canvas kit",
-     "label": "kendin yap mumlu kanvas seti"
+     "keyword": "patterned statement tights",
+     "label": "desenli külotlu çorap"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Hero Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni Marvel Rivals oyununun yarattığı heyecanla birlikte oyuncular arasında popülerleşen süper kahraman temalı masa üstü ve oyun odası estetiği.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi hızla yükselerek 3. sıraya yerleşti.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Marvel Rivals kahramanlarının renk paletlerine ve sembollerine uygun özel tasarım artisan mekanik klavye tuşları (keycap",
-   "product_keywords": [
-    {
-     "keyword": "artisan keycaps",
-     "label": "özel mekanik klavye tuşu"
-    },
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    }
-   ]
-  },
-  {
-   "name": "Ironic Gym 'Reporting for Duty' Movement",
-   "heat": "Yükseliyor",
-   "desc": "Spor salonu kıyafetlerine yönelik eleştirilere tepki olarak doğan, kadınların spor yapma özgürlüğünü mizahla birleştiren ironik fitness söylemi.",
-   "why": "Reddit r/popculturechat üzerinde Ego Nwodim'in 'Whore Reporting for Duty' paylaşımı ve spor giyim tartışmaları trend oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İronik spor salonu esprileri ve 'Reporting for Duty' tipografisi içeren kanvas spor çantaları veya oversized antrenman t",
-   "product_keywords": [
-    {
-     "keyword": "funny gym tote bag",
-     "label": "esprili spor salonu bez çantası"
-    },
-    {
-     "keyword": "feminist gym shirt",
-     "label": "feminist fitness tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Peter Griffin Core",
+   "name": "Western Formal",
    "heat": "Yeni çıktı",
-   "desc": "Popüler kültür ikonu Peter Griffin'in ikonik yeşil pantolon ve beyaz gömlek stilini ironik sokak modasına uyarlayan yeni nesil dadcore akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' kombini viral bir stil tartışması başlattı.",
+   "desc": "Geleneksel kovboy/western giyim unsurlarının şık gece kıyafetleri ve davet konseptleriyle harmanlandığı hibrit giyim tarzı.",
+   "why": "Reddit femalefashionadvice altında 'Western Formal' gala tarzı ve dönem esintili giyim başlığıyla gündeme geldi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İronik Peter Griffin nakışlı dad-hat şapkalar ve minimalist illüstrasyonlu vintage yıkamalı tişörtler.",
+   "idea": "Özel taşlı pirinç/gümüş bolo kravatlar ve nakış işlemeli batı tarzı yaka iğneleri.",
    "product_keywords": [
     {
-     "keyword": "dadcore embroidered hat",
-     "label": "dadcore işlemeli şapka"
+     "keyword": "western bolo tie",
+     "label": "western bolo kravat"
     },
     {
-     "keyword": "ironic cartoon graphic tee",
-     "label": "ironik çizgi film grafik tişört"
+     "keyword": "vintage western collar pins",
+     "label": "kovboy yaka iğnesi"
     }
    ]
   },
   {
-   "name": "Indie & Analog Horror Creator Contest",
+   "name": "Spooky & Horror Creator Aesthetic",
    "heat": "Hızla yükseliyor",
-   "desc": "TikTok'taki yarışmayla ivme kazanan, kısa korku hikayeleri ve rahatsız edici görsel sanatlar üreten gençlerin yarattığı karanlık kurgu estetiği.",
-   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketi 2. sırada yer aldı.",
+   "desc": "Kullanıcıların korku içerikleri üretmesini ve gotik/korku dekorasyonunu günlük hayata taşımasını teşvik eden karanlık eğlence akımı.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' etiketinin üst sıralarda yer alması ve Reddit'te viral 12-foot iskelet paylaşımlarıyla destekleniyor.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "Analog korku ve karanlık estetik çizimler barındıran posterler ve gotik temalı emaye rozet setleri.",
+   "idea": "Korku temalı el yapımı minyatür iskelet heykelleri ve gotik masaüstü mumluklar.",
    "product_keywords": [
     {
-     "keyword": "horror aesthetic stickers",
-     "label": "korku temalı çıkartma"
+     "keyword": "gothic skeleton decor",
+     "label": "gotik iskelet dekor"
     },
     {
-     "keyword": "dark art print",
-     "label": "karanlık illüstrasyon baskı"
+     "keyword": "horror prop decor",
+     "label": "korku temalı dekor"
     }
    ]
   },
   {
-   "name": "Picture-Reveal Puzzle Books",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik bulmacaları görsel bir ödüle dönüştüren, kelimeler bulundukça arka planda gizli piksel hayvan veya figür illüstrasyonları ortaya çıkaran interaktif bulmaca konsepti.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Malinia: Picture-Reveal Word Search' ürünü viral oldu.",
+   "name": "Heirloom Handcrafted Leather",
+   "heat": "Zirvede",
+   "desc": "Hızlı modanın kalitesizliğine tepki olarak ömür boyu kullanılabilecek, nesilden nesile aktarılacak el yapımı kaliteli deri ürünlere yöneliş.",
+   "why": "Reddit BuyItForLife topluluğunda ömürlük 'handcrafted leather backpack' paylaşımının yoğun ilgi görmesiyle öne çıkıyor.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Etsy üzerinden indirilebilir ve yazdırılabilir (printable) gizemli resim ortaya çıkaran tematik bulmaca kitapçıkları.",
+   "idea": "Kişiye özel harf baskılı, kalın dikişli el yapımı hakiki deri sırt çantası veya minimalist cüzdan.",
    "product_keywords": [
     {
-     "keyword": "printable word search puzzle",
-     "label": "yazdırılabilir kelime bulmacası"
+     "keyword": "handcrafted leather backpack",
+     "label": "el yapımı deri sırt çantası"
     },
     {
-     "keyword": "mystery reveal puzzle book",
-     "label": "gizemli resim bulmaca kitabı"
+     "keyword": "full grain leather bag",
+     "label": "hakiki deri çanta"
+    }
+   ]
+  },
+  {
+   "name": "Retro Mod Resurgence",
+   "heat": "Yeni çıktı",
+   "desc": "2010'ların bağımsız vintage akımını ve 60'lar mod stilini nostaljik desenlerle geri getiren giyim ve aksesuar eğilimi.",
+   "why": "Reddit femalefashionadvice forumunda 'Is Modcloth having a resurgence?' tartışmasıyla dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "60'lar tarzı retro çiçek/geometrik desenli Peter Pan çıkarılabilir yakalar ve saç bantları.",
+   "product_keywords": [
+    {
+     "keyword": "detachable peter pan collar",
+     "label": "çıkarılabilir retro yaka"
+    },
+    {
+     "keyword": "retro vintage hair accessories",
+     "label": "vintage saç aksesuarı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-15T18:17+00:00",
+ "trends_updated_at": "2026-10-15T21:18+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -368,7 +349,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -376,12 +357,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-15T18:17+00:00"
+ "generated_at": "2026-10-15T21:18+00:00"
 }

@@ -3,108 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Statement & Colorful Tights",
+   "name": "DIY Waxed Heritage Wear",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar-kış kombinlerinde klasik opak çoraplar yerine canlı renkli, desenli veya degrade 'statement' külotlu çorapların odak noktası haline gelmesi.",
-   "why": "Reddit femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığıyla popülerleştiği görülüyor.",
+   "desc": "Uygun fiyatlı mont ve gömlekleri balmumu barlarıyla el yapımı rustik, su geçirmez 'waxed canvas' kıyafetlere dönüştürme akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda Costco gömlek ceketini evde mumlama projesi büyük ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El boyaması degrade veya cesur retro renklerde (hardal, kobalt mavisi, bordo) külotlu çoraplar.",
+   "idea": "Ceket ve kanvas çantaları evde mumlamak için doğal içerikli kumaş balmumu kalıbı ve DIY uygulama kiti.",
    "product_keywords": [
     {
-     "keyword": "colorful tights",
-     "label": "renkli külotlu çorap"
+     "keyword": "fabric waxing bar",
+     "label": "kumaş mumlama kalıbı"
     },
     {
-     "keyword": "patterned statement tights",
-     "label": "desenli külotlu çorap"
+     "keyword": "canvas wax kit",
+     "label": "kanvas mum bakım seti"
     }
    ]
   },
   {
-   "name": "Western Formal",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel kovboy/western giyim unsurlarının şık gece kıyafetleri ve davet konseptleriyle harmanlandığı hibrit giyim tarzı.",
-   "why": "Reddit femalefashionadvice altında 'Western Formal' gala tarzı ve dönem esintili giyim başlığıyla gündeme geldi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Özel taşlı pirinç/gümüş bolo kravatlar ve nakış işlemeli batı tarzı yaka iğneleri.",
-   "product_keywords": [
-    {
-     "keyword": "western bolo tie",
-     "label": "western bolo kravat"
-    },
-    {
-     "keyword": "vintage western collar pins",
-     "label": "kovboy yaka iğnesi"
-    }
-   ]
-  },
-  {
-   "name": "Spooky & Horror Creator Aesthetic",
+   "name": "Spooky & Analog Horror Aesthetic",
    "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların korku içerikleri üretmesini ve gotik/korku dekorasyonunu günlük hayata taşımasını teşvik eden karanlık eğlence akımı.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' etiketinin üst sıralarda yer alması ve Reddit'te viral 12-foot iskelet paylaşımlarıyla destekleniyor.",
+   "desc": "Gençlerin korku hikayelerine, retro korku temalarına ve tüyler ürpertici analog korku anlatılarına yönelmesi.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' öne çıkarken Google'da korku eğlencesi odaklı 'final destination' aramaları yükseldi.",
    "sources": [
     "TikTok",
-    "Reddit"
+    "Google"
    ],
-   "idea": "Korku temalı el yapımı minyatür iskelet heykelleri ve gotik masaüstü mumluklar.",
+   "idea": "Vintage analog korku temalı tişörtler, retro korku kurgusu posterleri ve ürkütücü illüstrasyon sticker paketleri.",
    "product_keywords": [
     {
-     "keyword": "gothic skeleton decor",
-     "label": "gotik iskelet dekor"
+     "keyword": "horror aesthetic shirt",
+     "label": "korku estetiği tişört"
     },
     {
-     "keyword": "horror prop decor",
-     "label": "korku temalı dekor"
+     "keyword": "creepy art print",
+     "label": "ürkütücü illüstrasyon poster"
     }
    ]
   },
   {
-   "name": "Heirloom Handcrafted Leather",
-   "heat": "Zirvede",
-   "desc": "Hızlı modanın kalitesizliğine tepki olarak ömür boyu kullanılabilecek, nesilden nesile aktarılacak el yapımı kaliteli deri ürünlere yöneliş.",
-   "why": "Reddit BuyItForLife topluluğunda ömürlük 'handcrafted leather backpack' paylaşımının yoğun ilgi görmesiyle öne çıkıyor.",
+   "name": "2014 Tumblr Era Nostalgia",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z'nin 2014 yılı indie-grunge internet estetiğine ve akıllı telefon/algoritma öncesi döneme duyduğu yoğun nostalji.",
+   "why": "Reddit r/GenZ üzerinde 2014'ten sonra hayatın değiştiğine dair açılan gönderi yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Kişiye özel harf baskılı, kalın dikişli el yapımı hakiki deri sırt çantası veya minimalist cüzdan.",
+   "idea": "2014 Tumblr indie alt-rock akımını andıran tipografik bez çantalar ve vintage filtre efektli grafik tişörtler.",
    "product_keywords": [
     {
-     "keyword": "handcrafted leather backpack",
-     "label": "el yapımı deri sırt çantası"
+     "keyword": "2014 tumblr aesthetic",
+     "label": "2014 tumblr estetiği ürünler"
     },
     {
-     "keyword": "full grain leather bag",
-     "label": "hakiki deri çanta"
+     "keyword": "indie grunge shirt",
+     "label": "indie grunge tişört"
     }
    ]
   },
   {
-   "name": "Retro Mod Resurgence",
+   "name": "Picture-Reveal Puzzle & Screen-Free Activity",
    "heat": "Yeni çıktı",
-   "desc": "2010'ların bağımsız vintage akımını ve 60'lar mod stilini nostaljik desenlerle geri getiren giyim ve aksesuar eğilimi.",
-   "why": "Reddit femalefashionadvice forumunda 'Is Modcloth having a resurgence?' tartışmasıyla dikkat çekiyor.",
+   "desc": "Klasik bulmacaları görsel sanatla birleştiren, çözüldükçe illüstrasyon ortaya çıkaran ekransız hobi ürünleri.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde kelime arama ile resim ortaya çıkaran bulmaca kitabı viral oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "60'lar tarzı retro çiçek/geometrik desenli Peter Pan çıkarılabilir yakalar ve saç bantları.",
+   "idea": "Yetişkinler ve gençler için dijital indirilebilir (veya baskı) resim ortaya çıkaran kelime avı bulmaca defteri.",
    "product_keywords": [
     {
-     "keyword": "detachable peter pan collar",
-     "label": "çıkarılabilir retro yaka"
+     "keyword": "picture reveal puzzle",
+     "label": "resim çıkaran bulmaca"
     },
     {
-     "keyword": "retro vintage hair accessories",
-     "label": "vintage saç aksesuarı"
+     "keyword": "word search puzzle book",
+     "label": "kelime avı bulmaca kitabı"
+    }
+   ]
+  },
+  {
+   "name": "Modern Dating Burnout Humor",
+   "heat": "Yükseliyor",
+   "desc": "Flört uygulamalarından ve modern tanışma kültüründen bıkan gençlerin ironik ve mizahi 'bekarlık' mottoları.",
+   "why": "Reddit r/GenZ üzerinde flört etmenin imkansızlaştığına dair tartışmalar zirveye ulaştı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Flört uygulamaları yorgunluğunu mizaha vuran nakışlı 'DATING IS IMPOSSIBLE' şapkalar ve esprili seramik kupalar.",
+   "product_keywords": [
+    {
+     "keyword": "anti dating app hat",
+     "label": "flört karşıtı esprili şapka"
+    },
+    {
+     "keyword": "funny dating mug",
+     "label": "mizahi kupa"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Hero Shooter Hype",
+   "heat": "Yükseliyor",
+   "desc": "Yeni nesil süper kahraman nişancı oyununun yarattığı karakter odaklı rekabetçi oyuncu kültürü.",
+   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en popüler trendler listesine girdi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Çizgi roman tarzı stilize karakter illüstrasyonlarına sahip büyük boy oyuncu mouse pad'leri ve masa matları.",
+   "product_keywords": [
+    {
+     "keyword": "gaming desk mat",
+     "label": "oyuncu masa matı"
+    },
+    {
+     "keyword": "superhero desk pad",
+     "label": "süper kahraman desk pad"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-15T21:18+00:00",
+ "trends_updated_at": "2026-10-16T00:09+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -349,7 +369,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 62
   },
   "Google": {
    "ok": true,
@@ -357,12 +377,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-15T21:18+00:00"
+ "generated_at": "2026-10-16T00:09+00:00"
 }

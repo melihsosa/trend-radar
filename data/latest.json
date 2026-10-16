@@ -3,7 +3,7 @@
  "sample": false,
  "trends": [
   {
-   "name": "#hurricaneisaias",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 1",
@@ -14,7 +14,7 @@
    "product_keywords": []
   },
   {
-   "name": "#tiktokscaryhorrorcontest",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 2",
@@ -25,7 +25,7 @@
    "product_keywords": []
   },
   {
-   "name": "#marvelrivalsavengers",
+   "name": "#hurricaneisaias",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 3",
@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-16T03:16+00:00",
+ "trends_updated_at": "2026-10-16T06:17+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -174,12 +174,12 @@
   },
   "Yapay zeka": {
    "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-16T04:58+00:00"
+ "generated_at": "2026-10-16T06:17+00:00"
 }

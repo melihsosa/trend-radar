@@ -3,128 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "DIY Waxed Heritage Wear",
+   "name": "#hurricaneisaias",
    "heat": "Yükseliyor",
-   "desc": "Uygun fiyatlı mont ve gömlekleri balmumu barlarıyla el yapımı rustik, su geçirmez 'waxed canvas' kıyafetlere dönüştürme akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda Costco gömlek ceketini evde mumlama projesi büyük ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ceket ve kanvas çantaları evde mumlamak için doğal içerikli kumaş balmumu kalıbı ve DIY uygulama kiti.",
-   "product_keywords": [
-    {
-     "keyword": "fabric waxing bar",
-     "label": "kumaş mumlama kalıbı"
-    },
-    {
-     "keyword": "canvas wax kit",
-     "label": "kanvas mum bakım seti"
-    }
-   ]
-  },
-  {
-   "name": "Spooky & Analog Horror Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin korku hikayelerine, retro korku temalarına ve tüyler ürpertici analog korku anlatılarına yönelmesi.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' öne çıkarken Google'da korku eğlencesi odaklı 'final destination' aramaları yükseldi.",
-   "sources": [
-    "TikTok",
-    "Google"
-   ],
-   "idea": "Vintage analog korku temalı tişörtler, retro korku kurgusu posterleri ve ürkütücü illüstrasyon sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "horror aesthetic shirt",
-     "label": "korku estetiği tişört"
-    },
-    {
-     "keyword": "creepy art print",
-     "label": "ürkütücü illüstrasyon poster"
-    }
-   ]
-  },
-  {
-   "name": "2014 Tumblr Era Nostalgia",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z'nin 2014 yılı indie-grunge internet estetiğine ve akıllı telefon/algoritma öncesi döneme duyduğu yoğun nostalji.",
-   "why": "Reddit r/GenZ üzerinde 2014'ten sonra hayatın değiştiğine dair açılan gönderi yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2014 Tumblr indie alt-rock akımını andıran tipografik bez çantalar ve vintage filtre efektli grafik tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "2014 tumblr aesthetic",
-     "label": "2014 tumblr estetiği ürünler"
-    },
-    {
-     "keyword": "indie grunge shirt",
-     "label": "indie grunge tişört"
-    }
-   ]
-  },
-  {
-   "name": "Picture-Reveal Puzzle & Screen-Free Activity",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik bulmacaları görsel sanatla birleştiren, çözüldükçe illüstrasyon ortaya çıkaran ekransız hobi ürünleri.",
-   "why": "Reddit r/shutupandtakemymoney üzerinde kelime arama ile resim ortaya çıkaran bulmaca kitabı viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Yetişkinler ve gençler için dijital indirilebilir (veya baskı) resim ortaya çıkaran kelime avı bulmaca defteri.",
-   "product_keywords": [
-    {
-     "keyword": "picture reveal puzzle",
-     "label": "resim çıkaran bulmaca"
-    },
-    {
-     "keyword": "word search puzzle book",
-     "label": "kelime avı bulmaca kitabı"
-    }
-   ]
-  },
-  {
-   "name": "Modern Dating Burnout Humor",
-   "heat": "Yükseliyor",
-   "desc": "Flört uygulamalarından ve modern tanışma kültüründen bıkan gençlerin ironik ve mizahi 'bekarlık' mottoları.",
-   "why": "Reddit r/GenZ üzerinde flört etmenin imkansızlaştığına dair tartışmalar zirveye ulaştı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Flört uygulamaları yorgunluğunu mizaha vuran nakışlı 'DATING IS IMPOSSIBLE' şapkalar ve esprili seramik kupalar.",
-   "product_keywords": [
-    {
-     "keyword": "anti dating app hat",
-     "label": "flört karşıtı esprili şapka"
-    },
-    {
-     "keyword": "funny dating mug",
-     "label": "mizahi kupa"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Hero Shooter Hype",
-   "heat": "Yükseliyor",
-   "desc": "Yeni nesil süper kahraman nişancı oyununun yarattığı karakter odaklı rekabetçi oyuncu kültürü.",
-   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en popüler trendler listesine girdi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Çizgi roman tarzı stilize karakter illüstrasyonlarına sahip büyük boy oyuncu mouse pad'leri ve masa matları.",
-   "product_keywords": [
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    },
-    {
-     "keyword": "superhero desk pad",
-     "label": "süper kahraman desk pad"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-16T00:09+00:00",
+ "trends_updated_at": "2026-10-16T03:16+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -376,13 +288,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-10-16T00:09+00:00"
+ "generated_at": "2026-10-16T03:16+00:00"
 }

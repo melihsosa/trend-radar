@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "DIY Fabric Waxing & Waxed Jacket Revival",
+   "heat": "Hızla yükseliyor",
+   "desc": "Uygun fiyatlı ceket ve montları balmumu çubuklarıyla evde waxlayarak rustik, vintage ve dayanıklı 'heritage' parçalara dönüştürme akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 25 dolarlık market ceketinin balmumu ile dönüştürülme süreci yoğun etkileşim aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Evde ceket ve kanvas çanta mumlamak için el yapımı doğal balmumu bakım kalıpları (fabric wax bar) ve uygulama kitleri.",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar",
+     "label": "kumaş balmumu kalıbı"
+    },
+    {
+     "keyword": "canvas waxing kit",
+     "label": "kanvas ceket mumlama kiti"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "İronik Gymwear & 'Whore Reporting for Duty' Mizahı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kadınların spor giyimine yönelik eleştirilere karşı SNL oyuncusu Ego Nwodim'in başlattığı, kadınların sahiplendiği ironik ve feminist antrenman mizahı.",
+   "why": "Reddit r/popculturechat'te Dan Levy ve Ego Nwodim'in spor kıyafeti açıklamaları haftanın en çok konuşulan konuları arasına girdi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "İronik tipografi baskılı oversize fitness tişörtleri, bez spor çantaları ve su matarası çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "funny gym tote bag",
+     "label": "mizahi bez spor çantası"
+    },
+    {
+     "keyword": "ironic workout shirt",
+     "label": "ironik antrenman tişörtü"
+    }
+   ]
   },
   {
-   "name": "#hurricaneisaias",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "TikTok Analog & Indie Horror Akımı",
+   "heat": "Zirvede",
+   "desc": "Genç içerik üreticilerinin kendi korku hikayelerini ve kısa korku filmlerini paylaştığı karanlık, tekinsiz analog korku trendi.",
+   "why": "TikTok Creative Center verilerinde #tiktokscaryhorrorcontest etiketi 1. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Korku ve analog horror temalı illüstrasyon çıkartma (sticker) setleri, karanlık estetikli baskılı tişörtler ve posterler",
+   "product_keywords": [
+    {
+     "keyword": "analog horror stickers",
+     "label": "korku temalı laptop çıkartması"
+    },
+    {
+     "keyword": "spooky aesthetic shirt",
+     "label": "karanlık estetik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Picture-Reveal (Görsel Ortaya Çıkaran) Kelime Bulmacaları",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kelime avı bulmacalarını çözerken taranan kelimelerin arkasında gizli bir piksel/çizim görseli açığa çıkaran yeni nesil interaktif aktivite formatı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan ve dinozor temalı görsel ortaya çıkaran bulmaca kitabı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yetişkinler ve gençler için dijital indirilebilir (printable PDF) tematik 'picture-reveal' kelime bulmaca sayfaları.",
+   "product_keywords": [
+    {
+     "keyword": "picture reveal word search",
+     "label": "görsel çıkaran kelime bulmacası"
+    },
+    {
+     "keyword": "printable puzzle book",
+     "label": "yazdırılabilir bulmaca kitabı"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Kahraman Nişancı Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Marvel evreninin rekabetçi takım nişancı oyununa uyarlanmasıyla yükselen renkli, çizgi roman tarzı kahraman gamer estetiği.",
+   "why": "TikTok trendlerinde #marvelrivalsavengers etiketi 2. sırada yer alarak oyuncu kitlesinin ilgisini topladı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Masaüstü oyun matları (desk mat), akrilik karakter anahtarlıkları ve şeffaf kulaklık/laptop süsleme stickerları.",
+   "product_keywords": [
+    {
+     "keyword": "gaming desk mat",
+     "label": "oyuncu masa matı"
+    },
+    {
+     "keyword": "acrylic hero keychain",
+     "label": "akrilik kahraman anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "2010'lar Nostaljisi & 'Basic Bastard' Minimalizmi",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z'nin 2014 öncesi internet ve yaşam tarzına duyduğu özlemle birlikte sade, gösterişsiz 2010'lar kapsül gardırop parçalarına dönüşü.",
+   "why": "Reddit r/GenZ'de 2014 nostaljisi tartışılırken r/malefashionadvice'da 2010'lar 'Basic Bastard' erkek giyim dönemi yeniden övüldü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist ve dayanıklı deri anahtarlıklar, 2010'lar Tumblr dönemi alıntılarını taşıyan retro dokulu tote bag'ler.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist leather keychain",
+     "label": "minimalist deri anahtarlık"
+    },
+    {
+     "keyword": "2010s vintage tote bag",
+     "label": "vintage bez çanta"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-16T06:17+00:00",
+ "trends_updated_at": "2026-10-16T09:20+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -173,13 +260,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-16T06:17+00:00"
+ "generated_at": "2026-10-16T09:20+00:00"
 }

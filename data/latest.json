@@ -3,40 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "12-Foot Skeleton Kültürü & Korku Dekoru",
+   "heat": "Zirvede",
+   "desc": "Viral dev 12-foot iskeletler etrafında şekillenen ve Cadılar Bayramı korku içerikleriyle pekişen devasa gotik ev/bahçe süsleme akımı.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest 1. sırada yer alırken Reddit'te 12-foot skeleton temalı gönderi viral oldu.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Büyük iskeletler için kişiselleştirilebilir dev kıyafet ve şapka setleri veya masa üstü minyatür iskelet heykelleri.",
+   "product_keywords": [
+    {
+     "keyword": "12 ft skeleton costume",
+     "label": "dev iskelet kıyafeti"
+    },
+    {
+     "keyword": "spooky skeleton decor",
+     "label": "korku temalı iskelet dekoru"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
+   "name": "Bright Statement Tights",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Kış ve sonbahar kombinlerinde bacakları odak noktası yapan, canlı ve kontrast renkli opak külotlu çorap akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda renkli çorap kombinleri için hazırlanan ilham albümü büyük etkileşim aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Kobalt mavisi, zümrüt yeşili ve hardal sarısı gibi iddialı tonlarda kalın mikrofiber opak külotlu çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "colorful opaque tights",
+     "label": "renkli opak külotlu çorap"
+    },
+    {
+     "keyword": "bright colored pantyhose",
+     "label": "canlı renkli külotlu çorap"
+    }
+   ]
   },
   {
-   "name": "#hurricaneisaias",
+   "name": "BIFL Handcrafted Bridle Leather",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Hızlı modaya tepki olarak doğan, on yıllar boyu dayanabilen ağır hizmet tipi kaliteli deri eşyaları sahiplenme hareketi.",
+   "why": "Reddit BuyItForLife topluluğunda el yapımı deri sırt çantaları ve İngiliz koşum derisi dayanıklılık testleri öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ömür boyu dayanıklı, kalın bitkisel tabaklanmış deriden üretilmiş el yapımı minimalist sırt çantası.",
+   "product_keywords": [
+    {
+     "keyword": "handcrafted leather backpack",
+     "label": "el yapımı deri sırt çantası"
+    },
+    {
+     "keyword": "english bridle leather bag",
+     "label": "dayanıklı deri çanta"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Gamer Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni nesil takım tabanlı süper kahraman nişancı oyununun tetiklediği tematik oyuncu odası ve masaüstü tasarım trendi.",
+   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi 2. sırada yer alarak hızlı bir yükseliş sergiledi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Süper kahraman renk paletlerine ve sembollerine sahip özel döküm artisan klavye tuşları (keycaps).",
+   "product_keywords": [
+    {
+     "keyword": "superhero artisan keycap",
+     "label": "özel tasarım klavye tuşu"
+    },
+    {
+     "keyword": "rivals gaming desk mat",
+     "label": "tematik oyuncu masa matı"
+    }
+   ]
+  },
+  {
+   "name": "ModCloth Tarzı Retro Indie Canlanması",
+   "heat": "Yeni çıktı",
+   "desc": "2010'ların başındaki nostaljik desenler, A-kesimler ve yakalı modellerle tanımlanan quirky vintage tarzının geri dönüşü.",
+   "why": "Reddit femalefashionadvice topluluğunda ModCloth tarzının ve vintage görünümlerin yeniden yükselişi tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geniş Peter Pan yakalı, retro çiçek desenli veya puantiyeli el yapımı vintage tarz elbise ve gömlekler.",
+   "product_keywords": [
+    {
+     "keyword": "peter pan collar dress",
+     "label": "peter pan yaka elbise"
+    },
+    {
+     "keyword": "vintage indie aesthetic dress",
+     "label": "vintage indie elbise"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-16T18:14+00:00",
+ "trends_updated_at": "2026-10-16T21:16+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -166,20 +234,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 62
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-16T18:14+00:00"
+ "generated_at": "2026-10-16T21:16+00:00"
 }

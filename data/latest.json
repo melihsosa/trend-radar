@@ -3,128 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Bright Tights Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sonbahar/kış kombinlerinde klasik nötr renkler yerine dikkat çekici, canlı renkli ve opak külotlu çorapların odak noktası haline geldiği stil akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığıyla viral bir ilham tartışması olarak yer aldı.",
+   "name": "Bright & Statement Tights",
+   "heat": "Yükseliyor",
+   "desc": "Kıyafet kombinlerinde sade veya koyu tonlar yerine canlı, parlak ve desenli külotlu çorapların odak noktası haline geldiği stil akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda renkli ve dikkat çekici külotlu çorap ilham albümünün öne çıkması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El boyaması degrade (ombré) veya canlı tonlarda yüksek kaliteli opak külotlu çoraplar ve stil kombin kılavuzları.",
+   "idea": "El boyaması desenli veya özel renk geçişli el yapımı opak külotlu çoraplar.",
    "product_keywords": [
     {
-     "keyword": "bright colored tights",
+     "keyword": "colorful tights",
      "label": "renkli külotlu çorap"
     },
     {
-     "keyword": "colorful opaque pantyhose",
-     "label": "opak renkli ince çorap"
+     "keyword": "patterned tights",
+     "label": "desenli külotlu çorap"
     }
    ]
   },
   {
-   "name": "12-Foot Giant Skeleton & Spooky Camp",
+   "name": "DIY Waxed Canvas & Upcycling",
+   "heat": "Yükseliyor",
+   "desc": "Uygun fiyatlı mont ve ceketlerin doğal balmumu kalıplarıyla evde su geçirmez ve vintage bir görünüme kavuşturulması hareketi.",
+   "why": "Reddit r/malefashionadvice'ta uygun fiyatlı ceketlerin evde mumlanarak dönüştürülmesi projesinin yoğun ilgi görmesi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kıyafet ve kanvas çantalar için ev tipi doğal balmumu bakım barları ve uygulama süngerleri.",
+   "product_keywords": [
+    {
+     "keyword": "fabric wax bar",
+     "label": "kumaş mumlama kalıbı"
+    },
+    {
+     "keyword": "waxed canvas kit",
+     "label": "kanvas bakım kiti"
+    }
+   ]
+  },
+  {
+   "name": "Giant Skeleton & Horror Lore",
    "heat": "Zirvede",
-   "desc": "Viral dev 12-foot iskelet çılgınlığı ve eğlenceli korku içerikleri etrafında dönen, mizahi gotik Cadılar Bayramı estetiği.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest 1. sıraya yükselirken, Reddit TikTokCringe'de çalınan dev iskelet haberi haftanın en çok konuşulanları arasına girdi.",
+   "desc": "Sosyal medyada viral olan dev 12-foot iskelet şakaları ve korku odaklı yarışmalarla beslenen gotik/korku mizahı akımı.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' etiketinin 1. sırada olması ve Reddit'te 12-foot iskelet hırsızlığı gönderisinin viral olması.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Dev iskelet parodisi içeren eğlenceli mini masa üstü bibloları, gotik ev aksesuarları ve esprili su matarası sticker'lar",
+   "idea": "12-foot iskelet esprisini taşıyan minyatür masaüstü iskelet bibloları veya gotik araba süsleri.",
    "product_keywords": [
     {
-     "keyword": "mini skeleton figurine",
-     "label": "minyatür iskelet biblo"
+     "keyword": "skeleton miniature",
+     "label": "iskelet masaüstü süsü"
     },
     {
-     "keyword": "funny skeleton sticker pack",
-     "label": "komik iskelet çıkartma paketi"
+     "keyword": "spooky desk decor",
+     "label": "korku temalı biblo"
     }
    ]
   },
   {
-   "name": "Picture-Reveal Word Search",
+   "name": "Picture-Reveal Puzzle Books",
    "heat": "Yeni çıktı",
-   "desc": "Klasik kelime arama bulmacalarını piksel sanatı ve çizim keşfiyle birleştiren interaktif 'çözdükçe resim ortaya çıkan' bulmaca trendi.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Malinia Vol. 1: 70 Picture-Reveal Word Search Puzzles' paylaşımı yoğun ilgi gördü.",
+   "desc": "Kelime arama bulmacası çözüldükçe gizli piksel çizimlerin veya hayvan illüstrasyonlarının ortaya çıktığı interaktif bulmaca konsepti.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde hayvan ve dinozor temalı görsel ortaya çıkaran bulmaca kitabının paylaşılması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Etsy üzerinden anında indirilebilir (printable PDF) tematik görsel ortaya çıkaran kelime avı bulmaca kitapçıkları.",
+   "idea": "Etsy üzerinden anında indirilebilir (printable PDF) gizli resim ortaya çıkaran tematik kelime bulmaca sayfaları.",
    "product_keywords": [
     {
      "keyword": "picture reveal puzzle book",
-     "label": "resim çıkaran bulmaca kitabı"
+     "label": "resim ortaya çıkaran bulmaca"
     },
     {
-     "keyword": "printable word search pdf",
-     "label": "yazdırılabilir kelime bulmacası"
+     "keyword": "printable word search",
+     "label": "yazdırılabilir bulmaca"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Hero Shooter Fandom",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil takım tabanlı süper kahraman oyunu Marvel Rivals etrafında hızla büyüyen genç oyuncu kültürü ve masaüstü estetiği.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi 2. sırada yer alarak yüksek etkileşim yakaladı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Oyundaki karakter sınıflarına ve yetenek simgelerine özel tasarlanmış mekanik klavye tuşları (keycaps) ve masa matları.",
-   "product_keywords": [
-    {
-     "keyword": "custom superhero keycap",
-     "label": "özel tasarım klavye tuşu"
-    },
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa örtüsü pedi"
-    }
-   ]
-  },
-  {
-   "name": "'High on Potenuse' Meme Revival",
-   "heat": "Yükseliyor",
-   "desc": "Sosyal medyadaki botlara karşı gençlerin toplu tepki olarak benimsediği kült 'I wish I were high on potenuse' espri akımı.",
-   "why": "Reddit r/OutOfTheLoop'ta bu GIF kalıbının bot yorumlarına karşı viral bir karşı harekete dönüşmesi haftanın trendi oldu.",
+   "name": "Peter Griffin Core",
+   "heat": "Yeni çıktı",
+   "desc": "Popüler animasyon karakteri Peter Griffin'in ikonik yeşil pantolon ve beyaz gömlek kombinasyonunun ironik sokak modasına taşınması.",
+   "why": "Reddit r/malefashionadvice'ta 'Peter Griffin core' tarzı günün kombini paylaşımının dikkat çekmesi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Akımın sözünü ve tipografisini taşıyan minimalist bez çantalar, şapkalar veya ironik masaüstü kahve kupaları.",
+   "idea": "İronik çizgi dizi renk paletlerini simgeleyen minimalist işlemeli yamalar veya emaye rozetler.",
    "product_keywords": [
     {
-     "keyword": "meme typography tote bag",
-     "label": "meme yazılı bez çanta"
+     "keyword": "meme enamel pin",
+     "label": "mizahi emaye rozet"
     },
     {
-     "keyword": "funny quote ceramic mug",
-     "label": "esprili seramik kupa"
-    }
-   ]
-  },
-  {
-   "name": "ModCloth / Retro Twee Resurgence",
-   "heat": "Yükseliyor",
-   "desc": "2010'ların vintage yakalı, nostaljik ve sıra dışı sevimli (indie twee) giyim ve aksesuar detaylarının geri dönüşü.",
-   "why": "Reddit r/femalefashionadvice topluluğunda 'Is Modcloth having a resurgence?' konusu kullanıcılar arasında geniş yankı buldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kıyafetlere eklenebilir işlemeli vintage Peter Pan yakalar ve retro esintili el yapımı emaye rozet setleri.",
-   "product_keywords": [
-    {
-     "keyword": "detachable peter pan collar",
-     "label": "çıkarılabilir peter pan yaka"
-    },
-    {
-     "keyword": "vintage indie enamel pin",
-     "label": "vintage tarzı emaye yaka iğnesi"
+     "keyword": "iron on embroidered patch",
+     "label": "ütüyle yapışan nakış yama"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-16T12:17+00:00",
+ "trends_updated_at": "2026-10-16T15:17+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -262,12 +242,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-16T12:17+00:00"
+ "generated_at": "2026-10-16T15:17+00:00"
 }

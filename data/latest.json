@@ -3,127 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "DIY Fabric Waxing & Waxed Jacket Revival",
+   "name": "Bright Tights Aesthetic",
    "heat": "Hızla yükseliyor",
-   "desc": "Uygun fiyatlı ceket ve montları balmumu çubuklarıyla evde waxlayarak rustik, vintage ve dayanıklı 'heritage' parçalara dönüştürme akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 25 dolarlık market ceketinin balmumu ile dönüştürülme süreci yoğun etkileşim aldı.",
+   "desc": "Sonbahar/kış kombinlerinde klasik nötr renkler yerine dikkat çekici, canlı renkli ve opak külotlu çorapların odak noktası haline geldiği stil akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığıyla viral bir ilham tartışması olarak yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Evde ceket ve kanvas çanta mumlamak için el yapımı doğal balmumu bakım kalıpları (fabric wax bar) ve uygulama kitleri.",
+   "idea": "El boyaması degrade (ombré) veya canlı tonlarda yüksek kaliteli opak külotlu çoraplar ve stil kombin kılavuzları.",
    "product_keywords": [
     {
-     "keyword": "fabric wax bar",
-     "label": "kumaş balmumu kalıbı"
+     "keyword": "bright colored tights",
+     "label": "renkli külotlu çorap"
     },
     {
-     "keyword": "canvas waxing kit",
-     "label": "kanvas ceket mumlama kiti"
+     "keyword": "colorful opaque pantyhose",
+     "label": "opak renkli ince çorap"
     }
    ]
   },
   {
-   "name": "İronik Gymwear & 'Whore Reporting for Duty' Mizahı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kadınların spor giyimine yönelik eleştirilere karşı SNL oyuncusu Ego Nwodim'in başlattığı, kadınların sahiplendiği ironik ve feminist antrenman mizahı.",
-   "why": "Reddit r/popculturechat'te Dan Levy ve Ego Nwodim'in spor kıyafeti açıklamaları haftanın en çok konuşulan konuları arasına girdi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İronik tipografi baskılı oversize fitness tişörtleri, bez spor çantaları ve su matarası çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "funny gym tote bag",
-     "label": "mizahi bez spor çantası"
-    },
-    {
-     "keyword": "ironic workout shirt",
-     "label": "ironik antrenman tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Analog & Indie Horror Akımı",
+   "name": "12-Foot Giant Skeleton & Spooky Camp",
    "heat": "Zirvede",
-   "desc": "Genç içerik üreticilerinin kendi korku hikayelerini ve kısa korku filmlerini paylaştığı karanlık, tekinsiz analog korku trendi.",
-   "why": "TikTok Creative Center verilerinde #tiktokscaryhorrorcontest etiketi 1. sıraya yerleşti.",
+   "desc": "Viral dev 12-foot iskelet çılgınlığı ve eğlenceli korku içerikleri etrafında dönen, mizahi gotik Cadılar Bayramı estetiği.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest 1. sıraya yükselirken, Reddit TikTokCringe'de çalınan dev iskelet haberi haftanın en çok konuşulanları arasına girdi.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "Korku ve analog horror temalı illüstrasyon çıkartma (sticker) setleri, karanlık estetikli baskılı tişörtler ve posterler",
+   "idea": "Dev iskelet parodisi içeren eğlenceli mini masa üstü bibloları, gotik ev aksesuarları ve esprili su matarası sticker'lar",
    "product_keywords": [
     {
-     "keyword": "analog horror stickers",
-     "label": "korku temalı laptop çıkartması"
+     "keyword": "mini skeleton figurine",
+     "label": "minyatür iskelet biblo"
     },
     {
-     "keyword": "spooky aesthetic shirt",
-     "label": "karanlık estetik tişört"
+     "keyword": "funny skeleton sticker pack",
+     "label": "komik iskelet çıkartma paketi"
     }
    ]
   },
   {
-   "name": "Picture-Reveal (Görsel Ortaya Çıkaran) Kelime Bulmacaları",
+   "name": "Picture-Reveal Word Search",
    "heat": "Yeni çıktı",
-   "desc": "Klasik kelime avı bulmacalarını çözerken taranan kelimelerin arkasında gizli bir piksel/çizim görseli açığa çıkaran yeni nesil interaktif aktivite formatı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda hayvan ve dinozor temalı görsel ortaya çıkaran bulmaca kitabı öne çıktı.",
+   "desc": "Klasik kelime arama bulmacalarını piksel sanatı ve çizim keşfiyle birleştiren interaktif 'çözdükçe resim ortaya çıkan' bulmaca trendi.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda 'Malinia Vol. 1: 70 Picture-Reveal Word Search Puzzles' paylaşımı yoğun ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yetişkinler ve gençler için dijital indirilebilir (printable PDF) tematik 'picture-reveal' kelime bulmaca sayfaları.",
+   "idea": "Etsy üzerinden anında indirilebilir (printable PDF) tematik görsel ortaya çıkaran kelime avı bulmaca kitapçıkları.",
    "product_keywords": [
     {
-     "keyword": "picture reveal word search",
-     "label": "görsel çıkaran kelime bulmacası"
+     "keyword": "picture reveal puzzle book",
+     "label": "resim çıkaran bulmaca kitabı"
     },
     {
-     "keyword": "printable puzzle book",
-     "label": "yazdırılabilir bulmaca kitabı"
+     "keyword": "printable word search pdf",
+     "label": "yazdırılabilir kelime bulmacası"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Kahraman Nişancı Estetiği",
+   "name": "Marvel Rivals Hero Shooter Fandom",
    "heat": "Hızla yükseliyor",
-   "desc": "Marvel evreninin rekabetçi takım nişancı oyununa uyarlanmasıyla yükselen renkli, çizgi roman tarzı kahraman gamer estetiği.",
-   "why": "TikTok trendlerinde #marvelrivalsavengers etiketi 2. sırada yer alarak oyuncu kitlesinin ilgisini topladı.",
+   "desc": "Yeni nesil takım tabanlı süper kahraman oyunu Marvel Rivals etrafında hızla büyüyen genç oyuncu kültürü ve masaüstü estetiği.",
+   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi 2. sırada yer alarak yüksek etkileşim yakaladı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Masaüstü oyun matları (desk mat), akrilik karakter anahtarlıkları ve şeffaf kulaklık/laptop süsleme stickerları.",
+   "idea": "Oyundaki karakter sınıflarına ve yetenek simgelerine özel tasarlanmış mekanik klavye tuşları (keycaps) ve masa matları.",
    "product_keywords": [
+    {
+     "keyword": "custom superhero keycap",
+     "label": "özel tasarım klavye tuşu"
+    },
     {
      "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    },
-    {
-     "keyword": "acrylic hero keychain",
-     "label": "akrilik kahraman anahtarlık"
+     "label": "oyuncu masa örtüsü pedi"
     }
    ]
   },
   {
-   "name": "2010'lar Nostaljisi & 'Basic Bastard' Minimalizmi",
+   "name": "'High on Potenuse' Meme Revival",
    "heat": "Yükseliyor",
-   "desc": "Gen Z'nin 2014 öncesi internet ve yaşam tarzına duyduğu özlemle birlikte sade, gösterişsiz 2010'lar kapsül gardırop parçalarına dönüşü.",
-   "why": "Reddit r/GenZ'de 2014 nostaljisi tartışılırken r/malefashionadvice'da 2010'lar 'Basic Bastard' erkek giyim dönemi yeniden övüldü.",
+   "desc": "Sosyal medyadaki botlara karşı gençlerin toplu tepki olarak benimsediği kült 'I wish I were high on potenuse' espri akımı.",
+   "why": "Reddit r/OutOfTheLoop'ta bu GIF kalıbının bot yorumlarına karşı viral bir karşı harekete dönüşmesi haftanın trendi oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Minimalist ve dayanıklı deri anahtarlıklar, 2010'lar Tumblr dönemi alıntılarını taşıyan retro dokulu tote bag'ler.",
+   "idea": "Akımın sözünü ve tipografisini taşıyan minimalist bez çantalar, şapkalar veya ironik masaüstü kahve kupaları.",
    "product_keywords": [
     {
-     "keyword": "minimalist leather keychain",
-     "label": "minimalist deri anahtarlık"
+     "keyword": "meme typography tote bag",
+     "label": "meme yazılı bez çanta"
     },
     {
-     "keyword": "2010s vintage tote bag",
-     "label": "vintage bez çanta"
+     "keyword": "funny quote ceramic mug",
+     "label": "esprili seramik kupa"
+    }
+   ]
+  },
+  {
+   "name": "ModCloth / Retro Twee Resurgence",
+   "heat": "Yükseliyor",
+   "desc": "2010'ların vintage yakalı, nostaljik ve sıra dışı sevimli (indie twee) giyim ve aksesuar detaylarının geri dönüşü.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'Is Modcloth having a resurgence?' konusu kullanıcılar arasında geniş yankı buldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kıyafetlere eklenebilir işlemeli vintage Peter Pan yakalar ve retro esintili el yapımı emaye rozet setleri.",
+   "product_keywords": [
+    {
+     "keyword": "detachable peter pan collar",
+     "label": "çıkarılabilir peter pan yaka"
+    },
+    {
+     "keyword": "vintage indie enamel pin",
+     "label": "vintage tarzı emaye yaka iğnesi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-16T09:20+00:00",
+ "trends_updated_at": "2026-10-16T12:17+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -268,5 +269,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-10-16T09:20+00:00"
+ "generated_at": "2026-10-16T12:17+00:00"
 }

@@ -3,40 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "12-Foot Skeleton & Horror Hype",
+   "heat": "Zirvede",
+   "desc": "Cadılar Bayramı döneminde viral olan 12-foot dev iskelet çılgınlığı ve korku temalı içerik üretimi etrafında gelişen ironik/gotik bir kültürel trend.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken, Reddit'te 12-foot Home Depot iskeletlerinin çalınması ve drone ile takip edilmesi en çok konuşulan konulardan biri oldu.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "12-foot iskelet mizahını taşıyan sticker paketleri, minyatür 3D baskı iskelet bibloları ve retro korku grafikli tişörtle",
+   "product_keywords": [
+    {
+     "keyword": "12 foot skeleton sticker",
+     "label": "12 foot iskelet çıkartması"
+    },
+    {
+     "keyword": "miniature skeleton figurine",
+     "label": "minyatür iskelet biblo"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Bright Tights (Renkli Çorap Estetiği)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Genç kadın modasında klasik nötr tonların yerini alan, sonbahar/kış kıyafetlerine zıtlık ve canlılık katan renkli ve desenli opak külotlu çorap trendi.",
+   "why": "Reddit femalefashionadvice topluluğunda 'Bright (and not so bright) Tights: An Inspo Album' başlığı haftanın en popüler ilham konuları arasına girdi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Etsy için özel boyama veya retro desenli opak renkli külotlu çorap setleri ve bunları tamamlayan çorap aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "bright colorful tights",
+     "label": "renkli opak külotlu çorap"
+    },
+    {
+     "keyword": "vintage patterned tights",
+     "label": "vintage desenli külotlu çorap"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Peter Griffin Core",
+   "heat": "Yeni çıktı",
+   "desc": "Karakterin ikonik beyaz gömlek, yeşil pantolon ve yuvarlak gözlük stilinin Z kuşağı ve genç erkekler tarafından ironik bir sokak modası stiline dönüştürülmesi.",
+   "why": "Reddit malefashionadvice topluluğunda bir kullanıcının 'OOTD. Serving high-key Peter Griffin core' paylaşımı yoğun etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik 'Peter Griffin Core' tipografili kanvas bez çantalar, yeşil-beyaz renk paletli nakış işlemeli şapkalar veya meme ",
+   "product_keywords": [
+    {
+     "keyword": "peter griffin tote bag",
+     "label": "peter griffin bez çanta"
+    },
+    {
+     "keyword": "cartoon core embroidered hat",
+     "label": "nakışlı çizgi dizi şapkası"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Hero Shooter Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Marvel Rivals oyununun yükselişiyle Marvel süper kahramanlarının stilize oyun versiyonlarına yönelik gelişen yeni nesil oyuncu ve cosplay akımı.",
+   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' etiketi haftanın en popüler 2. etiketi olarak öne çıkıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Marvel Rivals karakter estetiğine uygun özel yapım mekanik klavye tuşları (artisan keycaps) ve oyun masası mousepad'leri",
+   "product_keywords": [
+    {
+     "keyword": "superhero artisan keycap",
+     "label": "süper kahraman artisan klavye tuşu"
+    },
+    {
+     "keyword": "custom gaming desk mat",
+     "label": "özel tasarım oyuncu masa matı"
+    }
+   ]
+  },
+  {
+   "name": "Nightsister & Dark Force Mistisizmi",
+   "heat": "Yükseliyor",
+   "desc": "Ahsoka 2. sezon duyurusuyla canlanan, Dathomir cadıları ve Star Wars evreninin karanlık mistik sembolizmine dayanan gotik fantezi estetiği.",
+   "why": "Google Arama trendlerinde 'star wars ahsoka season 2' araması hızla yükselirken haberlerde Nightsisters mitolojisinin öne çıkacağı vurgulanıyor.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Nightsister sembolleriyle tasarlanmış mistik cadı temalı kolyeler, gotik Force rün işlemeli deri defterler ve karanlık f",
+   "product_keywords": [
+    {
+     "keyword": "nightsister pendant necklace",
+     "label": "nightsister kolye ucu"
+    },
+    {
+     "keyword": "dathomir witch art print",
+     "label": "dathomir temalı sanat baskısı"
+    }
+   ]
+  },
+  {
+   "name": "2010s 'Basic Bastard' Menswear Rönesansı",
+   "heat": "Yükseliyor",
+   "desc": "Aşırı karmaşık sokak modasından bıkıp 2010'ların temiz, zamansız, ham denim ve kaliteli sade temellerine (capsule wardrobe) dönmeyi amaçlayan erkek giyim akımı.",
+   "why": "Reddit malefashionadvice topluluğunda 'Appreciation for the 2010's Basic Bastard Era of Mens Fashion' konusu nostalji ve yoğun ilgiyle karşılandı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sade gardırobu tamamlayan el yapımı minimalist deri cüzdanlar, ham deri kemerler ve pirinç anahtarlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist leather wallet",
+     "label": "minimalist deri cüzdan"
+    },
+    {
+     "keyword": "handmade brass keychain",
+     "label": "el yapımı pirinç anahtarlık"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-17T18:08+00:00",
+ "trends_updated_at": "2026-10-17T21:11+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -403,13 +491,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-17T18:08+00:00"
+ "generated_at": "2026-10-17T21:11+00:00"
 }

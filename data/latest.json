@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Peter Griffin Core",
-   "heat": "Yeni çıktı",
-   "desc": "Gen Z ve moda topluluklarında popüler çizgi karakter Peter Griffin'in ikonik giyim tarzını (beyaz gömlek, yeşil pantolon, yuvarlak kemik gözlük) mizahi bir normcore stiline dönüştüren ironik giyim akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' paylaşımı ile öne çıkmıştır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İronik 'Peter Griffin Core' minimalist tipografik tişörtler, retro yeşil kanvas tote çantalar veya yeşil chino pantolon ",
-   "product_keywords": [
-    {
-     "keyword": "normcore graphic tee",
-     "label": "normcore grafik tişört"
-    },
-    {
-     "keyword": "olive green tote bag",
-     "label": "haki yeşil bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Marvel evreninin yeni PvP oyunu Marvel Rivals etrafında toplanan oyuncu topluluğunun benimsediği süper kahraman ve fütüristik oyun estetiği.",
-   "why": "TikTok'ta #marvelrivalsavengers etiketi en popüler 2. trend hashtag olarak yer almıştır.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Özel tasarım süper kahraman temalı masaüstü oyuncu matları (desk mat) ve mekanik klavye tuş kapakları (keycaps).",
-   "product_keywords": [
-    {
-     "keyword": "custom gaming desk mat",
-     "label": "özel oyuncu masa matı"
-    },
-    {
-     "keyword": "superhero keycaps",
-     "label": "süper kahraman klavye tuş takımı"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Scary Horror Contest Akımı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların kendi yaptıkları kısa korku hikayelerini, analog korku öğelerini ve ürpertici dekorları sergilediği viral korku trendi.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yükselerek viral olmuştur.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Analog korku (analog horror) temalı retro poster baskıları, karanlık gotik sticker paketleri veya korku temalı el yapımı",
-   "product_keywords": [
-    {
-     "keyword": "analog horror poster",
-     "label": "analog korku posteri"
-    },
-    {
-     "keyword": "gothic horror stickers",
-     "label": "gotik korku çıkartmaları"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Basic Bastard / Nostalji Modası",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
-   "desc": "Gençlerin 2010'lu yılların başındaki sade, zamansız erkek gardırobuna (oxford gömlekler, ham denim, minimalist renk paleti) duyduğu nostaljik dönüş.",
-   "why": "Reddit'te r/GenZ alt dizininde 2009-2010 nostaljisi ve r/malefashionadvice'ta '2010's Basic Bastard Era' övgüsü eş zamanlı gündeme gelmiştir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar estetiğine uygun minimalist kapsül gardırop kontrol listesi içeren dijital planlayıcılar ve zamansız kanvas aks",
-   "product_keywords": [
-    {
-     "keyword": "capsule wardrobe planner",
-     "label": "kapsül gardırop planlayıcı"
-    },
-    {
-     "keyword": "raw denim pouch",
-     "label": "ham denim aksesuar çantası"
-    }
-   ]
-  },
-  {
-   "name": "Live Can Be Easy (Zahmetsiz Yaşam)",
-   "heat": "Yükseliyor",
-   "desc": "Gereksiz tüketim ve karmaşık günlük rutinlerden uzaklaşıp, pratik çözümler ve sadeliği yücelten çabasız yaşam felsefesi.",
-   "why": "TikTok'ta #livecanbeeasy etiketi 3. sıraya yükselmiştir.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Minimalist 'Keep It Easy' tipografik kupalar, çabasız yaşam mottolu keten çantalar ve sadeleştirilmiş haftalık masaüstü ",
-   "product_keywords": [
-    {
-     "keyword": "minimalist weekly notepad",
-     "label": "minimalist haftalık bloknot"
-    },
-    {
-     "keyword": "aesthetic linen tote",
-     "label": "estetik keten bez çanta"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "High on Potenuse Meme Resurgence",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik 'High on Potenuse' komedi skecinin, sosyal medyada yapay zeka ve spam botlarına ironik yanıt vermek amacıyla yeniden canlanması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı bu gif/alıntının yaygınlaşması tartışılmıştır.",
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "'I Wish I Were High on Potenuse' baskılı mizahi matematik ve meme kupaları, laptop sticker'ları.",
-   "product_keywords": [
-    {
-     "keyword": "math meme mug",
-     "label": "matematik meme kupası"
-    },
-    {
-     "keyword": "funny quote sticker",
-     "label": "komik alıntılı çıkartma"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#livecanbeeasy",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-17T15:11+00:00",
+ "trends_updated_at": "2026-10-17T18:08+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -490,13 +403,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-17T15:11+00:00"
+ "generated_at": "2026-10-17T18:08+00:00"
 }

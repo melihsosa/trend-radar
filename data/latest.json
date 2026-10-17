@@ -3,127 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Marvel Rivals & Avengers Fandom",
+   "name": "Undead & Horror Contest Estetiği",
+   "heat": "Zirvede",
+   "desc": "Korku temalı video yarışmaları ve zombi evrenlerinin dönüşüyle gotik, korku ve yaşayan ölü estetiği gençlerin gündeminde.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken Google'da 'undead walking' araması hızla yükseldi.",
+   "sources": [
+    "TikTok",
+    "Google"
+   ],
+   "idea": "Vintage zombi ve korku filmi çizim tarzında oversize grafik tişörtler veya korku temalı çıkartma setleri.",
+   "product_keywords": [
+    {
+     "keyword": "horror graphic tee",
+     "label": "korku temalı grafik tişört"
+    },
+    {
+     "keyword": "zombie aesthetic sticker pack",
+     "label": "zombi estetiği çıkartma paketi"
+    }
+   ]
+  },
+  {
+   "name": "2010'lar Nostaljisi & Basic Bastard Modası",
    "heat": "Hızla yükseliyor",
-   "desc": "Yeni çıkacak hero-shooter oyunu Marvel Rivals ve klasik Avengers temalı içeriklerin gençler arasında yarattığı yoğun heyecan.",
-   "why": "TikTok'ta #marvelrivalsavengers etiketi 2. sıraya yerleşerek yüksek bir etkileşim yakaladı.",
+   "desc": "Gen Z ve moda toplulukları 2009-2014 dönemine, eski internet kültürüne ve dönemin temiz erkek kapsül gardırop estetiğine yöneliyor.",
+   "why": "Reddit GenZ'de 2009-2010 ve 2014 nostaljisi tartışılırken r/malefashionadvice'ta 2010'ların 'Basic Bastard' stili öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2010'lar Tumblr dönemi estetiğini yansıtan nostaljik bez çantalar ve minimalist kapsül gardırop armaları.",
+   "product_keywords": [
+    {
+     "keyword": "2010s nostalgia tote bag",
+     "label": "2010lar nostalji bez çanta"
+    },
+    {
+     "keyword": "minimalist aesthetic patch",
+     "label": "minimalist estetik arma"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse & Anti-Bot Mizahı",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik Key & Peele repliği, sosyal medyadaki bot ve spam yorumlara karşı gençlerin ortak tepki ve espri kalıbı haline geldi.",
+   "why": "Reddit r/OutOfTheLoop'ta bu cümlenin botlara karşı viral şekilde kullanımı haftanın öne çıkan konularından oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'High on Potenuse' esprisini ve matematik çizimini taşıyan kahve kupaları ve laptop etiketleri.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse mug",
+     "label": "high on potenuse kupa"
+    },
+    {
+     "keyword": "ironic meme sticker",
+     "label": "ironik meme çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Oyun Odası Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Marvel Rivals fırtınası, süper kahraman takım oyunları ve retro çizgi roman temalı masa kurulumlarını yeniden canlandırdı.",
+   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' 2. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Marvel Rivals karakterlerinden ilham alan minimalist masa matları (desk mat), akrilik anahtarlıklar ve oyun kumandası st",
+   "idea": "Marvel Rivals tarzında neon çizgi roman illüstrasyonlu geniş oyuncu masa matları (desk mat) ve posterler.",
    "product_keywords": [
     {
-     "keyword": "superhero desk mat",
-     "label": "süper kahraman masa matı"
+     "keyword": "gaming desk mat",
+     "label": "oyuncu masa matı"
     },
     {
-     "keyword": "acrylic gaming keychain",
-     "label": "oyuncu akrilik anahtarlık"
+     "keyword": "comic art mouse pad",
+     "label": "çizgi roman tarzı mouse pad"
     }
    ]
   },
   {
    "name": "Peter Griffin Core",
    "heat": "Yeni çıktı",
-   "desc": "Family Guy karakteri Peter Griffin'in ikonik yeşil pantolon ve beyaz gömlek stilini mizahi ve ironik bir sokak modasına dönüştüren erkek giyim akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' paylaşımı öne çıktı.",
+   "desc": "Animasyon karakteri Peter Griffin'in ikonik renk paletini (yeşil pantolon, beyaz gömlek) ironik ve şık sokak stiline dönüştüren anti-moda trendi.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Peter Griffin core' kombini viral tartışma yarattı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İronik 'Peter Griffin Core' nakışlı kanvas bez çantalar, meme grafikli tişörtler ve retro kordonlu gözlük aksesuarları.",
+   "idea": "Peter Griffin core estetiğini tiye alan minimal nakışlı çoraplar, yaka iğneleri ve kanvas şapkalar.",
    "product_keywords": [
     {
-     "keyword": "ironic meme graphic tee",
-     "label": "ironik meme baskılı tişört"
+     "keyword": "ironic cartoon enamel pin",
+     "label": "ironik çizgi film rozeti"
     },
     {
-     "keyword": "dadcore embroidered tote bag",
-     "label": "dadcore nakışlı bez çanta"
+     "keyword": "embroidered dad socks",
+     "label": "nakışlı baba çorabı"
     }
    ]
   },
   {
-   "name": "TikTok Scary Horror Aesthetic",
-   "heat": "Zirvede",
-   "desc": "Kullanıcıların analog korku, karanlık hikaye anlatıcılığı ve ürpertici görseller ürettiği sonbahar korku estetiği.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yükselerek viral bir yarışmaya dönüştü.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Gotik ve analog korku temalı illüstrasyon çıkartma (sticker) paketleri, karanlıkta parlayan linocut baskı posterler.",
-   "product_keywords": [
-    {
-     "keyword": "analog horror sticker pack",
-     "label": "korku temalı çıkartma paketi"
-    },
-    {
-     "keyword": "creepy linocut art print",
-     "label": "karanlık linoküt baskı tablo"
-    }
-   ]
-  },
-  {
-   "name": "The Mummy Nostalgia (90s Adventure Core)",
+   "name": "İronik Gym & Fitness Slogan Kültürü",
    "heat": "Yükseliyor",
-   "desc": "Brendan Fraser ve Rachel Weisz'ın Mumya film serisine geri döneceği haberiyle tetiklenen 90'lar sonu macera-arkeoloji estetiği.",
-   "why": "Reddit r/popculturechat topluluğunda 'The Mummy 4' haberi büyük bir nostalji dalgası yaratarak en çok konuşulan konulardan biri oldu.",
+   "desc": "Spor salonu kıyafetlerine yapılan eleştirilere karşı gençlerin geliştirdiği alaycı, cesur ve özgüvenli fitness aynası sloganları.",
+   "why": "Reddit r/popculturechat'te Dan Levy'nin spor şortu savunması ve Ego Nwodim'in 'Whore Reporting for Duty' spor aynası karesi çok konuşuldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Book of the Dead (Ölüler Kitabı) şeklinde masa üstü gizli kutu/kitap tutucu ve nostaljik Rick O'Connell alıntılı retro k",
+   "idea": "İronik ve mizahi fitness sloganları içeren spor salonu su matarası çıkartmaları ve kanvas spor çantaları.",
    "product_keywords": [
     {
-     "keyword": "book of the dead bookends",
-     "label": "ölüler kitabı şeklinde kitap tutucu"
+     "keyword": "funny gym water bottle sticker",
+     "label": "komik spor matarası çıkartması"
     },
     {
-     "keyword": "vintage 90s movie adventure mug",
-     "label": "nostaljik 90lar macera kupa bardağı"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse Meme Revival",
-   "heat": "Yükseliyor",
-   "desc": "Key & Peele'in klasikleşmiş mizah skecinin, Instagram botlarına ve spam yorumlara karşı topluluk tepkisi olarak yeniden viral olması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda botlara verilen 'I wish I were high on potenuse' yanıtları popüler tartışma konusu oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geometri esprisi ve nostaljik komedi repliğini içeren ironik emaye yaka iğneleri (enamel pins) ve laptop etiketleri.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse enamel pin",
-     "label": "komedi temalı mine yaka iğnesi"
-    },
-    {
-     "keyword": "geometry comedy sticker",
-     "label": "geometri esprili laptop etiketi"
-    }
-   ]
-  },
-  {
-   "name": "Attack on Titan & Dark Anime Renaissance",
-   "heat": "Hızla yükseliyor",
-   "desc": "Stüdyo MAPPA sergisi ve küresel etkinliklerle Attack on Titan serisinin karanlık anime estetiğinin yeniden gündeme oturması.",
-   "why": "Google Trends verilerinde 'attack on titan' araması ani yükselişe geçen trendler arasına girdi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Anime esintili minimalist çizgi işlemeli (line art) kapüşonlu sweatshirtler ve karanlık estetikli metal yer imleri.",
-   "product_keywords": [
-    {
-     "keyword": "anime embroidered hoodie",
-     "label": "anime nakışlı kapüşonlu sweatshirt"
-    },
-    {
-     "keyword": "dark fantasy metal bookmark",
-     "label": "karanlık fantezi metal kitap ayracı"
+     "keyword": "sarcastic workout tote bag",
+     "label": "sarkastik spor bez çantası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-17T09:13+00:00",
+ "trends_updated_at": "2026-10-17T12:10+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -498,5 +499,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-17T09:13+00:00"
+ "generated_at": "2026-10-17T12:10+00:00"
 }

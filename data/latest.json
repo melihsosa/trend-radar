@@ -3,108 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Spooky & Horror Aesthetics",
+   "name": "Marvel Rivals & Avengers Fandom",
    "heat": "Hızla yükseliyor",
-   "desc": "Korku temalı içeriklerin, makyajların ve dev iskelet gibi ikonik Cadılar Bayramı figürlerinin sosyal medyada merkezde olduğu karanlık eğlence estetiği.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken Reddit TikTokCringe'de çalınan 12 metrelik iskelet videosu haftanın en popülerleri arasına girdi.",
+   "desc": "Yeni çıkacak hero-shooter oyunu Marvel Rivals ve klasik Avengers temalı içeriklerin gençler arasında yarattığı yoğun heyecan.",
+   "why": "TikTok'ta #marvelrivalsavengers etiketi 2. sıraya yerleşerek yüksek bir etkileşim yakaladı.",
    "sources": [
-    "TikTok",
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Masaüstü için minyatür 12-ft iskelet figürleri, gotik/korku temalı el yapımı mumlar veya illüstrasyonlu kırlentler.",
+   "idea": "Marvel Rivals karakterlerinden ilham alan minimalist masa matları (desk mat), akrilik anahtarlıklar ve oyun kumandası st",
    "product_keywords": [
     {
-     "keyword": "mini skeleton decor",
-     "label": "mini iskelet dekorasyonu"
+     "keyword": "superhero desk mat",
+     "label": "süper kahraman masa matı"
     },
     {
-     "keyword": "horror aesthetic candle",
-     "label": "korku temalı mum"
-    }
-   ]
-  },
-  {
-   "name": "Bright Statement Tights",
-   "heat": "Yükseliyor",
-   "desc": "Sonbahar ve kış kombinlerini sıradanlıktan çıkaran canlı renkli, opak veya desenli külotlu çorap akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda renkli çorap ilham albümü haftanın en çok konuşulan moda başlıklarından biri oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El boyaması degrade (ombré) veya canlı neon tonlarda el yapımı külotlu çoraplar.",
-   "product_keywords": [
-    {
-     "keyword": "colorful opaque tights",
-     "label": "renkli opak külotlu çorap"
-    },
-    {
-     "keyword": "gradient tights",
-     "label": "degrade külotlu çorap"
+     "keyword": "acrylic gaming keychain",
+     "label": "oyuncu akrilik anahtarlık"
     }
    ]
   },
   {
    "name": "Peter Griffin Core",
    "heat": "Yeni çıktı",
-   "desc": "Popüler animasyon karakterinin ikonik beyaz gömlek ve yeşil pantolon kombinini ironik bir şekilde günlük sokak modasına uyarlayan mikro normcore tarzı.",
-   "why": "Reddit r/malefashionadvice'ta 'Serving high-key Peter Griffin core' OOTD paylaşımı öne çıktı.",
+   "desc": "Family Guy karakteri Peter Griffin'in ikonik yeşil pantolon ve beyaz gömlek stilini mizahi ve ironik bir sokak modasına dönüştüren erkek giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' paylaşımı öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yeşil chino pantolon ve beyaz gömlek için retro tarzda minimalist kemer veya ironik illüstrasyonlu grafik tişört.",
+   "idea": "İronik 'Peter Griffin Core' nakışlı kanvas bez çantalar, meme grafikli tişörtler ve retro kordonlu gözlük aksesuarları.",
    "product_keywords": [
     {
-     "keyword": "green casual trousers",
-     "label": "yeşil günlük pantolon"
+     "keyword": "ironic meme graphic tee",
+     "label": "ironik meme baskılı tişört"
     },
     {
-     "keyword": "ironic cartoon aesthetic tee",
-     "label": "ironik karikatür baskılı tişört"
+     "keyword": "dadcore embroidered tote bag",
+     "label": "dadcore nakışlı bez çanta"
     }
    ]
   },
   {
-   "name": "High on Potenuse Meme Kültürü",
+   "name": "TikTok Scary Horror Aesthetic",
+   "heat": "Zirvede",
+   "desc": "Kullanıcıların analog korku, karanlık hikaye anlatıcılığı ve ürpertici görseller ürettiği sonbahar korku estetiği.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yükselerek viral bir yarışmaya dönüştü.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Gotik ve analog korku temalı illüstrasyon çıkartma (sticker) paketleri, karanlıkta parlayan linocut baskı posterler.",
+   "product_keywords": [
+    {
+     "keyword": "analog horror sticker pack",
+     "label": "korku temalı çıkartma paketi"
+    },
+    {
+     "keyword": "creepy linocut art print",
+     "label": "karanlık linoküt baskı tablo"
+    }
+   ]
+  },
+  {
+   "name": "The Mummy Nostalgia (90s Adventure Core)",
    "heat": "Yükseliyor",
-   "desc": "Sosyal medya botlarına karşı topluca kullanılan klasik Key & Peele 'high on potenuse' şakasının viral bir protesto ve mizah akımına dönüşmesi.",
-   "why": "Reddit r/OutOfTheLoop'ta insanların Instagram botlarına bu gif ile yanıt vermesi en çok merak edilen konulardan biri oldu.",
+   "desc": "Brendan Fraser ve Rachel Weisz'ın Mumya film serisine geri döneceği haberiyle tetiklenen 90'lar sonu macera-arkeoloji estetiği.",
+   "why": "Reddit r/popculturechat topluluğunda 'The Mummy 4' haberi büyük bir nostalji dalgası yaratarak en çok konuşulan konulardan biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Mizahi geometri esprisini ve söz kalıbını taşıyan vinil laptop çıkartmaları veya emaye yaka iğneleri.",
+   "idea": "Book of the Dead (Ölüler Kitabı) şeklinde masa üstü gizli kutu/kitap tutucu ve nostaljik Rick O'Connell alıntılı retro k",
    "product_keywords": [
     {
-     "keyword": "high on potenuse sticker",
-     "label": "high on potenuse çıkartma"
+     "keyword": "book of the dead bookends",
+     "label": "ölüler kitabı şeklinde kitap tutucu"
     },
+    {
+     "keyword": "vintage 90s movie adventure mug",
+     "label": "nostaljik 90lar macera kupa bardağı"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Meme Revival",
+   "heat": "Yükseliyor",
+   "desc": "Key & Peele'in klasikleşmiş mizah skecinin, Instagram botlarına ve spam yorumlara karşı topluluk tepkisi olarak yeniden viral olması.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda botlara verilen 'I wish I were high on potenuse' yanıtları popüler tartışma konusu oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geometri esprisi ve nostaljik komedi repliğini içeren ironik emaye yaka iğneleri (enamel pins) ve laptop etiketleri.",
+   "product_keywords": [
     {
      "keyword": "high on potenuse enamel pin",
-     "label": "high on potenuse emaye pin"
+     "label": "komedi temalı mine yaka iğnesi"
+    },
+    {
+     "keyword": "geometry comedy sticker",
+     "label": "geometri esprili laptop etiketi"
     }
    ]
   },
   {
-   "name": "Understated Ugly Chic",
-   "heat": "Yeni çıktı",
-   "desc": "Göz yormayan fakat kasıtlı olarak hafif uyumsuz, nostaljik ve 'çirkin' kabul edilen parçaları bir araya getiren abartısız retro giyim tarzı.",
-   "why": "Reddit r/femalefashionadvice'ta abartısız 'çirkin' kıyafetler üreten markaların sorgulandığı başlık ilgi gördü.",
+   "name": "Attack on Titan & Dark Anime Renaissance",
+   "heat": "Hızla yükseliyor",
+   "desc": "Stüdyo MAPPA sergisi ve küresel etkinliklerle Attack on Titan serisinin karanlık anime estetiğinin yeniden gündeme oturması.",
+   "why": "Google Trends verilerinde 'attack on titan' araması ani yükselişe geçen trendler arasına girdi.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "90'lar esintili, hafif absürt renk kombinasyonlarına sahip el örgüsü desenli süveterler veya patchwork çantalar.",
+   "idea": "Anime esintili minimalist çizgi işlemeli (line art) kapüşonlu sweatshirtler ve karanlık estetikli metal yer imleri.",
    "product_keywords": [
     {
-     "keyword": "funky knit vest",
-     "label": "desenli örgü süveter"
+     "keyword": "anime embroidered hoodie",
+     "label": "anime nakışlı kapüşonlu sweatshirt"
     },
     {
-     "keyword": "quirky retro sweater",
-     "label": "retro vintage kazak"
+     "keyword": "dark fantasy metal bookmark",
+     "label": "karanlık fantezi metal kitap ayracı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-17T06:13+00:00",
+ "trends_updated_at": "2026-10-17T09:13+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -472,12 +491,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-17T06:13+00:00"
+ "generated_at": "2026-10-17T09:13+00:00"
 }

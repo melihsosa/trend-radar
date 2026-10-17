@@ -3,147 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Ironic Gym Slogans (Whore Reporting for Duty)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kadınların spor salonu giyimine yönelik cinsiyetçi eleştirileri tersyüz eden, esprili ve feminist spor kültürü tepkisi.",
-   "why": "Reddit popculturechat topluluğunda SNL skeci ve Ego Nwodim'in 'Whore Reporting for Duty' spor salonu paylaşımı yüksek etkileşim aldı.",
+   "name": "Peter Griffin Core",
+   "heat": "Yeni çıktı",
+   "desc": "Karakterin ikonik beyaz gömlek, yeşil pantolon ve yuvarlak gözlük kombinasyonunu ironik bir sokak modası akımına dönüştüren mizahi giyim tarzı. Gençler klasik animasyon karakterlerinin görünümlerini 'normcore' estetiğiyle harmanlayarak benimsiyor.",
+   "why": "Reddit'in r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' başlığıyla popüler bir OOTD (günün kombini) paylaşımı olarak öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Spor salonu için 'Reporting for Duty' veya benzeri ironik sloganlı crop-top, shaker matara ve bez antrenman çantaları.",
+   "idea": "Yeşil chino pantolon kombini için özel tasarlanmış ironik Peter Griffin illüstrasyonlu emaye iğneler (enamel pins) ve vi",
    "product_keywords": [
     {
-     "keyword": "sarcastic gym crop top",
-     "label": "esprili spor crop top"
+     "keyword": "peter griffin enamel pin",
+     "label": "peter griffin emaye yaka iğnesi"
     },
     {
-     "keyword": "funny gym tote bag",
-     "label": "ironik spor bez çanta"
+     "keyword": "cartoon core graphic tee",
+     "label": "çizgi dizi grafik tişört"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Gamer Estetiği",
+   "name": "TikTok Spooky & Analog Horror Akımı",
    "heat": "Hızla yükseliyor",
-   "desc": "Genç oyuncu kitlesi arasında hızla yayılan Marvel Rivals odaklı takım nişancı ve süper kahraman rekabet kültürü.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketi 2. sıraya yükseldi.",
+   "desc": "Kullanıcıların kendi amatör korku filmlerini, analog korku (found footage) kliplerini ve tekinsiz hikayelerini paylaştığı içerik üreticisi akımı. Cadılar Bayramı dönemi olmasa dahi korku estetiğine ve tekinsiz sanat projelerine olan ilgi tırmanışta.",
+   "why": "TikTok Creative Center verilerinde '#tiktokscaryhorrorcontest' etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Oyun odaları için Marvel Rivals tarzı retro-fütüristik neon LED lambalar veya tematik geniş gaming mousepad'leri.",
+   "idea": "Korku temalı analog video çekenler için tekinsiz/retro mini sahne dekorları, kan efekti damgaları ve 'Found Footage' tem",
    "product_keywords": [
+    {
+     "keyword": "analog horror props",
+     "label": "analog korku dekoru"
+    },
+    {
+     "keyword": "spooky aesthetic stickers",
+     "label": "korku temalı estetik çıkartma"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Oyuncu Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni çıkacak kahraman tabanlı nişancı oyunu Marvel Rivals etrafında büyüyen çizgi roman ve oyun içi avengers rekabeti çılgınlığı. Oyuncular favori karakterlerinin retro ve modern tarzlarını masaüstü aksesuarlarına taşımak istiyor.",
+   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en popüler ikinci trend olarak listelendi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Karakter temalı özel mekanik klavye tuş başlıkları (custom keycaps) ve oyun sanatına uygun geniş sümenler (desk mat).",
+   "product_keywords": [
+    {
+     "keyword": "custom superhero keycap",
+     "label": "özel süper kahraman klavye tuşu"
+    },
     {
      "keyword": "gaming desk mat",
      "label": "oyuncu masa matı"
-    },
-    {
-     "keyword": "superhero neon sign",
-     "label": "süper kahraman neon tabela"
     }
    ]
   },
   {
-   "name": "Peter Griffin Core",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik animasyon karakterlerinin ikonik ve ironik kombinlerini sokak modasına uyarlama hareketi.",
-   "why": "Reddit malefashionadvice üzerinde kullanıcıların 'Peter Griffin core' stilini benimseyip kombin paylaşımları yapmasıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Karakterin ikonik yeşil-beyaz renk paletini ve yuvarlak retro gözlük stilini taşıyan mizahi kombin aksesuar setleri.",
-   "product_keywords": [
-    {
-     "keyword": "green casual trousers",
-     "label": "yeşil kanvas pantolon"
-    },
-    {
-     "keyword": "round wire glasses",
-     "label": "yuvarlak retro gözlük"
-    }
-   ]
-  },
-  {
-   "name": "Analog Horror & Scary Contest Kültürü",
-   "heat": "Zirvede",
-   "desc": "Kısa formatlı videolarda korku, gerilim ve analog gizem anlatılarına dayalı karanlık estetik akımı.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yerleşerek geniş kitlelere ulaştı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Retro analog horror ve karanlık temalı grafik baskılı vintage tişörtler ve sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "analog horror shirt",
-     "label": "korku temalı grafik tişört"
-    },
-    {
-     "keyword": "gothic sticker pack",
-     "label": "gotik sticker paketi"
-    }
-   ]
-  },
-  {
-   "name": "2014 Tumblr & Indie Sleaze Nostaljisi",
+   "name": "'High on Potenuse' Meme Canlanması",
    "heat": "Yükseliyor",
-   "desc": "Z kuşağının 2014 yılı estetiğine, vintage dijital filtrelere ve o dönemin sade hipster tarzına duyduğu özlem.",
-   "why": "Reddit GenZ topluluğunda 2014'ten bu yana hayatın değişimi ve malefashionadvice'da 2010'ların temel modası tartışıldı.",
+   "desc": "Instagram'daki bot ve spam yorumları trolleme amacıyla Key & Peele'in meşhur 'I wish I were high on potenuse' esprisinin GIF ve alıntı olarak toplu halde kullanılması. Gençler sosyal medya bıkkınlığını bu klasik şaka kalıbıyla ifade ediyor.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı bu cümlenin viralleşmesi haftanın en çok tartışılan konularından oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2014 Tumblr estetiğini yansıtan tipografik kanvas çantalar, ekoseli vintage yakalı aksesuarlar ve nostaljik sticker setl",
+   "idea": "Geometri esprisi ve meme kültürünü birleştiren 'High on Potenuse' yazılı minimalist tote bag'ler, kupa bardaklar ve su m",
    "product_keywords": [
     {
-     "keyword": "indie aesthetic tote bag",
-     "label": "indie estetik bez çanta"
+     "keyword": "high on potenuse sticker",
+     "label": "meme çıkartması"
     },
     {
-     "keyword": "2010s vintage flannel",
-     "label": "vintage flanel gömlek"
+     "keyword": "meme quote tote bag",
+     "label": "esprili bez çanta"
     }
    ]
   },
   {
-   "name": "The Mummy & 90'lar Macera Nostaljisi",
-   "heat": "Yükseliyor",
-   "desc": "90'lar sonunun klasik Mumya serisinin orijinal kadrosunun toplanmasıyla canlanan arkeoloji ve macera estetiği.",
-   "why": "Reddit popculturechat üzerinde Brendan Fraser ve Rachel Weisz'in yeni Mumya filmi haberi yoğun ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Antik Mısır / 'Book of the Dead' görünümlü deri defter kılıfları ve 90'lar tarzı macera filmi poster tişörtleri.",
-   "product_keywords": [
-    {
-     "keyword": "book of the dead journal",
-     "label": "antik deri kaplı defter"
-    },
-    {
-     "keyword": "vintage adventure film shirt",
-     "label": "vintage macera filmi tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse Meme Rönesansı",
+   "name": "90'lar Macera ve 'The Mummy' Nostaljisi",
    "heat": "Yeni çıktı",
-   "desc": "Sosyal medyadaki bot hesapları savuşturmak için klasik 'High on potenuse' şakasını kullanan internet mizahı akımı.",
-   "why": "Reddit OutOfTheLoop topluluğunda Instagram botlarına karşı bu meme'in yaygın kullanımı viral başlık oldu.",
+   "desc": "Brendan Fraser ve Rachel Weisz'ın kült macera filmi serisine dönüş haberleriyle alevlenen 1920'ler çöl keşfi, Mısır mitolojisi ve 90'lar macera estetiği. Keten gömlekler, deri aksesuarlar ve arkeolojik detaylar yeniden popülerleşiyor.",
+   "why": "Reddit r/popculturechat topluluğunda 'The Mummy 4' çekim duyurusu büyük etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geometri ve internet mizahını birleştiren 'High on Potenuse' sloganlı laptop kılıfları, emaye pinler ve kupalar.",
+   "idea": "Eski Mısır ve macera temalı pirinç pusulalar, Book of the Dead replikası el yapımı deri kaplı günlükler.",
    "product_keywords": [
     {
-     "keyword": "math meme enamel pin",
-     "label": "esprili matematik pini"
+     "keyword": "vintage leather adventure journal",
+     "label": "vintage deri macera günlüğü"
     },
     {
-     "keyword": "funny meme coffee mug",
-     "label": "meme baskılı kupa"
+     "keyword": "egyptian brass compass",
+     "label": "pirinç antik pusula"
+    }
+   ]
+  },
+  {
+   "name": "2010'lar 'Basic Bastard' Minimalist Gardırop Dönüşü",
+   "heat": "Yükseliyor",
+   "desc": "2010'lu yılların başındaki sade, kaliteli kumaşlara dayalı kapsül gardırop ve 'Basic Bastard' erkek giyim tarzının nostaljik takdirle yeniden canlanması. Hızlı tüketim trendlerinden yorulanlar zamansız deri aksesuarlar ve yün parçalara yöneliyor.",
+   "why": "Reddit r/malefashionadvice'ta 2010'ların 'Basic Bastard' erkek modası dönemi üzerine açılan nostalji ve analiz başlığı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı minimalist hakiki deri kemerler, pirinç tokalar ve kapsül gardırop için özel dikişli kanvas giysi kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "handmade minimal leather belt",
+     "label": "el yapımı minimalist deri kemer"
+    },
+    {
+     "keyword": "canvas wardrobe organizer",
+     "label": "kanvas gardırop düzenleyici"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-17T00:10+00:00",
+ "trends_updated_at": "2026-10-17T03:15+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -281,12 +261,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-17T00:10+00:00"
+ "generated_at": "2026-10-17T03:15+00:00"
 }

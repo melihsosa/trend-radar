@@ -3,127 +3,108 @@
  "sample": false,
  "trends": [
   {
+   "name": "Spooky & Horror Aesthetics",
+   "heat": "Hızla yükseliyor",
+   "desc": "Korku temalı içeriklerin, makyajların ve dev iskelet gibi ikonik Cadılar Bayramı figürlerinin sosyal medyada merkezde olduğu karanlık eğlence estetiği.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken Reddit TikTokCringe'de çalınan 12 metrelik iskelet videosu haftanın en popülerleri arasına girdi.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "Masaüstü için minyatür 12-ft iskelet figürleri, gotik/korku temalı el yapımı mumlar veya illüstrasyonlu kırlentler.",
+   "product_keywords": [
+    {
+     "keyword": "mini skeleton decor",
+     "label": "mini iskelet dekorasyonu"
+    },
+    {
+     "keyword": "horror aesthetic candle",
+     "label": "korku temalı mum"
+    }
+   ]
+  },
+  {
+   "name": "Bright Statement Tights",
+   "heat": "Yükseliyor",
+   "desc": "Sonbahar ve kış kombinlerini sıradanlıktan çıkaran canlı renkli, opak veya desenli külotlu çorap akımı.",
+   "why": "Reddit r/femalefashionadvice topluluğunda renkli çorap ilham albümü haftanın en çok konuşulan moda başlıklarından biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El boyaması degrade (ombré) veya canlı neon tonlarda el yapımı külotlu çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "colorful opaque tights",
+     "label": "renkli opak külotlu çorap"
+    },
+    {
+     "keyword": "gradient tights",
+     "label": "degrade külotlu çorap"
+    }
+   ]
+  },
+  {
    "name": "Peter Griffin Core",
    "heat": "Yeni çıktı",
-   "desc": "Karakterin ikonik beyaz gömlek, yeşil pantolon ve yuvarlak gözlük kombinasyonunu ironik bir sokak modası akımına dönüştüren mizahi giyim tarzı. Gençler klasik animasyon karakterlerinin görünümlerini 'normcore' estetiğiyle harmanlayarak benimsiyor.",
-   "why": "Reddit'in r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' başlığıyla popüler bir OOTD (günün kombini) paylaşımı olarak öne çıktı.",
+   "desc": "Popüler animasyon karakterinin ikonik beyaz gömlek ve yeşil pantolon kombinini ironik bir şekilde günlük sokak modasına uyarlayan mikro normcore tarzı.",
+   "why": "Reddit r/malefashionadvice'ta 'Serving high-key Peter Griffin core' OOTD paylaşımı öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yeşil chino pantolon kombini için özel tasarlanmış ironik Peter Griffin illüstrasyonlu emaye iğneler (enamel pins) ve vi",
+   "idea": "Yeşil chino pantolon ve beyaz gömlek için retro tarzda minimalist kemer veya ironik illüstrasyonlu grafik tişört.",
    "product_keywords": [
     {
-     "keyword": "peter griffin enamel pin",
-     "label": "peter griffin emaye yaka iğnesi"
+     "keyword": "green casual trousers",
+     "label": "yeşil günlük pantolon"
     },
     {
-     "keyword": "cartoon core graphic tee",
-     "label": "çizgi dizi grafik tişört"
+     "keyword": "ironic cartoon aesthetic tee",
+     "label": "ironik karikatür baskılı tişört"
     }
    ]
   },
   {
-   "name": "TikTok Spooky & Analog Horror Akımı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların kendi amatör korku filmlerini, analog korku (found footage) kliplerini ve tekinsiz hikayelerini paylaştığı içerik üreticisi akımı. Cadılar Bayramı dönemi olmasa dahi korku estetiğine ve tekinsiz sanat projelerine olan ilgi tırmanışta.",
-   "why": "TikTok Creative Center verilerinde '#tiktokscaryhorrorcontest' etiketi 1. sırada yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Korku temalı analog video çekenler için tekinsiz/retro mini sahne dekorları, kan efekti damgaları ve 'Found Footage' tem",
-   "product_keywords": [
-    {
-     "keyword": "analog horror props",
-     "label": "analog korku dekoru"
-    },
-    {
-     "keyword": "spooky aesthetic stickers",
-     "label": "korku temalı estetik çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Oyuncu Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni çıkacak kahraman tabanlı nişancı oyunu Marvel Rivals etrafında büyüyen çizgi roman ve oyun içi avengers rekabeti çılgınlığı. Oyuncular favori karakterlerinin retro ve modern tarzlarını masaüstü aksesuarlarına taşımak istiyor.",
-   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en popüler ikinci trend olarak listelendi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Karakter temalı özel mekanik klavye tuş başlıkları (custom keycaps) ve oyun sanatına uygun geniş sümenler (desk mat).",
-   "product_keywords": [
-    {
-     "keyword": "custom superhero keycap",
-     "label": "özel süper kahraman klavye tuşu"
-    },
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    }
-   ]
-  },
-  {
-   "name": "'High on Potenuse' Meme Canlanması",
+   "name": "High on Potenuse Meme Kültürü",
    "heat": "Yükseliyor",
-   "desc": "Instagram'daki bot ve spam yorumları trolleme amacıyla Key & Peele'in meşhur 'I wish I were high on potenuse' esprisinin GIF ve alıntı olarak toplu halde kullanılması. Gençler sosyal medya bıkkınlığını bu klasik şaka kalıbıyla ifade ediyor.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı bu cümlenin viralleşmesi haftanın en çok tartışılan konularından oldu.",
+   "desc": "Sosyal medya botlarına karşı topluca kullanılan klasik Key & Peele 'high on potenuse' şakasının viral bir protesto ve mizah akımına dönüşmesi.",
+   "why": "Reddit r/OutOfTheLoop'ta insanların Instagram botlarına bu gif ile yanıt vermesi en çok merak edilen konulardan biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geometri esprisi ve meme kültürünü birleştiren 'High on Potenuse' yazılı minimalist tote bag'ler, kupa bardaklar ve su m",
+   "idea": "Mizahi geometri esprisini ve söz kalıbını taşıyan vinil laptop çıkartmaları veya emaye yaka iğneleri.",
    "product_keywords": [
     {
      "keyword": "high on potenuse sticker",
-     "label": "meme çıkartması"
+     "label": "high on potenuse çıkartma"
     },
     {
-     "keyword": "meme quote tote bag",
-     "label": "esprili bez çanta"
+     "keyword": "high on potenuse enamel pin",
+     "label": "high on potenuse emaye pin"
     }
    ]
   },
   {
-   "name": "90'lar Macera ve 'The Mummy' Nostaljisi",
+   "name": "Understated Ugly Chic",
    "heat": "Yeni çıktı",
-   "desc": "Brendan Fraser ve Rachel Weisz'ın kült macera filmi serisine dönüş haberleriyle alevlenen 1920'ler çöl keşfi, Mısır mitolojisi ve 90'lar macera estetiği. Keten gömlekler, deri aksesuarlar ve arkeolojik detaylar yeniden popülerleşiyor.",
-   "why": "Reddit r/popculturechat topluluğunda 'The Mummy 4' çekim duyurusu büyük etkileşim aldı.",
+   "desc": "Göz yormayan fakat kasıtlı olarak hafif uyumsuz, nostaljik ve 'çirkin' kabul edilen parçaları bir araya getiren abartısız retro giyim tarzı.",
+   "why": "Reddit r/femalefashionadvice'ta abartısız 'çirkin' kıyafetler üreten markaların sorgulandığı başlık ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Eski Mısır ve macera temalı pirinç pusulalar, Book of the Dead replikası el yapımı deri kaplı günlükler.",
+   "idea": "90'lar esintili, hafif absürt renk kombinasyonlarına sahip el örgüsü desenli süveterler veya patchwork çantalar.",
    "product_keywords": [
     {
-     "keyword": "vintage leather adventure journal",
-     "label": "vintage deri macera günlüğü"
+     "keyword": "funky knit vest",
+     "label": "desenli örgü süveter"
     },
     {
-     "keyword": "egyptian brass compass",
-     "label": "pirinç antik pusula"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar 'Basic Bastard' Minimalist Gardırop Dönüşü",
-   "heat": "Yükseliyor",
-   "desc": "2010'lu yılların başındaki sade, kaliteli kumaşlara dayalı kapsül gardırop ve 'Basic Bastard' erkek giyim tarzının nostaljik takdirle yeniden canlanması. Hızlı tüketim trendlerinden yorulanlar zamansız deri aksesuarlar ve yün parçalara yöneliyor.",
-   "why": "Reddit r/malefashionadvice'ta 2010'ların 'Basic Bastard' erkek modası dönemi üzerine açılan nostalji ve analiz başlığı öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı minimalist hakiki deri kemerler, pirinç tokalar ve kapsül gardırop için özel dikişli kanvas giysi kılıfları.",
-   "product_keywords": [
-    {
-     "keyword": "handmade minimal leather belt",
-     "label": "el yapımı minimalist deri kemer"
-    },
-    {
-     "keyword": "canvas wardrobe organizer",
-     "label": "kanvas gardırop düzenleyici"
+     "keyword": "quirky retro sweater",
+     "label": "retro vintage kazak"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-17T03:15+00:00",
+ "trends_updated_at": "2026-10-17T06:13+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -491,12 +472,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-17T04:54+00:00"
+ "generated_at": "2026-10-17T06:13+00:00"
 }

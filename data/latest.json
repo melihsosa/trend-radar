@@ -3,128 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Undead & Horror Contest Estetiği",
-   "heat": "Zirvede",
-   "desc": "Korku temalı video yarışmaları ve zombi evrenlerinin dönüşüyle gotik, korku ve yaşayan ölü estetiği gençlerin gündeminde.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken Google'da 'undead walking' araması hızla yükseldi.",
-   "sources": [
-    "TikTok",
-    "Google"
-   ],
-   "idea": "Vintage zombi ve korku filmi çizim tarzında oversize grafik tişörtler veya korku temalı çıkartma setleri.",
-   "product_keywords": [
-    {
-     "keyword": "horror graphic tee",
-     "label": "korku temalı grafik tişört"
-    },
-    {
-     "keyword": "zombie aesthetic sticker pack",
-     "label": "zombi estetiği çıkartma paketi"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Nostaljisi & Basic Bastard Modası",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z ve moda toplulukları 2009-2014 dönemine, eski internet kültürüne ve dönemin temiz erkek kapsül gardırop estetiğine yöneliyor.",
-   "why": "Reddit GenZ'de 2009-2010 ve 2014 nostaljisi tartışılırken r/malefashionadvice'ta 2010'ların 'Basic Bastard' stili öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar Tumblr dönemi estetiğini yansıtan nostaljik bez çantalar ve minimalist kapsül gardırop armaları.",
-   "product_keywords": [
-    {
-     "keyword": "2010s nostalgia tote bag",
-     "label": "2010lar nostalji bez çanta"
-    },
-    {
-     "keyword": "minimalist aesthetic patch",
-     "label": "minimalist estetik arma"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse & Anti-Bot Mizahı",
+   "name": "Peter Griffin Core",
    "heat": "Yeni çıktı",
-   "desc": "Klasik Key & Peele repliği, sosyal medyadaki bot ve spam yorumlara karşı gençlerin ortak tepki ve espri kalıbı haline geldi.",
-   "why": "Reddit r/OutOfTheLoop'ta bu cümlenin botlara karşı viral şekilde kullanımı haftanın öne çıkan konularından oldu.",
+   "desc": "Gen Z ve moda topluluklarında popüler çizgi karakter Peter Griffin'in ikonik giyim tarzını (beyaz gömlek, yeşil pantolon, yuvarlak kemik gözlük) mizahi bir normcore stiline dönüştüren ironik giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Serving high-key Peter Griffin core' paylaşımı ile öne çıkmıştır.",
    "sources": [
     "Reddit"
    ],
-   "idea": "'High on Potenuse' esprisini ve matematik çizimini taşıyan kahve kupaları ve laptop etiketleri.",
+   "idea": "İronik 'Peter Griffin Core' minimalist tipografik tişörtler, retro yeşil kanvas tote çantalar veya yeşil chino pantolon ",
    "product_keywords": [
     {
-     "keyword": "high on potenuse mug",
-     "label": "high on potenuse kupa"
+     "keyword": "normcore graphic tee",
+     "label": "normcore grafik tişört"
     },
     {
-     "keyword": "ironic meme sticker",
-     "label": "ironik meme çıkartması"
+     "keyword": "olive green tote bag",
+     "label": "haki yeşil bez çanta"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Oyun Odası Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Marvel Rivals fırtınası, süper kahraman takım oyunları ve retro çizgi roman temalı masa kurulumlarını yeniden canlandırdı.",
-   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' 2. sırada yer aldı.",
+   "name": "Marvel Rivals Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Marvel evreninin yeni PvP oyunu Marvel Rivals etrafında toplanan oyuncu topluluğunun benimsediği süper kahraman ve fütüristik oyun estetiği.",
+   "why": "TikTok'ta #marvelrivalsavengers etiketi en popüler 2. trend hashtag olarak yer almıştır.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Marvel Rivals tarzında neon çizgi roman illüstrasyonlu geniş oyuncu masa matları (desk mat) ve posterler.",
+   "idea": "Özel tasarım süper kahraman temalı masaüstü oyuncu matları (desk mat) ve mekanik klavye tuş kapakları (keycaps).",
    "product_keywords": [
     {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
+     "keyword": "custom gaming desk mat",
+     "label": "özel oyuncu masa matı"
     },
     {
-     "keyword": "comic art mouse pad",
-     "label": "çizgi roman tarzı mouse pad"
+     "keyword": "superhero keycaps",
+     "label": "süper kahraman klavye tuş takımı"
     }
    ]
   },
   {
-   "name": "Peter Griffin Core",
-   "heat": "Yeni çıktı",
-   "desc": "Animasyon karakteri Peter Griffin'in ikonik renk paletini (yeşil pantolon, beyaz gömlek) ironik ve şık sokak stiline dönüştüren anti-moda trendi.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Peter Griffin core' kombini viral tartışma yarattı.",
+   "name": "TikTok Scary Horror Contest Akımı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kullanıcıların kendi yaptıkları kısa korku hikayelerini, analog korku öğelerini ve ürpertici dekorları sergilediği viral korku trendi.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yükselerek viral olmuştur.",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Peter Griffin core estetiğini tiye alan minimal nakışlı çoraplar, yaka iğneleri ve kanvas şapkalar.",
+   "idea": "Analog korku (analog horror) temalı retro poster baskıları, karanlık gotik sticker paketleri veya korku temalı el yapımı",
    "product_keywords": [
     {
-     "keyword": "ironic cartoon enamel pin",
-     "label": "ironik çizgi film rozeti"
+     "keyword": "analog horror poster",
+     "label": "analog korku posteri"
     },
     {
-     "keyword": "embroidered dad socks",
-     "label": "nakışlı baba çorabı"
+     "keyword": "gothic horror stickers",
+     "label": "gotik korku çıkartmaları"
     }
    ]
   },
   {
-   "name": "İronik Gym & Fitness Slogan Kültürü",
+   "name": "2010'lar Basic Bastard / Nostalji Modası",
    "heat": "Yükseliyor",
-   "desc": "Spor salonu kıyafetlerine yapılan eleştirilere karşı gençlerin geliştirdiği alaycı, cesur ve özgüvenli fitness aynası sloganları.",
-   "why": "Reddit r/popculturechat'te Dan Levy'nin spor şortu savunması ve Ego Nwodim'in 'Whore Reporting for Duty' spor aynası karesi çok konuşuldu.",
+   "desc": "Gençlerin 2010'lu yılların başındaki sade, zamansız erkek gardırobuna (oxford gömlekler, ham denim, minimalist renk paleti) duyduğu nostaljik dönüş.",
+   "why": "Reddit'te r/GenZ alt dizininde 2009-2010 nostaljisi ve r/malefashionadvice'ta '2010's Basic Bastard Era' övgüsü eş zamanlı gündeme gelmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İronik ve mizahi fitness sloganları içeren spor salonu su matarası çıkartmaları ve kanvas spor çantaları.",
+   "idea": "2010'lar estetiğine uygun minimalist kapsül gardırop kontrol listesi içeren dijital planlayıcılar ve zamansız kanvas aks",
    "product_keywords": [
     {
-     "keyword": "funny gym water bottle sticker",
-     "label": "komik spor matarası çıkartması"
+     "keyword": "capsule wardrobe planner",
+     "label": "kapsül gardırop planlayıcı"
     },
     {
-     "keyword": "sarcastic workout tote bag",
-     "label": "sarkastik spor bez çantası"
+     "keyword": "raw denim pouch",
+     "label": "ham denim aksesuar çantası"
+    }
+   ]
+  },
+  {
+   "name": "Live Can Be Easy (Zahmetsiz Yaşam)",
+   "heat": "Yükseliyor",
+   "desc": "Gereksiz tüketim ve karmaşık günlük rutinlerden uzaklaşıp, pratik çözümler ve sadeliği yücelten çabasız yaşam felsefesi.",
+   "why": "TikTok'ta #livecanbeeasy etiketi 3. sıraya yükselmiştir.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Minimalist 'Keep It Easy' tipografik kupalar, çabasız yaşam mottolu keten çantalar ve sadeleştirilmiş haftalık masaüstü ",
+   "product_keywords": [
+    {
+     "keyword": "minimalist weekly notepad",
+     "label": "minimalist haftalık bloknot"
+    },
+    {
+     "keyword": "aesthetic linen tote",
+     "label": "estetik keten bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Meme Resurgence",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik 'High on Potenuse' komedi skecinin, sosyal medyada yapay zeka ve spam botlarına ironik yanıt vermek amacıyla yeniden canlanması.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı bu gif/alıntının yaygınlaşması tartışılmıştır.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'I Wish I Were High on Potenuse' baskılı mizahi matematik ve meme kupaları, laptop sticker'ları.",
+   "product_keywords": [
+    {
+     "keyword": "math meme mug",
+     "label": "matematik meme kupası"
+    },
+    {
+     "keyword": "funny quote sticker",
+     "label": "komik alıntılı çıkartma"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-17T12:10+00:00",
+ "trends_updated_at": "2026-10-17T15:11+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -499,5 +498,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-17T12:10+00:00"
+ "generated_at": "2026-10-17T15:11+00:00"
 }

@@ -3,107 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "High on Potenuse Meme",
-   "heat": "Hızla yükseliyor",
-   "desc": "Key & Peele'in kült matematik skecinin sosyal medyada botlara ve viral içeriklere karşı tepki memi olarak yeniden patlaması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı 'I wish I were high on potenuse' GIF'inin kitlesel kullanımı gündem oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Üzerinde hipotenüs formülü ve 'I wish I was high on potenuse' esprisi bulunan tişörtler, matematik/mizah temalı laptop s",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse shirt",
-     "label": "high on potenuse tişörtü"
-    },
-    {
-     "keyword": "high on potenuse sticker",
-     "label": "high on potenuse çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Scary Horror Estetiği",
-   "heat": "Zirvede",
-   "desc": "İçerik üreticilerinin kısa gerilim filmleri ve analog korku tarzı içerikler ürettiği viral korku yarışması akımı.",
-   "why": "TikTok trend listesinde #tiktokscaryhorrorcontest etiketi 1. sıraya yerleşti.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Karanlık/analog korku (analog horror) illüstrasyonlarına sahip posterler, ürkütücü sanat baskıları ve karanlık estetikli",
-   "product_keywords": [
-    {
-     "keyword": "analog horror art print",
-     "label": "analog korku sanat baskısı"
-    },
-    {
-     "keyword": "creepy aesthetic stickers",
-     "label": "korku temalı estetik çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Nostaljisi",
+   "name": "2010s Nostalgia & 'Basic Bastard' Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Gen Z ve moda topluluklarının 2009-2014 dönemine, internet kültürüne ve o dönemin sade 'Basic Bastard' erkek giyim tarzına duyduğu yoğun özlem.",
-   "why": "Reddit'te r/GenZ ('Rip to 2009 and 2010', 'life downhill since 2014') ve r/malefashionadvice ('2010s Basic Bastard era') gönderilerinde eşzamanlı öne çıktı.",
+   "desc": "Gen Z'nin 2009-2014 arasına duyduğu yoğun özlem ve erkek modasında sade, zamansız 2010'lar 'Basic Bastard' tarzının yeniden takdir görmesi.",
+   "why": "Reddit r/GenZ'de 'Rip to 2009 and 2010' paylaşımları ve r/malefashionadvice'ta 'Appreciation for the 2010's Basic Bastard Era' tartışmasıyla öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "2010'ların internet kültürünü yansıtan tipografik nostalji kupaları ve o dönemin minimal estetiğini taşıyan kanvas bez ç",
+   "idea": "2010'lar Tumblr/Indie dönemi tipografik nostalji tişörtleri ve minimalist 'Basic Bastard' kapsül gardırop rehber baskıla",
    "product_keywords": [
     {
-     "keyword": "2010s nostalgia mug",
-     "label": "2010lar nostalji kupası"
+     "keyword": "2010s aesthetic shirt",
+     "label": "2010 estetik tişört"
     },
     {
-     "keyword": "tumblr aesthetic tote bag",
-     "label": "tumblr estetik bez çanta"
+     "keyword": "indie sleaze graphic tee",
+     "label": "indie sleaze grafik tişört"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Oyuncu Kültürü",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni süper kahraman nişancı oyunu etrafında gelişen rekabetçi ve topluluk odaklı yeni nesil oyun akımı.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers 2. sırada yükseliş gösterdi.",
+   "name": "DIY Analog Horror & Scary Content",
+   "heat": "Zirvede",
+   "desc": "Kısa formatlı videolarda korku, gerilim ve analog horror temalı yaratıcı yarışma içeriklerinin patlaması.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' etiketi 1. sırada yer alarak en popüler akım oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Özel tasarım süper kahraman/oyuncu masa matları (desk pad) ve kulaklık/kontrolcü tutucu standlar.",
+   "idea": "Korku içeriği üreticileri için kan/yara efektli vintage etiketler, retro analog horror posterleri ve ürkütücü mini dekor",
+   "product_keywords": [
+    {
+     "keyword": "analog horror poster",
+     "label": "analog korku posteri"
+    },
+    {
+     "keyword": "spooky aesthetic sticker pack",
+     "label": "korku temalı çıkartma paketi"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Gamer Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yaklaşan Marvel Rivals oyunu etrafında oluşan karakter odaklı yeni nesil kahraman nişancı topluluğu ve masa kurulumu kültürü.",
+   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en çok yükselenler arasında 2. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Marvel Rivals karakter silüetlerinden ilham alan özel tasarım dikişli desk mat (büyük boy mousepad) ve mekanik klavye tu",
    "product_keywords": [
     {
      "keyword": "gaming desk mat",
      "label": "oyuncu masa matı"
     },
     {
-     "keyword": "controller stand",
-     "label": "oyun kolu standı"
+     "keyword": "custom keycap set",
+     "label": "özel mekanik klavye tuş takımı"
     }
    ]
   },
   {
-   "name": "İronik Gym Sloganları",
+   "name": "'High on Potenuse' Meme Canlanması",
    "heat": "Yeni çıktı",
-   "desc": "Spor salonu kıyafet standartlarına ve cinsiyetçi eleştirilere karşı Ego Nwodim gibi ünlülerin öncülük ettiği mizahi ve meydan okuyan spor salonu dili.",
-   "why": "Reddit r/popculturechat topluluğunda 'Whore Reporting for Duty' ayna selfieleri ve spor kıyafeti tartışmaları yüksek etkileşim aldı.",
+   "desc": "Sosyal medyadaki bot hesapları savuşturmak ve tiye almak için ikonik Key & Peele repliğinin yeniden viral hale gelmesi.",
+   "why": "Reddit r/OutOfTheLoop'ta insanların Instagram botlarına bu gif ile yanıt vermesi en popüler başlıklardan biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İronik ve esprili spor salonu sloganları içeren antrenman atletleri, spor çantaları ve su matarası stickerları.",
+   "idea": "'I Wish I Were High On Potenuse' yazılı mizahi geometri/meme kupa, su matarası çıkartması veya sweatshirt.",
    "product_keywords": [
     {
-     "keyword": "funny gym tank top",
-     "label": "komik antrenman atleti"
+     "keyword": "high on potenuse mug",
+     "label": "meme baskılı kupa"
     },
     {
-     "keyword": "gym motivation sticker",
-     "label": "sporcu matara çıkartması"
+     "keyword": "meme sticker",
+     "label": "mizahi laptop etiketi"
+    }
+   ]
+  },
+  {
+   "name": "İronik Gymwear & Fitness Mizahı",
+   "heat": "Yükseliyor",
+   "desc": "Spor salonu kıyafetlerine yönelik eleştirilere karşı 'Whore Reporting for Duty' ve rahat giyim üzerinden gelişen sarkastik kadın güçlenme hareketi.",
+   "why": "Reddit r/popculturechat'te Ego Nwodim'in 'Whore Reporting for Duty' ayna pozu ve kadın spor giyimine destek gönderisi yoğun etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'Reporting for Duty' veya ironik fitness sloganları taşıyan tote bag bez çanta ve oversize antrenman tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "funny gym tote bag",
+     "label": "esprili spor bez çanta"
+    },
+    {
+     "keyword": "oversized gym pump cover",
+     "label": "oversize spor salonu tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "'Live Can Be Easy' Sade Yaşam Mottosu",
+   "heat": "Yükseliyor",
+   "desc": "Artan maliyetler ve iş stresi karşısında gençlerin benimsediği sade, yavaş ve telaşsız yaşam (soft life) savunuculuğu.",
+   "why": "TikTok'ta '#livecanbeeasy' trend olurken Reddit r/GenZ'de hayat pahalılığı ve iş yeri tükenmişliği şikayetleriyle örtüştü.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "'Live Can Be Easy' tipografik minimalist keten bez çanta, sadeleşme planlayıcısı ve masaüstü motivasyon kartları.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist canvas tote bag",
+     "label": "minimalist kanvas bez çanta"
+    },
+    {
+     "keyword": "slow living daily planner",
+     "label": "sade yaşam günlük ajanda"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-18T18:08+00:00",
+ "trends_updated_at": "2026-10-18T21:10+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -241,12 +262,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-18T18:08+00:00"
+ "generated_at": "2026-10-18T21:10+00:00"
 }

@@ -3,107 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "2010s Nostalgia & Basic Bastard Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z ve genç erkekler arasında 2009-2014 döneminin sade, minimalist katmanlı giyim tarzına ('Basic Bastard') ve o dönemin internet/pop kültürüne duyulan yoğun nostalji hareketi.",
-   "why": "Reddit'te r/GenZ altında 2009-2010 nostaljisi ve r/malefashionadvice'ta 2010'ların 'Basic Bastard' giyim tarzına duyulan özlem aynı anda öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar indie-hipster estetiğini yansıtan kanvas tote çantalar, minimalist vintage grafik tişörtler ve sade oduncu göml",
-   "product_keywords": [
-    {
-     "keyword": "2010s aesthetic shirt",
-     "label": "2010lar estetik tişört"
-    },
-    {
-     "keyword": "vintage 2010s graphic tee",
-     "label": "vintage 2010 grafik tişört"
-    }
-   ]
-  },
-  {
-   "name": "English Bridle Leather (Ömürlük Deri Zanaatı)",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı tüketime tepki olarak, aşırı dayanıklılık testlerinden geçmiş hakiki 'English bridle' derisinden üretilen el yapımı, ömür boyu kullanmalık eşyalara yönelme akımı.",
-   "why": "r/BuyItForLife topluluğunda 421 kg basınca dayanan İngiliz bridle derisi testi ve el yapımı deri sırt çantası paylaşımları haftalık zirveye oturdu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Ağır hizmet tipi pirinç tokalı, el dikişli kalın bridle deriden üretilmiş minimalist kartlık, cüzdan ve kemerler.",
-   "product_keywords": [
-    {
-     "keyword": "bridle leather wallet",
-     "label": "bridle deri cüzdan"
-    },
-    {
-     "keyword": "handcrafted leather belt",
-     "label": "el yapımı deri kemer"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Scary Horror Contest",
-   "heat": "Zirvede",
-   "desc": "Kullanıcıların kendi çektikleri ürpertici kısa korku videoları ve karanlık estetik etrafında toplanan viral korku yarışması trendi.",
-   "why": "TikTok Creative Center verilerinde '#tiktokscaryhorrorcontest' 1. sırada yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "İnternet korku kültürü (creepypasta) ve gotik temalı tipografik sweatshirt'ler, ürpertici illüstrasyonlu vinil çıkartma ",
-   "product_keywords": [
-    {
-     "keyword": "horror aesthetic hoodie",
-     "label": "korku estetiği kapüşonlu"
-    },
-    {
-     "keyword": "spooky gothic stickers",
-     "label": "spooky gotik çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals & Hero Gaming Fandom",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil takım tabanlı nişancı oyunu Marvel Rivals etrafında şekillenen dinamik oyuncu ve karakter hayran kültürü.",
-   "why": "TikTok trend hashtag sıralamasında '#marvelrivalsavengers' 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Çizgi roman ve kahraman temalı masa boyu oyuncu mousepad'leri, kulaklık stantları veya özel tasarım klavye tuş başlıklar",
-   "product_keywords": [
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    },
-    {
-     "keyword": "superhero keycaps",
-     "label": "süper kahraman klavye tuşu"
-    }
-   ]
-  },
-  {
    "name": "High on Potenuse Meme Rönesansı",
-   "heat": "Yeni çıktı",
-   "desc": "Instagram ve sosyal medyadaki bot/yapay zeka yorumlarına karşı toplu şekilde ironik Key & Peele 'High on potenuse' repliğinin kullanılmasıyla doğan mizah akımı.",
-   "why": "r/OutOfTheLoop topluluğunda botlara verilen bu toplu tepki haftanın en çok konuşulan trendlerinden biri oldu.",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sosyal medyada bot hesaplara karşı klasik 'I wish I were high on potenuse' repliğinin yeniden viral bir tepki akımına dönüşmesi.",
+   "why": "Reddit OutOfTheLoop topluluğunda bu GIF'in Instagram botlarına karşı viral kullanımı haftanın en popüler konuları arasında yer aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "'I Wish I Were High On Potenuse' sloganlı ironik mizahi işlemeli beyzbol şapkaları, emaye rozetler veya laptop çıkartmal",
+   "idea": "Meme severlere yönelik 'I wish I were high on potenuse' tipografik tişört, kupa ve laptop sticker'ları.",
    "product_keywords": [
+    {
+     "keyword": "high on potenuse shirt",
+     "label": "high on potenuse tişört"
+    },
     {
      "keyword": "high on potenuse sticker",
      "label": "high on potenuse çıkartma"
+    }
+   ]
+  },
+  {
+   "name": "TikTok Indie Korku ve Scary Contest Estetiği",
+   "heat": "Zirvede",
+   "desc": "Kullanıcıların kendi bağımsız korku hikayelerini ve mini filmlerini ürettiği yaratıcı korku yarışması akımı.",
+   "why": "TikTok Creative Center verilerinde #tiktokscaryhorrorcontest hashtag'i 1. sıraya yükseldi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Cadılar Bayramı ve analog korku estetiğine uygun el yapımı korku dekorları, mini heykelcikler ve karanlık tema sanat bas",
+   "product_keywords": [
+    {
+     "keyword": "indie horror art print",
+     "label": "korku estetiği sanat baskısı"
     },
     {
-     "keyword": "meme embroidered hat",
-     "label": "meme işlemeli şapka"
+     "keyword": "creepy handmade prop",
+     "label": "korku temalı el yapımı dekor"
+    }
+   ]
+  },
+  {
+   "name": "2010'lar Nostaljisi ve Basic Bastard Stili",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z ve moda topluluklarında 2009-2014 yıllarına duyulan hüzünlü özlem ve o dönemin sade erkek modasına dönüş hareketi.",
+   "why": "Reddit GenZ'de 2010 nostaljisi gönderileri ile MaleFashionAdvice'taki '2010's Basic Bastard Era' tartışması eş zamanlı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2010'lar Tumblr estetiğini yansıtan nostaljik grafik tişörtler, minimalist kanvas bez çantalar ve vintage tarzı pin roze",
+   "product_keywords": [
+    {
+     "keyword": "2010s aesthetic shirt",
+     "label": "2010lar nostalji tişört"
+    },
+    {
+     "keyword": "minimalist canvas tote bag",
+     "label": "minimalist kanvas bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Hero Shooter Kültürü",
+   "heat": "Hızla yükseliyor",
+   "desc": "Oyuncular arasında Marvel Rivals heyecanıyla tetiklenen süper kahraman takımlı nişancı (hero shooter) topluluk akımı.",
+   "why": "TikTok trendlerinde #marvelrivalsavengers etiketi en popüler 2. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Özel tasarım süper kahraman temalı mekanik klavye tuşları (keycaps), oyun masa matları (desk mat) ve kablo aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "custom gaming desk mat",
+     "label": "özel tasarım oyuncu masa matı"
+    },
+    {
+     "keyword": "artisan hero keycap",
+     "label": "el yapımı klavye tuşu"
+    }
+   ]
+  },
+  {
+   "name": "Sonbahar Yürüyüşü ve Toprak Tonları (Olive & Brown)",
+   "heat": "Yükseliyor",
+   "desc": "Açık hava yürüyüşleri için haki yeşili, kahverengi ve yün dokuların hakim olduğu mevsimsel giyim ve aksesuar estetiği.",
+   "why": "Reddit MaleFashionAdvice topluluğunda 'autumn walk outfit' ve zeytin yeşili/kahverengi renk kombinasyonları trend oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Toprak tonlarında fitilli kadife tote çantalar, el örgüsü sonbahar bereleri ve rustik yün yürüyüş çorapları.",
+   "product_keywords": [
+    {
+     "keyword": "olive green corduroy bag",
+     "label": "haki kadife omuz çantası"
+    },
+    {
+     "keyword": "earth tone knit beanie",
+     "label": "toprak tonu örgü bere"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-18T12:10+00:00",
+ "trends_updated_at": "2026-10-18T15:12+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -233,7 +233,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 61
   },
   "Google": {
    "ok": true,
@@ -248,5 +248,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-10-18T12:10+00:00"
+ "generated_at": "2026-10-18T15:12+00:00"
 }

@@ -3,107 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "High on Potenuse Meme Rönesansı",
+   "name": "2010s Nostalgia & Basic Bastard Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Key & Peele'in kült 'High on Potenuse' repliğinin sosyal medyada botlara ve spam yorumlara karşı evrensel bir tepki kalıbı olarak yeniden patlaması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı bu GIF'in ve sözün yaygın kullanımı yoğun şekilde sorgulandı.",
+   "desc": "Gen Z ve genç erkekler arasında 2009-2014 döneminin sade, minimalist katmanlı giyim tarzına ('Basic Bastard') ve o dönemin internet/pop kültürüne duyulan yoğun nostalji hareketi.",
+   "why": "Reddit'te r/GenZ altında 2009-2010 nostaljisi ve r/malefashionadvice'ta 2010'ların 'Basic Bastard' giyim tarzına duyulan özlem aynı anda öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geometrik üçgen illüstrasyonu ve 'I Wish I Were High On Potenuse' tipografisi içeren sarkastik sticker ve tişört serisi.",
+   "idea": "2010'lar indie-hipster estetiğini yansıtan kanvas tote çantalar, minimalist vintage grafik tişörtler ve sade oduncu göml",
+   "product_keywords": [
+    {
+     "keyword": "2010s aesthetic shirt",
+     "label": "2010lar estetik tişört"
+    },
+    {
+     "keyword": "vintage 2010s graphic tee",
+     "label": "vintage 2010 grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "English Bridle Leather (Ömürlük Deri Zanaatı)",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı tüketime tepki olarak, aşırı dayanıklılık testlerinden geçmiş hakiki 'English bridle' derisinden üretilen el yapımı, ömür boyu kullanmalık eşyalara yönelme akımı.",
+   "why": "r/BuyItForLife topluluğunda 421 kg basınca dayanan İngiliz bridle derisi testi ve el yapımı deri sırt çantası paylaşımları haftalık zirveye oturdu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ağır hizmet tipi pirinç tokalı, el dikişli kalın bridle deriden üretilmiş minimalist kartlık, cüzdan ve kemerler.",
+   "product_keywords": [
+    {
+     "keyword": "bridle leather wallet",
+     "label": "bridle deri cüzdan"
+    },
+    {
+     "keyword": "handcrafted leather belt",
+     "label": "el yapımı deri kemer"
+    }
+   ]
+  },
+  {
+   "name": "TikTok Scary Horror Contest",
+   "heat": "Zirvede",
+   "desc": "Kullanıcıların kendi çektikleri ürpertici kısa korku videoları ve karanlık estetik etrafında toplanan viral korku yarışması trendi.",
+   "why": "TikTok Creative Center verilerinde '#tiktokscaryhorrorcontest' 1. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "İnternet korku kültürü (creepypasta) ve gotik temalı tipografik sweatshirt'ler, ürpertici illüstrasyonlu vinil çıkartma ",
+   "product_keywords": [
+    {
+     "keyword": "horror aesthetic hoodie",
+     "label": "korku estetiği kapüşonlu"
+    },
+    {
+     "keyword": "spooky gothic stickers",
+     "label": "spooky gotik çıkartma"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals & Hero Gaming Fandom",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni nesil takım tabanlı nişancı oyunu Marvel Rivals etrafında şekillenen dinamik oyuncu ve karakter hayran kültürü.",
+   "why": "TikTok trend hashtag sıralamasında '#marvelrivalsavengers' 2. sırada yer alıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Çizgi roman ve kahraman temalı masa boyu oyuncu mousepad'leri, kulaklık stantları veya özel tasarım klavye tuş başlıklar",
+   "product_keywords": [
+    {
+     "keyword": "gaming desk mat",
+     "label": "oyuncu masa matı"
+    },
+    {
+     "keyword": "superhero keycaps",
+     "label": "süper kahraman klavye tuşu"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Meme Rönesansı",
+   "heat": "Yeni çıktı",
+   "desc": "Instagram ve sosyal medyadaki bot/yapay zeka yorumlarına karşı toplu şekilde ironik Key & Peele 'High on potenuse' repliğinin kullanılmasıyla doğan mizah akımı.",
+   "why": "r/OutOfTheLoop topluluğunda botlara verilen bu toplu tepki haftanın en çok konuşulan trendlerinden biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'I Wish I Were High On Potenuse' sloganlı ironik mizahi işlemeli beyzbol şapkaları, emaye rozetler veya laptop çıkartmal",
    "product_keywords": [
     {
      "keyword": "high on potenuse sticker",
      "label": "high on potenuse çıkartma"
     },
     {
-     "keyword": "math meme shirt",
-     "label": "matematik meme tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Nostaljisi ve Basic Bastard Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z ve genç yetişkinlerin 2009-2014 dönemine duyduğu özlemle birlikte dönemin minimalist 'Basic Bastard' erkek giyim estetiğinin geri dönüşü.",
-   "why": "Reddit r/GenZ'de 2009-2010 nostaljisi öne çıkarken r/malefashionadvice'ta 2010'ların 'Basic Bastard' modasına övgü başlığı popüler oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar indie/minimalist estetiğini yansıtan nötr renkli kanvas tote çantalar ve kapsül gardırop emaye yaka iğneleri.",
-   "product_keywords": [
-    {
-     "keyword": "minimalist canvas tote bag",
-     "label": "minimalist kanvas bez çanta"
-    },
-    {
-     "keyword": "vintage 2010 aesthetic pin",
-     "label": "vintage 2010 estetik iğne"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Analog & DIY Korku (Scary Horror) Akımı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların kendi kısa korku hikayelerini ve gerilim temalı estetik videolarını paylaştığı yaratıcı korku içerikleri akımı.",
-   "why": "TikTok ABD trendlerinde #tiktokscaryhorrorcontest etiketi 1. sıraya yükseldi.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "El yapımı gotik/korku temalı reçine kitap ayraçları ve karanlık analog horror grafikli kupa bardaklar.",
-   "product_keywords": [
-    {
-     "keyword": "gothic horror bookmark",
-     "label": "gotik korku kitap ayracı"
-    },
-    {
-     "keyword": "spooky aesthetic mug",
-     "label": "korku estetiği kupa bardak"
-    }
-   ]
-  },
-  {
-   "name": "Feminist Fitness Mizahı (Reporting for Duty)",
-   "heat": "Yeni çıktı",
-   "desc": "Spor salonu kıyafetlerine yönelik cinsiyetçi eleştirilere karşı kadınların başlattığı esprili, meydan okuyan ve güçlendirici antrenman mizahı.",
-   "why": "Reddit r/popculturechat'te SNL monoloğu sonrası Ego Nwodim'in 'Whore Reporting for Duty' yanıtı ve spor giyim özgürlüğü tartışmaları viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Spor salonu için 'Reporting for Duty' yazılı esprili sporcu su matarası veya mikro fiber antrenman havlusu.",
-   "product_keywords": [
-    {
-     "keyword": "gym humor gym towel",
-     "label": "mizahi spor havlusu"
-    },
-    {
-     "keyword": "workout water bottle quote",
-     "label": "motive edici spor matarası"
-    }
-   ]
-  },
-  {
-   "name": "The Office 'Comfort Show' Rewatch Kültürü",
-   "heat": "Zirvede",
-   "desc": "The Office dizisinin genç kuşak ve çalışanlar arasında sürekli baştan izlenen ana konfor dizisi olma özelliğini sürdürmesi.",
-   "why": "Google yükselen aramalarda 'the office' dizisi için hangi bölümlerin atlanması gerektiğine dair aramalar hızla yükseldi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Dunder Mifflin ve The Office içi şakalarını içeren minimalist masaüstü ofis organizerı veya espri içerikli masa isimlikl",
-   "product_keywords": [
-    {
-     "keyword": "the office desk name plate",
-     "label": "ofis dizisi masa isimliği"
-    },
-    {
-     "keyword": "dunder mifflin stationery",
-     "label": "ofis temalı kırtasiye seti"
+     "keyword": "meme embroidered hat",
+     "label": "meme işlemeli şapka"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-18T09:13+00:00",
+ "trends_updated_at": "2026-10-18T12:10+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -233,7 +233,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -248,5 +248,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-10-18T09:13+00:00"
+ "generated_at": "2026-10-18T12:10+00:00"
 }

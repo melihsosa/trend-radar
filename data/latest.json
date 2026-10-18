@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
+   "name": "High on Potenuse Bot Response Meme",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "desc": "Instagram ve sosyal medyada türeyen spam/bot yorumlarına tepki olarak Key & Peele'in klasikleşmiş 'I wish I were high on potenuse' esprisinin ve GIF'inin viral şekilde kullanılması.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda 'What’s the deal with people using the “I wish I were high on potenuse” gif to respond to Instagram bots?' başlığıyla öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Üzerinde geometrik dik üçgen illüstrasyonu ve 'High on Potenuse' esprili tipografisi bulunan tişörtler, tote bag'ler ve ",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse shirt",
+     "label": "high on potenuse tişört"
+    },
+    {
+     "keyword": "high on potenuse sticker",
+     "label": "high on potenuse çıkartma"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "TikTok Scary Horror Contest Aesthetics",
+   "heat": "Zirvede",
+   "desc": "TikTok'ta kullanıcıların kısa korku filmleri, tekinsiz atmosferler ve analog horror tarzı görsel içerikler ürettiği dönemsel Cadılar Bayramı/korku yarışması akımı.",
+   "why": "TikTok Creative Center verilerinde '#tiktokscaryhorrorcontest' 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Korku temalı bağımsız kısa filmciler ve hayranlar için analog horror / tekinsiz estetikli retro baskılı t-shirtler ve el",
+   "product_keywords": [
+    {
+     "keyword": "analog horror apparel",
+     "label": "analog korku giyim"
+    },
+    {
+     "keyword": "creepy cute aesthetic decor",
+     "label": "ürkütücü estetik dekor"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Marvel Rivals Hype & Fandom",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yaklaşan Marvel Rivals oyununa ve karakterlerin yeniden tasarlanan taktiksel Marvel/Avengers görünümlerine yönelik yükselen genç oyuncu ilgisi.",
+   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en popüler 2. sırada yer alarak dikkat çekti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Oyuncu odalarına uygun neon/akrilik LED illüstrasyon desk pad'leri (mouse pad) ve alternatif stilize kahraman rozet setl",
+   "product_keywords": [
+    {
+     "keyword": "superhero desk mat",
+     "label": "süper kahraman mouse pad"
+    },
+    {
+     "keyword": "gaming acrylic stand",
+     "label": "oyuncu akrilik stand"
+    }
+   ]
+  },
+  {
+   "name": "Late 2000s & Early 2010s Nostalgia",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z ve genç yetişkinlerin 2009-2014 dönemine, o dönemin popüler giyim tarzına ('Basic Bastard' erkek modası) ve gençlik hatıralarına duyduğu yoğun melankolik özlem.",
+   "why": "Reddit r/GenZ ('Rip to 2009 and 2010', 'life has gone progressively downhill since 2014') ve r/malefashionadvice ('Appreciation for the 2010's Basic Bastard Era') başlıklarında eşzamanlı tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "2010'lar başı Tumblr/indie sleaze tarzı tipografik nostalji posterleri ve o dönemin vazgeçilmezi olan oxford gömlek & ha",
+   "product_keywords": [
+    {
+     "keyword": "2010s aesthetic print",
+     "label": "2010lar estetik poster"
+    },
+    {
+     "keyword": "vintage minimalist leather keychain",
+     "label": "minimalist deri anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "Whore Reporting for Duty / Gym Body Autonomy",
+   "heat": "Yeni çıktı",
+   "desc": "Shane Gillis'in kadınların spor salonu kıyafetlerine dair monoloğuna tepki olarak başlayan ve kadın sporcular/komedyenler tarafından benimsenen ironik, güçlendirici spor salonu ifadesi.",
+   "why": "Reddit r/popculturechat üzerinde Dan Levy'nin savunması ve Ego Nwodim'in 'Whore Reporting for Duty' ayna selfiesi ile gündem oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kadın fitness tutkunları için ironik/özgüven aşılayan 'Whore Reporting for Duty' veya gym girl power tipografisine sahip",
+   "product_keywords": [
+    {
+     "keyword": "gym girl power gym towel",
+     "label": "fitness havlusu espirili"
+    },
+    {
+     "keyword": "gym humor gym bag",
+     "label": "kadın spor çantası"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-18T03:14+00:00",
+ "trends_updated_at": "2026-10-18T06:12+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -173,13 +240,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-18T04:55+00:00"
+ "generated_at": "2026-10-18T06:12+00:00"
 }

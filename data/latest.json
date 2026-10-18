@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "TikTok Horror & Spooky Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların korku hikayeleri, ürkütücü sinematikler ve karanlık görseller paylaştığı viral Cadılar Bayramı/korku akımı.",
-   "why": "TikTok trend listesinde '#tiktokscaryhorrorcontest' etiketinin 1. sırada yer almasıyla öne çıkıyor.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karanlık/gotik temalı retro korku illüstrasyonları içeren çıkartma (sticker) setleri, baskılı tişörtler veya kan/iskelet",
-   "product_keywords": [
-    {
-     "keyword": "horror aesthetic stickers",
-     "label": "korku estetiği çıkartmaları"
-    },
-    {
-     "keyword": "vintage horror shirt",
-     "label": "vintage korku temalı tişört"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "High on Potenuse Meme Rönesansı",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Klasik Key & Peele mizahına dayanan geometri/espri kalıbının sosyal medya yorumlarında ve bot yanıtlarında viral olarak yeniden dirilmesi.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda bu GIF'in Instagram botlarına karşı yoğun şekilde kullanılması üzerine popüler bir tartışma açıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "'I wish I were high on potenuse' ve üçgen illüstrasyonlu ironik kupa, rozet veya bez çanta.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse mug",
-     "label": "matematik memeli kupa"
-    },
-    {
-     "keyword": "math meme tote bag",
-     "label": "mizahi bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Gym Girişimciliği ve İronik Spor Kültürü",
-   "heat": "Yeni çıktı",
-   "desc": "Spor salonu kıyafetleri ve kadınların spor giyim tercihlerine yönelik SNL monoloğu sonrası başlayan esprili, meydan okuyan 'whore reporting for duty' ve spor motivasyonu akımı.",
-   "why": "Reddit r/popculturechat topluluğunda Ego Nwodim'in spor salonu tepkisi ve Megan Thee Stallion'ın Gymshark elçiliği geniş yankı buldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İronik gym sloganları içeren bez çantalar, su matarası sticker'ları veya nakışlı sporcu çorapları.",
-   "product_keywords": [
-    {
-     "keyword": "ironic gym tote bag",
-     "label": "esprili spor çantası"
-    },
-    {
-     "keyword": "gym humor sticker pack",
-     "label": "spor salonu mizah çıkartma seti"
-    }
-   ]
-  },
-  {
-   "name": "2010s Nostaljisi ve 'Basic Bastard' Stili",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z'nin 2009-2014 arasına duyduğu yoğun nostalji ve erkek modasında 2010'ların minimalist 'Basic Bastard' gardırop estetiğine geri dönüşü.",
-   "why": "Reddit r/GenZ üzerinde 'Rip to 2009 and 2010' başlıkları öne çıkarken r/malefashionadvice'ta 2010'lar giyim tarzı yeniden övülüyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar nostaljisi temalı retro dijital baskılı sweatshirt'ler ve dönemin ikonik indie/minimalist tarzını yansıtan sade",
-   "product_keywords": [
-    {
-     "keyword": "2010s aesthetic sweatshirt",
-     "label": "2010 estetiği sweatshirt"
-    },
-    {
-     "keyword": "minimalist dad hat",
-     "label": "minimalist kanvas şapka"
-    }
-   ]
-  },
-  {
-   "name": "Autumn Walk / Toprak Tonları Estetiği",
-   "heat": "Zirvede",
-   "desc": "Sonbahar mevsimiyle birlikte zeytin yeşili ve kahve tonlarının, yün pantolonların ve katmanlı sakin doğa yürüyüşü kombinlerinin yükselişi.",
-   "why": "Reddit r/malefashionadvice'ta zeytin yeşili/kahve uyumu, sonbahar yürüyüşü kombinleri ve yün kumaş geçişleri yoğun ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Zeytin yeşili ve kahve tonlarında el yapımı yün/örgü atkı veya sonbahar doğa yürüyüşü temalı deri anahtarlık ve aksesuar",
-   "product_keywords": [
-    {
-     "keyword": "olive green wool scarf",
-     "label": "zeytin yeşili yün atkı"
-    },
-    {
-     "keyword": "earth tone knit beanie",
-     "label": "toprak tonu örgü bere"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals & Hero Shooter Heyecanı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Marvel Rivals oyununun ve kahraman karakterlerinin oyuncu toplulukları arasında yarattığı rekabetçi ve sanatsal heyecan.",
-   "why": "TikTok'ta '#marvelrivalsavengers' etiketinin en popüler 2. trend olmasıyla genç oyuncu kitlesinde güçlü bir ilgi yakaladı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Oyundaki kahraman rollerinden ilham alan minimalist masa matları (desk mat), klavye tuş başlıkları (artisan keycaps) vey",
-   "product_keywords": [
-    {
-     "keyword": "superhero gaming desk mat",
-     "label": "oyuncu masa matı"
-    },
-    {
-     "keyword": "comic style mousepad",
-     "label": "çizgi roman tarzı mousepad"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#livecanbeeasy",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-18T00:08+00:00",
+ "trends_updated_at": "2026-10-18T03:14+00:00",
  "products": [
   {
    "name": "Tığ işi çanta",
@@ -490,13 +403,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-18T00:08+00:00"
+ "generated_at": "2026-10-18T03:14+00:00"
 }

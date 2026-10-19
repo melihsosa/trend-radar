@@ -3,128 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "Breaking Bad & Better Call Saul Evreni",
+   "name": "Zelda: Ocarina of Time Nostaljisi",
    "heat": "Hızla yükseliyor",
-   "desc": "Walter Jr. karakterini canlandıran RJ Mitte'nin vefat haberi ve Better Call Saul etkinlikleriyle dizi evrenine ve karakterlerine yönelik yoğun bir anma ve nostalji dalgası oluştu.",
-   "why": "Reddit'te r/GenZ ve r/popculturechat topluluklarında RJ Mitte paylaşımları zirveye çıkarken Google'da 'better call saul' araması hızlı yükselişe geçti.",
-   "sources": [
-    "Reddit",
-    "Google"
-   ],
-   "idea": "Los Pollos Hermanos retro illüstrasyonlu tişörtler veya Walter Jr. kahvaltı mizahını işleyen seramik kupalar.",
-   "product_keywords": [
-    {
-     "keyword": "los pollos hermanos t shirt",
-     "label": "Los Pollos Hermanos tişört"
-    },
-    {
-     "keyword": "better call saul mug",
-     "label": "Better Call Saul kupa"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Nostaljisi & Basic Bastard Modası",
-   "heat": "Yükseliyor",
-   "desc": "Gençler ve erkek modası takipçileri arasında 2009-2014 dönemine duyulan özlem ve o yılların sade, zamansız 'Basic Bastard' giyim tarzına dönüş hareketi dikkat çekiyor.",
-   "why": "r/malefashionadvice'ta 2010'ların minimalist tarzı tartışılırken r/GenZ'de 2009-2010 yıllarına duyulan nostalji popüler gönderiler arasında yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar Tumblr/Indie estetiğini yansıtan vintage pamuklu oxford gömlekler ve minimalist taba deri aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "oxford cotton button down",
-     "label": "Oxford pamuklu gömlek"
-    },
-    {
-     "keyword": "minimalist leather belt",
-     "label": "minimalist deri kemer"
-    }
-   ]
-  },
-  {
-   "name": "Space Jellyfish (Uzay Denizanası) Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Roket fırlatmalarının gökyüzünde oluşturduğu denizanası benzeri ışık kırılması ('space jellyfish') atmosfer ve uzay meraklıları arasında görsel bir trend haline geldi.",
-   "why": "Google yükselen aramalarda 'spacex launch jellyfish' 500+ hacimle öne çıktı.",
+   "desc": "Switch 2 için Ocarina of Time remake söylentileri ve fragman haberleriyle 90'lar Nintendo nostaljisi yeniden patlama yaptı.",
+   "why": "Google yükselen aramalarda 'ocarina of time remake switch 2' 2000+ aramayla en üst sıralarda yer aldı.",
    "sources": [
     "Google"
    ],
-   "idea": "Karanlıkta parlayan uzay denizanası illüstrasyonlu kanvas tablolar ve gece lambası efektli akrilik masa dekorları.",
+   "idea": "Triforce ve Ocarina motifli vintage oyun haritası posterleri, ocarina şeklinde seramik kupalar ve el yapımı deri anahtar",
    "product_keywords": [
     {
-     "keyword": "space jellyfish poster",
-     "label": "uzay denizanası posteri"
+     "keyword": "ocarina of time poster",
+     "label": "Ocarina of Time posteri"
     },
     {
-     "keyword": "rocket launch art print",
-     "label": "roket fırlatması sanat baskısı"
+     "keyword": "zelda ceramic mug",
+     "label": "Zelda seramik kupa"
     }
    ]
   },
   {
-   "name": "Spooky & Horror Creator Akımı",
+   "name": "12-Foot Skeleton ve Korku Viralitesi",
    "heat": "Zirvede",
-   "desc": "Kısa format video üreticilerinin korku hikayeleri, ürpertici atmosferler ve karanlık estetik etrafında toplandığı viral bir içerik yarışması akımı.",
-   "why": "TikTok Creative Center listesinde '#tiktokscaryhorrorcontest' 1. sırada yer aldı.",
+   "desc": "Home Depot'un viral 12-foot dev iskeletinin polis tarafından kovalanan hırsızlık vakası ve Cadılar Bayramı korku içerikleri mizahi bir akıma dönüştü.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken Reddit TikTokCringe'de çalınan 12-foot iskelet videosu haftanın en popüler gönderilerinden oldu.",
    "sources": [
-    "TikTok"
-   ],
-   "idea": "İçerik stüdyoları için karanlık oda fon perdeleri, gotik masa aksesuarları ve analog korku temalı vinil sticker setleri.",
-   "product_keywords": [
-    {
-     "keyword": "spooky neon sign",
-     "label": "korku neon tabela"
-    },
-    {
-     "keyword": "analog horror sticker",
-     "label": "analog korku çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse Anti-Bot Mizahı",
-   "heat": "Yükseliyor",
-   "desc": "Klasik Key & Peele skecindeki 'High on Potenuse' repliği, sosyal medyadaki bot ve spam yorumlara karşı alaycı bir internet tepkisi olarak yeniden viral oldu.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda bu GIF ve repliğin botlara karşı kullanımındaki ani artış haftanın en çok konuşulan başlıklarından biri oldu.",
-   "sources": [
+    "TikTok",
     "Reddit"
    ],
-   "idea": "'I Wish I Were High on Potenuse' yazılı geometri/matematik esprili bez çantalar ve laptop çıkartmaları.",
+   "idea": "Dev iskelet çizimli ve mizahi sloganlı ('Drone-tracked skeleton fan') tişörtler, iskelet temalı su matarası çıkartmaları",
    "product_keywords": [
     {
-     "keyword": "high on potenuse shirt",
-     "label": "High on Potenuse tişört"
+     "keyword": "12ft skeleton shirt",
+     "label": "12ft iskelet tişörtü"
     },
     {
-     "keyword": "math meme tote bag",
-     "label": "matematik meme bez çanta"
+     "keyword": "spooky skeleton sticker",
+     "label": "korku temalı iskelet çıkartması"
     }
    ]
   },
   {
    "name": "Marvel Rivals Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni süper kahraman nişancı oyunu etrafında toplanan oyuncuların karakter tasarımlarına ve oyun içi estetiğe duyduğu yüksek ilgi.",
-   "why": "TikTok trend hashtag'leri arasında '#marvelrivalsavengers' 2. sırada listelendi.",
+   "heat": "Yükseliyor",
+   "desc": "Marvel Rivals oyunu ve Avengers karakterleri üzerinden yükselen yeni nesil süper kahraman takım nişancı (hero shooter) akımı.",
+   "why": "TikTok Creative Center popüler hashtag'lerinde '#marvelrivalsavengers' 2. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Oyuncular için Marvel karakterlerinden esinlenen özel mekanik klavye tuş başlıkları (keycaps) ve geniş mouse pad'ler.",
+   "idea": "Karakter siluetlerinden ilham alan neon LED masa lambaları, geniş gaming mousepad'leri ve minimalist akrilik figür stand",
    "product_keywords": [
     {
-     "keyword": "custom gaming keycaps",
-     "label": "özel tasarım klavye tuşu"
+     "keyword": "gaming desk mat",
+     "label": "oyun masa matı"
     },
     {
-     "keyword": "superhero desk mat",
-     "label": "süper kahraman masa pedi"
+     "keyword": "superhero acrylic stand",
+     "label": "süper kahraman akrilik stand"
+    }
+   ]
+  },
+  {
+   "name": "90'lar 'The Mummy' Maceracı Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "Brendan Fraser ve Rachel Weisz'ın Mumya 4 çekimlerine başlaması, 90'ların ikonik çöl macerası ve arkeoloji estetiğini tekrar gündeme taşıdı.",
+   "why": "Reddit r/popculturechat topluluğunda 'Brendan Fraser and Rachel Weisz filming The Mummy 4' haberi en çok etkileşim alan gönderilerden biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Hamunaptra / 'Book of the Dead' kapak tasarımına sahip antika görünümlü deri defterler ve 90'lar retro bootleg film tişö",
+   "product_keywords": [
+    {
+     "keyword": "book of the dead notebook",
+     "label": "Ölüler Kitabı temalı defter"
+    },
+    {
+     "keyword": "vintage movie t shirt",
+     "label": "vintage film tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "'High on Potenuse' Meme Canlanması",
+   "heat": "Yükseliyor",
+   "desc": "İnternet botlarıyla ve sahte hesaplarla dalga geçmek için klasik Key & Peele repliği 'I wish I were high on potenuse' GIF ve meme olarak yeniden popülerleşti.",
+   "why": "Reddit r/OutOfTheLoop'ta bu kalıbın Instagram'da botlara karşı kitlesel kullanımı en çok merak edilen konulardan biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geometrik hipotenüs üçgeni illüstrasyonu ve repliği içeren esprili matematik/meme tişörtleri ve kahve kupaları.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse mug",
+     "label": "High on Potenuse kupa"
+    },
+    {
+     "keyword": "math meme t shirt",
+     "label": "matematik mizah tişörtü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-19T06:20+00:00",
+ "trends_updated_at": "2026-10-19T09:23+00:00",
  "products": [
   {
    "name": "deri masaüstü organizer tepsi",
@@ -492,12 +472,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-19T06:20+00:00"
+ "generated_at": "2026-10-19T09:23+00:00"
 }

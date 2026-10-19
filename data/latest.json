@@ -3,109 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Dev İskelet ve Korku Mizahı (12ft Skeleton)",
-   "heat": "Zirvede",
-   "desc": "Cadılar bayramı döneminde ikonlaşan 12-foot dev iskeletlerin çalınma ve drone takibi haberleriyle viral olması ve TikTok'taki korku içerikleriyle birleşen viral iskelet çılgınlığı.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sıradayken, Reddit TikTokCringe topluluğunda Michigan'daki 12-foot dev iskelet hırsızlığı haftanın en çok konuşulan gönderisi oldu.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Dev iskelet temalı esprili tişörtler, mini masaüstü '12ft skeleton' maketleri ve kupa tasarımları.",
-   "product_keywords": [
-    {
-     "keyword": "12 ft skeleton shirt",
-     "label": "dev iskelet tişört"
-    },
-    {
-     "keyword": "miniature skeleton desk decor",
-     "label": "minyatür iskelet masa dekoru"
-    }
-   ]
-  },
-  {
-   "name": "Cyberpunk Edgerunners & Anime Distopya Estetiği",
+   "name": "Breaking Bad & Better Call Saul Evreni",
    "heat": "Hızla yükseliyor",
-   "desc": "Cyberpunk: Edgerunners 2. sezonunun yeni karakter görselleriyle duyurulmasıyla canlanan neon distopik anime ve sokak modası estetiği.",
-   "why": "Google'da 'cyberpunk edgerunners season 2' aramaları aniden yükselişe geçti ve görsel paylaşımları haber oldu.",
+   "desc": "Walter Jr. karakterini canlandıran RJ Mitte'nin vefat haberi ve Better Call Saul etkinlikleriyle dizi evrenine ve karakterlerine yönelik yoğun bir anma ve nostalji dalgası oluştu.",
+   "why": "Reddit'te r/GenZ ve r/popculturechat topluluklarında RJ Mitte paylaşımları zirveye çıkarken Google'da 'better call saul' araması hızlı yükselişe geçti.",
    "sources": [
+    "Reddit",
     "Google"
    ],
-   "idea": "Neon sarı/mavi neon LED akrilik masa lambaları, siberpunk parıltılı holografik çıkartma ve dikiş armaları.",
+   "idea": "Los Pollos Hermanos retro illüstrasyonlu tişörtler veya Walter Jr. kahvaltı mizahını işleyen seramik kupalar.",
    "product_keywords": [
     {
-     "keyword": "cyberpunk acrylic led lamp",
-     "label": "cyberpunk led lamba"
+     "keyword": "los pollos hermanos t shirt",
+     "label": "Los Pollos Hermanos tişört"
     },
     {
-     "keyword": "holographic anime sticker pack",
-     "label": "holografik anime sticker paketi"
+     "keyword": "better call saul mug",
+     "label": "Better Call Saul kupa"
     }
    ]
   },
   {
-   "name": "Marvel Rivals & Süper Kahraman Gaming Dalgası",
+   "name": "2010'lar Nostaljisi & Basic Bastard Modası",
    "heat": "Yükseliyor",
-   "desc": "Marvel temalı yeni çok oyunculu oyun Marvel Rivals'ın yarattığı rekabetçi kahraman estetiği ve hayran kitlesi.",
-   "why": "TikTok Creative Center verilerinde '#marvelrivalsavengers' 2. sıraya yerleşti; Google'da Charlie Cox (Daredevil) aramaları yükseldi.",
+   "desc": "Gençler ve erkek modası takipçileri arasında 2009-2014 dönemine duyulan özlem ve o yılların sade, zamansız 'Basic Bastard' giyim tarzına dönüş hareketi dikkat çekiyor.",
+   "why": "r/malefashionadvice'ta 2010'ların minimalist tarzı tartışılırken r/GenZ'de 2009-2010 yıllarına duyulan nostalji popüler gönderiler arasında yer aldı.",
    "sources": [
-    "TikTok",
-    "Google"
+    "Reddit"
    ],
-   "idea": "Minimalist süper kahraman temalı geniş oyuncu masa matları (desk pad) ve özel tasarım klavye tuşları (artisan keycaps).",
+   "idea": "2010'lar Tumblr/Indie estetiğini yansıtan vintage pamuklu oxford gömlekler ve minimalist taba deri aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "superhero gaming desk mat",
-     "label": "oyuncu süper kahraman masa matı"
+     "keyword": "oxford cotton button down",
+     "label": "Oxford pamuklu gömlek"
     },
     {
-     "keyword": "artisan gaming keycap",
+     "keyword": "minimalist leather belt",
+     "label": "minimalist deri kemer"
+    }
+   ]
+  },
+  {
+   "name": "Space Jellyfish (Uzay Denizanası) Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Roket fırlatmalarının gökyüzünde oluşturduğu denizanası benzeri ışık kırılması ('space jellyfish') atmosfer ve uzay meraklıları arasında görsel bir trend haline geldi.",
+   "why": "Google yükselen aramalarda 'spacex launch jellyfish' 500+ hacimle öne çıktı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Karanlıkta parlayan uzay denizanası illüstrasyonlu kanvas tablolar ve gece lambası efektli akrilik masa dekorları.",
+   "product_keywords": [
+    {
+     "keyword": "space jellyfish poster",
+     "label": "uzay denizanası posteri"
+    },
+    {
+     "keyword": "rocket launch art print",
+     "label": "roket fırlatması sanat baskısı"
+    }
+   ]
+  },
+  {
+   "name": "Spooky & Horror Creator Akımı",
+   "heat": "Zirvede",
+   "desc": "Kısa format video üreticilerinin korku hikayeleri, ürpertici atmosferler ve karanlık estetik etrafında toplandığı viral bir içerik yarışması akımı.",
+   "why": "TikTok Creative Center listesinde '#tiktokscaryhorrorcontest' 1. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "İçerik stüdyoları için karanlık oda fon perdeleri, gotik masa aksesuarları ve analog korku temalı vinil sticker setleri.",
+   "product_keywords": [
+    {
+     "keyword": "spooky neon sign",
+     "label": "korku neon tabela"
+    },
+    {
+     "keyword": "analog horror sticker",
+     "label": "analog korku çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Anti-Bot Mizahı",
+   "heat": "Yükseliyor",
+   "desc": "Klasik Key & Peele skecindeki 'High on Potenuse' repliği, sosyal medyadaki bot ve spam yorumlara karşı alaycı bir internet tepkisi olarak yeniden viral oldu.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda bu GIF ve repliğin botlara karşı kullanımındaki ani artış haftanın en çok konuşulan başlıklarından biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'I Wish I Were High on Potenuse' yazılı geometri/matematik esprili bez çantalar ve laptop çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse shirt",
+     "label": "High on Potenuse tişört"
+    },
+    {
+     "keyword": "math meme tote bag",
+     "label": "matematik meme bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni süper kahraman nişancı oyunu etrafında toplanan oyuncuların karakter tasarımlarına ve oyun içi estetiğe duyduğu yüksek ilgi.",
+   "why": "TikTok trend hashtag'leri arasında '#marvelrivalsavengers' 2. sırada listelendi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Oyuncular için Marvel karakterlerinden esinlenen özel mekanik klavye tuş başlıkları (keycaps) ve geniş mouse pad'ler.",
+   "product_keywords": [
+    {
+     "keyword": "custom gaming keycaps",
      "label": "özel tasarım klavye tuşu"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse Bot Troll Mizahı",
-   "heat": "Yükseliyor",
-   "desc": "Key & Peele'in efsanevi 'High on potenuse' skecinin Instagram botlarına karşı toplu bir yanıt ve trolleme akımı olarak yeniden patlaması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda insanların Instagram botlarına bu GIF ile yanıt verme sebebi haftanın en popüler konuları arasına girdi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "'High on Potenuse' esprili retro tipografi baskılı kahve kupaları ve dizüstü bilgisayar çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse mug",
-     "label": "high on potenuse kupa"
     },
     {
-     "keyword": "math comedy meme sticker",
-     "label": "matematik mizahı sticker"
-    }
-   ]
-  },
-  {
-   "name": "2010'lar Basic Bastard / Toprak Tonları Nostaljisi",
-   "heat": "Yükseliyor",
-   "desc": "2010'lu yılların sade, zamansız, toprak tonlu (zeytin yeşili ve kahve) klasik erkek sonbahar kapsül gardırop stiline duyulan özlem.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Appreciation for the 2010's Basic Bastard Era' ve zeytin/kahverengi sonbahar kombinleri öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı mumlu kanvas (waxed canvas) seyahat çantaları ve minimalist deri anahtarlık/bozukluk tepsileri.",
-   "product_keywords": [
-    {
-     "keyword": "waxed canvas dopp kit",
-     "label": "mumlu kanvas bakım çantası"
-    },
-    {
-     "keyword": "leather catchall valet tray",
-     "label": "deri masaüstü organizer tepsi"
+     "keyword": "superhero desk mat",
+     "label": "süper kahraman masa pedi"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-19T03:18+00:00",
+ "trends_updated_at": "2026-10-19T06:20+00:00",
  "products": [
   {
    "name": "deri masaüstü organizer tepsi",
@@ -473,12 +492,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-19T05:01+00:00"
+ "generated_at": "2026-10-19T06:20+00:00"
 }

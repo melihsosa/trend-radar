@@ -3,40 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Halloween Skeleton & Spooky Horror",
+   "heat": "Zirvede",
+   "desc": "Viral 12-foot dev iskelet çılgınlığı ve eğlenceli korku içerikleri etrafında şekillenen popüler Cadılar Bayramı estetiği.",
+   "why": "TikTok'ta 1. sıradaki #tiktokscaryhorrorcontest etiketi ve Reddit TikTokCringe'de viral olan 12-foot iskelet vakası ile öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "12-foot iskelet esprili tişörtler, minyatür 3D baskı iskelet bahçe heykelleri veya gotik ev dekorları.",
+   "product_keywords": [
+    {
+     "keyword": "12ft skeleton shirt",
+     "label": "iskelet baskılı tişört"
+    },
+    {
+     "keyword": "miniature skeleton decor",
+     "label": "minyatür iskelet dekoru"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Bright & Colorful Tights",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sonbahar ve kış kombinlerinde düz siyah yerine neon, pastel ve canlı renkli opak külotlu çorapların öne çıktığı moda akımı.",
+   "why": "Reddit femalefashionadvice topluluğunda 'Bright Tights' ilham albümünün yoğun ilgi görmesiyle ortaya çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Canlı renk geçişli degrade (ombre) veya cesur renkli opak külotlu çorap paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "colorful tights",
+     "label": "renkli külotlu çorap"
+    },
+    {
+     "keyword": "bright colored tights",
+     "label": "parlak renkli opak çorap"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
+   "name": "Pill-Free Fleece Tights",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Kışın etek giyenlerin tüylenme ve aşınma sorunu yaşamadan şeffaf ten görünümü sunan dayanıklı polar çorap arayışı.",
+   "why": "Reddit femalefashionadvice'te tüylenmeyen ('anti-pill') polar astar çorap talebinin popülerleşmesiyle tespit edildi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Tüylenmeye dayanıklı dikişsiz termal polar astar külotlu çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "fleece lined tights",
+     "label": "polar astarlı çorap"
+    },
+    {
+     "keyword": "anti pilling tights",
+     "label": "tüylenmeyen termal çorap"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Genç oyuncu kitlesinin yeni Marvel Rivals karakter stillerine, kostümlerine ve takım dinamiklerine duyduğu yoğun ilgi.",
+   "why": "TikTok Creative Center'da #marvelrivalsavengers etiketinin 2. sıraya yerleşmesiyle görüldü.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Özel tasarım büyük boy masa matı (desk mat), akrilik oyun içi karakter anahtarlıkları ve fan-art çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "marvel rivals desk mat",
+     "label": "oyun masa pedi"
+    },
+    {
+     "keyword": "gaming acrylic keychain",
+     "label": "akrilik karakter anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "Heavy-Duty Bridle Leather",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı modanın kalitesiz aksesuarlarına tepki olarak aşırı dayanıklı, 400 kg'dan fazla yüke dayanan İngiliz koşum derisi ürünlere yönelim.",
+   "why": "Reddit BuyItForLife topluluğunda bağımsız testten geçen English bridle leather paylaşımının zirveye çıkmasıyla fark edildi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Pirinç tokalı, el yapımı ve ömür boyu garantili İngiliz koşum derisi kemerler veya minimalist kartlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "english bridle leather belt",
+     "label": "dayanıklı deri kemer"
+    },
+    {
+     "keyword": "bridle leather wallet",
+     "label": "deri kartlık cüzdan"
+    }
+   ]
+  },
+  {
+   "name": "High On Potenuse Meme Humor",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik 'I wish I were high on potenuse' şakasının sosyal medyadaki botlara ve spam yorumlara karşı evrensel bir yanıt olarak canlanması.",
+   "why": "Reddit OutOfTheLoop'ta insanların Instagram botlarına bu gif ile yanıt vermesiyle ilgili açılan popüler tartışmadan görüldü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Bu meme'i içeren nostaljik tipografik çıkartmalar, kupa bardaklar ve komik laptop etiketleri.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse sticker",
+     "label": "meme çıkartma"
+    },
+    {
+     "keyword": "high on potenuse shirt",
+     "label": "esprili replik tişörtü"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-19T18:16+00:00",
+ "trends_updated_at": "2026-10-19T21:16+00:00",
  "products": [
   {
    "name": "deri masaüstü organizer tepsi",
@@ -396,20 +484,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-19T18:16+00:00"
+ "generated_at": "2026-10-19T21:16+00:00"
 }

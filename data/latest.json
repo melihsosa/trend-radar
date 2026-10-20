@@ -3,40 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Horror Aesthetic & Skeleton Hype",
+   "heat": "Hızla yükseliyor",
+   "desc": "Korku ve gotik temalı içeriklerin yükselişiyle birlikte viral dev iskeletler ve Cadılar Bayramı dekorlarına olan yoğun ilgi.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yerleşirken, Reddit'te 12-foot Home Depot iskelet hırsızlığı viral oldu.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Masaüstü için 3D baskılı gotik mini iskelet figürleri ve Cadılar Bayramı temalı el yapımı punch nakış duvar süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "skeleton desk decor",
+     "label": "iskelet masa dekoru"
+    },
+    {
+     "keyword": "spooky gothic home decor",
+     "label": "gotik ev dekorasyonu"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
+   "name": "Bright & Fleece Tights",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Sonbahar ve kış aylarında sade kıyafetleri hareketlendiren canlı renkli külotlu çoraplar ile tüylenmeyen sıcak polar çorap arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda renkli külotlu çorap kombinleri ve tüylenme yapmayan polar çorap başlıkları öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Özel boyanmış renkli opak külotlu çoraplar ve dikişsiz, tüylenmeye dayanıklı termal polar çoraplar.",
+   "product_keywords": [
+    {
+     "keyword": "colorful tights",
+     "label": "renkli külotlu çorap"
+    },
+    {
+     "keyword": "fleece lined tights",
+     "label": "polar astarlı külotlu çorap"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "TCG & PSA Kart Koleksiyonculuğu",
+   "heat": "Hızla yükseliyor",
+   "desc": "Nadir Pokémon ve sporcu kartlarının yüksek değerlere ulaşmasıyla koleksiyon kartlarını derecelendirme (PSA) ve koruma çılgınlığı.",
+   "why": "Google'da PSA merkezinden çalınan 1 milyon dolarlık koleksiyon kartı soygunu hızla yükselen aramalara girdi.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Derecelendirilmiş PSA slab kartlar için lazer kesim ahşap masaüstü sergileme standları ve koruyucu pleksi kılıflar.",
+   "product_keywords": [
+    {
+     "keyword": "psa slab display stand",
+     "label": "psa kart sergileme standı"
+    },
+    {
+     "keyword": "graded card case",
+     "label": "dereceli kart koruma kutusu"
+    }
+   ]
+  },
+  {
+   "name": "Heavy-Duty Bridle Leather Zanaatı",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı tüketim yerine ömür boyu kullanılabilecek, yüzlerce kilo basınca dayanabilen geleneksel İngiliz koşum derisi ürünlere artan talep.",
+   "why": "Reddit BuyItForLife topluluğunda 421 kg basınca dayanan İngiliz bridle derisi dayanıklılık testi viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Masif pirinç tokalı, el dikişiyle üretilmiş ömür boyu garantili hakiki bridle deri kemerler ve anahtarlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "english bridle leather belt",
+     "label": "bridle deri kemer"
+    },
+    {
+     "keyword": "full grain leather keychain",
+     "label": "hakiki deri anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "Vintage Indie & ModCloth Dirilişi",
+   "heat": "Yeni çıktı",
+   "desc": "2010'ların peter-pan yakalı, nostaljik ve romantik 'twee' giyim estetiğinin kadın modasında yeniden tartışılması.",
+   "why": "Reddit femalefashionadvice'ta ModCloth tarzının ve vintage indie parçaların geri dönüşü yoğun etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı çıkarılabilir vintage bebe yakalıklar (peter pan collar) ve retro desenli saç fiyonkları.",
+   "product_keywords": [
+    {
+     "keyword": "detachable peter pan collar",
+     "label": "takıp çıkarılabilir bebe yaka"
+    },
+    {
+     "keyword": "retro hair bow",
+     "label": "retro saç fiyonku"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Mizahı",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik skeç repliğinin sosyal medyada bot ve spam hesaplara tepki olarak kitlesel şekilde kullanılmasıyla doğan nostaljik meme akımı.",
+   "why": "Reddit OutOfTheLoop'ta insanların neden bu repliği ve GIF'i her yere yazdığı haftanın en popüler konularından biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'High on Potenuse' espirili tipografisine ve dik üçgen illüstrasyonuna sahip minimalist laptop çıkartmaları ve kupalar.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse sticker",
+     "label": "mizahi geometri sticker"
+    },
+    {
+     "keyword": "high on potenuse mug",
+     "label": "baskılı espirili kupa"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-20T00:14+00:00",
+ "trends_updated_at": "2026-10-20T03:18+00:00",
  "products": [
   {
    "name": "deri masaüstü organizer tepsi",
@@ -403,13 +491,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-20T00:14+00:00"
+ "generated_at": "2026-10-20T03:18+00:00"
 }

@@ -3,128 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Halloween Dog Costumes & Parades",
-   "heat": "Zirvede",
-   "desc": "Evcil hayvanların Cadılar Bayramı için yaratıcı ve korkutucu kostümlerle giydirilmesi ve yarışmalara sokulması akımı.",
-   "why": "Reddit'te Tompkins Square Halloween Dog Parade etkinliği öne çıkarken, TikTok'ta 'tiktokscaryhorrorcontest' 1. sırada yer aldı.",
-   "sources": [
-    "Reddit",
-    "TikTok"
-   ],
-   "idea": "Evcil hayvanlar için el yapımı temalı Cadılar Bayramı kostümleri, pelerinler veya eğlenceli tasmalar.",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "pet costume handmade",
-     "label": "el yapımı evcil hayvan kostümü"
-    }
-   ]
-  },
-  {
-   "name": "I Wish I Were High on Potenuse Meme",
-   "heat": "Hızla yükseliyor",
-   "desc": "Sosyal medyadaki bot ve spam yorumlara yanıt olarak popüler Key & Peele skecindeki ikonik repliğin mizahi tepki olarak kullanılması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda Instagram botlarına karşı bu gif/alıntının yaygınlaşması viral soru konusu oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Repliğin tipografik veya esprili grafik tasarımıyla basıldığı sticker paketleri, kupalar veya tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse sticker",
-     "label": "high on potenuse çıkartma"
-    },
-    {
-     "keyword": "high on potenuse shirt",
-     "label": "high on potenuse tişört"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Hype",
-   "heat": "Hızla yükseliyor",
-   "desc": "Marvel Rivals takım nişancı oyununun lansman öncesi karakterleri ve kostümleri etrafında gelişen genç oyuncu kültürü.",
-   "why": "TikTok trend hashtag listesinde 'marvelrivalsavengers' 2. sırada yer aldı.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Marvel Rivals karakter silüetleri veya temalı renk paletlerine sahip özel tasarım desk mat (klavye altlığı) ve akrilik a",
-   "product_keywords": [
-    {
-     "keyword": "superhero desk mat",
-     "label": "süper kahraman masa altlığı"
-    },
-    {
-     "keyword": "gaming mouse pad xl",
-     "label": "büyük boy oyuncu mouse pad"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Autumn Walk & Flannel Aesthetic",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar mevsimine uygun katmanlı giyim, flanel dokular ve doğa yürüyüşü kombinlerine odaklanan sakin erkek giyim tarzı.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'autumn walk outfit' ve 'Portuguese Flannel' paylaşımları yoğun ilgi gördü.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Sonbahar yürüyüşlerine özel kalın dokulu flanel kumaştan tote bag çantalar ve el örgüsü sıcak tonlu bereler.",
-   "product_keywords": [
-    {
-     "keyword": "flannel tote bag",
-     "label": "flanel tote çanta"
-    },
-    {
-     "keyword": "autumn wool beanie",
-     "label": "sonbahar yün bere"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Nara Smith & Tradwife Aesthetic",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Sıfırdan ev yapımı yemekler ve abartılı zarafetle şekillenen, sakinleştirici retro ev yaşamı ve mutfak estetiği.",
-   "why": "Reddit r/popculturechat platformunda Nara Smith hakkındaki gönderi haftanın en çok konuşulanları arasına girdi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Estetik fırfırlı vintage keten mutfak önlükleri ve el yapımı seramik hamur karıştırma kapları.",
-   "product_keywords": [
-    {
-     "keyword": "linen ruffled apron",
-     "label": "fırfırlı keten mutfak önlüğü"
-    },
-    {
-     "keyword": "handmade ceramic mixing bowl",
-     "label": "el yapımı seramik karıştırma kasesi"
-    }
-   ]
-  },
-  {
-   "name": "2010s Indie/Prep Nostalgia",
-   "heat": "Yeni çıktı",
-   "desc": "Z kuşağının 2009-2010 yıllarına ve dönemin 'Basic Bastard' minimalist sokak modasına duyduğu nostaljik ilgi.",
-   "why": "Reddit GenZ topluluğunda 'Rip to 2009 and 2010' ve MaleFashionAdvice'ta '2010s Basic Bastard era' tartışıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "2010'lar popüler kültür nostaljisi temalı retro grafik baskılı bez çantalar veya minimal yaka iğneleri.",
-   "product_keywords": [
-    {
-     "keyword": "2010s aesthetic tote bag",
-     "label": "2010lar estetik tote çanta"
-    },
-    {
-     "keyword": "indie retro enamel pin",
-     "label": "indie retro yaka iğnesi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-20T12:18+00:00",
+ "trends_updated_at": "2026-10-20T15:21+00:00",
  "products": [
   {
    "name": "polar astarlı külotlu çorap",
@@ -530,20 +442,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-20T12:18+00:00"
+ "generated_at": "2026-10-20T15:21+00:00"
 }

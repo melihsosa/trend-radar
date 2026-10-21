@@ -3,40 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Halloween Dog Parade & Pet Costumes",
+   "heat": "Zirvede",
+   "desc": "Evcil hayvan sahiplerinin köpeklerine yaratıcı ve eğlenceli kostümler giydirerek sokak geçitlerine katılması ve bu görüntülerin viral olması akımı.",
+   "why": "Reddit popculturechat topluluğunda '36th annual Tompkins Square Halloween Dog Parade' etkinliğinin yoğun etkileşim almasıyla öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı komik köpek pelerinleri, hafif temalı evcil hayvan başlıkları veya cadılar bayramı tasma süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "dog halloween costume",
+     "label": "köpek cadılar bayramı kostümü"
+    },
+    {
+     "keyword": "pet costume handmade",
+     "label": "el yapımı evcil hayvan kostümü"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
+   "name": "BFDI (Battle for Dream Island) Fandom",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Gençler ve Z kuşağı arasında kült haline gelen, günlük objelerin canlandırıldığı animasyon serisi 'Battle for Dream Island' etrafındaki nostaljik hayran kültürü.",
+   "why": "Reddit OutOfTheLoop topluluğunda serinin ve yaratıcılarının aniden yeniden gündem olması ve tartışılmasıyla görüldü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "BFDI karakterlerini andıran minimalist sevimli obje akrilik anahtarlıklar ve su geçirmez vinil çıkartma paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "bfdi keychain",
+     "label": "BFDI akrilik anahtarlık"
+    },
+    {
+     "keyword": "object show stickers",
+     "label": "obje şovu çıkartma seti"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
+   "name": "'High on Potenuse' Meme Canlanması",
+   "heat": "Hızla yükseliyor",
+   "desc": "Klasikleşmiş 'I wish I were high on potenuse' şakasının Instagram botlarına ve spam yorumlara karşı alaycı bir yanıt kalıbı olarak yeniden patlaması.",
+   "why": "Reddit OutOfTheLoop'ta bot yorumlarına karşı bu repliğin yaygın şekilde GIF olarak kullanıldığının sorulmasıyla tespit edildi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Geometrik çizim eşliğinde 'High on Potenuse' yazılı retro mizah tişörtleri veya laptop sticker'ları.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse shirt",
+     "label": "high on potenuse baskılı tişört"
+    },
+    {
+     "keyword": "funny meme sticker",
+     "label": "komik meme çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "Reality TV Catchphrase: 'Not Here to Get a Pedicure'",
+   "heat": "Yeni çıktı",
+   "desc": "Popüler reality yarışma programı Survivor'ın son bölümünde söylenen ve sert/mücadeleci tavrı simgeleyen viral tek cümlelik aforizma.",
+   "why": "Google Trends yükselen aramalarda 'survivor not here to get a pedicure' ifadesinin hızla artış göstermesiyle belirdi.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "'Not here to get a pedicure' tipografik sloganlı spor matarası, kupa bardak veya kanvas bez çanta.",
+   "product_keywords": [
+    {
+     "keyword": "survivor quote mug",
+     "label": "Survivor alıntılı kupa"
+    },
+    {
+     "keyword": "funny quote tote bag",
+     "label": "komik sözlü bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Autumn Walk Menswear Aesthetic",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Erkek modasında sonbahar tonları, katmanlı giyim (ceket, fular, bot) ve 'sonbahar yürüyüşü' konseptli şık açık hava kombinleri estetiği.",
+   "why": "Reddit malefashionadvice üzerinde 'autumn walk outfit' paylaşımlarının yüz binlerce görüntüleme alarak yoğun ilgi görmesiyle tespit edildi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Katmanlı sonbahar kombinleri için el örgüsü toprak tonlu atkı/bere setleri veya vintage tarz deri aksesuarlar.",
+   "product_keywords": [
+    {
+     "keyword": "knit autumn scarf",
+     "label": "örgü sonbahar atkısı"
+    },
+    {
+     "keyword": "mens fall accessories",
+     "label": "erkek sonbahar aksesuarları"
+    }
+   ]
+  },
+  {
+   "name": "'People Die If They Are Killed' Absürt Anime Kalıbı",
+   "heat": "Yükseliyor",
+   "desc": "Anime tarihinin en ünlü gereksiz gerçeklik/totoloji repliklerinden birinin sosyal medyada yeniden mizahi bir metin şablonuna dönüşmesi.",
+   "why": "Reddit OutOfTheLoop'ta kullanıcıların Twitter'da aniden bu sözün trend olmasını sorgulamasıyla ortaya çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist Japonca ve İngilizce tipografiye sahip alaycı anime alıntı tişörtü veya ceket arması (patch).",
+   "product_keywords": [
+    {
+     "keyword": "anime quote patch",
+     "label": "anime replikli arma"
+    },
+    {
+     "keyword": "people die if they are killed shirt",
+     "label": "ironik anime tişörtü"
+    }
+   ]
+  },
+  {
+   "name": "TikTok Horror & DIY Spooky Decor",
+   "heat": "Zirvede",
+   "desc": "Cadılar bayramı döneminde kısa korku hikayeleri, el yapımı ürpertici sahneler ve analog korku temalı içeriklerin yükselişi.",
+   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketinin 1. sırada trend olmasıyla doğrudan doğrulandı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı gotik/korku temalı reçine biblolar, sahte kan efektli dekoratif mumlar veya gizemli mini korku kitleri.",
+   "product_keywords": [
+    {
+     "keyword": "creepy aesthetic decor",
+     "label": "ürpertici gotik ev dekoru"
+    },
+    {
+     "keyword": "spooky horror candle",
+     "label": "korku temalı dekoratif mum"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-21T18:18+00:00",
+ "trends_updated_at": "2026-10-21T21:17+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -403,13 +510,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-21T18:18+00:00"
+ "generated_at": "2026-10-21T21:17+00:00"
 }

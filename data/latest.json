@@ -3,128 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Marvel Rivals Fanart & Gaming Merch",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni duyurulan ve test süreçleri süren Marvel Rivals nişancı oyunu, oyuncular ve gençler arasında yoğun bir ilgi dalgası yarattı.",
-   "why": "TikTok popüler etiketlerinde '#marvelrivalsavengers' 2. sırada yer alarak doğrudan yükselişe geçti.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Oyundaki karakter tasarımlarından esinlenen 3D baskı masaüstü kulaklık tutucuları veya özel tasarım mousepad'ler.",
-   "product_keywords": [
-    {
-     "keyword": "marvel rivals desk mat",
-     "label": "oyun masa matı"
-    },
-    {
-     "keyword": "superhero gaming headphone stand",
-     "label": "süper kahraman kulaklık standı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "12-Foot Skeleton & Korku Kültü",
-   "heat": "Zirvede",
-   "desc": "Home Depot'un viral 12-foot iskelet çılgınlığı ve korku yarışmaları internet mizahı ile Cadılar Bayramı estetiğini birleştiriyor.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sıradayken, Reddit'te 12-foot iskelet hırsızlığı haftanın en çok konuşulan olaylarından biri oldu.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "12-foot dev iskelet esprili vinil araba ve laptop stickerları veya minyatür masaüstü iskelet heykelleri.",
-   "product_keywords": [
-    {
-     "keyword": "giant skeleton sticker",
-     "label": "dev iskelet çıkartması"
-    },
-    {
-     "keyword": "mini halloween skeleton decor",
-     "label": "minyatür iskelet masa dekoru"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse Meme Revival",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Key & Peele'in klasikleşmiş 'High on potenuse' skeçi, Instagram botlarına ve spam yorumlara karşı viral bir tepki akımı olarak geri döndü.",
-   "why": "Reddit OutOfTheLoop topluluğunda insanların Instagram botlarına bu gif ile yanıt vermesi trend başlığı haline geldi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "'I wish I were high on potenuse' sloganlı retro tipografik kupa veya grafik tişört.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse mug",
-     "label": "meme baskılı kupa"
-    },
-    {
-     "keyword": "high on potenuse graphic tee",
-     "label": "high on potenuse tişört"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Tüylenmeyen Polar Çorap Çözümleri",
-   "heat": "Hızla yükseliyor",
-   "desc": "Soğuk havalarda bacakları sıcak tutarken ten görünümü veren fakat tüylenme (pilling) yapmayan kaliteli polar çorap arayışı kadın modasında öne çıkıyor.",
-   "why": "Reddit femalefashionadvice topluluğunda 'fleece tights that don't pill' başlığı yüksek etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Tüylenme yapmayan dayanıklı polar astarlı opak çorap ve tayt bakım setleri.",
-   "product_keywords": [
-    {
-     "keyword": "anti pilling fleece tights",
-     "label": "tüylenmeyen polar çorap"
-    },
-    {
-     "keyword": "fleece lined sheer tights",
-     "label": "içi polar ten görünümlü çorap"
-    }
-   ]
-  },
-  {
-   "name": "Aşırı Dayanıklı Bridle Deri Ürünleri",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Tüketicilerin ömür boyu dayanacak ürünlere yönelmesiyle (BIFL), yüzlerce kilo yüke dayanan geleneksel İngiliz saraç derisi (bridle leather) ilgi görüyor.",
-   "why": "Reddit BuyItForLife grubunda 421 kg basınca dayanan İngiliz saraç derisi testi haftanın öne çıkanları arasına girdi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "El dikişli, ömür boyu garantili İngiliz saraç derisi minimalist kartlık veya kemer.",
-   "product_keywords": [
-    {
-     "keyword": "english bridle leather wallet",
-     "label": "saraç derisi cüzdan"
-    },
-    {
-     "keyword": "heavy duty bridle leather belt",
-     "label": "dayanıklı deri kemer"
-    }
-   ]
-  },
-  {
-   "name": "Understated Ugly Giyim Akımı",
-   "heat": "Yeni çıktı",
-   "desc": "Gösterişli trendlerin aksine bilerek sıradan, hafif tuhaf ve 'göze batmayan çirkinlikte' parçalar arayan normcore benzeri bir anti-moda dalgası.",
-   "why": "Reddit femalefashionadvice topluluğunda kullanıcılar 'understated ugly clothes' markalarını ve tarzlarını tartışmaya açtı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "90'lar estetiğinde retro, ironik ve sade grafik nakışlı oversize triko yelek veya tote bag.",
-   "product_keywords": [
-    {
-     "keyword": "ironic retro knit vest",
-     "label": "retro örgü süveter"
-    },
-    {
-     "keyword": "normcore minimal graphic tote bag",
-     "label": "minimal grafik bez çanta"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-21T15:20+00:00",
+ "trends_updated_at": "2026-10-21T18:18+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -484,20 +396,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-21T15:20+00:00"
+ "generated_at": "2026-10-21T18:18+00:00"
 }

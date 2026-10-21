@@ -3,127 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Korku İçeriği ve DIY Spooky Estetiği",
-   "heat": "Zirvede",
-   "desc": "TikTok'ta başlayan korku ve gerilim temalı içerik üreticiliği yarışmasıyla birlikte, Cadılar Bayramı sezonunda karanlık, tekinsiz ve ürpertici el yapımı sahne tasarımları öne çıkıyor.",
-   "why": "TikTok Creative Center verilerinde #tiktokscaryhorrorcontest etiketi 1. sırada yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Evde korku videosu çekenler ve Cadılar Bayramı için el yapımı minyatür korku dioramaları ve sahte kan/efekt sahne setler",
-   "product_keywords": [
-    {
-     "keyword": "horror diorama kit",
-     "label": "korku dioraması kiti"
-    },
-    {
-     "keyword": "spooky prop decor",
-     "label": "ürpertici dekoratif sahne aksesuarı"
-    }
-   ]
-  },
-  {
-   "name": "Evcil Hayvan Cadılar Bayramı Kostümleri",
+   "name": "Marvel Rivals Fanart & Gaming Merch",
    "heat": "Hızla yükseliyor",
-   "desc": "Evcil hayvan sahiplerinin köpekleri için hazırladığı yaratıcı, tematik ve esprili sokak kostümleri büyük ilgi görüyor.",
-   "why": "Reddit popculturechat topluluğunda Tompkins Square Halloween Dog Parade etkinliği viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Köpekler için hafif kumaştan üretilmiş el yapımı popüler kültür temalı Cadılar Bayramı kostümleri ve pelerinler.",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "pet costume accessory",
-     "label": "evcil hayvan kostüm aksesuarı"
-    }
-   ]
-  },
-  {
-   "name": "PSA Kart Derecelendirme ve Koruma Ekipmanları",
-   "heat": "Yükseliyor",
-   "desc": "Koleksiyon kartı pazarında derecelendirilmiş (slabbed) kartların güvenliği, sergilenmesi ve düzenlenmesi koleksiyoncular arasında kritik bir ihtiyaç haline geldi.",
-   "why": "Google Hızlı Yükselen Aramalar listesinde 'psa card grading backlog updates' sorgusu öne çıktı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "PSA sertifikalı kartlar için masaüstü ahşap/akrilik manyetik sergileme standları ve koruyucu silikon çerçeveler.",
-   "product_keywords": [
-    {
-     "keyword": "graded card display stand",
-     "label": "dereceli kart sergileme standı"
-    },
-    {
-     "keyword": "psa slab bumper",
-     "label": "psa kart koruyucu çerçeve"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals ve Hero Shooter Gamer Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Yeni nesil süper kahraman nişancı oyununun yarattığı heyecanla birlikte oyuncular masa düzenlerinde ve aksesuarlarında bu karakter estetiğini benimsiyor.",
-   "why": "TikTok trend hashtag sıralamasında #marvelrivalsavengers 2. sırada yer aldı.",
+   "desc": "Yeni duyurulan ve test süreçleri süren Marvel Rivals nişancı oyunu, oyuncular ve gençler arasında yoğun bir ilgi dalgası yarattı.",
+   "why": "TikTok popüler etiketlerinde '#marvelrivalsavengers' 2. sırada yer alarak doğrudan yükselişe geçti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Hero shooter estetiğinde tasarlanmış büyük boy dikişli oyuncu mouse pad'leri ve 3D akrilik karakter desk süsleri.",
+   "idea": "Oyundaki karakter tasarımlarından esinlenen 3D baskı masaüstü kulaklık tutucuları veya özel tasarım mousepad'ler.",
    "product_keywords": [
     {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
+     "keyword": "marvel rivals desk mat",
+     "label": "oyun masa matı"
     },
     {
-     "keyword": "hero shooter acrylic stand",
-     "label": "akrilik karakter standı"
+     "keyword": "superhero gaming headphone stand",
+     "label": "süper kahraman kulaklık standı"
     }
    ]
   },
   {
-   "name": "'High on Potenuse' Nostaljik Skeç Mizahı",
-   "heat": "Yeni çıktı",
-   "desc": "Sosyal medyada otomatik botlara ve taklitçilere tepki olarak klasik 'I wish I were high on potenuse' skeç esprisi yeniden popüler bir kalıp haline geldi.",
-   "why": "Reddit OutOfTheLoop topluluğunda bu repliğin Instagram yorumlarında botlara karşı yoğun kullanımı tartışıldı.",
+   "name": "12-Foot Skeleton & Korku Kültü",
+   "heat": "Zirvede",
+   "desc": "Home Depot'un viral 12-foot iskelet çılgınlığı ve korku yarışmaları internet mizahı ile Cadılar Bayramı estetiğini birleştiriyor.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sıradayken, Reddit'te 12-foot iskelet hırsızlığı haftanın en çok konuşulan olaylarından biri oldu.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "12-foot dev iskelet esprili vinil araba ve laptop stickerları veya minyatür masaüstü iskelet heykelleri.",
+   "product_keywords": [
+    {
+     "keyword": "giant skeleton sticker",
+     "label": "dev iskelet çıkartması"
+    },
+    {
+     "keyword": "mini halloween skeleton decor",
+     "label": "minyatür iskelet masa dekoru"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Meme Revival",
+   "heat": "Yükseliyor",
+   "desc": "Key & Peele'in klasikleşmiş 'High on potenuse' skeçi, Instagram botlarına ve spam yorumlara karşı viral bir tepki akımı olarak geri döndü.",
+   "why": "Reddit OutOfTheLoop topluluğunda insanların Instagram botlarına bu gif ile yanıt vermesi trend başlığı haline geldi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Geometri mizahını ve repliği birleştiren minimalist tipografik çıkartmalar ve retro baskılı kahve kupaları.",
+   "idea": "'I wish I were high on potenuse' sloganlı retro tipografik kupa veya grafik tişört.",
    "product_keywords": [
-    {
-     "keyword": "math meme sticker",
-     "label": "matematik mizahı çıkartma"
-    },
     {
      "keyword": "high on potenuse mug",
-     "label": "esprili kupa"
+     "label": "meme baskılı kupa"
+    },
+    {
+     "keyword": "high on potenuse graphic tee",
+     "label": "high on potenuse tişört"
     }
    ]
   },
   {
-   "name": "2010'lar 'Basic Bastard' Erkek Modası Rönesansı",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı değişen mikro-trendlerden sıkılan erkeklerin 2010'ların zamansız, sade, kaliteli ve işlevsel gardırop temellerine (Oxford kumaş, mumlu kanvas, kaliteli deri) geri dönüşü.",
-   "why": "Reddit malefashionadvice topluluğunda 2010'ların 'Basic Bastard' gardırop akımı yoğun ilgi ve takdir gördü.",
+   "name": "Tüylenmeyen Polar Çorap Çözümleri",
+   "heat": "Hızla yükseliyor",
+   "desc": "Soğuk havalarda bacakları sıcak tutarken ten görünümü veren fakat tüylenme (pilling) yapmayan kaliteli polar çorap arayışı kadın modasında öne çıkıyor.",
+   "why": "Reddit femalefashionadvice topluluğunda 'fleece tights that don't pill' başlığı yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Uzun ömürlü el yapımı minimalist deri kartlıklar ve dayanıklı mumlu kanvas günlük taşıma çantaları.",
+   "idea": "Tüylenme yapmayan dayanıklı polar astarlı opak çorap ve tayt bakım setleri.",
    "product_keywords": [
     {
-     "keyword": "minimalist leather wallet",
-     "label": "minimalist deri kartlık"
+     "keyword": "anti pilling fleece tights",
+     "label": "tüylenmeyen polar çorap"
     },
     {
-     "keyword": "waxed canvas tote bag",
-     "label": "mumlu kanvas tote çanta"
+     "keyword": "fleece lined sheer tights",
+     "label": "içi polar ten görünümlü çorap"
+    }
+   ]
+  },
+  {
+   "name": "Aşırı Dayanıklı Bridle Deri Ürünleri",
+   "heat": "Yükseliyor",
+   "desc": "Tüketicilerin ömür boyu dayanacak ürünlere yönelmesiyle (BIFL), yüzlerce kilo yüke dayanan geleneksel İngiliz saraç derisi (bridle leather) ilgi görüyor.",
+   "why": "Reddit BuyItForLife grubunda 421 kg basınca dayanan İngiliz saraç derisi testi haftanın öne çıkanları arasına girdi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El dikişli, ömür boyu garantili İngiliz saraç derisi minimalist kartlık veya kemer.",
+   "product_keywords": [
+    {
+     "keyword": "english bridle leather wallet",
+     "label": "saraç derisi cüzdan"
+    },
+    {
+     "keyword": "heavy duty bridle leather belt",
+     "label": "dayanıklı deri kemer"
+    }
+   ]
+  },
+  {
+   "name": "Understated Ugly Giyim Akımı",
+   "heat": "Yeni çıktı",
+   "desc": "Gösterişli trendlerin aksine bilerek sıradan, hafif tuhaf ve 'göze batmayan çirkinlikte' parçalar arayan normcore benzeri bir anti-moda dalgası.",
+   "why": "Reddit femalefashionadvice topluluğunda kullanıcılar 'understated ugly clothes' markalarını ve tarzlarını tartışmaya açtı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "90'lar estetiğinde retro, ironik ve sade grafik nakışlı oversize triko yelek veya tote bag.",
+   "product_keywords": [
+    {
+     "keyword": "ironic retro knit vest",
+     "label": "retro örgü süveter"
+    },
+    {
+     "keyword": "normcore minimal graphic tote bag",
+     "label": "minimal grafik bez çanta"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-21T12:19+00:00",
+ "trends_updated_at": "2026-10-21T15:20+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -483,7 +484,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -498,5 +499,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-21T12:19+00:00"
+ "generated_at": "2026-10-21T15:20+00:00"
 }

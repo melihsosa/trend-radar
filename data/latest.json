@@ -3,108 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Giant Skeleton & Spooky Pet Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Devasa Cadılar Bayramı iskeletleri ve evcil hayvan kostüm geçitleri etrafında şekillenen eğlenceli ve abartılı korku kültürü.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest 1. sıradayken, Reddit'te 12-foot iskelet hırsızlığı ve Tompkins Square köpek kostüm geçidi gönderileri viral oldu.",
+   "name": "12-Foot Giant Skeleton & Spooky Horror",
+   "heat": "Zirvede",
+   "desc": "TikTok'taki korku yarışmaları ve viral olan 12-foot dev iskelet çılgınlığı, ev ve dış mekan Cadılar Bayramı/korku temalı dekorasyonları gençlerin odak noktası haline getirdi.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi 1. sıraya yükselirken Reddit'te çalınan 12-foot iskelet videosu haftanın en çok konuşulanları arasına girdi.",
    "sources": [
     "TikTok",
     "Reddit"
    ],
-   "idea": "Köpekler için eğlenceli iskelet kostümleri ve '12ft Skeleton' temalı mizahi çıkartmalar/tişörtler.",
+   "idea": "12-foot iskelet figürlü minyatür masa süsleri, araba dikiz aynası asacakları veya esprili iskelet baskılı sweatshirtler.",
    "product_keywords": [
     {
-     "keyword": "skeleton dog costume",
-     "label": "iskelet köpek kostümü"
+     "keyword": "giant skeleton decor",
+     "label": "dev iskelet dekoru"
     },
     {
-     "keyword": "giant skeleton shirt",
-     "label": "dev iskelet baskılı tişört"
+     "keyword": "horror aesthetic sweatshirt",
+     "label": "korku temalı sweatshirt"
     }
    ]
   },
   {
-   "name": "Marvel Rivals Gamer Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Yeni nesil süper kahraman takım nişancı oyunu Marvel Rivals etrafında gelişen oyuncu ve çizgi roman hayran akımı.",
-   "why": "TikTok'ta #marvelrivalsavengers etiketi en çok izlenen ve paylaşılan 2. trend hashtag oldu.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Marvel Rivals karakter siluetleri ve renk paletleriyle uyumlu özel RGB desk mat (mousepad) veya mekanik klavye tuş kapak",
-   "product_keywords": [
-    {
-     "keyword": "superhero desk mat",
-     "label": "süper kahraman masa matı"
-    },
-    {
-     "keyword": "gaming keycaps",
-     "label": "oyuncu klavye tuş takımı"
-    }
-   ]
-  },
-  {
-   "name": "High on Potenuse Mizahı",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik skeç repliğinin sosyal medya botlarına karşı alaycı bir tepki kalıbı ve mizah dili olarak yeniden popülerleşmesi.",
-   "why": "Reddit OutOfTheLoop'ta kullanıcıların Instagram botlarına kitlesel olarak bu gif/replikle yanıt verme akımı tartışıldı.",
+   "name": "High on Potenuse Meme",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sosyal medyada (özellikle Instagram botlarına karşı) klasik 'I wish I were high on potenuse' şakası yeniden canlanarak genç kitlede bir karşı-kültür esprisine dönüştü.",
+   "why": "Reddit'in OutOfTheLoop topluluğunda bu repliğin botlara yanıt olarak hortlaması yoğun tartışma aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "'I Wish I Were High On Potenuse' sloganlı matematik ve geek mizahı içeren kahve kupaları ve sticker setleri.",
+   "idea": "Geometrik dik üçgen çizimi ve 'High on Potenuse' tipografisi içeren retro mizah çıkartmaları (stickers), kupa bardaklar ",
    "product_keywords": [
     {
      "keyword": "high on potenuse sticker",
-     "label": "high on potenuse çıkartma"
+     "label": "potenuse meme çıkartma"
     },
     {
-     "keyword": "high on potenuse mug",
-     "label": "high on potenuse kupa"
+     "keyword": "high on potenuse shirt",
+     "label": "potenuse baskılı tişört"
     }
    ]
   },
   {
-   "name": "BFDI (Battle for Dream Island) Obje Animasyonu Fandomu",
+   "name": "ModCloth & Vintage Twee Canlanışı",
    "heat": "Yükseliyor",
-   "desc": "Cansız nesnelerin yarıştığı kült bağımsız web animasyonu BFDI'ın nostaljik ve Z kuşağı merkezli hayran kitlesi.",
-   "why": "Reddit OutOfTheLoop'ta BFDI serisi ve içerik üreticileri hakkındaki merak ve etkileşim üst sıralara tırmandı.",
+   "desc": "2010'ların renkli, vintage esintili, retro desenli ve belirgin yakalı 'twee / quirky' giyim tarzının yeniden popülerlik kazanması.",
+   "why": "Reddit femalefashionadvice topluluğunda 'Is Modcloth having a resurgence?' sorusu yüksek etkileşim aldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "BFDI nesne karakterlerinden esinlenen minimalist emaye yaka iğneleri, vinil çıkartmalar ve punch nakış yamalar.",
+   "idea": "Vintage tarzda çıkarılabilir Peter Pan yakalar, retro kedi/kitap desenli bez çantalar ve retro A-kesim etekler.",
    "product_keywords": [
     {
-     "keyword": "bfdi enamel pin",
-     "label": "bfdi emaye yaka iğnesi"
+     "keyword": "detachable peter pan collar",
+     "label": "çıkarılabilir bebe yaka"
     },
     {
-     "keyword": "battle for dream island stickers",
-     "label": "battle for dream island çıkartmaları"
+     "keyword": "retro indie dress",
+     "label": "retro indie elbise"
     }
    ]
   },
   {
-   "name": "2010'lar 'Basic Bastard' Minimalist Erkek Giyimi",
-   "heat": "Yeni çıktı",
-   "desc": "Karmaşık mikro trendlere tepki olarak 2010'ların sade, kaliteli ve zamansız temel gardırop (kapsül dolap) parçalarına duyulan özlem.",
-   "why": "r/malefashionadvice topluluğunda 2010 dönemi 'Basic Bastard' giyim tarzını öven ve yeniden benimseyen gönderiler yoğun etkileşim aldı.",
+   "name": "Pilling-Free Fleece Tights",
+   "heat": "Yükseliyor",
+   "desc": "Soğuk havalarda bacakları ten rengi gibi gösterip sıcak tutan ancak yüzeyinde tüylenme/tiftiklenme yapmayan dayanıklı polar külotlu çorap arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda tüylenmeyen polar çorap tavsiyesi aramaları öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Nötr tonlarda yüksek kaliteli kanvas bez çantalar, sade deri kartlıklar ve minimalist kapsül gardırop planlayıcı şablonl",
+   "idea": "Tüylenmeye dayanıklı özel dokuma, ten rengi astarlı termal kışlık çoraplar veya tiftik önleyici bakım spreyleri/keseleri",
    "product_keywords": [
     {
-     "keyword": "minimalist canvas tote",
-     "label": "minimalist kanvas bez çanta"
+     "keyword": "anti pilling fleece tights",
+     "label": "tüylenmeyen polar külotlu çorap"
     },
     {
-     "keyword": "slim leather cardholder",
-     "label": "ince deri kartlık"
+     "keyword": "warm sheer tights",
+     "label": "sıcak tutan ten çorap"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals Hero Shooter Fandom",
+   "heat": "Hızla yükseliyor",
+   "desc": "Marvel Rivals oyununun tanıtımıyla birlikte çizgi roman ve kahraman temalı genç oyuncu kitlesinin ekipman ve oda estetiği ilgisi.",
+   "why": "TikTok trendlerinde #marvelrivalsavengers etiketi 2. sırada yer aldı.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Oyun odaları için Avengers ve Marvel Rivals karakterlerini minimalist neon hatlarla yansıtan fare altlıkları (desk mat) ",
+   "product_keywords": [
+    {
+     "keyword": "gaming desk mat custom",
+     "label": "özel tasarım oyuncu masa matı"
+    },
+    {
+     "keyword": "acrylic superhero keychain",
+     "label": "akrilik süper kahraman anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "2010's Basic Bastard Minimalizm",
+   "heat": "Yeni çıktı",
+   "desc": "Karmaşık mikro-trendlerden bıkan erkeklerin 2010'ların temiz, abartısız ve zamansız akıllı-gündelik (smart casual) temel gardırop parçalarına geri dönüşü.",
+   "why": "Reddit malefashionadvice üzerinde 2010 dönemi 'Basic Bastard' erkek modasına duyulan özlem ve takdir gönderisi trend oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kapsül gardırop için el yapımı minimalist deri kemerler, kanvas tote çantalar ve kaliteli kumaş mendil/çorap hediye setl",
+   "product_keywords": [
+    {
+     "keyword": "minimalist leather belt",
+     "label": "minimalist deri kemer"
+    },
+    {
+     "keyword": "mens capsule wardrobe",
+     "label": "erkek kapsül gardırop"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-20T21:18+00:00",
+ "trends_updated_at": "2026-10-21T00:12+00:00",
  "products": [
   {
    "name": "polar astarlı külotlu çorap",
@@ -518,12 +538,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-20T21:18+00:00"
+ "generated_at": "2026-10-21T00:12+00:00"
 }

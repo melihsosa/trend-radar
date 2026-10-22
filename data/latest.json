@@ -3,108 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Halloween Dog Parade & Pet Costumes",
+   "name": "Evcil Hayvan Cadılar Bayramı Kostümleri",
    "heat": "Zirvede",
-   "desc": "Köpek sahiplerinin evcil hayvanlarını yaratıcı Cadılar Bayramı kostümleriyle giydirip geçit törenlerine katılması ve sosyal medyada paylaşması akımı.",
-   "why": "Reddit popculturechat topluluğunda New York'taki Tompkins Square Halloween Dog Parade etkinliğinin öne çıkması ve TikTok'ta korku temalı yarışma etiketlerinin zirvede olmasıyla görüldü.",
+   "desc": "Sahiplerinin evcil hayvanlarını tematik, detaylı ve esprili kostümlerle giydirdiği Cadılar Bayramı pet modası akımı.",
+   "why": "Reddit popculturechat topluluğunda 36. Tompkins Square Cadılar Bayramı Köpek Geçidi'nin popüler olmasıyla öne çıktı.",
    "sources": [
-    "Reddit",
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "El yapımı komik ve tematik evcil hayvan Cadılar Bayramı kostümleri, özel tasarım köpek bandanaları.",
+   "idea": "Küçük ve orta ırk köpekler için el yapımı hafif Cadılar Bayramı pelerinleri ve şapkaları.",
    "product_keywords": [
     {
      "keyword": "dog halloween costume",
      "label": "köpek cadılar bayramı kostümü"
     },
     {
-     "keyword": "funny pet bandana",
-     "label": "komik evcil hayvan bandanası"
+     "keyword": "pet costume accessory",
+     "label": "evcil hayvan kostüm aksesuarı"
     }
    ]
   },
   {
-   "name": "High On Potenuse Meme",
+   "name": "Korku Sanatı ve Spooky Kendin-Yap Projeleri",
    "heat": "Hızla yükseliyor",
-   "desc": "Klasik Key & Peele skecindeki 'I wish I were high on potenuse' repliğinin sosyal medya botlarına karşı viral bir tepki memei olarak yeniden canlanması.",
-   "why": "Reddit OutOfTheLoop topluluğunda Instagram botlarına karşı bu GIF'in yoğun kullanımıyla ilgili açılan popüler tartışmada yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Repliğin grafik çizimle birleştirildiği espirili tişört, kupa ve sticker setleri.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse shirt",
-     "label": "high on potenuse tişört"
-    },
-    {
-     "keyword": "high on potenuse sticker",
-     "label": "high on potenuse çıkartma"
-    }
-   ]
-  },
-  {
-   "name": "Scary Horror Contest Aesthetic",
-   "heat": "Yükseliyor",
-   "desc": "Kullanıcıların kendi kısa korku hikayelerini, ürpertici efektlerini ve karanlık konseptlerini sergilediği korku temalı video akımı.",
-   "why": "TikTok Creative Center verilerinde #tiktokscaryhorrorcontest etiketinin 1. sıraya yükselmesiyle tespit edildi.",
+   "desc": "Cadılar Bayramı döneminde kullanıcıların kendi ürettikleri ürkütücü kostümler, maskeler ve korku temalı içerikleri sergileme akımı.",
+   "why": "TikTok Creative Center verilerinde 'tiktokscaryhorrorcontest' etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Korku temalı el yapımı gotik oda dekorasyonları, karanlık estetiğe sahip minyatür heykeller ve baskılar.",
+   "idea": "El boyaması sanatsal korku maskeleri veya ürkütücü Cadılar Bayramı reçine masa dekorları.",
    "product_keywords": [
     {
-     "keyword": "horror decor art print",
-     "label": "korku temalı sanat baskısı"
+     "keyword": "horror art mask",
+     "label": "korku temalı el yapımı maske"
     },
     {
-     "keyword": "creepy gothic candle",
-     "label": "gotik dekoratif mum"
+     "keyword": "creepy halloween prop",
+     "label": "cadılar bayramı dekoratif figür"
     }
    ]
   },
   {
-   "name": "BFDI (Battle for Dream Island) Fandom",
+   "name": "Sonbahar Yürüyüşü / Katmanlı Giyim Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Gençler ve Z kuşağı arasında uzun yıllardır popüler olan Battle for Dream Island web çizgi dizisine ve karakterlerine yönelik yeniden canlanan ilgi.",
-   "why": "Reddit OutOfTheLoop topluluğunda BFDI ve yapımcıları hakkındaki popüler soruyla trend oldu.",
+   "desc": "Mevsim geçişinde rahat, toprak tonlarında ve katmanlı giysilerle sonbahar açık hava kombinleri oluşturma stili.",
+   "why": "Reddit MaleFashionAdvice topluluğunda yüz binlerce görüntülenmeye ulaşan 'autumn walk outfit' paylaşımlarıyla dikkat çekti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Dizideki nesne karakterlerinden esinlenen sevimli akrilik anahtarlıklar, emaye iğneler ve sticker paketleri.",
+   "idea": "Toprak tonlarında el örgüsü yün atkı ve minimalist sonbahar bereleri.",
    "product_keywords": [
     {
-     "keyword": "bfdi acrylic keychain",
-     "label": "bfdi akrilik anahtarlık"
+     "keyword": "chunky knit wool scarf",
+     "label": "örgü yün atkı"
     },
     {
-     "keyword": "battle for dream island pin",
-     "label": "bfdi rozet iğne"
+     "keyword": "autumn knit beanie",
+     "label": "sonbahar örgü bere"
     }
    ]
   },
   {
-   "name": "10 Things I Hate About You Nostaljisi",
-   "heat": "Yeni çıktı",
-   "desc": "90'lar sonunun kült romantik komedisi '10 Things I Hate About You' oyuncu buluşmasıyla alevlenen nostaljik Y2K sinema estetiği.",
-   "why": "Reddit popculturechat topluluğunda Julia Stiles ve film kadrosunun bir araya gelmesini içeren paylaşımın yüksek etkileşim almasıyla belirlendi.",
+   "name": "90'lar/Y2K Gençlik Rom-Com Nostaljisi",
+   "heat": "Yükseliyor",
+   "desc": "'10 Things I Hate About You' gibi dönemin kült romantik komedi filmlerine ve repliklerine duyulan vintage hayranlık.",
+   "why": "Reddit popculturechat'te Julia Stiles'ın filmdeki rol arkadaşlarıyla buluşması ve Heath Ledger anması viral oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Filmdeki ünlü 'I hate the way...' şiirinden alıntılar içeren retro tipografik bez çantalar ve posterler.",
+   "idea": "İkonik film alıntılarını ve tipografik Y2K tasarımlarını taşıyan kanvas bez çantalar ve posterler.",
    "product_keywords": [
     {
-     "keyword": "10 things i hate about you tote bag",
-     "label": "10 things i hate about you bez çanta"
+     "keyword": "rom com quote tote bag",
+     "label": "romantik komedi replikli bez çanta"
     },
     {
-     "keyword": "y2k rom com poster",
-     "label": "y2k film posteri"
+     "keyword": "y2k aesthetic poster",
+     "label": "y2k estetik poster"
+    }
+   ]
+  },
+  {
+   "name": "Absürt Anime Replik Mizahı ('People Die If They Are Killed')",
+   "heat": "Yükseliyor",
+   "desc": "Fate serisinin bariz ve absürt repliğinin, günlük hayattaki kaçınılmaz durumları tiye almak için mizahi bir kalıp olarak kullanılması.",
+   "why": "Reddit OutOfTheLoop topluluğunda 'people die if they are killed' alıntısının Twitter'da neden trend olduğu tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Bu ironik repliği minimal tipografiyle sergileyen mizahi anime tişörtleri ve laptop çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "people die if they are killed shirt",
+     "label": "ironik anime alıntılı tişört"
+    },
+    {
+     "keyword": "anime meme sticker",
+     "label": "anime meme çıkartması"
+    }
+   ]
+  },
+  {
+   "name": "Erken Black Friday / İndirim Planlama Alışkanlığı",
+   "heat": "Yeni çıktı",
+   "desc": "Alışveriş sezonu gelmeden önce hediye listelerini ve bütçeleri erken hazırlama eğilimi.",
+   "why": "Google yükselen aramalarda 'black friday 2026' sorgusu ve erken fırsat haberleri yükselişe geçti.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Yılbaşı ve indirim alışverişlerini planlamaya yönelik kişiselleştirilebilir bütçe defteri veya dijital planlayıcı şablon",
+   "product_keywords": [
+    {
+     "keyword": "holiday budget planner",
+     "label": "tatil bütçe planlayıcı"
+    },
+    {
+     "keyword": "gift tracker printable",
+     "label": "hediye takip şablonu"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-22T03:18+00:00",
+ "trends_updated_at": "2026-10-22T06:20+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -472,12 +491,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-22T05:00+00:00"
+ "generated_at": "2026-10-22T06:20+00:00"
 }

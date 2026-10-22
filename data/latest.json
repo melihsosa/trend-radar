@@ -3,128 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Spooky Dog Parade & Pet Halloween",
-   "heat": "Zirvede",
-   "desc": "Cadılar Bayramı sezonunda evcil hayvanların yaratıcı ve korkutucu kostümlerle giydirilmesi akımı.",
-   "why": "Reddit'te Tompkins Square Halloween Dog Parade gönderisi popüler olurken TikTok'ta #tiktokscaryhorrorcontest ilk sırada yer alıyor.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Köpekler için el yapımı korku temalı pelerinler, yarasalı tasmalar ve esprili Cadılar Bayramı bandanaları.",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "pet spooky bandana",
-     "label": "evcil hayvan korku bandanası"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Hero Shooter Fandom",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni süper kahraman nişancı oyunu etrafında toplanan oyuncu topluluğunun viral içerik ve estetik ilgisi.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers 2. sıraya yerleşmiş durumda.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karakter silüetli oyun odası masa matları (desk mat), akrilik anahtarlıklar ve gamer kulaklık standı aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "superhero gaming desk mat",
-     "label": "kahraman oyunu masa matı"
-    },
-    {
-     "keyword": "hero shooter acrylic keychain",
-     "label": "akrilik oyun anahtarlığı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "People Die If They Are Killed Meme",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Klasik anime repliğinin absürtlüğüyle sosyal medyada yeniden dolaşıma girmesi ve Z kuşağı alaycı mizahında yer bulması.",
-   "why": "Reddit OutOfTheLoop topluluğunda kullanıcıların Twitter'da viral olan bu repliği sorguladığı gönderi öne çıkıyor.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Repliğin minimalist tipografiyle basıldığı ironik grafik tişörtler, kupa ve laptop çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "people die if they are killed shirt",
-     "label": "anime replikli tişört"
-    },
-    {
-     "keyword": "anime meme sticker",
-     "label": "ironik anime çıkartması"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "High on Potenuse Bot Repeller Mizahı",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Instagram'daki bot ve spam yorumlara karşı viral Key & Peele skeç repliğinin toplu bir tepki memi haline gelmesi.",
-   "why": "Reddit OutOfTheLoop'ta kullanıcıların botlara karşı bu görseli kullanması trend konusu oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Geometri esprisi ve viral meme referansını birleştiren nakışlı şapkalar ve retro tarzda tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse tshirt",
-     "label": "matematik memi tişörtü"
-    },
-    {
-     "keyword": "math meme embroidered hat",
-     "label": "nakışlı meme şapkası"
-    }
-   ]
-  },
-  {
-   "name": "Autumn Walk Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Sonbahar yürüyüşleri için katmanlı, sıcak toprak tonlarında rahat ve şık açık hava giyim tarzı.",
-   "why": "Reddit MaleFashionAdvice topluluğunda yüz binlerce görüntüleme alan 'autumn walk outfit' paylaşımları trend.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Toprak tonlarında kalın fitilli kadife tote bag çantalar ve el örgüsü yün atkı-bere setleri.",
-   "product_keywords": [
-    {
-     "keyword": "corduroy tote bag",
-     "label": "fitilli kadife bez çanta"
-    },
-    {
-     "keyword": "wool knit autumn scarf",
-     "label": "yün örgü sonbahar atkısı"
-    }
-   ]
-  },
-  {
-   "name": "S.K.I. Club (Spending Kid's Inheritance)",
-   "heat": "Yeni çıktı",
-   "desc": "Emeklilerin mirası bırakmak yerine seyahat ve keyfi harcamalarla tüketmesini konu alan esprili yaşam tarzı hareketi.",
-   "why": "Google yükselen aramalarda 'baby boomer inheritance spending trends' ve 'SKI-er' haberleri yer alıyor.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Seyahat eden ebeveynlere hediye edilebilecek 'SKI Club: Spending Kid's Inheritance' yazılı seyahat kılıfları, pasaportlu",
-   "product_keywords": [
-    {
-     "keyword": "spending kids inheritance mug",
-     "label": "miras harcayanlar kulübü kupası"
-    },
-    {
-     "keyword": "ski club travel tumbler",
-     "label": "esprili seyahat termosu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-22T12:27+00:00",
+ "trends_updated_at": "2026-10-22T15:32+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -484,20 +396,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-22T12:27+00:00"
+ "generated_at": "2026-10-22T15:32+00:00"
 }

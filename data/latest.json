@@ -110,14 +110,13 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": 38.5,
+   "change": 30.0,
    "spark": [
     2,
     2,
+    0,
     2,
-    2,
-    2,
-    1,
+    0,
     2,
     2,
     1,
@@ -125,76 +124,31 @@
     2,
     3,
     2,
-    5
+    2,
+    0
    ],
    "stale": false
   },
   {
    "name": "köpek cadılar bayramı kostümü",
    "keyword": "dog halloween costume",
-   "origin": "Akım: Halloween Pet Parade Costumes",
-   "change": 14.3,
+   "origin": "Akım: Halloween Dog Parade & Pet Costumes",
+   "change": 13.4,
    "spark": [
-    71,
-    66,
+    64,
+    84,
     87,
-    92,
-    74,
+    71,
+    71,
     73,
-    76,
-    81,
-    81,
-    97,
-    97,
-    81,
+    78,
+    78,
+    91,
+    100,
+    78,
     79,
+    73,
     100
-   ],
-   "stale": false
-  },
-  {
-   "name": "Kişiye özel kolye",
-   "keyword": "personalized necklace",
-   "origin": "İzleme listen",
-   "change": 7.2,
-   "spark": [
-    15,
-    13,
-    12,
-    15,
-    13,
-    15,
-    14,
-    15,
-    12,
-    16,
-    13,
-    12,
-    13,
-    23
-   ],
-   "stale": false
-  },
-  {
-   "name": "oyuncu masa matı",
-   "keyword": "gaming desk mat",
-   "origin": "Akım: Marvel Rivals Hero-Shooter Hype",
-   "change": 4.3,
-   "spark": [
-    32,
-    29,
-    27,
-    33,
-    23,
-    21,
-    22,
-    24,
-    27,
-    28,
-    32,
-    25,
-    22,
-    37
    ],
    "stale": false
   },
@@ -202,29 +156,29 @@
    "name": "Kokulu mum",
    "keyword": "scented candle",
    "origin": "İzleme listen",
-   "change": 3.2,
+   "change": 3.7,
    "spark": [
-    40,
-    43,
-    50,
-    50,
-    47,
+    44,
+    52,
+    52,
+    49,
     44,
     41,
-    43,
     44,
-    53,
-    50,
-    43,
     45,
-    47
+    54,
+    52,
+    45,
+    47,
+    43,
+    52
    ],
    "stale": false
   },
   {
-   "name": "evcil hayvan geçit kıyafeti",
-   "keyword": "pet parade outfit",
-   "origin": "Akım: Halloween Pet Parade Costumes",
+   "name": "komik evcil hayvan bandanası",
+   "keyword": "funny pet bandana",
+   "origin": "Akım: Halloween Dog Parade & Pet Costumes",
    "change": 0.0,
    "spark": [
     0,
@@ -245,32 +199,9 @@
    "stale": false
   },
   {
-   "name": "korku temalı dekor",
-   "keyword": "horror prop decor",
-   "origin": "Akım: Spooky Horror Creator Aesthetic",
-   "change": 0.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
-   "name": "korku masa aksesuarı",
-   "keyword": "spooky desk accessory",
-   "origin": "Akım: Spooky Horror Creator Aesthetic",
+   "name": "high on potenuse tişört",
+   "keyword": "high on potenuse shirt",
+   "origin": "Akım: High On Potenuse Meme",
    "change": 0.0,
    "spark": [
     0,
@@ -293,7 +224,7 @@
   {
    "name": "high on potenuse çıkartma",
    "keyword": "high on potenuse sticker",
-   "origin": "Akım: High on Potenuse Meme Merch",
+   "origin": "Akım: High On Potenuse Meme",
    "change": 0.0,
    "spark": [
     0,
@@ -314,9 +245,32 @@
    "stale": false
   },
   {
-   "name": "komik meme kupası",
-   "keyword": "funny meme coffee mug",
-   "origin": "Akım: High on Potenuse Meme Merch",
+   "name": "korku temalı sanat baskısı",
+   "keyword": "horror decor art print",
+   "origin": "Akım: Scary Horror Contest Aesthetic",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "gotik dekoratif mum",
+   "keyword": "creepy gothic candle",
+   "origin": "Akım: Scary Horror Contest Aesthetic",
    "change": 0.0,
    "spark": [
     0,
@@ -360,8 +314,8 @@
    "stale": false
   },
   {
-   "name": "nesne şovu yaka iğnesi",
-   "keyword": "object show enamel pin",
+   "name": "bfdi rozet iğne",
+   "keyword": "battle for dream island pin",
    "origin": "Akım: BFDI (Battle for Dream Island) Fandom",
    "change": 0.0,
    "spark": [
@@ -383,9 +337,32 @@
    "stale": false
   },
   {
-   "name": "süper kahraman kol tutucu",
-   "keyword": "superhero controller holder",
-   "origin": "Akım: Marvel Rivals Hero-Shooter Hype",
+   "name": "10 things i hate about you bez çanta",
+   "keyword": "10 things i hate about you tote bag",
+   "origin": "Akım: 10 Things I Hate About You Nostaljisi",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "y2k film posteri",
+   "keyword": "y2k rom com poster",
+   "origin": "Akım: 10 Things I Hate About You Nostaljisi",
    "change": 0.0,
    "spark": [
     0,
@@ -409,22 +386,45 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": -1.5,
+   "change": -1.0,
    "spark": [
-    64,
-    67,
-    82,
-    89,
-    75,
-    69,
-    71,
-    63,
-    71,
-    90,
-    85,
     68,
-    56,
-    76
+    83,
+    90,
+    76,
+    71,
+    72,
+    65,
+    70,
+    92,
+    90,
+    70,
+    62,
+    63,
+    73
+   ],
+   "stale": false
+  },
+  {
+   "name": "Kişiye özel kolye",
+   "keyword": "personalized necklace",
+   "origin": "İzleme listen",
+   "change": -2.1,
+   "spark": [
+    14,
+    12,
+    15,
+    14,
+    14,
+    13,
+    15,
+    12,
+    16,
+    14,
+    12,
+    13,
+    14,
+    14
    ],
    "stale": false
   },
@@ -432,27 +432,27 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": -4.1,
+   "change": -4.7,
    "spark": [
-    33,
     39,
-    45,
-    41,
+    46,
+    43,
     39,
     35,
-    36,
-    37,
     37,
     38,
-    42,
-    35,
-    31,
-    37
+    37,
+    39,
+    44,
+    36,
+    33,
+    33,
+    42
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-10-21T04:58+00:00",
+ "products_updated_at": "2026-10-22T05:00+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -479,5 +479,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-22T03:18+00:00"
+ "generated_at": "2026-10-22T05:00+00:00"
 }

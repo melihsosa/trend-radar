@@ -3,127 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "Evcil Hayvan Cadılar Bayramı Kostümleri",
-   "heat": "Zirvede",
-   "desc": "Sahiplerinin evcil hayvanlarını tematik, detaylı ve esprili kostümlerle giydirdiği Cadılar Bayramı pet modası akımı.",
-   "why": "Reddit popculturechat topluluğunda 36. Tompkins Square Cadılar Bayramı Köpek Geçidi'nin popüler olmasıyla öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Küçük ve orta ırk köpekler için el yapımı hafif Cadılar Bayramı pelerinleri ve şapkaları.",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "pet costume accessory",
-     "label": "evcil hayvan kostüm aksesuarı"
-    }
-   ]
-  },
-  {
-   "name": "Korku Sanatı ve Spooky Kendin-Yap Projeleri",
+   "name": "Horror Creator & Pet Parade Aesthetic",
    "heat": "Hızla yükseliyor",
-   "desc": "Cadılar Bayramı döneminde kullanıcıların kendi ürettikleri ürkütücü kostümler, maskeler ve korku temalı içerikleri sergileme akımı.",
-   "why": "TikTok Creative Center verilerinde 'tiktokscaryhorrorcontest' etiketi 1. sırada yer aldı.",
+   "desc": "Korku temalı video yarışmaları ve evcil hayvan kostümlü geçit törenleriyle birleşen eğlenceli ve karanlık sonbahar estetiği.",
+   "why": "TikTok'ta 'tiktokscaryhorrorcontest' 1. sırada yer alırken Reddit'te 'Tompkins Square Halloween Dog Parade' yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "El boyaması sanatsal korku maskeleri veya ürkütücü Cadılar Bayramı reçine masa dekorları.",
+   "idea": "Evcil hayvanlar için gotik/korku temalı özel tasarım pelerinler, tasmalar ve el yapımı korku motifli yamalar.",
    "product_keywords": [
     {
-     "keyword": "horror art mask",
-     "label": "korku temalı el yapımı maske"
+     "keyword": "halloween pet costume",
+     "label": "cadılar bayramı evcil hayvan kostümü"
     },
     {
-     "keyword": "creepy halloween prop",
-     "label": "cadılar bayramı dekoratif figür"
+     "keyword": "spooky dog bandana",
+     "label": "korku temalı köpek fuları"
     }
    ]
   },
   {
-   "name": "Sonbahar Yürüyüşü / Katmanlı Giyim Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Mevsim geçişinde rahat, toprak tonlarında ve katmanlı giysilerle sonbahar açık hava kombinleri oluşturma stili.",
-   "why": "Reddit MaleFashionAdvice topluluğunda yüz binlerce görüntülenmeye ulaşan 'autumn walk outfit' paylaşımlarıyla dikkat çekti.",
+   "name": "High On Potenuse Bot-Response Meme",
+   "heat": "Yeni çıktı",
+   "desc": "Sosyal medyadaki botlara ve spam yorumlara tepki olarak popüler Key & Peele repliğinin yeniden viral hale gelmesi.",
+   "why": "Reddit OutOfTheLoop topluluğunda Instagram botlarına karşı 'I wish I were high on potenuse' GIF'inin kitlesel kullanımı gündem oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Toprak tonlarında el örgüsü yün atkı ve minimalist sonbahar bereleri.",
+   "idea": "Bu repliği ve üçgen/geometri şakalarını içeren ironik tişörtler, laptop çıkartmaları ve kupa bardaklar.",
    "product_keywords": [
     {
-     "keyword": "chunky knit wool scarf",
-     "label": "örgü yün atkı"
+     "keyword": "high on potenuse sticker",
+     "label": "high on potenuse çıkartma"
     },
     {
-     "keyword": "autumn knit beanie",
-     "label": "sonbahar örgü bere"
+     "keyword": "high on potenuse t shirt",
+     "label": "high on potenuse tişört"
     }
    ]
   },
   {
-   "name": "90'lar/Y2K Gençlik Rom-Com Nostaljisi",
+   "name": "BFDI (Battle for Dream Island) Fandom",
    "heat": "Yükseliyor",
-   "desc": "'10 Things I Hate About You' gibi dönemin kült romantik komedi filmlerine ve repliklerine duyulan vintage hayranlık.",
-   "why": "Reddit popculturechat'te Julia Stiles'ın filmdeki rol arkadaşlarıyla buluşması ve Heath Ledger anması viral oldu.",
+   "desc": "Cansız nesnelerin yarıştığı bağımsız animasyon web serisi BFDI'ın nostaljik ve yeni nesil hayran kitlesi arasında yeniden canlanması.",
+   "why": "Reddit OutOfTheLoop başlıklarında BFDI ve yaratıcıları hakkındaki gelişmeler yoğun şekilde tartışıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İkonik film alıntılarını ve tipografik Y2K tasarımlarını taşıyan kanvas bez çantalar ve posterler.",
+   "idea": "Serideki sevilen nesne karakterlerin akrilik anahtarlıkları, el yapımı peluşları ve emaye iğneleri (enamel pin).",
    "product_keywords": [
     {
-     "keyword": "rom com quote tote bag",
-     "label": "romantik komedi replikli bez çanta"
+     "keyword": "bfdi acrylic keychain",
+     "label": "bfdi akrilik anahtarlık"
     },
     {
-     "keyword": "y2k aesthetic poster",
-     "label": "y2k estetik poster"
+     "keyword": "battle for dream island pin",
+     "label": "battle for dream island rozet"
     }
    ]
   },
   {
-   "name": "Absürt Anime Replik Mizahı ('People Die If They Are Killed')",
+   "name": "\"Autumn Walk\" Cozy Giyim Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Fate serisinin bariz ve absürt repliğinin, günlük hayattaki kaçınılmaz durumları tiye almak için mizahi bir kalıp olarak kullanılması.",
-   "why": "Reddit OutOfTheLoop topluluğunda 'people die if they are killed' alıntısının Twitter'da neden trend olduğu tartışıldı.",
+   "desc": "Sonbahar yürüyüşleri için katmanlı, içine sokulmuş gömlekler ve toprak tonlarıyla öne çıkan sade 'cozy' erkek/unisex giyim stili.",
+   "why": "Reddit malefashionadvice topluluğunda yüz binlerce görüntülenme alan 'autumn walk' kombinleri ve gömlek sokma stilleri tartışıldı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Bu ironik repliği minimal tipografiyle sergileyen mizahi anime tişörtleri ve laptop çıkartmaları.",
+   "idea": "Doğal pamuklu sonbahar temalı tote çantalar, minimalist yün bere ve el yapımı deri pantolon kemerleri.",
+   "product_keywords": [
+    {
+     "keyword": "fall aesthetic tote bag",
+     "label": "sonbahar estetiği bez çanta"
+    },
+    {
+     "keyword": "cozy autumn beanie",
+     "label": "rahat sonbahar beresi"
+    }
+   ]
+  },
+  {
+   "name": "People Die If They Are Killed İronik Anime Repliği",
+   "heat": "Yeni çıktı",
+   "desc": "Fate/stay night animesinin absürt ve aşırı bariz repliğinin Twitter ve Reddit'te absürt mizah aracı olarak yeniden patlaması.",
+   "why": "Reddit OutOfTheLoop'ta kullanıcıların neden bu replikle tweet attığına dair sorular öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Repliğin anime yazı tipiyle basıldığı ironik grafik tişörtler, retro anime kupaları ve su matarası stickerları.",
    "product_keywords": [
     {
      "keyword": "people die if they are killed shirt",
      "label": "ironik anime alıntılı tişört"
     },
     {
-     "keyword": "anime meme sticker",
-     "label": "anime meme çıkartması"
+     "keyword": "funny anime quote sticker",
+     "label": "komik anime sözlü çıkartma"
     }
    ]
   },
   {
-   "name": "Erken Black Friday / İndirim Planlama Alışkanlığı",
-   "heat": "Yeni çıktı",
-   "desc": "Alışveriş sezonu gelmeden önce hediye listelerini ve bütçeleri erken hazırlama eğilimi.",
-   "why": "Google yükselen aramalarda 'black friday 2026' sorgusu ve erken fırsat haberleri yükselişe geçti.",
+   "name": "Gen Z Hayatta Kalma & Burnout Mizahı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin artan yaşam ve teknoloji maliyetlerine karşı geliştirdiği karamsar ama dayanışmacı, esprili hayatta kalma mottoları.",
+   "why": "Reddit GenZ topluluğunda 'How are y'all surviving? Cause I'm not' ve pahalılaşan yaşam konulu paylaşımlar zirveye oturdu.",
    "sources": [
-    "Google"
+    "Reddit"
    ],
-   "idea": "Yılbaşı ve indirim alışverişlerini planlamaya yönelik kişiselleştirilebilir bütçe defteri veya dijital planlayıcı şablon",
+   "idea": "İronik ve dürüst ofis/öğrenci motivasyon ürünleri; 'Surviving Out of Spite' yazılı masa isimlikleri ve minimalist planla",
    "product_keywords": [
     {
-     "keyword": "holiday budget planner",
-     "label": "tatil bütçe planlayıcı"
+     "keyword": "surviving desk sign",
+     "label": "tükenmişlik mizahı masa levhası"
     },
     {
-     "keyword": "gift tracker printable",
-     "label": "hediye takip şablonu"
+     "keyword": "burnout humor planner",
+     "label": "ironik haftalık planlayıcı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-22T06:20+00:00",
+ "trends_updated_at": "2026-10-22T09:24+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -498,5 +499,5 @@
    "count": 15
   }
  },
- "generated_at": "2026-10-22T06:20+00:00"
+ "generated_at": "2026-10-22T09:24+00:00"
 }

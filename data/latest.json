@@ -3,147 +3,168 @@
  "sample": false,
  "trends": [
   {
-   "name": "Halloween Dog Parade & Pet Costumes",
+   "name": "Halloween Pet Fashion",
    "heat": "Zirvede",
-   "desc": "Evcil hayvan sahiplerinin köpeklerine yaratıcı ve eğlenceli kostümler giydirerek sokak geçitlerine katılması ve bu görüntülerin viral olması akımı.",
-   "why": "Reddit popculturechat topluluğunda '36th annual Tompkins Square Halloween Dog Parade' etkinliğinin yoğun etkileşim almasıyla öne çıktı.",
+   "desc": "Evcil hayvan sahiplerinin köpeklerine yaratıcı Cadılar Bayramı kostümleri giydirerek geçit törenlerine katılması ve korku temalı içerikler üretmesi akımı.",
+   "why": "Reddit popculturechat topluluğunda 'Tompkins Square Halloween Dog Parade' öne çıkarken, TikTok'ta 'tiktokscaryhorrorcontest' 1. sırada yer alıyor.",
    "sources": [
-    "Reddit"
+    "Reddit",
+    "TikTok"
    ],
-   "idea": "El yapımı komik köpek pelerinleri, hafif temalı evcil hayvan başlıkları veya cadılar bayramı tasma süsleri.",
+   "idea": "El yapımı esprili köpek Cadılar Bayramı kostümleri veya temalı evcil hayvan bandanaları.",
    "product_keywords": [
     {
      "keyword": "dog halloween costume",
      "label": "köpek cadılar bayramı kostümü"
     },
     {
-     "keyword": "pet costume handmade",
-     "label": "el yapımı evcil hayvan kostümü"
+     "keyword": "pet spooky bandana",
+     "label": "korku temalı evcil hayvan bandanası"
     }
    ]
   },
   {
-   "name": "BFDI (Battle for Dream Island) Fandom",
+   "name": "Marvel Rivals Gaming Hype",
    "heat": "Yükseliyor",
-   "desc": "Gençler ve Z kuşağı arasında kült haline gelen, günlük objelerin canlandırıldığı animasyon serisi 'Battle for Dream Island' etrafındaki nostaljik hayran kültürü.",
-   "why": "Reddit OutOfTheLoop topluluğunda serinin ve yaratıcılarının aniden yeniden gündem olması ve tartışılmasıyla görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "BFDI karakterlerini andıran minimalist sevimli obje akrilik anahtarlıklar ve su geçirmez vinil çıkartma paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "bfdi keychain",
-     "label": "BFDI akrilik anahtarlık"
-    },
-    {
-     "keyword": "object show stickers",
-     "label": "obje şovu çıkartma seti"
-    }
-   ]
-  },
-  {
-   "name": "'High on Potenuse' Meme Canlanması",
-   "heat": "Hızla yükseliyor",
-   "desc": "Klasikleşmiş 'I wish I were high on potenuse' şakasının Instagram botlarına ve spam yorumlara karşı alaycı bir yanıt kalıbı olarak yeniden patlaması.",
-   "why": "Reddit OutOfTheLoop'ta bot yorumlarına karşı bu repliğin yaygın şekilde GIF olarak kullanıldığının sorulmasıyla tespit edildi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geometrik çizim eşliğinde 'High on Potenuse' yazılı retro mizah tişörtleri veya laptop sticker'ları.",
-   "product_keywords": [
-    {
-     "keyword": "high on potenuse shirt",
-     "label": "high on potenuse baskılı tişört"
-    },
-    {
-     "keyword": "funny meme sticker",
-     "label": "komik meme çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Reality TV Catchphrase: 'Not Here to Get a Pedicure'",
-   "heat": "Yeni çıktı",
-   "desc": "Popüler reality yarışma programı Survivor'ın son bölümünde söylenen ve sert/mücadeleci tavrı simgeleyen viral tek cümlelik aforizma.",
-   "why": "Google Trends yükselen aramalarda 'survivor not here to get a pedicure' ifadesinin hızla artış göstermesiyle belirdi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "'Not here to get a pedicure' tipografik sloganlı spor matarası, kupa bardak veya kanvas bez çanta.",
-   "product_keywords": [
-    {
-     "keyword": "survivor quote mug",
-     "label": "Survivor alıntılı kupa"
-    },
-    {
-     "keyword": "funny quote tote bag",
-     "label": "komik sözlü bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Autumn Walk Menswear Aesthetic",
-   "heat": "Yükseliyor",
-   "desc": "Erkek modasında sonbahar tonları, katmanlı giyim (ceket, fular, bot) ve 'sonbahar yürüyüşü' konseptli şık açık hava kombinleri estetiği.",
-   "why": "Reddit malefashionadvice üzerinde 'autumn walk outfit' paylaşımlarının yüz binlerce görüntüleme alarak yoğun ilgi görmesiyle tespit edildi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Katmanlı sonbahar kombinleri için el örgüsü toprak tonlu atkı/bere setleri veya vintage tarz deri aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "knit autumn scarf",
-     "label": "örgü sonbahar atkısı"
-    },
-    {
-     "keyword": "mens fall accessories",
-     "label": "erkek sonbahar aksesuarları"
-    }
-   ]
-  },
-  {
-   "name": "'People Die If They Are Killed' Absürt Anime Kalıbı",
-   "heat": "Yükseliyor",
-   "desc": "Anime tarihinin en ünlü gereksiz gerçeklik/totoloji repliklerinden birinin sosyal medyada yeniden mizahi bir metin şablonuna dönüşmesi.",
-   "why": "Reddit OutOfTheLoop'ta kullanıcıların Twitter'da aniden bu sözün trend olmasını sorgulamasıyla ortaya çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Minimalist Japonca ve İngilizce tipografiye sahip alaycı anime alıntı tişörtü veya ceket arması (patch).",
-   "product_keywords": [
-    {
-     "keyword": "anime quote patch",
-     "label": "anime replikli arma"
-    },
-    {
-     "keyword": "people die if they are killed shirt",
-     "label": "ironik anime tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Horror & DIY Spooky Decor",
-   "heat": "Zirvede",
-   "desc": "Cadılar bayramı döneminde kısa korku hikayeleri, el yapımı ürpertici sahneler ve analog korku temalı içeriklerin yükselişi.",
-   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketinin 1. sırada trend olmasıyla doğrudan doğrulandı.",
+   "desc": "Marvel evreni karakterlerinin yer aldığı yeni rekabetçi takım nişancı oyunu etrafında oluşan oyuncu heyecanı ve topluluk akımı.",
+   "why": "TikTok'ta '#marvelrivalsavengers' etiketi en popüler yükselen 2. etiket olarak listeleniyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı gotik/korku temalı reçine biblolar, sahte kan efektli dekoratif mumlar veya gizemli mini korku kitleri.",
+   "idea": "Süper kahraman ve oyun temalı özel masa sümenleri (desk mat) ve mekanik klavye tuş başlıkları.",
    "product_keywords": [
     {
-     "keyword": "creepy aesthetic decor",
-     "label": "ürpertici gotik ev dekoru"
+     "keyword": "superhero gaming desk mat",
+     "label": "süper kahraman oyuncu masa matı"
     },
     {
-     "keyword": "spooky horror candle",
-     "label": "korku temalı dekoratif mum"
+     "keyword": "custom gaming keycaps",
+     "label": "özel tasarım klavye tuşları"
+    }
+   ]
+  },
+  {
+   "name": "High on Potenuse Meme Rönesansı",
+   "heat": "Yükseliyor",
+   "desc": "Key & Peele'in kült repliğinin sosyal medyadaki bot ve spam yorumlara karşı ironik bir yanıt olarak yeniden viral olması.",
+   "why": "Reddit OutOfTheLoop topluluğunda botlara verilen 'I wish I were high on potenuse' yanıtları haftanın en popüler konularından biri.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Matematik ve popüler kültür mizahını birleştiren 'High on Potenuse' sloganlı tişörtler ve laptop sticker'ları.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse t shirt",
+     "label": "high on potenuse tişört"
+    },
+    {
+     "keyword": "math meme vinyl sticker",
+     "label": "matematik mizah vinil sticker"
+    }
+   ]
+  },
+  {
+   "name": "Kalp Sağlığı İçin Günlük Çay Rutini",
+   "heat": "Yeni çıktı",
+   "desc": "Yeni yayımlanan sağlık araştırmasıyla birlikte günlük çay tüketiminin kardiyovasküler faydalarına odaklanan sağlıklı yaşam akımı.",
+   "why": "Google'da 'what did the new study find about daily tea drinking and heart health' araması hızla yükseliyor.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Kalp dostu bitki çayı hediye setleri ve süzgeçli cam demleme şişeleri.",
+   "product_keywords": [
+    {
+     "keyword": "herbal tea gift set",
+     "label": "bitki çayı hediye seti"
+    },
+    {
+     "keyword": "tea infuser water bottle",
+     "label": "süzgeçli cam çay şişesi"
+    }
+   ]
+  },
+  {
+   "name": "Battle for Dream Island (BFDI) Fandomu",
+   "heat": "Yükseliyor",
+   "desc": "Genç internet kullanıcıları ve Z kuşağı arasında kült hale gelen bağımsız web animasyon serisi etrafındaki hayran ilgisi.",
+   "why": "Reddit OutOfTheLoop'ta BFDI serisi ve yaratıcıları hakkındaki sorular haftalık zirveye ulaştı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Animasyondaki nesne karakterlerinden esinlenen pelüş figürler ve akrilik anahtarlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "cartoon object plush",
+     "label": "animasyon karakter pelüşü"
+    },
+    {
+     "keyword": "indie animation acrylic keychain",
+     "label": "akrilik karakter anahtarlık"
+    }
+   ]
+  },
+  {
+   "name": "'People Die If They Are Killed' Anime Alıntısı",
+   "heat": "Yükseliyor",
+   "desc": "Anime tarihinin en bilinen absürt ve mantık dışı repliklerinden birinin sosyal medyada genel bir espri kalıbı olarak hortlaması.",
+   "why": "Reddit OutOfTheLoop'ta insanların neden bu kalıbı tweetlediği haftanın en çok konuşulan başlıkları arasında.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İronik anime alıntısını içeren vintage esintili grafik tişörtler ve işlemeli şapkalar.",
+   "product_keywords": [
+    {
+     "keyword": "anime quote graphic tee",
+     "label": "anime alıntılı grafik tişört"
+    },
+    {
+     "keyword": "ironic meme embroidered hat",
+     "label": "ironik meme işlemeli şapka"
+    }
+   ]
+  },
+  {
+   "name": "Autumn Walk Katmanlı Giyim Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Sonbahar doğa yürüyüşleri için konforlu, katmanlı (layering) ve toprak tonlarında şık açık hava kombinleri akımı.",
+   "why": "Reddit malefashionadvice topluluğunda sonbahar yürüyüşü kombinleri (autumn walk outfit) yüz binlerce görüntülenmeyle öne çıkıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sonbahar yürüyüşlerine özel kalın örgü bereler ve yün çorap hediye kutuları.",
+   "product_keywords": [
+    {
+     "keyword": "chunky knit beanie",
+     "label": "kalın örgü bere"
+    },
+    {
+     "keyword": "wool hiking socks gift set",
+     "label": "yün yürüyüş çorabı hediye seti"
+    }
+   ]
+  },
+  {
+   "name": "Live Can Be Easy Minimal Yaşam",
+   "heat": "Yeni çıktı",
+   "desc": "Stresli ve kaotik günlük hayatı sadeleştirmeyi ve zihinsel yükü hafifletmeyi öne çıkaran pratik yaşam tarzı hareketi.",
+   "why": "TikTok Creative Center'da '#livecanbeeasy' etiketi popülerlikte 3. sıraya yükseldi.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Günlük işleri basitleştiren minimalist rutin planlayıcı defterler ve olumlama kartları.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist daily routine planner",
+     "label": "minimalist günlük rutin planlayıcı"
+    },
+    {
+     "keyword": "simple living affirmation cards",
+     "label": "sade yaşam olumlama kartları"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-21T21:17+00:00",
+ "trends_updated_at": "2026-10-22T00:11+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -511,12 +532,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 7
+   "count": 8
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-21T21:17+00:00"
+ "generated_at": "2026-10-22T00:11+00:00"
 }

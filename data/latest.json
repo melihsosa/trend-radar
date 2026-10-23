@@ -3,40 +3,88 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Halloween Dog Parade & Spooky Pets",
+   "heat": "Zirvede",
+   "desc": "Evcil hayvanların Cadılar Bayramı için yaratıcı ve korku temalı kostümlerle giydirilmesi ve geçit törenlerine hazırlanması akımı.",
+   "why": "Reddit r/popculturechat'te 'Tompkins Square Halloween Dog Parade' etkinliği ve TikTok'ta 1 numaradaki #tiktokscaryhorrorcontest etiketiyle öne çıkıyor.",
    "sources": [
+    "Reddit",
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Küçük ve orta ırk köpekler için el yapımı esprili Cadılar Bayramı kostümleri ve korku temalı pet tasmaları.",
+   "product_keywords": [
+    {
+     "keyword": "dog halloween costume",
+     "label": "köpek cadılar bayramı kostümü"
+    },
+    {
+     "keyword": "pet spooky bandana",
+     "label": "evcil hayvan temalı bandana"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "90'lar Rom-Com Nostaljisi (10 Things I Hate About You)",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kült gençlik filmi oyuncularının yeniden buluşmasıyla tetiklenen 90'lar sonu nostaljisi ve romantik grunge gençlik estetiği.",
+   "why": "Reddit r/popculturechat topluluğunda filmin oyuncularının buluşması ve Heath Ledger anmaları birden fazla paylaşımla öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Filmdeki ikonik replikleri (şiir dizeleri gibi) taşıyan retro tipografik tişörtler, posterler ve bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "10 things i hate about you shirt",
+     "label": "10 things i hate about you tişört"
+    },
+    {
+     "keyword": "90s romcom tote bag",
+     "label": "90lar retro bez çanta"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
+   "name": "High on Potenuse Meme Rönesansı",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Sosyal medya botlarına karşı tepki olarak yeniden popülerleşen kült 'I wish I were high on potenuse' mizah akımı.",
+   "why": "Reddit r/OutOfTheLoop trendlerinde kullanıcıların Instagram botlarına bu replikle yanıt vermesi haftanın en çok merak edilen konusu oldu.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Geometri ve skeç repliğini birleştiren esprili laptop sticker'ları, işlemeli yaka iğneleri ve kahve kupaları.",
+   "product_keywords": [
+    {
+     "keyword": "high on potenuse sticker",
+     "label": "high on potenuse çıkartma"
+    },
+    {
+     "keyword": "high on potenuse mug",
+     "label": "high on potenuse kupa"
+    }
+   ]
+  },
+  {
+   "name": "Ultra Dayanıklı Bridle Deri Zanaati",
+   "heat": "Yükseliyor",
+   "desc": "Tüketim karşıtı 'Ömür Boyu Kullan' (BIFL) felsefesiyle yüksek mukavemetli İngiliz koşum derisinden yapılan ağır hizmet ürünlerine yönelim.",
+   "why": "Reddit r/BuyItForLife topluluğunda 421 kg çekme kuvvetine dayanan İngiliz bridle derisi dayanıklılık testi haftanın zirvesinde yer aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ömür boyu garanti sunan, el yapımı kalın İngiliz bridle derisinden üretilmiş minimalist kartlık ve kemerler.",
+   "product_keywords": [
+    {
+     "keyword": "english bridle leather belt",
+     "label": "ingiliz bridle deri kemer"
+    },
+    {
+     "keyword": "bifl leather wallet",
+     "label": "uzun ömürlü deri cüzdan"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-22T21:19+00:00",
+ "trends_updated_at": "2026-10-23T00:13+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -396,20 +444,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 75
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-10-22T21:19+00:00"
+ "generated_at": "2026-10-23T00:13+00:00"
 }

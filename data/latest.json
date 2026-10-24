@@ -3,40 +3,128 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Halloween Pet & Horror Aesthetic",
+   "heat": "Zirvede",
+   "desc": "Kullanıcıların korku içerikleri üretmesi ve evcil hayvanlarını kostümlerle Cadılar Bayramı yürüyüşlerine hazırlaması akımı.",
+   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken, Reddit popculturechat'te Tompkins Square Cadılar Bayramı Köpek Geçidi öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Evcil hayvanlar için el yapımı gotik/korku temalı Cadılar Bayramı kostümleri ve korku estetiğine sahip dekoratif aksesua",
+   "product_keywords": [
+    {
+     "keyword": "dog halloween costume",
+     "label": "köpek cadılar bayramı kostümü"
+    },
+    {
+     "keyword": "spooky pet bandana",
+     "label": "korku temalı evcil hayvan bandanası"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "90'lar Nostaljisi ve '10 Things I Hate About You'",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kült gençlik filmi '10 Things I Hate About You' oyuncularının yeniden bir araya gelmesiyle tetiklenen 90'lar sonu romantik komedi estetiği.",
+   "why": "Reddit popculturechat topluluğunda Julia Stiles ve film ekibinin buluşmasına dair çok sayıda popüler paylaşım yapıldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Filmdeki ikonik 'I hate the way you talk to me' şiirini içeren retro tipografili bez çantalar, posterler ve vintage tarz",
+   "product_keywords": [
+    {
+     "keyword": "10 things i hate about you tote bag",
+     "label": "10 things i hate about you bez çanta"
+    },
+    {
+     "keyword": "90s romcom vintage graphic tee",
+     "label": "90lar romantik komedi vintage tişört"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
+   "name": "Kişiselleştirilmiş Masa Oyunu Parçaları",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Geleneksel ve masa oyunları için seri üretim yerine özel isimli veya sembollü el yapımı ahşap parçalar kullanma eğilimi.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda kişiye özel isimli ve sembollü ahşap cribbage piyonları yoğun ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Kişiselleştirilmiş isim veya sembol baskılı ahşap masa oyunu ve cribbage skor piyonları seti.",
+   "product_keywords": [
+    {
+     "keyword": "custom cribbage pegs",
+     "label": "kişiye özel cribbage piyonu"
+    },
+    {
+     "keyword": "personalized board game pieces",
+     "label": "kişiselleştirilmiş kutu oyunu parçaları"
+    }
+   ]
+  },
+  {
+   "name": "Autumn Walk Katmanlama Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Mevsim geçişinde dış mekan sonbahar yürüyüşlerine özel katmanlı giyim, retro dokulu kumaşlar ve aksesuarlarla oluşturulan stil.",
+   "why": "Reddit malefashionadvice'da 'autumn walk outfit' temalı gönderiler yüz binlerce görüntülenme alarak viral oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sonbahar yürüyüşlerine yönelik el örgüsü toprak tonlarında yün atkı-bere setleri veya vintage tarz kanvas yürüyüş çantal",
+   "product_keywords": [
+    {
+     "keyword": "wool knit autumn scarf",
+     "label": "el örgüsü sonbahar atkısı"
+    },
+    {
+     "keyword": "vintage canvas walking bag",
+     "label": "vintage kanvas yürüyüş çantası"
+    }
+   ]
+  },
+  {
+   "name": "Marvel Rivals & Hero Shooter Gamer Aksesuarları",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni nesil süper kahraman takım oyunlarına duyulan heyecan ve oyuncuların masa düzenlerinde bu karakterleri sergileme isteği.",
+   "why": "TikTok Creative Center'da '#marvelrivalsavengers' etiketi 2. sırada yer alarak hızla yükseldi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Marvel Rivals karakter siluetlerine sahip minimalist oyuncu mousepad'leri veya 3D baskı kumanda stantları.",
+   "product_keywords": [
+    {
+     "keyword": "superhero desk mat",
+     "label": "süper kahraman masa matı"
+    },
+    {
+     "keyword": "gaming controller stand",
+     "label": "oyuncu kumanda standı"
+    }
+   ]
+  },
+  {
+   "name": "Gen Z Hayatta Kalma İronisi",
+   "heat": "Yükseliyor",
+   "desc": "Gen Z'nin ekonomik ve sosyal yorgunlukla başa çıkmak için benimsediği kara mizah ve dürüst duygusal haykırış tarzı.",
+   "why": "Reddit r/GenZ üzerinde 'How are y'all surviving? Cause I'm not' ve flörtsüzlük üzerine paylaşımlar haftanın en çok etkileşim alan gönderileri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "'How are y'all surviving?' ve benzeri ironik minimalist sloganlar içeren seramik kahve kupaları ve laptop sticker'ları.",
+   "product_keywords": [
+    {
+     "keyword": "sarcastic quote mug",
+     "label": "ironik alıntılı seramik kupa"
+    },
+    {
+     "keyword": "existential humor sticker pack",
+     "label": "kara mizah sticker seti"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-24T17:42+00:00",
+ "trends_updated_at": "2026-10-24T19:56+00:00",
  "products": [
   {
    "name": "yün örgü bere",
@@ -495,13 +583,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-24T17:42+00:00"
+ "generated_at": "2026-10-24T19:56+00:00"
 }

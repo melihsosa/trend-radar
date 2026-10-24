@@ -3,147 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Spooky Horror Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Korku temalı yarışmalar ve ürpertici estetik, içerik üreticileri arasında yoğun ilgi görerek karanlık sanat ve el yapımı korku aksesuarlarını tetikliyor.",
-   "why": "TikTok Creative Center verilerinde #tiktokscaryhorrorcontest etiketi 1. sırada yer aldı.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı korku temalı reçine kolyeler, gotik/korku illüstrasyonlu posterler veya özel tasarım maskeler.",
-   "product_keywords": [
-    {
-     "keyword": "horror art print",
-     "label": "korku temalı sanat baskısı"
-    },
-    {
-     "keyword": "creepy handmade mask",
-     "label": "el yapımı korku maskesi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Halloween Evcil Hayvan Kostümleri",
-   "heat": "Zirvede",
-   "desc": "Evcil hayvanları Cadılar Bayramı için giydirme ve geçit törenlerine hazırlama kültürü, evcil hayvan modasını ön plana çıkarıyor.",
-   "why": "Reddit r/popculturechat topluluğunda '36th annual Tompkins Square Halloween Dog Parade' etkinliği öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Küçük ve orta ırk köpekler için esprili, el yapımı tığ veya kumaş Cadılar Bayramı kostümleri ve bandanaları.",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "pet ghost bandana",
-     "label": "hayalet desenli evcil hayvan bandanası"
-    }
-   ]
-  },
-  {
-   "name": "90'lar Rom-Com Nostaljisi",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "90'lar ve 2000'lerin klasik gençlik romantik komedilerine ve oyuncularına duyulan sevgi, retro tipografi ve film alıntılarını yeniden popülerleştiriyor.",
-   "why": "Reddit r/popculturechat'te '10 Things I Hate About You' oyuncularının yeniden bir araya gelmesi ve Heath Ledger anması viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "10 Things I Hate About You ve 90'lar gençlik filmi repliklerini içeren retro tipografik bez çantalar ve vintage tişörtle",
-   "product_keywords": [
-    {
-     "keyword": "90s rom com tote bag",
-     "label": "90lar romantik komedi bez çanta"
-    },
-    {
-     "keyword": "vintage movie quote shirt",
-     "label": "vintage film alıntılı tişört"
-    }
-   ]
-  },
-  {
-   "name": "'People Die If They Are Killed' İronik Meme Modası",
-   "heat": "Yeni çıktı",
-   "desc": "Klasikleşmiş saçma anime çevirisi cümlesi internet kullanıcıları arasında absürt mizah olarak yeniden canlandı.",
-   "why": "Reddit r/OutOfTheLoop üzerinde 'people die if they are killed' tweet akımı hakkında sorular zirveye çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bu absürt repliği minimalist Japonca/İngilizce tipografi ve anime estetiğiyle harmanlayan çıkartma (sticker) ve kapüşonl",
-   "product_keywords": [
-    {
-     "keyword": "anime meme hoodie",
-     "label": "anime meme kapüşonlu"
-    },
-    {
-     "keyword": "ironic quote sticker",
-     "label": "ironik replik çıkartması"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Gamer Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni süper kahraman takımlı nişancı oyununun yarattığı heyecan, tematik masa aksesuarlarına ve oyuncu ekipmanlarına talep yaratıyor.",
-   "why": "TikTok trend hashtag'lerinde #marvelrivalsavengers 2. sırada yer aldı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Özel tasarım süper kahraman temalı mekanik klavye tuşları (keycaps) ve masif ahşap veya LED'li kulaklık standları.",
-   "product_keywords": [
-    {
-     "keyword": "custom artisan keycap",
-     "label": "özel tasarım klavye tuşu"
-    },
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Autumn Walk Katmanlı Giyim Tarzı",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar mevsiminde doğa yürüyüşleri ve serin hava için katmanlı, toprak tonlarında vintage giyinme estetiği genç erkekler arasında yayılıyor.",
-   "why": "Reddit r/malefashionadvice'ta 'autumn walk outfit' paylaşımları yüz binlerce görüntüleme alarak trend oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Toprak tonlarında el örgüsü yün kasketler, kaşmir dokulu atkılar ve vintage tarzı mumlu kanvas omuz çantaları.",
-   "product_keywords": [
-    {
-     "keyword": "wool knit beanie",
-     "label": "yün örgü bere"
-    },
-    {
-     "keyword": "waxed canvas crossbody",
-     "label": "mumlu kanvas çapraz çanta"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Yüz Yüze Arkadaşlık Kartları",
-   "heat": "Yükseliyor",
-   "desc": "Yalnızlık ve dijital yorgunluk yaşayan gençlerin gerçek hayatta sosyalleşme ve arkadaş edinme arayışları yükselişte.",
-   "why": "Reddit r/GenZ topluluğunda 'Trying to make friends as a gen Z man' ve arkadaşlık kurma zorlukları ana tartışma konusu oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Gen Z mizahına uygun, samimi muhabbet başlatan yüz yüze tanışma ve buz kırıcı soru kartı desteleri.",
-   "product_keywords": [
-    {
-     "keyword": "conversation starter cards",
-     "label": "sohbet başlatıcı kartlar"
-    },
-    {
-     "keyword": "friendship icebreaker game",
-     "label": "arkadaşlık buz kırıcı oyunu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-24T02:20+00:00",
+ "trends_updated_at": "2026-10-24T07:42+00:00",
  "products": [
   {
    "name": "yün örgü bere",
@@ -602,13 +495,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-24T04:55+00:00"
+ "generated_at": "2026-10-24T07:42+00:00"
 }

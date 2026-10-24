@@ -3,128 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "Halloween Pet & Horror Aesthetic",
+   "name": "Horror Story & Dark Spooky Estetiği",
    "heat": "Zirvede",
-   "desc": "Kullanıcıların korku içerikleri üretmesi ve evcil hayvanlarını kostümlerle Cadılar Bayramı yürüyüşlerine hazırlaması akımı.",
-   "why": "TikTok'ta '#tiktokscaryhorrorcontest' 1. sırada yer alırken, Reddit popculturechat'te Tompkins Square Cadılar Bayramı Köpek Geçidi öne çıkıyor.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Evcil hayvanlar için el yapımı gotik/korku temalı Cadılar Bayramı kostümleri ve korku estetiğine sahip dekoratif aksesua",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "spooky pet bandana",
-     "label": "korku temalı evcil hayvan bandanası"
-    }
-   ]
-  },
-  {
-   "name": "90'lar Nostaljisi ve '10 Things I Hate About You'",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kült gençlik filmi '10 Things I Hate About You' oyuncularının yeniden bir araya gelmesiyle tetiklenen 90'lar sonu romantik komedi estetiği.",
-   "why": "Reddit popculturechat topluluğunda Julia Stiles ve film ekibinin buluşmasına dair çok sayıda popüler paylaşım yapıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Filmdeki ikonik 'I hate the way you talk to me' şiirini içeren retro tipografili bez çantalar, posterler ve vintage tarz",
-   "product_keywords": [
-    {
-     "keyword": "10 things i hate about you tote bag",
-     "label": "10 things i hate about you bez çanta"
-    },
-    {
-     "keyword": "90s romcom vintage graphic tee",
-     "label": "90lar romantik komedi vintage tişört"
-    }
-   ]
-  },
-  {
-   "name": "Kişiselleştirilmiş Masa Oyunu Parçaları",
-   "heat": "Yükseliyor",
-   "desc": "Geleneksel ve masa oyunları için seri üretim yerine özel isimli veya sembollü el yapımı ahşap parçalar kullanma eğilimi.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda kişiye özel isimli ve sembollü ahşap cribbage piyonları yoğun ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiselleştirilmiş isim veya sembol baskılı ahşap masa oyunu ve cribbage skor piyonları seti.",
-   "product_keywords": [
-    {
-     "keyword": "custom cribbage pegs",
-     "label": "kişiye özel cribbage piyonu"
-    },
-    {
-     "keyword": "personalized board game pieces",
-     "label": "kişiselleştirilmiş kutu oyunu parçaları"
-    }
-   ]
-  },
-  {
-   "name": "Autumn Walk Katmanlama Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Mevsim geçişinde dış mekan sonbahar yürüyüşlerine özel katmanlı giyim, retro dokulu kumaşlar ve aksesuarlarla oluşturulan stil.",
-   "why": "Reddit malefashionadvice'da 'autumn walk outfit' temalı gönderiler yüz binlerce görüntülenme alarak viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sonbahar yürüyüşlerine yönelik el örgüsü toprak tonlarında yün atkı-bere setleri veya vintage tarz kanvas yürüyüş çantal",
-   "product_keywords": [
-    {
-     "keyword": "wool knit autumn scarf",
-     "label": "el örgüsü sonbahar atkısı"
-    },
-    {
-     "keyword": "vintage canvas walking bag",
-     "label": "vintage kanvas yürüyüş çantası"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals & Hero Shooter Gamer Aksesuarları",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil süper kahraman takım oyunlarına duyulan heyecan ve oyuncuların masa düzenlerinde bu karakterleri sergileme isteği.",
-   "why": "TikTok Creative Center'da '#marvelrivalsavengers' etiketi 2. sırada yer alarak hızla yükseldi.",
+   "desc": "Korku anlatıcılığı, karanlık hikayeler ve ürkütücü temalı içeriklerin gençler arasında yarışmalar ve akımlarla yoğun ilgi görmesi.",
+   "why": "TikTok trendlerinde #tiktokscaryhorrorcontest etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Marvel Rivals karakter siluetlerine sahip minimalist oyuncu mousepad'leri veya 3D baskı kumanda stantları.",
+   "idea": "Karanlık estetiğe uygun gotik illüstrasyonlu çıkartma paketleri, korku hikayesi yazma defterleri veya ürkütücü temalı mu",
    "product_keywords": [
     {
-     "keyword": "superhero desk mat",
-     "label": "süper kahraman masa matı"
+     "keyword": "gothic spooky stickers",
+     "label": "gotik korku çıkartmaları"
     },
     {
-     "keyword": "gaming controller stand",
-     "label": "oyuncu kumanda standı"
+     "keyword": "horror aesthetic journal",
+     "label": "karanlık estetik günlük"
     }
    ]
   },
   {
-   "name": "Gen Z Hayatta Kalma İronisi",
-   "heat": "Yükseliyor",
-   "desc": "Gen Z'nin ekonomik ve sosyal yorgunlukla başa çıkmak için benimsediği kara mizah ve dürüst duygusal haykırış tarzı.",
-   "why": "Reddit r/GenZ üzerinde 'How are y'all surviving? Cause I'm not' ve flörtsüzlük üzerine paylaşımlar haftanın en çok etkileşim alan gönderileri oldu.",
+   "name": "Marvel Rivals Gamer Masaüstü Aksesuarları",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni Marvel Rivals süper kahraman nişancı oyunu etrafında büyüyen rekabetçi oyuncu kitlesi ve oyun estetiği.",
+   "why": "TikTok'ta #marvelrivalsavengers etiketi en popüler 2. etiket olarak öne çıkıyor.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Oyun masaları için süper kahraman konseptli geniş masa matları (desk mat) ve mekanik klavyeler için özel reçine tuş başl",
+   "product_keywords": [
+    {
+     "keyword": "superhero gaming desk mat",
+     "label": "süper kahraman oyun masası matı"
+    },
+    {
+     "keyword": "custom gaming keycaps",
+     "label": "özel tasarım oyuncu klavye tuşu"
+    }
+   ]
+  },
+  {
+   "name": "Tüylenmeyen Polar Çorap (Fleece Tights) İhtiyacı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Soğuk havalarda dışarıdan ince külotlu çorap gibi görünen fakat içi polar olan ve yıkandıkça tüylenme yapmayan fonksiyonel kış modası ürününe olan talep.",
+   "why": "Reddit femalefashionadvice topluluğunda 'tüylenmeyen polar külotlu çorap' arayışı haftanın en çok konuşulan başlıklarından biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "'How are y'all surviving?' ve benzeri ironik minimalist sloganlar içeren seramik kahve kupaları ve laptop sticker'ları.",
+   "idea": "Tüylenmeye dayanıklı, yüksek belli ve ten gösteren efektli astarlı polar kışlık külotlu çoraplar.",
    "product_keywords": [
     {
-     "keyword": "sarcastic quote mug",
-     "label": "ironik alıntılı seramik kupa"
+     "keyword": "anti pilling fleece tights",
+     "label": "tüylenmeyen polar külotlu çorap"
     },
     {
-     "keyword": "existential humor sticker pack",
-     "label": "kara mizah sticker seti"
+     "keyword": "warm sheer fleece pantyhose",
+     "label": "ten görünümlü sıcak kışlık çorap"
+    }
+   ]
+  },
+  {
+   "name": "'People Die If They Are Killed' İronik Anime Alıntısı",
+   "heat": "Yükseliyor",
+   "desc": "Klasik Fate serisinden fırlayan aşırı belirgin ve absürt anime repliğinin Twitter/X ve sosyal medyada ironik bir meme olarak yeniden popülerleşmesi.",
+   "why": "Reddit OutOfTheLoop topluluğunda bu cümlenin neden yeniden viral olduğuyla ilgili yüksek etkileşimli bir başlık açıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Retro 90'lar anime tipografisiyle bu alıntının basıldığı ironik t-shirtler, bez çantalar veya nostaljik kupa bardaklar.",
+   "product_keywords": [
+    {
+     "keyword": "people die if they are killed shirt",
+     "label": "ironik anime alıntılı tişört"
+    },
+    {
+     "keyword": "ironic anime quote tote bag",
+     "label": "anime replikli bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "Doğal Merinos Yünü ve Ömürlük Çorap Trendi",
+   "heat": "Yükseliyor",
+   "desc": "Hızlı tüketime karşı 'ömür boyu dayanıklı' (Buy It For Life) kışlık giyim arayanların merinos yününün konfor ve dayanıklılığına yönelmesi.",
+   "why": "Reddit BuyItForLife topluluğunda Merino wool ve Darn Tough çorapları üzerine çok sayıda yoğun tartışma gerçekleşti.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal ve kalın merinos yününden üretilmiş, topuk takviyeli dayanıklı el örgüsü yürüyüş/ev çorapları.",
+   "product_keywords": [
+    {
+     "keyword": "merino wool socks handmade",
+     "label": "el yapımı merinos yünü çorap"
+    },
+    {
+     "keyword": "thick wool hiking socks",
+     "label": "kalın yün kışlık çorap"
+    }
+   ]
+  },
+  {
+   "name": "Dolunay Ritüeli ve Ay Fazı Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Dolunay zamanlarında astroloji, niyet belirleme ve doğa döngüleriyle uyumlanma odaklı kişisel arınma akımı.",
+   "why": "Google arama verilerinde 'full moon tonight' sorgusu kısa sürede yükselen trendler arasına girdi.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Ay evrelerini gösteren ahşap/metal duvar asıları, dolunay niyet kartları veya ay temalı seramik takı tabakları.",
+   "product_keywords": [
+    {
+     "keyword": "moon phase wall hanging",
+     "label": "ay evresi duvar süsü"
+    },
+    {
+     "keyword": "full moon ritual cards",
+     "label": "dolunay ritüel kartları"
+    }
+   ]
+  },
+  {
+   "name": "DIY Candle Dipping (Daldırma Mum) Hobisi",
+   "heat": "Yeni çıktı",
+   "desc": "Sosyal medyada atölye ve ev içi DIY faaliyetleri arasında el yapımı mum daldırma deneyimlerinin viral içeriklere dönüşmesi.",
+   "why": "Reddit TikTokCringe topluluğunda paylaşılan mum daldırma (candle dipping) videosu yüksek izlenme ve etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Evde kendi şamdan mumunu yapmayı sağlayan renkli balmumu peletleri ve fitil içeren mum daldırma başlangıç kitleri.",
+   "product_keywords": [
+    {
+     "keyword": "diy candle dipping kit",
+     "label": "kendin yap mum daldırma kiti"
+    },
+    {
+     "keyword": "hand dipped taper candles",
+     "label": "el daldırma renkli şamdan mumu"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-24T19:56+00:00",
+ "trends_updated_at": "2026-10-24T22:47+00:00",
  "products": [
   {
    "name": "yün örgü bere",
@@ -576,7 +595,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
@@ -584,12 +603,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-24T19:56+00:00"
+ "generated_at": "2026-10-24T22:47+00:00"
 }

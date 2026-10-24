@@ -3,128 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Cadılar Bayramı Evcil Hayvan Modası",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cadılar Bayramı yaklaşırken evcil hayvanlara özel korku temalı ve yaratıcı kostümler, geçit törenleri ve sosyal medya içerikleriyle patlama yaşıyor.",
-   "why": "Reddit popculturechat topluluğunda 36. Tompkins Square Halloween Dog Parade paylaşımı ve TikTok'ta #tiktokscaryhorrorcontest etiketinin 1. sırada olmasıyla öne çıktı.",
-   "sources": [
-    "Reddit",
-    "TikTok"
-   ],
-   "idea": "El yapımı evcil hayvan kostümleri ve Cadılar Bayramı temalı köpek tasmaları/fularları.",
-   "product_keywords": [
-    {
-     "keyword": "dog halloween costume",
-     "label": "köpek cadılar bayramı kostümü"
-    },
-    {
-     "keyword": "spooky pet bandana",
-     "label": "korku temalı evcil hayvan fuları"
-    }
-   ]
-  },
-  {
-   "name": "90'lar Rom-Com Nostaljisi ('10 Things I Hate About You')",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
-   "desc": "Kült 90'lar gençlik filmi '10 Things I Hate About You' oyuncularının yeniden bir araya gelmesi ve Heath Ledger anmaları nostaljik 90'lar romantik komedi estetiğini canlandırdı.",
-   "why": "Reddit popculturechat'te oyuncu kadrosunun buluşması ve Julia Stiles paylaşımları viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Filmin ikonik şiir mısralarını veya retro tipografisini içeren tişört ve tote bag tasarımları.",
-   "product_keywords": [
-    {
-     "keyword": "10 things i hate about you shirt",
-     "label": "10 things i hate about you tişört"
-    },
-    {
-     "keyword": "90s rom com aesthetic poster",
-     "label": "90lar romantik komedi posteri"
-    }
-   ]
-  },
-  {
-   "name": "Korku & Spooky Estetiği (Horror Creator Core)",
-   "heat": "Zirvede",
-   "desc": "Kullanıcıların kendi amatör korku hikayelerini ve kısa filmlerini paylaştığı karanlık, tekinsiz (eerie) korku dalgası yükselişte.",
-   "why": "TikTok Creative Center'da #tiktokscaryhorrorcontest etiketi 1. sıraya yerleşti.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karanlık/gotik korku illüstrasyonları içeren vintage baskılı hoodie'ler ve analog korku tarzı sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "vintage horror graphic tee",
-     "label": "vintage korku grafik tişört"
-    },
-    {
-     "keyword": "indie horror sticker pack",
-     "label": "bağımsız korku sticker paketi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Autumn Walk / Cozy Fall Estetiği",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Sonbahar mevsiminde doğa yürüyüşleri, toprak tonları ve katmanlı giyim etrafında şekillenen dingin sonbahar yaşam tarzı.",
-   "why": "Reddit malefashionadvice topluluğunda 'autumn walk outfit' paylaşımları yüzbinlerce görüntülenme alarak yoğun etkileşim gördü.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Sonbahar yürüyüş temalı kanvas tote çantalar, minimalist termos kılıfları ve yün bere aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "autumn tote bag",
-     "label": "sonbahar bez çanta"
-    },
-    {
-     "keyword": "cozy fall knit beanie",
-     "label": "rahat sonbahar örgü bere"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "İronik Anime Alıntı Memeleri ('People die if they are killed",
-   "heat": "Yeni çıktı",
-   "desc": "Anime tarihinin en absürt ve ikonik çeviri repliklerinden birinin sosyal medyada yeniden viral bir mizah malzemesine dönüşmesi.",
-   "why": "Reddit OutOfTheLoop'ta kullanıcıların bu cümlenin neden tekrar viral olduğunu sormasıyla gündeme geldi.",
+   "name": "#livecanbeeasy",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "İronik minimalist tipografiyle hazırlanmış kupa bardaklar, emaye rozetler veya sweatshirt'ler.",
-   "product_keywords": [
-    {
-     "keyword": "people die if they are killed shirt",
-     "label": "anime meme tişört"
-    },
-    {
-     "keyword": "anime meme mug",
-     "label": "ironik anime kupa"
-    }
-   ]
-  },
-  {
-   "name": "Gen Z Hayatta Kalma Mizahı & Tükenmişlik Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin ekonomik ve sosyal baskılar karşısında ürettiği 'nasıl hayatta kalıyorsunuz, ben kalamıyorum' temalı absürt ve kara mizah içeren içerikler.",
-   "why": "Reddit GenZ alt dizininde 'How are y'all surviving? Cause I'm not' başlığı binlerce etkileşim alarak öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Yetişkinlik zorluklarını ve günlük tükenmişliği tiye alan minimalist laptop stickerları ve anahtarlıklar.",
-   "product_keywords": [
-    {
-     "keyword": "funny burnout sticker",
-     "label": "komik tükenmişlik etiketi"
-    },
-    {
-     "keyword": "relatable mental health enamel pin",
-     "label": "mental sağlık temalı rozet"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-24T12:59+00:00",
+ "trends_updated_at": "2026-10-24T17:42+00:00",
  "products": [
   {
    "name": "yün örgü bere",
@@ -576,20 +488,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-24T12:59+00:00"
+ "generated_at": "2026-10-24T17:42+00:00"
 }

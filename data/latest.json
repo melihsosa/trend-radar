@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Spooky Horror Storytelling Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin kısa format korku hikayeleri, ürpertici efektler ve karanlık kurgular paylaştığı viral korku içeriği furyası.",
-   "why": "TikTok trend listesinde '#tiktokscaryhorrorcontest' etiketi 1. sırada yer aldı.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Korku temalı el yapımı reçine biblolar, karanlıkta parlayan illüstrasyon çıkartma setleri ve tematik gizem kutuları.",
-   "product_keywords": [
-    {
-     "keyword": "spooky mystery box",
-     "label": "korku temalı gizem kutusu"
-    },
-    {
-     "keyword": "horror art print",
-     "label": "korku temalı illüstrasyon baskı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Hand-Dipped Candle Craft (Daldırma Mum Sanatı)",
+   "name": "#marvelrivalsavengers",
    "heat": "Yükseliyor",
-   "desc": "Geleneksel mum daldırma atölyeleri ve renkli konik mum yapımının sosyal medyada eğlenceli ve rahatlatıcı bir deneyim olarak öne çıkması.",
-   "why": "Reddit r/TikTokCringe topluluğunda mum daldırma ('candle dipping') deneyimi üzerine paylaşılan video viral oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Evde geleneksel yöntemle yapılabilen renkli mum daldırma DIY kitleri ve el yapımı heykelsi spiral konik mumlar.",
-   "product_keywords": [
-    {
-     "keyword": "diy candle dipping kit",
-     "label": "kendin yap mum daldırma kiti"
-    },
-    {
-     "keyword": "hand dipped taper candles",
-     "label": "el yapımı daldırma konik mum"
-    }
-   ]
-  },
-  {
-   "name": "Merino Wool ve Uzun Ömürlü Giyim Kültürü",
-   "heat": "Yükseliyor",
-   "desc": "Hızlı modaya tepki olarak doğal, nefes alabilen ve ömür boyu dayanıklı merinos yünü aksesuarlara olan bilinçli yönelim.",
-   "why": "Reddit r/BuyItForLife'ta peş peşe Merino yün ürünler ve dayanıklı yün çoraplar hakkında yoğun tartışma konuları açıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "%100 merinos yününden el örgüsü dikişsiz kışlık çoraplar, boyunluklar ve yün bakım sabunları.",
-   "product_keywords": [
-    {
-     "keyword": "merino wool knit socks",
-     "label": "merinos yünü örgü çorap"
-    },
-    {
-     "keyword": "wool care bar",
-     "label": "yün bakım kalıp sabunu"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Hero-Shooter Oyuncu Akımı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil Marvel takım nişancı oyununun karakterleri ve estetiği etrafında şekillenen genç oyuncu topluluğu çılgınlığı.",
-   "why": "TikTok Creative Center'da '#marvelrivalsavengers' etiketi en popüler 2. akım olarak listelendi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Karakter siluetleriyle tasarlanmış özel klavye tuş başlıkları (keycaps) ve süper kahraman temalı masa sümenleri.",
-   "product_keywords": [
-    {
-     "keyword": "custom gaming keycaps",
-     "label": "özel mekanik klavye tuşu"
-    },
-    {
-     "keyword": "desk mat gaming mousepad",
-     "label": "oyuncu masa sümeni"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Anti-Pilling Termal & Polar Kış Katmanları",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Kış kombinlerinde tiftiklenmeyen, şık duruşunu kaybetmeyen yüksek kaliteli polar ve termal parçalara odaklanan faydacı giyim akımı.",
-   "why": "Reddit r/femalefashionadvice topluluğunda kullanıcılar tiftiklenmeyen polar tayt ve fonksiyonel kışlık giyim arayışını trend yaptı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Dikişsiz, tiftiklenmeye dayanıklı içi polarlı külotlu çorap kılıfları ve kışlık ayak bileği ısıtıcıları.",
-   "product_keywords": [
-    {
-     "keyword": "fleece lined tights durable",
-     "label": "dayanıklı polar astarlı tayt"
-    },
-    {
-     "keyword": "knit leg warmers",
-     "label": "örgü bacak tozluğu"
-    }
-   ]
-  },
-  {
-   "name": "'People Die If They Are Killed' İronik Anime Memesi",
-   "heat": "Yeni çıktı",
-   "desc": "Eski anime repliklerinin absürt ve bariz mantığını tiye alan nostaljik, ironik internet mizahı akımı.",
-   "why": "Reddit r/OutOfTheLoop'ta bu repliğin X/Twitter üzerinde aniden yeniden viral olması hakkında en çok oylanan başlıklardan biri açıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bu ironik alıntıyı retro tipografiyle taşıyan anime parodi tişörtleri, bez çantalar ve laptop çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "ironic anime quote shirt",
-     "label": "ironik anime alıntılı tişört"
-    },
-    {
-     "keyword": "anime meme sticker pack",
-     "label": "anime meme çıkartma paketi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-25T02:07+00:00",
+ "trends_updated_at": "2026-10-25T07:53+00:00",
  "products": [
   {
    "name": "yün örgü bere",
@@ -575,20 +488,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 62
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-10-25T02:07+00:00"
+ "generated_at": "2026-10-25T07:53+00:00"
 }

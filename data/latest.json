@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Scary Horror Aesthetic & Props",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların ürpertici hikayeler ve kısa korku videoları üretmesiyle popülerleşen gotik ve korku temalı görsel estetik.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketi trend listesinde 1. sıraya yerleşti.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Korku temalı el yapımı reçine biblolar, gotik prop replikaları ve video çekimleri için dekoratif korku objeleri.",
-   "product_keywords": [
-    {
-     "keyword": "horror prop replica",
-     "label": "korku prop replikası"
-    },
-    {
-     "keyword": "spooky resin decor",
-     "label": "gotik reçine dekor"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Marvel Rivals Fandom",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni Marvel Rivals oyunu etrafında oluşan, süper kahraman temalı rekabetçi oyuncu kültürü ve aksesuarları.",
-   "why": "TikTok trendlerinde #marvelrivalsavengers etiketi 2. sırada yer alıyor.",
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Marvel Rivals karakterlerinden ilham alan özel tasarım mekanik klavye tuşları (artisan keycaps) ve oyuncu masa matları.",
-   "product_keywords": [
-    {
-     "keyword": "superhero artisan keycap",
-     "label": "özel klavye tuşu"
-    },
-    {
-     "keyword": "gaming desk mat",
-     "label": "oyuncu masa matı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "DIY Candle Dipping (Renkli Mum Daldırma)",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Klasik konik mumları kat kat renkli balmumuna daldırarak estetik desenler oluşturulan el yapımı hobi akımı.",
-   "why": "Reddit r/TikTokCringe topluluğunda mum daldırma (candle dipping) deneyimi içeren gönderi viral oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Evde kendi renkli daldırma mumunu yapmayı sağlayan DIY balmumu daldırma kiti ve renkli konik mum setleri.",
-   "product_keywords": [
-    {
-     "keyword": "candle dipping kit",
-     "label": "mum daldırma kiti"
-    },
-    {
-     "keyword": "dip dye taper candles",
-     "label": "renkli daldırma konik mum"
-    }
-   ]
-  },
-  {
-   "name": "Kıyafet Sabitleyici Vücut Bandı (Body Tape)",
-   "heat": "Yükseliyor",
-   "desc": "Dökümlü, açık yaka veya omuz detaylı elbiselerin kaymasını önleyerek kıyafetin bedene tam oturmasını sağlayan pratik moda çözümü.",
-   "why": "Reddit r/femalefashionadvice topluluğunda güvenilir giysi ve vücut yapıştırıcı/bant tavsiyeleri en çok etkileşim alan konulardan biri oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Hassas ciltler için hipoalerjenik çift taraflı kıyafet sabitleme bandı ve kompakt acil moda yardım kiti.",
-   "product_keywords": [
-    {
-     "keyword": "fashion body tape",
-     "label": "kıyafet sabitleme vücut bandı"
-    },
-    {
-     "keyword": "double sided apparel tape",
-     "label": "çift taraflı elbise bandı"
-    }
-   ]
-  },
-  {
-   "name": "Waxed Jacket Bakım ve Kumaş Yenileme",
-   "heat": "Yeni çıktı",
-   "desc": "Ömürlük balmumu kaplı mont ve ceketlerin temizliği, leke giderimi ve yeniden balmumu sürülerek su geçirmez hale getirilmesi ritüeli.",
-   "why": "Reddit r/BuyItForLife topluluğunda Belstaff waxed ceketlerin bakımı ve leke temizleme yöntemleri tartışıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Doğal balmumu kalıbı, uygulama süngeri ve fırça içeren el yapımı balmumu mont bakım ve yenileme seti.",
-   "product_keywords": [
-    {
-     "keyword": "fabric wax bar",
-     "label": "kumaş bakım balmumu"
-    },
-    {
-     "keyword": "waxed canvas reproofing kit",
-     "label": "balmumu mont yenileme kiti"
-    }
-   ]
-  },
-  {
-   "name": "\"People Die If They Are Killed\" Anime İronisi",
-   "heat": "Yeni çıktı",
-   "desc": "İkonik anime diyaloğunun sosyal medyada absürt ve ironik bir mizah kalıbı olarak yeniden canlanması.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda insanların bu ifadeyi yoğun biçimde paylaşması sorgulandı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bu ikonik repliğin yer aldığı retro tipografik anime tişörtleri, minimalist bez çantalar ve laptop çıkartmaları.",
-   "product_keywords": [
-    {
-     "keyword": "people die if they are killed shirt",
-     "label": "anime replik tişörtü"
-    },
-    {
-     "keyword": "anime quote sticker",
-     "label": "anime alıntı çıkartması"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-25T22:54+00:00",
+ "trends_updated_at": "2026-10-26T02:08+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -260,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-25T22:54+00:00"
+ "generated_at": "2026-10-26T02:08+00:00"
 }

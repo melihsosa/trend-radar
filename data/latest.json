@@ -3,147 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "TikTok Scary Horror Contest",
-   "heat": "Zirvede",
-   "desc": "Korku içerikleri yarışması ile öne çıkan, Cadılar Bayramı dönemiyle birleşen gotik ve korku temalı ürün estetiği.",
-   "why": "TikTok popüler etiket listesinde #tiktokscaryhorrorcontest 1. sırada yer alıyor.",
+   "name": "#tiktokscaryhorrorcontest",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "El yapımı korku temalı Cadılar Bayramı dekorasyon ürünleri, gotik mumlar ve korku figürleri.",
-   "product_keywords": [
-    {
-     "keyword": "scary halloween decor",
-     "label": "korkutucu cadılar bayramı dekoru"
-    },
-    {
-     "keyword": "horror contest prop",
-     "label": "korku temalı aksesuar"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "livecanbeeasy Minimalist Lifestyle",
-   "heat": "Hızla yükseliyor",
-   "desc": "Günlük hayatı basitleştirmeyi ve stresi azaltmayı hedefleyen minimalist yaşam tarzı akımı.",
-   "why": "TikTok'ta #livecanbeeasy etiketi popüler listelerde 3. sırada yükselişte.",
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Sade tasarımlı günlük planlayıcılar, düzenleme araçları ve 'Live can be easy' motto baskılı minimalist kupalar.",
-   "product_keywords": [
-    {
-     "keyword": "minimalist planner",
-     "label": "minimalist planlayıcı"
-    },
-    {
-     "keyword": "live can be easy merch",
-     "label": "live can be easy baskılı ürünler"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Custom Cribbage Pegs",
+   "name": "#livecanbeeasy",
    "heat": "Yükseliyor",
-   "desc": "Klasik masa ve kutu oyunları için özel isim veya sembol kazınmış kişiselleştirilmiş oyun aksesuarları.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda kişiye özel üretilen cribbage oyun pimleri büyük ilgi görüyor.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "İsim, harf veya özel ikon basılı el yapımı ahşap/metal cribbage oyunu çivileri ve kutu oyunu aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "custom cribbage pegs",
-     "label": "özel tasarım cribbage pimleri"
-    },
-    {
-     "keyword": "personalized game pieces",
-     "label": "kişiselleştirilmiş oyun parçaları"
-    }
-   ]
-  },
-  {
-   "name": "UV Reactive Death Metal Apparel",
-   "heat": "Yeni çıktı",
-   "desc": "Gündüz klasik metal/goth tarzı görünen, mor ötesi (UV) ışık veya karanlık altında parlayan giyim parçaları ve yamalar.",
-   "why": "Reddit r/malefashionadvice altında UV ışığına duyarlı el yapımı death metal yelek paylaşımı öne çıkıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Konserler ve etkinlikler için UV ışıkta parlayan özel tasarım metal müzik yamaları (patch) ve özelleştirilmiş yelekler.",
-   "product_keywords": [
-    {
-     "keyword": "uv reactive patch",
-     "label": "uv ışığında parlayan yama"
-    },
-    {
-     "keyword": "death metal vest",
-     "label": "death metal yelek"
-    }
-   ]
-  },
-  {
-   "name": "E-Ink Wearable Jewelry",
-   "heat": "Yeni çıktı",
-   "desc": "NFC veya Bluetooth ile ekran görüntüsü değiştirilebilen, şarj derdi olmayan giyilebilir e-kağıt (e-ink) takı tasarımı.",
-   "why": "Reddit r/shutupandtakemymoney üzerinde e-ink ekranlı çift taraflı akıllı kolye ucu paylaşımı popülerleşti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Telefon uygulamasıyla kişiselleştirilebilen dijital e-kağıt çerçeveli kolye uçları ve rozetler.",
-   "product_keywords": [
-    {
-     "keyword": "e-ink pendant",
-     "label": "e-mürekkepli kolye ucu"
-    },
-    {
-     "keyword": "nfc smart jewelry",
-     "label": "nfc akıllı takı"
-    }
-   ]
-  },
-  {
-   "name": "1930s Tailored Vintage Style",
-   "heat": "Yükseliyor",
-   "desc": "1930'lar tarzı yüksek bel pileli yün pantolonlar ve okr (sarımsı kahve) rengi pelerin kesim vintage kabanlar.",
-   "why": "Reddit r/malefashionadvice'ta 30'lar tarzı yün pantolonlar ve okr pelerin kabanlar aranıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Vintage kesim yüksek bel pileli yün pantolonlar ve okr tonlarında pelerin stilinde tasarlanmış kabanlar.",
-   "product_keywords": [
-    {
-     "keyword": "1930s woolen trousers",
-     "label": "1930 tarzı yün pantolon"
-    },
-    {
-     "keyword": "ochre cloak coat",
-     "label": "okr rengi pelerin palto"
-    }
-   ]
-  },
-  {
-   "name": "People Die If They Are Killed Quote",
-   "heat": "Yükseliyor",
-   "desc": "Sosyal medyada viral olan absürt anime repliği üzerinden dönen internet mizahı ve slogan akımı.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda 'people die if they are killed' sözünün viral olma nedeni sorgulanıyor.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Bu mizahi sözü içeren minimalist fontlu baskılı tişörtler, bez çantalar, kupa ve sticker'lar.",
-   "product_keywords": [
-    {
-     "keyword": "people die if they are killed shirt",
-     "label": "people die if they are killed tişört"
-    },
-    {
-     "keyword": "anime quote sticker",
-     "label": "anime replik sticker"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-28T00:08+00:00",
+ "trends_updated_at": "2026-10-28T09:06+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -280,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-28T00:08+00:00"
+ "generated_at": "2026-10-28T09:06+00:00"
 }

@@ -3,108 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Vibe Coding",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yapay zeka araçlarıyla derin teknik detaylara boğulmadan sadece his ve doğal dil ile kod yazma/proje üretme kültürü.",
-   "why": "Google Yükselen Aramalar'da 'vibe coding' sorgusu ve Reddit'teki AI tartışmalarıyla öne çıkıyor.",
-   "sources": [
-    "Google",
-    "Reddit"
-   ],
-   "idea": "'Vibe Coder' veya 'Powered by Vibes & AI' temalı minimalist masa matları, developer kupaları ve sticker setleri.",
-   "product_keywords": [
-    {
-     "keyword": "vibe coder mug",
-     "label": "yazılımcı kupası"
-    },
-    {
-     "keyword": "programmer desk mat",
-     "label": "mas üstü mousepad"
-    }
-   ]
-  },
-  {
-   "name": "UV Reactive / Glow Metal Wear",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
-   "desc": "Siyah ışık ve UV altında parlayan, metal müzik ve rave estetiğini birleştiren alternatif giyim ve yelek tasarımları.",
-   "why": "Reddit r/malefashionadvice topluluğunda popüler olan 'UV reactive death metal vest' gönderisiyle dikkat çekti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sırt veya göğüs kısmında UV/neon ışıkta parlayan özel baskılı death metal tarzı yamalar (patches) veya denim yelekler.",
-   "product_keywords": [
-    {
-     "keyword": "uv reactive patch",
-     "label": "parlayan yama"
-    },
-    {
-     "keyword": "death metal patch",
-     "label": "metal müzik arması"
-    }
-   ]
-  },
-  {
-   "name": "1930s Vintage Tailoring",
-   "heat": "Yükseliyor",
-   "desc": "Yüksek bel, pilili ve geniş paça yün pantolonlarla karakterize edilen 1930'lar retro beyefendi ve klasik giyim stili.",
-   "why": "Reddit r/malefashionadvice üzerinde '30's style trousers' ve 'high rise pleats' gönderilerinin öne çıkması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "1930'lar tarzı yüksek bel pantolonlar için vintage deri askılar ve retro pantolon zincirleri/aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "vintage high waist trousers",
-     "label": "retro yüksek bel pantolon"
-    },
-    {
-     "keyword": "leather suspenders",
-     "label": "deri pantolon askısı"
-    }
-   ]
-  },
-  {
-   "name": "Smart E-Ink Takılar & Aksesuarlar",
-   "heat": "Yeni çıktı",
-   "desc": "NFC ile kablosuz görsel aktarılan, şarj gerektirmeyen mini e-ink ekranlı kolye ucu ve giyilebilir teknolojik aksesuarlar.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda 'dual-sided e-ink pendant' gönderisinin yüksek ilgi görmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "E-ink ve mini ekranlar için kişiselleştirilebilir deri kordonlu takı kılıfları ve koruyucu minimalist çerçeveler.",
-   "product_keywords": [
-    {
-     "keyword": "e-ink pendant",
-     "label": "e-mürekkep kolye"
-    },
-    {
-     "keyword": "smart jewelry",
-     "label": "akıllı takı"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Horror & Spooky Aesthetic",
-   "heat": "Zirvede",
-   "desc": "Korku anlatımı, karanlık/gotik temalar ve Cadılar Bayramı estetiğini bir araya getiren kısa video içerik akımı.",
-   "why": "TikTok Creative Center listesinde 'tiktokscaryhorrorcontest' etiketinin 1. sırada yer alması.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Korku meraklıları için el yapımı gotik dekoratif mumlar, ürpertici mini heykeller ve karanlık tema sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "gothic horror candle",
-     "label": "gotik korku mumu"
-    },
-    {
-     "keyword": "creepy cute sticker",
-     "label": "korku temalı çıkartma"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#livecanbeeasy",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-29T22:10+00:00",
+ "trends_updated_at": "2026-10-30T03:20+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -234,20 +166,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 63
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-29T22:10+00:00"
+ "generated_at": "2026-10-30T03:20+00:00"
 }

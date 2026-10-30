@@ -3,108 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "UV-Reaktif Metal & Korku Estetiği (Battle Vest / Patches)",
-   "heat": "Hızla yükseliyor",
-   "desc": "Karanlıkta veya UV ışık altında parlayan metal müzik ve korku temalı kişiselleştirilmiş yelekler, yamalar ve karanlık alt kültür aksesuarları.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest etiketinin zirvede yer alması ve Reddit r/malefashionadvice'ta el yapımı UV reaktif death metal yeleğin popüler olmasıyla öne çıktı.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "Karanlıkta parlayan (glow in the dark) veya UV ışığa duyarlı dikilebilir metal ve korku temalı kumaş yamalar.",
-   "product_keywords": [
-    {
-     "keyword": "uv reactive patch",
-     "label": "uv reaktif kumaş yama"
-    },
-    {
-     "keyword": "death metal battle vest patch",
-     "label": "metal müzik yelek yaması"
-    }
-   ]
-  },
-  {
-   "name": "1930s Retro Tailoring & Geniş Paça Yün Pantolonlar",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
-   "desc": "Klasik erkek giyiminde 1930'lar dönemine ait yüksek bel, pileli ve dökümlü yün pantolonlara yönelik vintage terzilik hareketi.",
-   "why": "Reddit r/malefashionadvice topluluğunda 1930'lar tarzı yün pantolon kalıpları ve kombinleri üzerine açılan tartışmalarla dikkat çekti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "1930'lar vintage yüksek bel pantolon dikiş kalıbı (sewing pattern) ve döneme uygun deri askı aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "1930s trousers sewing pattern",
-     "label": "1930lar pantolon dikiş kalıbı"
-    },
-    {
-     "keyword": "vintage button suspenders",
-     "label": "vintage düğmeli pantolon askısı"
-    }
-   ]
-  },
-  {
-   "name": "E-Ink & NFC Giyilebilir Akıllı Takılar",
-   "heat": "Yeni çıktı",
-   "desc": "Şarj gerektirmeyen, NFC teknolojisiyle akıllı telefondan anında görsel aktarılabilen minimalist dijital kolyeler ve fütüristik aksesuarlar.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda çift taraflı e-ink NFC kolye ucu (VidaBay Duo) paylaşımının viral olmasıyla görüldü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "E-ink ve NFC ekran modüllerine uygun el yapımı ahşap veya reçine koruyucu kolye çerçeveleri ve deri kordonlar.",
-   "product_keywords": [
-    {
-     "keyword": "nfc pendant case",
-     "label": "nfc kolye çerçevesi"
-    },
-    {
-     "keyword": "smart display pendant necklace",
-     "label": "akıllı ekran kolye ucu"
-    }
-   ]
-  },
-  {
-   "name": "Team 7 & 2000'ler Retro Anime Nostaljisi",
-   "heat": "Yükseliyor",
-   "desc": "Orijinal anime seslendirme kadrolarının 20 yıl sonra nostaljik projeler için toplanmasıyla canlanan retro shonen anime estetiği.",
-   "why": "Google Trendler'de 'naruto' aramasının 20 yıllık Team 7 mirası ve oyuncu haberleriyle ani sıçrama yapmasıyla tespit edildi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Minimalist hat sanatı tarzında retro ninja ve anime nakışlı sweatshirt veya ahşap oyma duvar tabloları.",
-   "product_keywords": [
-    {
-     "keyword": "retro anime embroidered sweatshirt",
-     "label": "retro anime nakışlı sweatshirt"
-    },
-    {
-     "keyword": "japanese ninja wood wall art",
-     "label": "japon ninja ahşap duvar tablosu"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Kahraman Temalı Oyuncu Donanımları",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil kahraman nişancı oyunu etrafında oluşan süper kahraman takımı ve çizgi roman odaklı masaüstü/oyun odası estetiği.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalsavengers etiketinin 2. sıraya yerleşmesiyle öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Süper kahraman çizgi roman renk paletlerine uygun el yapımı özel mekanik klavye tuşları (artisan keycaps) ve masa matlar",
-   "product_keywords": [
-    {
-     "keyword": "comic hero artisan keycap",
-     "label": "özel tasarım klavye tuşu"
-    },
-    {
-     "keyword": "superhero desk mat desk pad",
-     "label": "süper kahraman masa matı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#livecanbeeasy",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-30T11:48+00:00",
+ "trends_updated_at": "2026-10-30T17:24+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -234,20 +166,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 63
+   "count": 64
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-30T11:48+00:00"
+ "generated_at": "2026-10-30T17:24+00:00"
 }

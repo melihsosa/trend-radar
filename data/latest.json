@@ -3,40 +3,108 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "UV Reactive Metal & Horror Aesthetic",
+   "heat": "Zirvede",
+   "desc": "Korku temalı içeriklerin yükselişiyle birlikte heavy metal, punk yamaları ve UV/neon ışıkta parlayan karanlık alternatif tarzların giyimde öne çıkması.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest zirveye otururken, Reddit r/malefashionadvice topluluğunda el yapımı UV reaktif death metal yelekler ve korku kostümleri yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Karanlıkta ve UV ışık altında parlayan el yapımı serigrafi baskılı ceket yamaları (battle jacket patch) ve gotik aksesua",
+   "product_keywords": [
+    {
+     "keyword": "uv reactive patch",
+     "label": "UV reaktif kumaş yama"
+    },
+    {
+     "keyword": "death metal battle jacket",
+     "label": "metalci kot yelek yaması"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Anti-Glazing & Kurumsal Tükenmişlik Mizahı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gen Z'nin iş arama sürecindeki yapay övgü kültürünü ('glazing') ve kurumsal baskıları reddedip alaycı bir dille kendi sınırlarını çizdiği ofis karşıtı duruş.",
+   "why": "Reddit r/GenZ üzerinde 'The Great Fuckoffening' ve iş başvurularında 'bro we are not gonna glaze your ass' temalı gönderiler haftanın en çok etkileşim alan konuları oldu.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "İş görüşmesi ve kurumsal dünya klişelerini tiye alan iğneleyici sözlerin yer aldığı minimalist ofis kupaları, sticker pa",
+   "product_keywords": [
+    {
+     "keyword": "funny corporate burnout mug",
+     "label": "kurumsal tükenmişlik kupası"
+    },
+    {
+     "keyword": "anti work sticker pack",
+     "label": "ofis mizahı sticker seti"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
+   "name": "Tel Sarma Doğal Taş Kol Manşetleri (Arm Cuff)",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Elfcore, bohem ve fantezi estetiğini birleştiren, kolun üst kısmına takılan tel sarma (wire-wrapped) el yapımı doğal taş takı akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda labradorit taşlı bakır üst kol manşeti haftanın en çok beğenilen el yapımı ürünlerinden biri oldu.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Labradorit veya ay taşı ile süslenmiş, ayarlanabilir oksitlenmiş bakır tel sarma üst kol bilekliği.",
+   "product_keywords": [
+    {
+     "keyword": "copper arm cuff labradorite",
+     "label": "bakır üst kol manşeti"
+    },
+    {
+     "keyword": "wire wrapped upper arm bracelet",
+     "label": "doğal taş tel sarma kolçak"
+    }
+   ]
+  },
+  {
+   "name": "1930'lar Geniş Paça Retro Terzilik",
+   "heat": "Yeni çıktı",
+   "desc": "Genç erkek modasında dar kalıpların terk edilip 1930'lar tarzı yüksek bel, çift pileli ve ultra geniş paçalı klasik terzilik silüetlerinin benimsenmesi.",
+   "why": "Reddit r/malefashionadvice'ta 1930'lar tarzı dökümlü pantolonlar ve klasik tuck stilleri üzerine hararetli tartışmalar ve stil paylaşımları trend oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "1930'lar estetiğini tamamlayan vintage tarzı deri düğmeli pantolon askıları veya dikiş meraklıları için yüksek bel pilel",
+   "product_keywords": [
+    {
+     "keyword": "1930s trousers sewing pattern",
+     "label": "retro pantolon dikiş kalıbı"
+    },
+    {
+     "keyword": "vintage button suspenders",
+     "label": "vintage düğmeli pantolon askısı"
+    }
+   ]
+  },
+  {
+   "name": "Blue Dot Fever / Konser Bileti Satiri",
+   "heat": "Yeni çıktı",
+   "desc": "Fahiş bilet fiyatları ve satılmayan konser koltuk haritaları ('mavi noktalar') üzerinden tekelci bilet platformlarını ve canlı müzik krizini eleştiren pop-kültür hicvi.",
+   "why": "Popculturechat topluluğunda Lily Allen'ın satılmayan bilet haritası kostümü (#bluedotfever) viral oldu ve bilet fiyatlarına tepki gösteren gençlerin mizah malzemesi haline geldi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Satılmamış stadyum koltuk haritası ikonografisiyle tasarlanmış ironik konser tişörtleri ve 'Unsold Tour' kanvas çantalar",
+   "product_keywords": [
+    {
+     "keyword": "ironic concert graphic tee",
+     "label": "ironik konser tişörtü"
+    },
+    {
+     "keyword": "seat map tote bag",
+     "label": "mizahi kanvas bez çanta"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-10-31T11:22+00:00",
+ "trends_updated_at": "2026-10-31T16:27+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -173,13 +241,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-31T11:22+00:00"
+ "generated_at": "2026-10-31T16:27+00:00"
 }

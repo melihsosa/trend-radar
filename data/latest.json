@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-30T21:46+00:00",
+ "trends_updated_at": "2026-10-31T03:03+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -166,7 +166,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 64
   },
   "Google": {
    "ok": true,
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-10-30T21:46+00:00"
+ "generated_at": "2026-10-31T03:03+00:00"
 }

@@ -3,108 +3,149 @@
  "sample": false,
  "trends": [
   {
-   "name": "UV Reactive Metal & Horror Aesthetic",
-   "heat": "Zirvede",
-   "desc": "Korku temalı içeriklerin yükselişiyle birlikte heavy metal, punk yamaları ve UV/neon ışıkta parlayan karanlık alternatif tarzların giyimde öne çıkması.",
-   "why": "TikTok'ta #tiktokscaryhorrorcontest zirveye otururken, Reddit r/malefashionadvice topluluğunda el yapımı UV reaktif death metal yelekler ve korku kostümleri yoğun ilgi gördü.",
+   "name": "TikTok Scary Horror Aesthetic",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin korku hikayeleri, gotik ve gerilim temalı kısa videolar üreterek viral hale getirdiği karanlık bir estetik akımı.",
+   "why": "TikTok'ta 'tiktokscaryhorrorcontest' hashtag'inin 1. sırada yer alması ve Google aramalarında Halloween/korku içeriklerinin öne çıkması.",
    "sources": [
     "TikTok",
+    "Google"
+   ],
+   "idea": "Korku temalı el yapımı reçine biblolar, karanlıkta parlayan gotik çıkartmalar ve korku illüstrasyonlu baskılı posterler.",
+   "product_keywords": [
+    {
+     "keyword": "horror aesthetic stickers",
+     "label": "korku estetiği çıkartmaları"
+    },
+    {
+     "keyword": "creepy resin art",
+     "label": "korkunç reçine biblolar"
+    }
+   ]
+  },
+  {
+   "name": "UV Reactive & Death Metal Patchwork",
+   "heat": "Yükseliyor",
+   "desc": "Siyah veya koyu kumaşlar üzerine neon, UV ışığında parlayan metal/gotik yamaların ve zımbaların eklendiği alternatif kendin-yap (DIY) giyim akımı.",
+   "why": "Reddit r/malefashionadvice topluluğunda el yapımı 'UV reactive death metal vest' gönderisinin öne çıkması.",
+   "sources": [
     "Reddit"
    ],
-   "idea": "Karanlıkta ve UV ışık altında parlayan el yapımı serigrafi baskılı ceket yamaları (battle jacket patch) ve gotik aksesua",
+   "idea": "UV veya neon ışık altında parlayan el yapımı dikişli metal müzik tarzı ceket yamaları ve rozetler.",
    "product_keywords": [
     {
      "keyword": "uv reactive patch",
-     "label": "UV reaktif kumaş yama"
+     "label": "uv duyarlı ceket yaması"
     },
     {
-     "keyword": "death metal battle jacket",
-     "label": "metalci kot yelek yaması"
+     "keyword": "death metal battle vest patch",
+     "label": "death metal yama"
     }
    ]
   },
   {
-   "name": "Anti-Glazing & Kurumsal Tükenmişlik Mizahı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z'nin iş arama sürecindeki yapay övgü kültürünü ('glazing') ve kurumsal baskıları reddedip alaycı bir dille kendi sınırlarını çizdiği ofis karşıtı duruş.",
-   "why": "Reddit r/GenZ üzerinde 'The Great Fuckoffening' ve iş başvurularında 'bro we are not gonna glaze your ass' temalı gönderiler haftanın en çok etkileşim alan konuları oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "İş görüşmesi ve kurumsal dünya klişelerini tiye alan iğneleyici sözlerin yer aldığı minimalist ofis kupaları, sticker pa",
-   "product_keywords": [
-    {
-     "keyword": "funny corporate burnout mug",
-     "label": "kurumsal tükenmişlik kupası"
-    },
-    {
-     "keyword": "anti work sticker pack",
-     "label": "ofis mizahı sticker seti"
-    }
-   ]
-  },
-  {
-   "name": "Tel Sarma Doğal Taş Kol Manşetleri (Arm Cuff)",
+   "name": "Copper & Labradorite Arm Cuffs",
    "heat": "Yükseliyor",
-   "desc": "Elfcore, bohem ve fantezi estetiğini birleştiren, kolun üst kısmına takılan tel sarma (wire-wrapped) el yapımı doğal taş takı akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda labradorit taşlı bakır üst kol manşeti haftanın en çok beğenilen el yapımı ürünlerinden biri oldu.",
+   "desc": "Doğal taşlar (özellikle labradorit) ve tel sarma bakır işçiliğiyle yapılan bohem ve fantastik üst kol takıları.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda labradorit taşlı bakır kol manşetinin yoğun ilgi görmesi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Labradorit veya ay taşı ile süslenmiş, ayarlanabilir oksitlenmiş bakır tel sarma üst kol bilekliği.",
+   "idea": "El bükümü bakır tel ve ham labradorit taşı kullanılarak tasarlanan ayarlanabilir bohem üst kol manşeti.",
    "product_keywords": [
     {
-     "keyword": "copper arm cuff labradorite",
-     "label": "bakır üst kol manşeti"
+     "keyword": "copper arm cuff",
+     "label": "bakır kol manşeti"
     },
     {
-     "keyword": "wire wrapped upper arm bracelet",
-     "label": "doğal taş tel sarma kolçak"
+     "keyword": "labradorite wire wrapped jewelry",
+     "label": "labradorit tel sarma takı"
     }
    ]
   },
   {
-   "name": "1930'lar Geniş Paça Retro Terzilik",
+   "name": "The Great Fuckoffening / Anti-Hustle Sloganları",
    "heat": "Yeni çıktı",
-   "desc": "Genç erkek modasında dar kalıpların terk edilip 1930'lar tarzı yüksek bel, çift pileli ve ultra geniş paçalı klasik terzilik silüetlerinin benimsenmesi.",
-   "why": "Reddit r/malefashionadvice'ta 1930'lar tarzı dökümlü pantolonlar ve klasik tuck stilleri üzerine hararetli tartışmalar ve stil paylaşımları trend oldu.",
+   "desc": "Z kuşağının kurumsal iş hayatına, aşırı çabaya ve mülakatlardaki yalakalığa karşı geliştirdiği esprili ve mesafe koyan anti-çalışma duruşu.",
+   "why": "Reddit r/GenZ üzerinde 'The Great Fuckoffening' ve mülakatlarda 'glaze etmeme' gönderilerinin yüksek etkileşim alması, TikTok'ta 'livecanbeeasy' trendi.",
    "sources": [
-    "Reddit"
+    "Reddit",
+    "TikTok"
    ],
-   "idea": "1930'lar estetiğini tamamlayan vintage tarzı deri düğmeli pantolon askıları veya dikiş meraklıları için yüksek bel pilel",
+   "idea": "İronik istifa, anti-hustle ve Z kuşağı ofis mizahı içeren minimalist tipografik kupalar ve masa süsleri.",
    "product_keywords": [
     {
-     "keyword": "1930s trousers sewing pattern",
-     "label": "retro pantolon dikiş kalıbı"
+     "keyword": "funny anti work mug",
+     "label": "esprili iş karşıtı kupa"
     },
     {
-     "keyword": "vintage button suspenders",
-     "label": "vintage düğmeli pantolon askısı"
+     "keyword": "corporate burnout desk sign",
+     "label": "ofis tükenmişlik masa levhası"
     }
    ]
   },
   {
-   "name": "Blue Dot Fever / Konser Bileti Satiri",
+   "name": "Marvel Rivals Hero Shooter Fandom",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni nesil süper kahraman takımlı nişancı oyununun etrafında oluşan karakter ve oyun içi estetik hayranlığı.",
+   "why": "TikTok trend hashtag'lerinde 'marvelrivalsavengers' etiketinin 2. sırada yer alması.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Popüler oyun kahramanlarından ilham alan akrilik anahtarlıklar, klavye tuş başlıkları (artisan keycaps) ve mouse pad tas",
+   "product_keywords": [
+    {
+     "keyword": "gaming keycaps",
+     "label": "özel tasarım klavye tuşu"
+    },
+    {
+     "keyword": "custom hero mousepad",
+     "label": "oyuncu mousepad"
+    }
+   ]
+  },
+  {
+   "name": "Nutty but Cute Pun Graphics",
    "heat": "Yeni çıktı",
-   "desc": "Fahiş bilet fiyatları ve satılmayan konser koltuk haritaları ('mavi noktalar') üzerinden tekelci bilet platformlarını ve canlı müzik krizini eleştiren pop-kültür hicvi.",
-   "why": "Popculturechat topluluğunda Lily Allen'ın satılmayan bilet haritası kostümü (#bluedotfever) viral oldu ve bilet fiyatlarına tepki gösteren gençlerin mizah malzemesi haline geldi.",
+   "desc": "Kelime oyunları ve sevimli retro illüstrasyonları (özellikle fındık, sincap veya komik kelime şakaları) birleştiren sıcak, esprili grafik tasarımı.",
+   "why": "Reddit r/shutupandtakemymoney panosunda 'Nutty but Cute Word Tee' tasarımının viral olması.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Satılmamış stadyum koltuk haritası ikonografisiyle tasarlanmış ironik konser tişörtleri ve 'Unsold Tour' kanvas çantalar",
+   "idea": "Minimalist 'Nutty but Cute' sincap/fındık illüstrasyonlu kanvas bez çantalar ve işlemeli pamuklu tişörtler.",
    "product_keywords": [
     {
-     "keyword": "ironic concert graphic tee",
-     "label": "ironik konser tişörtü"
+     "keyword": "pun graphic tote bag",
+     "label": "kelime oyunlu bez çanta"
     },
     {
-     "keyword": "seat map tote bag",
-     "label": "mizahi kanvas bez çanta"
+     "keyword": "cute word embroidered tshirt",
+     "label": "esprili nakışlı tişört"
+    }
+   ]
+  },
+  {
+   "name": "1930s Retro Trousers & Cloak Revival",
+   "heat": "Yeni çıktı",
+   "desc": "Geleneksel erkek giyimine tepki olarak ortaya çıkan 1930'lar bol paça pantolonlar ve dramatik vintage pelerin/palto silüetleri.",
+   "why": "Reddit r/malefashionadvice topluluğunda 1930'lar tarzı pantolonlar ve hardal tonlu pelerin (ochre cloak) talepleri.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Vintage tarz yüksek bel pantolonlar için el yapımı deri pantolon askıları ve yün pelerin broş/kapatma tokaları.",
+   "product_keywords": [
+    {
+     "keyword": "leather button suspenders",
+     "label": "deri düğmeli pantolon askısı"
+    },
+    {
+     "keyword": "vintage cloak clasp pin",
+     "label": "vintage pelerin tokası"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-10-31T16:27+00:00",
+ "trends_updated_at": "2026-10-31T20:46+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -242,12 +283,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-31T16:27+00:00"
+ "generated_at": "2026-10-31T20:46+00:00"
 }

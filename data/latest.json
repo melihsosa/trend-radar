@@ -3,149 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "TikTok Scary Horror Aesthetic",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin korku hikayeleri, gotik ve gerilim temalı kısa videolar üreterek viral hale getirdiği karanlık bir estetik akımı.",
-   "why": "TikTok'ta 'tiktokscaryhorrorcontest' hashtag'inin 1. sırada yer alması ve Google aramalarında Halloween/korku içeriklerinin öne çıkması.",
-   "sources": [
-    "TikTok",
-    "Google"
-   ],
-   "idea": "Korku temalı el yapımı reçine biblolar, karanlıkta parlayan gotik çıkartmalar ve korku illüstrasyonlu baskılı posterler.",
-   "product_keywords": [
-    {
-     "keyword": "horror aesthetic stickers",
-     "label": "korku estetiği çıkartmaları"
-    },
-    {
-     "keyword": "creepy resin art",
-     "label": "korkunç reçine biblolar"
-    }
-   ]
-  },
-  {
-   "name": "UV Reactive & Death Metal Patchwork",
+   "name": "#tiktokscaryhorrorcontest",
    "heat": "Yükseliyor",
-   "desc": "Siyah veya koyu kumaşlar üzerine neon, UV ışığında parlayan metal/gotik yamaların ve zımbaların eklendiği alternatif kendin-yap (DIY) giyim akımı.",
-   "why": "Reddit r/malefashionadvice topluluğunda el yapımı 'UV reactive death metal vest' gönderisinin öne çıkması.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "UV veya neon ışık altında parlayan el yapımı dikişli metal müzik tarzı ceket yamaları ve rozetler.",
-   "product_keywords": [
-    {
-     "keyword": "uv reactive patch",
-     "label": "uv duyarlı ceket yaması"
-    },
-    {
-     "keyword": "death metal battle vest patch",
-     "label": "death metal yama"
-    }
-   ]
-  },
-  {
-   "name": "Copper & Labradorite Arm Cuffs",
-   "heat": "Yükseliyor",
-   "desc": "Doğal taşlar (özellikle labradorit) ve tel sarma bakır işçiliğiyle yapılan bohem ve fantastik üst kol takıları.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda labradorit taşlı bakır kol manşetinin yoğun ilgi görmesi.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El bükümü bakır tel ve ham labradorit taşı kullanılarak tasarlanan ayarlanabilir bohem üst kol manşeti.",
-   "product_keywords": [
-    {
-     "keyword": "copper arm cuff",
-     "label": "bakır kol manşeti"
-    },
-    {
-     "keyword": "labradorite wire wrapped jewelry",
-     "label": "labradorit tel sarma takı"
-    }
-   ]
-  },
-  {
-   "name": "The Great Fuckoffening / Anti-Hustle Sloganları",
-   "heat": "Yeni çıktı",
-   "desc": "Z kuşağının kurumsal iş hayatına, aşırı çabaya ve mülakatlardaki yalakalığa karşı geliştirdiği esprili ve mesafe koyan anti-çalışma duruşu.",
-   "why": "Reddit r/GenZ üzerinde 'The Great Fuckoffening' ve mülakatlarda 'glaze etmeme' gönderilerinin yüksek etkileşim alması, TikTok'ta 'livecanbeeasy' trendi.",
-   "sources": [
-    "Reddit",
-    "TikTok"
-   ],
-   "idea": "İronik istifa, anti-hustle ve Z kuşağı ofis mizahı içeren minimalist tipografik kupalar ve masa süsleri.",
-   "product_keywords": [
-    {
-     "keyword": "funny anti work mug",
-     "label": "esprili iş karşıtı kupa"
-    },
-    {
-     "keyword": "corporate burnout desk sign",
-     "label": "ofis tükenmişlik masa levhası"
-    }
-   ]
-  },
-  {
-   "name": "Marvel Rivals Hero Shooter Fandom",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yeni nesil süper kahraman takımlı nişancı oyununun etrafında oluşan karakter ve oyun içi estetik hayranlığı.",
-   "why": "TikTok trend hashtag'lerinde 'marvelrivalsavengers' etiketinin 2. sırada yer alması.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Popüler oyun kahramanlarından ilham alan akrilik anahtarlıklar, klavye tuş başlıkları (artisan keycaps) ve mouse pad tas",
-   "product_keywords": [
-    {
-     "keyword": "gaming keycaps",
-     "label": "özel tasarım klavye tuşu"
-    },
-    {
-     "keyword": "custom hero mousepad",
-     "label": "oyuncu mousepad"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Nutty but Cute Pun Graphics",
-   "heat": "Yeni çıktı",
-   "desc": "Kelime oyunları ve sevimli retro illüstrasyonları (özellikle fındık, sincap veya komik kelime şakaları) birleştiren sıcak, esprili grafik tasarımı.",
-   "why": "Reddit r/shutupandtakemymoney panosunda 'Nutty but Cute Word Tee' tasarımının viral olması.",
+   "name": "#marvelrivalsavengers",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Minimalist 'Nutty but Cute' sincap/fındık illüstrasyonlu kanvas bez çantalar ve işlemeli pamuklu tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "pun graphic tote bag",
-     "label": "kelime oyunlu bez çanta"
-    },
-    {
-     "keyword": "cute word embroidered tshirt",
-     "label": "esprili nakışlı tişört"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "1930s Retro Trousers & Cloak Revival",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel erkek giyimine tepki olarak ortaya çıkan 1930'lar bol paça pantolonlar ve dramatik vintage pelerin/palto silüetleri.",
-   "why": "Reddit r/malefashionadvice topluluğunda 1930'lar tarzı pantolonlar ve hardal tonlu pelerin (ochre cloak) talepleri.",
+   "name": "#livecanbeeasy",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Vintage tarz yüksek bel pantolonlar için el yapımı deri pantolon askıları ve yün pelerin broş/kapatma tokaları.",
-   "product_keywords": [
-    {
-     "keyword": "leather button suspenders",
-     "label": "deri düğmeli pantolon askısı"
-    },
-    {
-     "keyword": "vintage cloak clasp pin",
-     "label": "vintage pelerin tokası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-10-31T20:46+00:00",
+ "trends_updated_at": "2026-10-31T23:51+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -282,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-10-31T20:46+00:00"
+ "generated_at": "2026-10-31T23:51+00:00"
 }

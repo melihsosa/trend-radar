@@ -3,40 +3,148 @@
  "sample": false,
  "trends": [
   {
-   "name": "#tiktokscaryhorrorcontest",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Scary & Horror Aesthetic",
+   "heat": "Zirvede",
+   "desc": "Cadılar Bayramı ve korku temalı giyim, takı ve illüstrasyon odaklı popüler estetik akımı.",
+   "why": "TikTok'ta #tiktokscaryhorrorcontest 1. sırada yer alırken Reddit GenZ'de Cadılar Bayramı paylaşımları öne çıktı.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Korku filmi estetiğine sahip illüstrasyonlu tişörtler ve Cadılar Bayramı konseptli el yapımı takılar.",
+   "product_keywords": [
+    {
+     "keyword": "horror movie shirt",
+     "label": "korku filmi tişörtü"
+    },
+    {
+     "keyword": "halloween scary jewelry",
+     "label": "korku temalı cadılar bayramı takısı"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsavengers",
+   "name": "Copper Labradorite Jewelry",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Doğal taşlar ve işlenmiş bakır tel detaylarıyla hazırlanan mistik ve doğa temalı aksesuar akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda mavi labradorit taşlı bakır kol manşeti yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Mavi labradorit ve doğal taşlar içeren el yapımı bakır kol manşetleri (arm cuff) ve bileklikler.",
+   "product_keywords": [
+    {
+     "keyword": "labradorite copper arm cuff",
+     "label": "labradorit bakır kol manşeti"
+    },
+    {
+     "keyword": "gemstone arm cuff",
+     "label": "doğal taşlı kol manşeti"
+    }
+   ]
   },
   {
-   "name": "#livecanbeeasy",
+   "name": "Caramel Flares & 70s Retro",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "70'ler modasından ilham alan karamel/kiremit tonlarında ispanyol paça pantolonlar ve retro çizgili kombinler.",
+   "why": "Reddit r/malefashionadvice subreddit'inde karamel flare pantolonlar ve çizgili kravat kombinleri dikkat çekti.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "70'ler tarzı karamel tonlarında ispanyol paça pantolonlar ve retro çizgili aksesuar/kravatlar.",
+   "product_keywords": [
+    {
+     "keyword": "caramel flare pants",
+     "label": "karamel paça pantolon"
+    },
+    {
+     "keyword": "vintage striped tie",
+     "label": "vintage çizgili kravat"
+    }
+   ]
+  },
+  {
+   "name": "La Catrina & Day of the Dead",
+   "heat": "Hızla yükseliyor",
+   "desc": "Meksika kültürüne ait La Catrina figürleri ve Ölüler Günü temalı dekoratif sanatsal ögeler.",
+   "why": "Reddit r/popculturechat'te Mexico City'de sergilenen rekor büyüklükteki La Catrina heykeli gündem oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "La Catrina ve Ölüler Günü figürlü el yapımı seramik büstler, takılar ve illüstrasyon baskıları.",
+   "product_keywords": [
+    {
+     "keyword": "la catrina art print",
+     "label": "la catrina duvar sanatı"
+    },
+    {
+     "keyword": "day of the dead decor",
+     "label": "ölüler günü dekoru"
+    }
+   ]
+  },
+  {
+   "name": "Ralph Tuck Styling",
+   "heat": "Yeni çıktı",
+   "desc": "Gömlek veya tişörtlerin pantolona hafifçe sokulmasıyla oluşturulan retro ve çaba gerektirmeyen şıklık stili.",
+   "why": "Reddit r/malefashionadvice topluluğunda Ralph Tuck tarzında giyim detayları ve kombin teknikleri paylaşıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Ralph Tuck stiline uygun minimalist deri kemerler ve retro kesim Oxford gömlekler.",
+   "product_keywords": [
+    {
+     "keyword": "minimalist leather belt",
+     "label": "minimalist deri kemer"
+    },
+    {
+     "keyword": "vintage oxford shirt",
+     "label": "vintage oxford gömlek"
+    }
+   ]
+  },
+  {
+   "name": "Nutty & Cute Graphic Word Tees",
+   "heat": "Yükseliyor",
+   "desc": "Espirili, sevimli ve mizahi kelime oyunları içeren minimalist tipografik baskılı tişörtler.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde 'Nutty but Cute Word Tee' tarzı tişört tasarımları öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sevimli çizimler ve espirili kelime oyunları içeren grafik baskılı tişört ve sweatshirt'ler.",
+   "product_keywords": [
+    {
+     "keyword": "funny word t-shirt",
+     "label": "komik yazılı tişört"
+    },
+    {
+     "keyword": "cute graphic tee",
+     "label": "sevimli grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Live Can Be Easy Lifestyle",
+   "heat": "Yeni çıktı",
+   "desc": "Günlük hayatı pratikleştiren ve yaşam alanlarını daha konforlu hale getiren minimalist lifestyle trendi.",
+   "why": "TikTok Creative Center'da #livecanbeeasy hashtag'i en popüler 3. trend olarak listelendi.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Ev ve masaüstü kullanımı için minimalist ahşap düzenleyiciler ve pratik organize kutuları.",
+   "product_keywords": [
+    {
+     "keyword": "desk organizer minimalist",
+     "label": "minimalist masa düzenleyici"
+    },
+    {
+     "keyword": "aesthetic storage box",
+     "label": "estetik saklama kutusu"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-02T22:56+00:00",
+ "trends_updated_at": "2026-11-03T04:25+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -166,20 +274,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 62
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-02T22:56+00:00"
+ "generated_at": "2026-11-03T04:25+00:00"
 }

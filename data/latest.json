@@ -3,95 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "maryland question 3",
+   "name": "#teslaroadster",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 200+",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Google"
+    "TikTok"
    ],
    "idea": "",
    "product_keywords": []
   },
   {
-   "name": "marsha blackburn",
+   "name": "#brandrisk",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 200+",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Google"
+    "TikTok"
    ],
    "idea": "",
    "product_keywords": []
   },
   {
-   "name": "tony butala",
+   "name": "#roadster",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 500+",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Google"
-   ],
-   "idea": "",
-   "product_keywords": []
-  },
-  {
-   "name": "where can i go vote near me",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 500+",
-   "sources": [
-    "Google"
-   ],
-   "idea": "",
-   "product_keywords": []
-  },
-  {
-   "name": "alabama amendments 2026",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 200+",
-   "sources": [
-    "Google"
-   ],
-   "idea": "",
-   "product_keywords": []
-  },
-  {
-   "name": "i voted sticker",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 200+",
-   "sources": [
-    "Google"
-   ],
-   "idea": "",
-   "product_keywords": []
-  },
-  {
-   "name": "do kids have school on election day",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 200+",
-   "sources": [
-    "Google"
-   ],
-   "idea": "",
-   "product_keywords": []
-  },
-  {
-   "name": "doug jones",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; Google'da hızla yükselen aramalardan.",
-   "why": "Yaklaşık arama: 200+",
-   "sources": [
-    "Google"
+    "TikTok"
    ],
    "idea": "",
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-03T13:11+00:00",
+ "trends_updated_at": "2026-11-03T20:42+00:00",
  "products": [
   {
    "name": "korku temalı cadılar bayramı takısı",
@@ -534,8 +479,8 @@
  "products_updated_at": "2026-11-03T12:09+00:00",
  "status": {
   "TikTok": {
-   "ok": false,
-   "error": "TikTok Creative Center'dan veri alınamadı"
+   "ok": true,
+   "count": 3
   },
   "YouTube": {
    "ok": false,
@@ -543,7 +488,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 63
   },
   "Google": {
    "ok": true,
@@ -558,5 +503,5 @@
    "count": 19
   }
  },
- "generated_at": "2026-11-03T13:11+00:00"
+ "generated_at": "2026-11-03T20:42+00:00"
 }

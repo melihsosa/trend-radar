@@ -3,167 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "Tesla & Roadster Otomotiv Estetiği",
-   "heat": "Zirvede",
-   "desc": "Elektrikli spor araçlara ve Roadster tasarımlarına duyulan ilgiyle öne çıkan otomotiv estetiği ve aksesuarları.",
-   "why": "TikTok Creative Center verilerinde #teslaroadster ve #roadster hashtag'leri 1. ve 3. sıralarda yer aldı.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Minimalist Roadster araba silüetli ahşap/metal duvar panoları veya anahtarlıklar.",
-   "product_keywords": [
-    {
-     "keyword": "roadster car wall art",
-     "label": "roadster araba duvar sanatı"
-    },
-    {
-     "keyword": "minimalist car silhouette keychain",
-     "label": "minimalist araba silüeti anahtarlık"
-    }
-   ]
-  },
-  {
-   "name": "Brandrisk Sokak Giyimi Akımı",
+   "name": "Custom Postcode Topography Prints",
    "heat": "Hızla yükseliyor",
-   "desc": "Gençlerin sosyal meyadaki cesur ve aykırı içerik kültürünü yansıtan sokak giyimi ve slogan estetiği.",
-   "why": "TikTok Creative Center popüler hashtag listesinde #brandrisk etiketi 2. sırada yer alıyor.",
+   "desc": "Kullanıcıların kendi posta kodlarını vererek evlerinin etrafındaki tepe ve coğrafi yükseltileri minimalist çizgi sanatına dönüştürdükleri duvar dekoru akımı.",
+   "why": "Reddit'in shutupandtakemymoney topluluğunda kişiselleştirilmiş posta kodu topoğrafya baskılarının öne çıkmasıyla tespit edilmiştir.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Müşterinin belirttiği posta kodunun eşyükselti haritasını içeren kişiselleştirilmiş duvar tablosu veya dijital baskı.",
+   "product_keywords": [
+    {
+     "keyword": "custom postcode topography print",
+     "label": "kişiye özel posta kodu topoğrafya baskısı"
+    },
+    {
+     "keyword": "contour map wall art",
+     "label": "eşyükselti haritası duvar sanatı"
+    }
+   ]
+  },
+  {
+   "name": "Roadster Automotive Streetwear",
+   "heat": "Hızla yükseliyor",
+   "desc": "Spor araba tutkusu ve otomotiv estetiğini sokak giyimiyle birleştiren minimalist araba temalı ürün akımı.",
+   "why": "TikTok Creative Center verilerinde teslaroadster ve roadster etiketlerinin 1. ve 3. sırada yer almasıyla görülmüştür.",
    "sources": [
     "TikTok"
    ],
-   "idea": "'Brand Risk' yazılı tipografik grafik tasarımlı oversize kapüşonlular ve şapkalar.",
+   "idea": "Roadster ve spor araba silüetleri içeren minimalist çizimli kapüşonlu sweatshirtler ve metal anahtarlıklar.",
    "product_keywords": [
     {
-     "keyword": "brand risk hoodie streetwear",
-     "label": "brand risk sokak tarzı kapüşonlu"
+     "keyword": "roadster car hoodie",
+     "label": "roadster araba kapüşonlu"
     },
     {
-     "keyword": "brand risk graphic tee",
-     "label": "brand risk grafik tişört"
+     "keyword": "minimalist car keychain",
+     "label": "minimalist araba anahtarlığı"
     }
    ]
   },
   {
-   "name": "Kişiselleştirilmiş Posta Kodu Topoğrafya Haritası",
+   "name": "Labradorite Copper Arm Cuffs",
    "heat": "Yükseliyor",
-   "desc": "Kullanıcıların yaşadıkları veya sevdikleri konumun posta koduna göre çizilen yükselti ve topoğrafya haritası baskıları.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda posta koduna göre özel çizim topoğrafik harita konsepti popülerleşti.",
+   "desc": "Mavi labradorit doğal taşı ve tel sarma bakır işçiliğiyle yapılan boho/mistik estetiğe sahip üst kol bilezikleri.",
+   "why": "Reddit shutupandtakemymoney başlığında mavi labradorit taşlı bakır kol kelepçesi tasarımının popülerleşmesiyle tespit edilmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Müşterinin belirttiği posta kodundaki arazi yükseltilerini estetik çizgilerle sunan kişiye özel duvar tablosu.",
-   "product_keywords": [
-    {
-     "keyword": "custom postcode map print",
-     "label": "özel posta kodu harita baskısı"
-    },
-    {
-     "keyword": "topographic location wall art",
-     "label": "topoğrafik konum duvar sanatı"
-    }
-   ]
-  },
-  {
-   "name": "Labradorit Taşlı Bakır Kol Manşeti",
-   "heat": "Yükseliyor",
-   "desc": "Mavi ışıltılı labradorit doğal taşı ve tel sarma bakır işçiliğiyle hazırlanan boho tarzı pazu ve kol takıları.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda mavi labradorit taşlı bakır kol manşeti paylaşımı ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "El yapımı tel sarma teknikleriyle üretilen labradorit doğal taşlı bakır kol/pazu bilezikleri.",
+   "idea": "El yapımı, ayarlanabilir mavi labradorit doğal taşlı bakır pazubent / üst kol kelepçesi.",
    "product_keywords": [
     {
      "keyword": "labradorite copper arm cuff",
-     "label": "labradorit bakır pazu bileziği"
+     "label": "labradorit bakır kol kelepçesi"
     },
     {
-     "keyword": "boho gemstone armlet",
-     "label": "boho doğal taşlı kol takısı"
+     "keyword": "boho upper arm bracelet",
+     "label": "boho üst kol bileziği"
     }
    ]
   },
   {
-   "name": "70'ler Retro Karamel & Teal Kombinleri",
+   "name": "La Catrina & Day of the Dead Decor",
+   "heat": "Zirvede",
+   "desc": "Meksika'nın geleneksel Ölüler Günü (Dia de los Muertos) sembolü La Catrina figürü etrafında şekillenen renkli ve gotik dekorasyon estetiği.",
+   "why": "Reddit popculturechat topluluğunda Meksika'da kırılan 108 fitlik rekor La Catrina heykeli haberinin gündem olmasıyla görünmüştür.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "La Catrina figürlü el yapımı ahşap duvar süsleri, renkli illüstrasyonlu mumlar ve tematik baskılar.",
+   "product_keywords": [
+    {
+     "keyword": "la catrina day of the dead decor",
+     "label": "la catrina ölüler günü dekoru"
+    },
+    {
+     "keyword": "dia de los muertos wall art",
+     "label": "dia de los muertos duvar sanatı"
+    }
+   ]
+  },
+  {
+   "name": "Caramel Flares & 70s Retro Aesthetics",
    "heat": "Yükseliyor",
-   "desc": "Karamel tonlarında bol paça (flare) pantolonlar ve teal (ördek başı yeşili) çizgili üstlerle 70'ler retro giyim tarzının yükselişi.",
-   "why": "Reddit r/malefashionadvice topluluğunda karamel flares ve teal çizgili retro kombin paylaşımı öne çıktı.",
+   "desc": "1970'ler vintage modasından ilham alan karamel tonlu ispanyol paça pantolonlar ve turkuaz/çizgili retro giyim kombinleri.",
+   "why": "Reddit malefashionadvice topluluğunda turkuaz çizgili üstler ve karamel ispanyol paça kombinlerinin yoğun ilgi görmesiyle tespit edilmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "70'ler estetiğine uygun karamel tonlarında ispanyol paça pantolonlar ve retro çizgili tişörtler.",
+   "idea": "70'ler stili karamel renkli ispanyol paça pantolonlar ve retro çizgili kumaş kravatlar.",
    "product_keywords": [
     {
-     "keyword": "caramel flare pants",
-     "label": "karamel ispanyol paça pantolon"
+     "keyword": "vintage caramel flare pants",
+     "label": "vintage karamel ispanyol paça pantolon"
     },
     {
-     "keyword": "teal striped shirt retro",
-     "label": "teal çizgili retro tişört"
+     "keyword": "retro striped tie",
+     "label": "retro çizgili kravat"
     }
    ]
   },
   {
-   "name": "La Catrina & Ölüler Günü Sanatı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Meksika kültürünün ikonik La Catrina figürü ve Ölüler Günü (Dia de los Muertos) motiflerini içeren renkli dekor ve giyim estetiği.",
-   "why": "Reddit r/popculturechat topluluğunda Mexico City'de sergilenen rekor büyüklükteki La Catrina heykeli haberi gündem oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "La Catrina motifli el yapımı seramik figürler, illüstrasyon baskılı tişörtler veya duvar süsleri.",
-   "product_keywords": [
-    {
-     "keyword": "la catrina day of the dead art",
-     "label": "la catrina ölüler günü sanatı"
-    },
-    {
-     "keyword": "dia de los muertos decor",
-     "label": "dia de los muertos dekorasyonu"
-    }
-   ]
-  },
-  {
-   "name": "Çizgili Klasik Kravat Estetiği",
+   "name": "Cute Word Puns Tees",
    "heat": "Yükseliyor",
-   "desc": "Çizgili desenlerin yeniden gündeme gelmesiyle klasik kravat tarzının günümüz sokak ve genç modasına entegre edilmesi.",
-   "why": "Reddit r/malefashionadvice topluluğunda çizgili kravatların yeniden yükselen bir trend olduğu vurgulandı.",
+   "desc": "Eğlenceli kelime oyunları ve sevimli illüstrasyonları buluşturan minimalist mizahi grafik tişört tasarımı akımı.",
+   "why": "Reddit shutupandtakemymoney başlığında esprili ve sevimli kelime oyunlu grafik tişört paylaşımının ilgi görmesiyle fark edilmiştir.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı, vintage dokulu veya modern renk kombinasyonlarına sahip çizgili ipek/pamuk kravatlar.",
+   "idea": "Sevimli figürler ve esprili İngilizce kelime oyunları içeren unisex grafik baskılı tişörtler.",
    "product_keywords": [
     {
-     "keyword": "vintage striped tie",
-     "label": "vintage çizgili kravat"
+     "keyword": "cute pun graphic tee",
+     "label": "sevimli kelime oyunlu grafik tişört"
     },
     {
-     "keyword": "men striped silk tie",
-     "label": "erkek çizgili ipek kravat"
-    }
-   ]
-  },
-  {
-   "name": "Sevimli Kelime Oyunlu Grafik Tişörtler",
-   "heat": "Yükseliyor",
-   "desc": "Esprili kelime oyunları (puns) ve sevimli illüstrasyonları bir araya getiren grafik tişört akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda sevimli kelime oyunlu grafik tişört tasarımı öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sevimli grafikler ve mizahi kelime oyunları içeren organik pamuk baskılı tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "cute pun word t-shirt",
-     "label": "esprili kelime oyunlu tişört"
-    },
-    {
-     "keyword": "funny graphic tee",
-     "label": "sevimli grafik baskılı tişört"
+     "keyword": "funny wordplay t-shirt",
+     "label": "komik kelime esprili t-shirt"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-11-04T00:58+00:00",
+ "trends_updated_at": "2026-11-04T10:07+00:00",
  "products": [
   {
    "name": "korku temalı cadılar bayramı takısı",
@@ -623,12 +583,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 8
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-11-04T00:58+00:00"
+ "generated_at": "2026-11-04T10:07+00:00"
 }

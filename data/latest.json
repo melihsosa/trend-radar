@@ -3,127 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "Custom Postcode Topography Prints",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların kendi posta kodlarını vererek evlerinin etrafındaki tepe ve coğrafi yükseltileri minimalist çizgi sanatına dönüştürdükleri duvar dekoru akımı.",
-   "why": "Reddit'in shutupandtakemymoney topluluğunda kişiselleştirilmiş posta kodu topoğrafya baskılarının öne çıkmasıyla tespit edilmiştir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Müşterinin belirttiği posta kodunun eşyükselti haritasını içeren kişiselleştirilmiş duvar tablosu veya dijital baskı.",
-   "product_keywords": [
-    {
-     "keyword": "custom postcode topography print",
-     "label": "kişiye özel posta kodu topoğrafya baskısı"
-    },
-    {
-     "keyword": "contour map wall art",
-     "label": "eşyükselti haritası duvar sanatı"
-    }
-   ]
-  },
-  {
-   "name": "Roadster Automotive Streetwear",
-   "heat": "Hızla yükseliyor",
-   "desc": "Spor araba tutkusu ve otomotiv estetiğini sokak giyimiyle birleştiren minimalist araba temalı ürün akımı.",
-   "why": "TikTok Creative Center verilerinde teslaroadster ve roadster etiketlerinin 1. ve 3. sırada yer almasıyla görülmüştür.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Roadster ve spor araba silüetleri içeren minimalist çizimli kapüşonlu sweatshirtler ve metal anahtarlıklar.",
-   "product_keywords": [
-    {
-     "keyword": "roadster car hoodie",
-     "label": "roadster araba kapüşonlu"
-    },
-    {
-     "keyword": "minimalist car keychain",
-     "label": "minimalist araba anahtarlığı"
-    }
-   ]
-  },
-  {
-   "name": "Labradorite Copper Arm Cuffs",
+   "name": "Waffle & Taş Yıkama Dokulu Havlular",
    "heat": "Yükseliyor",
-   "desc": "Mavi labradorit doğal taşı ve tel sarma bakır işçiliğiyle yapılan boho/mistik estetiğe sahip üst kol bilezikleri.",
-   "why": "Reddit shutupandtakemymoney başlığında mavi labradorit taşlı bakır kol kelepçesi tasarımının popülerleşmesiyle tespit edilmiştir.",
+   "desc": "Minimalist ve uzun ömürlü ev tekstiline yönelimle birlikte yüksek emiciliğe sahip waffle dokuma ve taş yıkama (stonewashed) havlu estetiği popülerleşiyor.",
+   "why": "Reddit r/BuyItForLife topluluğunda waffle havlu tavsiyeleri ve dayanıklı taş yıkama havlu muadilleri gündem oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "El yapımı, ayarlanabilir mavi labradorit doğal taşlı bakır pazubent / üst kol kelepçesi.",
+   "idea": "El yapımı organik pamuk waffle dokulu banyo ve mutfak havlu seti.",
    "product_keywords": [
     {
-     "keyword": "labradorite copper arm cuff",
-     "label": "labradorit bakır kol kelepçesi"
+     "keyword": "waffle weave towel",
+     "label": "waffle dokuma havlu"
     },
     {
-     "keyword": "boho upper arm bracelet",
-     "label": "boho üst kol bileziği"
+     "keyword": "stonewashed cotton towel",
+     "label": "taş yıkama pamuk havlu"
     }
    ]
   },
   {
-   "name": "La Catrina & Day of the Dead Decor",
+   "name": "Steampunk Western Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Vahşi Batı tarzının Viktorya dönemi endüstriyel bilim kurgu ögeleriyle harmanlandığı retro-fütüristik stil ve aksesuar akımı.",
+   "why": "Google yükselen aramalarda 'Bass x Machina' dizisinin çıkışıyla Steampunk Western konseptine ilgi artı.",
+   "sources": [
+    "Google"
+   ],
+   "idea": "Pirinç tokalı eskitme deri kemerler veya Steampunk temalı kovboy aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "steampunk western leather belt",
+     "label": "steampunk western deri kemer"
+    },
+    {
+     "keyword": "brass steampunk accessories",
+     "label": "pirinç steampunk aksesuarları"
+    }
+   ]
+  },
+  {
+   "name": "Ralph Tuck Stili",
+   "heat": "Yeni çıktı",
+   "desc": "Erkek giyiminde gömlek veya kazağın pantolon içine özenli ve havalı bir şekilde sıkıştırılmasıyla oluşturulan klasik Preppy giyim stili.",
+   "why": "Reddit r/malefashionadvice topluluğunda 'Ralph Tuck' stilini doğru uygulama görselleri ve tartışmaları öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Preppy/Ralph Tuck stiline uygun el yapımı deri kemer ve klasik kesim kumaş pantolon aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "preppy woven belt",
+     "label": "preppy örgü deri kemer"
+    },
+    {
+     "keyword": "vintage oxford shirt",
+     "label": "vintage oxford gömlek"
+    }
+   ]
+  },
+  {
+   "name": "Koleksiyonluk Advent Calendar Kutuları",
    "heat": "Zirvede",
-   "desc": "Meksika'nın geleneksel Ölüler Günü (Dia de los Muertos) sembolü La Catrina figürü etrafında şekillenen renkli ve gotik dekorasyon estetiği.",
-   "why": "Reddit popculturechat topluluğunda Meksika'da kırılan 108 fitlik rekor La Catrina heykeli haberinin gündem olmasıyla görünmüştür.",
+   "desc": "Yılbaşı dönemine yaklaşırken markaların ve bağımsız üreticilerin hazırladığı sürpriz hediye ve aksesuar kutusu konsepti.",
+   "why": "Reddit r/popculturechat topluluğunda $150 değerindeki markalı giyim advent calendar kutu açılımı yoğun ilgi ve merak uyandırdı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "La Catrina figürlü el yapımı ahşap duvar süsleri, renkli illüstrasyonlu mumlar ve tematik baskılar.",
+   "idea": "Küçük takı, çorap veya özbakım ürünleri içeren el yapımı ahşap/kumaş yılbaşı takvimi kutuları.",
    "product_keywords": [
     {
-     "keyword": "la catrina day of the dead decor",
-     "label": "la catrina ölüler günü dekoru"
+     "keyword": "empty advent calendar box",
+     "label": "boş advent calendar hediye kutusu"
     },
     {
-     "keyword": "dia de los muertos wall art",
-     "label": "dia de los muertos duvar sanatı"
+     "keyword": "handcrafted advent calendar",
+     "label": "el yapımı advent takvimi"
     }
    ]
   },
   {
-   "name": "Caramel Flares & 70s Retro Aesthetics",
+   "name": "70'ler Karamel & Turkuaz Renk Paleti",
    "heat": "Yükseliyor",
-   "desc": "1970'ler vintage modasından ilham alan karamel tonlu ispanyol paça pantolonlar ve turkuaz/çizgili retro giyim kombinleri.",
-   "why": "Reddit malefashionadvice topluluğunda turkuaz çizgili üstler ve karamel ispanyol paça kombinlerinin yoğun ilgi görmesiyle tespit edilmiştir.",
+   "desc": "70'lerin retro renk tonları olan karamel kahve ispanyol paçalar ile turkuaz/çelik mavisi çizgili üstlerin birleşimiyle oluşan kıyafet estetiği.",
+   "why": "Reddit r/malefashionadvice topluluğunda karamel paçalar ve turkuaz çizgili kombin gönderisi popülerlik kazandı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "70'ler stili karamel renkli ispanyol paça pantolonlar ve retro çizgili kumaş kravatlar.",
+   "idea": "70'ler renk paletinde örgü retro çizgili atkı, bere veya el yapımı retro kumaş çanta.",
    "product_keywords": [
     {
-     "keyword": "vintage caramel flare pants",
-     "label": "vintage karamel ispanyol paça pantolon"
+     "keyword": "70s retro striped scarf",
+     "label": "70'ler retro çizgili atkı"
     },
     {
-     "keyword": "retro striped tie",
-     "label": "retro çizgili kravat"
-    }
-   ]
-  },
-  {
-   "name": "Cute Word Puns Tees",
-   "heat": "Yükseliyor",
-   "desc": "Eğlenceli kelime oyunları ve sevimli illüstrasyonları buluşturan minimalist mizahi grafik tişört tasarımı akımı.",
-   "why": "Reddit shutupandtakemymoney başlığında esprili ve sevimli kelime oyunlu grafik tişört paylaşımının ilgi görmesiyle fark edilmiştir.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Sevimli figürler ve esprili İngilizce kelime oyunları içeren unisex grafik baskılı tişörtler.",
-   "product_keywords": [
-    {
-     "keyword": "cute pun graphic tee",
-     "label": "sevimli kelime oyunlu grafik tişört"
-    },
-    {
-     "keyword": "funny wordplay t-shirt",
-     "label": "komik kelime esprili t-shirt"
+     "keyword": "caramel flare trousers",
+     "label": "karamel renk ispanyol paça pantolon"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-11-04T10:07+00:00",
+ "trends_updated_at": "2026-11-04T18:59+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -391,7 +371,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 63
+   "count": 75
   },
   "Google": {
    "ok": true,
@@ -399,12 +379,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-11-04T12:22+00:00"
+ "generated_at": "2026-11-04T18:59+00:00"
 }

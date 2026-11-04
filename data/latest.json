@@ -3,40 +3,167 @@
  "sample": false,
  "trends": [
   {
-   "name": "#teslaroadster",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Tesla & Roadster Otomotiv Estetiği",
+   "heat": "Zirvede",
+   "desc": "Elektrikli spor araçlara ve Roadster tasarımlarına duyulan ilgiyle öne çıkan otomotiv estetiği ve aksesuarları.",
+   "why": "TikTok Creative Center verilerinde #teslaroadster ve #roadster hashtag'leri 1. ve 3. sıralarda yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Minimalist Roadster araba silüetli ahşap/metal duvar panoları veya anahtarlıklar.",
+   "product_keywords": [
+    {
+     "keyword": "roadster car wall art",
+     "label": "roadster araba duvar sanatı"
+    },
+    {
+     "keyword": "minimalist car silhouette keychain",
+     "label": "minimalist araba silüeti anahtarlık"
+    }
+   ]
   },
   {
-   "name": "#brandrisk",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Brandrisk Sokak Giyimi Akımı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Gençlerin sosyal meyadaki cesur ve aykırı içerik kültürünü yansıtan sokak giyimi ve slogan estetiği.",
+   "why": "TikTok Creative Center popüler hashtag listesinde #brandrisk etiketi 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'Brand Risk' yazılı tipografik grafik tasarımlı oversize kapüşonlular ve şapkalar.",
+   "product_keywords": [
+    {
+     "keyword": "brand risk hoodie streetwear",
+     "label": "brand risk sokak tarzı kapüşonlu"
+    },
+    {
+     "keyword": "brand risk graphic tee",
+     "label": "brand risk grafik tişört"
+    }
+   ]
   },
   {
-   "name": "#roadster",
+   "name": "Kişiselleştirilmiş Posta Kodu Topoğrafya Haritası",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Kullanıcıların yaşadıkları veya sevdikleri konumun posta koduna göre çizilen yükselti ve topoğrafya haritası baskıları.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda posta koduna göre özel çizim topoğrafik harita konsepti popülerleşti.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Müşterinin belirttiği posta kodundaki arazi yükseltilerini estetik çizgilerle sunan kişiye özel duvar tablosu.",
+   "product_keywords": [
+    {
+     "keyword": "custom postcode map print",
+     "label": "özel posta kodu harita baskısı"
+    },
+    {
+     "keyword": "topographic location wall art",
+     "label": "topoğrafik konum duvar sanatı"
+    }
+   ]
+  },
+  {
+   "name": "Labradorit Taşlı Bakır Kol Manşeti",
+   "heat": "Yükseliyor",
+   "desc": "Mavi ışıltılı labradorit doğal taşı ve tel sarma bakır işçiliğiyle hazırlanan boho tarzı pazu ve kol takıları.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda mavi labradorit taşlı bakır kol manşeti paylaşımı ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı tel sarma teknikleriyle üretilen labradorit doğal taşlı bakır kol/pazu bilezikleri.",
+   "product_keywords": [
+    {
+     "keyword": "labradorite copper arm cuff",
+     "label": "labradorit bakır pazu bileziği"
+    },
+    {
+     "keyword": "boho gemstone armlet",
+     "label": "boho doğal taşlı kol takısı"
+    }
+   ]
+  },
+  {
+   "name": "70'ler Retro Karamel & Teal Kombinleri",
+   "heat": "Yükseliyor",
+   "desc": "Karamel tonlarında bol paça (flare) pantolonlar ve teal (ördek başı yeşili) çizgili üstlerle 70'ler retro giyim tarzının yükselişi.",
+   "why": "Reddit r/malefashionadvice topluluğunda karamel flares ve teal çizgili retro kombin paylaşımı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "70'ler estetiğine uygun karamel tonlarında ispanyol paça pantolonlar ve retro çizgili tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "caramel flare pants",
+     "label": "karamel ispanyol paça pantolon"
+    },
+    {
+     "keyword": "teal striped shirt retro",
+     "label": "teal çizgili retro tişört"
+    }
+   ]
+  },
+  {
+   "name": "La Catrina & Ölüler Günü Sanatı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Meksika kültürünün ikonik La Catrina figürü ve Ölüler Günü (Dia de los Muertos) motiflerini içeren renkli dekor ve giyim estetiği.",
+   "why": "Reddit r/popculturechat topluluğunda Mexico City'de sergilenen rekor büyüklükteki La Catrina heykeli haberi gündem oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "La Catrina motifli el yapımı seramik figürler, illüstrasyon baskılı tişörtler veya duvar süsleri.",
+   "product_keywords": [
+    {
+     "keyword": "la catrina day of the dead art",
+     "label": "la catrina ölüler günü sanatı"
+    },
+    {
+     "keyword": "dia de los muertos decor",
+     "label": "dia de los muertos dekorasyonu"
+    }
+   ]
+  },
+  {
+   "name": "Çizgili Klasik Kravat Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "Çizgili desenlerin yeniden gündeme gelmesiyle klasik kravat tarzının günümüz sokak ve genç modasına entegre edilmesi.",
+   "why": "Reddit r/malefashionadvice topluluğunda çizgili kravatların yeniden yükselen bir trend olduğu vurgulandı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı, vintage dokulu veya modern renk kombinasyonlarına sahip çizgili ipek/pamuk kravatlar.",
+   "product_keywords": [
+    {
+     "keyword": "vintage striped tie",
+     "label": "vintage çizgili kravat"
+    },
+    {
+     "keyword": "men striped silk tie",
+     "label": "erkek çizgili ipek kravat"
+    }
+   ]
+  },
+  {
+   "name": "Sevimli Kelime Oyunlu Grafik Tişörtler",
+   "heat": "Yükseliyor",
+   "desc": "Esprili kelime oyunları (puns) ve sevimli illüstrasyonları bir araya getiren grafik tişört akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda sevimli kelime oyunlu grafik tişört tasarımı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Sevimli grafikler ve mizahi kelime oyunları içeren organik pamuk baskılı tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "cute pun word t-shirt",
+     "label": "esprili kelime oyunlu tişört"
+    },
+    {
+     "keyword": "funny graphic tee",
+     "label": "sevimli grafik baskılı tişört"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-03T20:42+00:00",
+ "trends_updated_at": "2026-11-04T00:58+00:00",
  "products": [
   {
    "name": "korku temalı cadılar bayramı takısı",
@@ -495,13 +622,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 8
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 19
   }
  },
- "generated_at": "2026-11-03T20:42+00:00"
+ "generated_at": "2026-11-04T00:58+00:00"
 }

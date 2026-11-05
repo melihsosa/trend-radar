@@ -3,40 +3,147 @@
  "sample": false,
  "trends": [
   {
-   "name": "#teslaroadster",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Saturween & Halloweekend",
+   "heat": "Zirvede",
+   "desc": "Cadılar Bayramı kutlamalarının hafta sonuna yayılması ve Kasım ayına geçiş dönemi konsepti.",
+   "why": "TikTok Creative Center verilerinde #saturween 1. sırada, #halloweekend ise 3. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Saturween veya Halloweekend yazılı partiye özel grafik baskılı sweatshirt ve kupalar.",
+   "product_keywords": [
+    {
+     "keyword": "saturween shirt",
+     "label": "saturween baskılı tişört"
+    },
+    {
+     "keyword": "halloweekend sweatshirt",
+     "label": "halloweekend sweatshirt"
+    }
+   ]
   },
   {
-   "name": "#brandrisk",
+   "name": "Özel Posta Kodu ve Topoğrafya Baskıları",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Kullanıcıların kendi posta kodlarına göre yaşadıkları alanın izohips haritalarını ve tepelerini sanat eserine dönüştüren kişiselleştirilmiş duvar baskıları.",
+   "why": "Reddit'in shutupandtakemymoney topluluğunda posta koduyla çevredeki tepeleri çizen baskı konsepti öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Kişiye özel koordinat veya posta kodu bazlı topoğrafik harita duvar tablosu ve poster tasarımları.",
+   "product_keywords": [
+    {
+     "keyword": "custom topographic map print",
+     "label": "özel topoğrafya harita baskısı"
+    },
+    {
+     "keyword": "postcode contour line art",
+     "label": "posta kodu izohips duvar sanatı"
+    }
+   ]
   },
   {
-   "name": "#roadster",
+   "name": "Mavi Labradorit Taşlı Bakır Kol Manşeti",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Doğal mavi labradorit taşı ile tel sarma tekniği kullanılarak yapılan el yapımı bakır kol ve bilek takıları.",
+   "why": "Reddit shutupandtakemymoney başlığında labradorit taşlı bakır kol manşeti gönderisi yüksek ilgi görmüş.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "El yapımı tel sarma (wire wrap) mavi labradorit taşlı bakır kol manşeti ve bilezikler.",
+   "product_keywords": [
+    {
+     "keyword": "labradorite copper arm cuff",
+     "label": "labradorit bakır kol manşeti"
+    },
+    {
+     "keyword": "wire wrapped copper cuff",
+     "label": "tel sarma bakır bilezik"
+    }
+   ]
+  },
+  {
+   "name": "Sevimli Kelime Oyunlu Grafik Tişörtler (Nutty & Cute Word Te",
+   "heat": "Yükseliyor",
+   "desc": "Espritüel kelime oyunları ve sevimli karakter çizimleri içeren grafik tişörtler.",
+   "why": "Reddit shutupandtakemymoney topluluğunda Nutty but Cute Word Tee başlıklı ürün paylaşımı ilgi çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Çizimlerle desteklenmiş esprili İngilizce kelime oyunlu minimalist grafik tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "cute pun t shirt",
+     "label": "sevimli kelime oyunlu tişört"
+    },
+    {
+     "keyword": "funny wordplay graphic tee",
+     "label": "komik grafik tişört"
+    }
+   ]
+  },
+  {
+   "name": "Çizgili Kravatlar ve Desenli Aksesuarlar",
+   "heat": "Yükseliyor",
+   "desc": "Klasik ve vintage erkek giyiminde çizgili desenlerin ve çizgili kravat kullanımının yeniden öne çıkması.",
+   "why": "Reddit malefashionadvice topluluğunda çizgili kravatların değeri ve retro çizgili kombinler tartışılıyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı dokuma çizgili kumaş kravatlar ve vintage tarzı eşarplar.",
+   "product_keywords": [
+    {
+     "keyword": "striped tie",
+     "label": "çizgili kravat"
+    },
+    {
+     "keyword": "vintage striped silk tie",
+     "label": "vintage çizgili ipek kravat"
+    }
+   ]
+  },
+  {
+   "name": "Sam Altman ve RAM Teknoloji Mizahı",
+   "heat": "Yeni çıktı",
+   "desc": "Sam Altman'ın kullanıcıların RAM'lerini hedef alması üzerine gelişen yapay zeka ve teknoloji içerikli internet mizahı.",
+   "why": "Reddit OutOfTheLoop başlığında Sam Altman'ın insanların RAM'lerinin peşine düşmesiyle ilgili memeler soruluyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yazılımcılar ve teknoloji meraklıları için esprili RAM ve yapay zeka temalı etiketler (sticker) ve kupalar.",
+   "product_keywords": [
+    {
+     "keyword": "tech meme sticker",
+     "label": "teknoloji meme etiket"
+    },
+    {
+     "keyword": "computer humor mug",
+     "label": "bilgisayar mizahlı kupa"
+    }
+   ]
+  },
+  {
+   "name": "Anakin Skywalker Edit ve Mizah Akımı",
+   "heat": "Yükseliyor",
+   "desc": "Star Wars karakteri Anakin Skywalker içerikli fan editlemeleri ve mizahi görsellerin popülerleşmesi.",
+   "why": "Reddit OutOfTheLoop topluluğunda son dönemdeki Anakin editlemeleri ve memelerindeki artış dikkat çekiyor.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Minimalist Anakin Skywalker çizimli t-shirtler, etiketler ve illüstrasyon baskıları.",
+   "product_keywords": [
+    {
+     "keyword": "anakin skywalker shirt",
+     "label": "anakin skywalker tişört"
+    },
+    {
+     "keyword": "star wars meme sticker",
+     "label": "star wars meme etiketi"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-05T01:09+00:00",
+ "trends_updated_at": "2026-11-05T10:00+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -311,13 +418,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+   "ok": true,
+   "count": 7
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-11-05T01:09+00:00"
+ "generated_at": "2026-11-05T10:00+00:00"
 }

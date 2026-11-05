@@ -3,107 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Waffle & Taş Yıkama Dokulu Havlular",
+   "name": "#teslaroadster",
    "heat": "Yükseliyor",
-   "desc": "Minimalist ve uzun ömürlü ev tekstiline yönelimle birlikte yüksek emiciliğe sahip waffle dokuma ve taş yıkama (stonewashed) havlu estetiği popülerleşiyor.",
-   "why": "Reddit r/BuyItForLife topluluğunda waffle havlu tavsiyeleri ve dayanıklı taş yıkama havlu muadilleri gündem oldu.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "El yapımı organik pamuk waffle dokulu banyo ve mutfak havlu seti.",
-   "product_keywords": [
-    {
-     "keyword": "waffle weave towel",
-     "label": "waffle dokuma havlu"
-    },
-    {
-     "keyword": "stonewashed cotton towel",
-     "label": "taş yıkama pamuk havlu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Steampunk Western Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Vahşi Batı tarzının Viktorya dönemi endüstriyel bilim kurgu ögeleriyle harmanlandığı retro-fütüristik stil ve aksesuar akımı.",
-   "why": "Google yükselen aramalarda 'Bass x Machina' dizisinin çıkışıyla Steampunk Western konseptine ilgi artı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Pirinç tokalı eskitme deri kemerler veya Steampunk temalı kovboy aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "steampunk western leather belt",
-     "label": "steampunk western deri kemer"
-    },
-    {
-     "keyword": "brass steampunk accessories",
-     "label": "pirinç steampunk aksesuarları"
-    }
-   ]
-  },
-  {
-   "name": "Ralph Tuck Stili",
-   "heat": "Yeni çıktı",
-   "desc": "Erkek giyiminde gömlek veya kazağın pantolon içine özenli ve havalı bir şekilde sıkıştırılmasıyla oluşturulan klasik Preppy giyim stili.",
-   "why": "Reddit r/malefashionadvice topluluğunda 'Ralph Tuck' stilini doğru uygulama görselleri ve tartışmaları öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Preppy/Ralph Tuck stiline uygun el yapımı deri kemer ve klasik kesim kumaş pantolon aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "preppy woven belt",
-     "label": "preppy örgü deri kemer"
-    },
-    {
-     "keyword": "vintage oxford shirt",
-     "label": "vintage oxford gömlek"
-    }
-   ]
-  },
-  {
-   "name": "Koleksiyonluk Advent Calendar Kutuları",
-   "heat": "Zirvede",
-   "desc": "Yılbaşı dönemine yaklaşırken markaların ve bağımsız üreticilerin hazırladığı sürpriz hediye ve aksesuar kutusu konsepti.",
-   "why": "Reddit r/popculturechat topluluğunda $150 değerindeki markalı giyim advent calendar kutu açılımı yoğun ilgi ve merak uyandırdı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Küçük takı, çorap veya özbakım ürünleri içeren el yapımı ahşap/kumaş yılbaşı takvimi kutuları.",
-   "product_keywords": [
-    {
-     "keyword": "empty advent calendar box",
-     "label": "boş advent calendar hediye kutusu"
-    },
-    {
-     "keyword": "handcrafted advent calendar",
-     "label": "el yapımı advent takvimi"
-    }
-   ]
-  },
-  {
-   "name": "70'ler Karamel & Turkuaz Renk Paleti",
+   "name": "#brandrisk",
    "heat": "Yükseliyor",
-   "desc": "70'lerin retro renk tonları olan karamel kahve ispanyol paçalar ile turkuaz/çelik mavisi çizgili üstlerin birleşimiyle oluşan kıyafet estetiği.",
-   "why": "Reddit r/malefashionadvice topluluğunda karamel paçalar ve turkuaz çizgili kombin gönderisi popülerlik kazandı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "70'ler renk paletinde örgü retro çizgili atkı, bere veya el yapımı retro kumaş çanta.",
-   "product_keywords": [
-    {
-     "keyword": "70s retro striped scarf",
-     "label": "70'ler retro çizgili atkı"
-    },
-    {
-     "keyword": "caramel flare trousers",
-     "label": "karamel renk ispanyol paça pantolon"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#roadster",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-04T18:59+00:00",
+ "trends_updated_at": "2026-11-05T01:09+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -371,20 +304,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 63
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "Gemini yanıt vermedi: gemini-3.5-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-11-04T18:59+00:00"
+ "generated_at": "2026-11-05T01:09+00:00"
 }

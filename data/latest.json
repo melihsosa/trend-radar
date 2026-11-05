@@ -149,29 +149,52 @@
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 2.2,
+   "change": 18.9,
    "spark": [
+    13,
+    14,
+    18,
+    14,
+    13,
     12,
     11,
+    13,
+    13,
     14,
     16,
-    13,
-    12,
-    11,
-    10,
-    12,
-    13,
-    13,
-    16,
+    17,
     15,
-    12
+    25
    ],
    "stale": false
   },
   {
-   "name": "labradorit bakır kol kelepçesi",
+   "name": "Kokulu mum",
+   "keyword": "scented candle",
+   "origin": "İzleme listen",
+   "change": 4.6,
+   "spark": [
+    44,
+    48,
+    52,
+    42,
+    39,
+    40,
+    39,
+    44,
+    46,
+    51,
+    49,
+    43,
+    34,
+    51
+   ],
+   "stale": false
+  },
+  {
+   "name": "labradorit bakır kol manşeti",
    "keyword": "labradorite copper arm cuff",
-   "origin": "Akım: Labradorite Copper Arm Cuffs",
+   "origin": "Akım: Mavi Labradorit Taşlı Bakır Kol Manşeti",
    "change": 0.0,
    "spark": [
     0,
@@ -192,9 +215,9 @@
    "stale": true
   },
   {
-   "name": "boho üst kol bileziği",
-   "keyword": "boho upper arm bracelet",
-   "origin": "Akım: Labradorite Copper Arm Cuffs",
+   "name": "tel sarma bakır bilezik",
+   "keyword": "wire wrapped copper cuff",
+   "origin": "Akım: Mavi Labradorit Taşlı Bakır Kol Manşeti",
    "change": 0.0,
    "spark": [
     0,
@@ -215,9 +238,9 @@
    "stale": false
   },
   {
-   "name": "la catrina ölüler günü dekoru",
-   "keyword": "la catrina day of the dead decor",
-   "origin": "Akım: La Catrina & Day of the Dead Decor",
+   "name": "sevimli kelime oyunlu tişört",
+   "keyword": "cute pun t shirt",
+   "origin": "Akım: Sevimli Kelime Oyunlu Grafik Tişörtler (Nutty & Cute Word Te",
    "change": 0.0,
    "spark": [
     0,
@@ -238,9 +261,9 @@
    "stale": false
   },
   {
-   "name": "dia de los muertos duvar sanatı",
-   "keyword": "dia de los muertos wall art",
-   "origin": "Akım: La Catrina & Day of the Dead Decor",
+   "name": "komik grafik tişört",
+   "keyword": "funny wordplay graphic tee",
+   "origin": "Akım: Sevimli Kelime Oyunlu Grafik Tişörtler (Nutty & Cute Word Te",
    "change": 0.0,
    "spark": [
     0,
@@ -261,9 +284,9 @@
    "stale": false
   },
   {
-   "name": "vintage karamel ispanyol paça pantolon",
-   "keyword": "vintage caramel flare pants",
-   "origin": "Akım: Caramel Flares & 70s Retro Aesthetics",
+   "name": "vintage çizgili ipek kravat",
+   "keyword": "vintage striped silk tie",
+   "origin": "Akım: Çizgili Kravatlar ve Desenli Aksesuarlar",
    "change": 0.0,
    "spark": [
     0,
@@ -284,25 +307,71 @@
    "stale": false
   },
   {
-   "name": "Kokulu mum",
-   "keyword": "scented candle",
-   "origin": "İzleme listen",
-   "change": -1.1,
+   "name": "teknoloji meme etiket",
+   "keyword": "tech meme sticker",
+   "origin": "Akım: Sam Altman ve RAM Teknoloji Mizahı",
+   "change": 0.0,
    "spark": [
-    38,
-    40,
-    44,
-    49,
-    39,
-    35,
-    38,
-    36,
-    39,
-    43,
-    48,
-    46,
-    37,
-    31
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "bilgisayar mizahlı kupa",
+   "keyword": "computer humor mug",
+   "origin": "Akım: Sam Altman ve RAM Teknoloji Mizahı",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "stale": false
+  },
+  {
+   "name": "star wars meme etiketi",
+   "keyword": "star wars meme sticker",
+   "origin": "Akım: Anakin Skywalker Edit ve Mizah Akımı",
+   "change": 0.0,
+   "spark": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
    ],
    "stale": false
   },
@@ -310,45 +379,22 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": -7.4,
+   "change": -3.7,
    "spark": [
     62,
-    57,
-    69,
+    75,
+    75,
+    60,
+    66,
+    61,
+    60,
+    65,
     70,
-    55,
-    63,
-    57,
-    56,
-    58,
-    63,
-    70,
-    59,
-    55,
-    40
-   ],
-   "stale": false
-  },
-  {
-   "name": "Telefon süsü",
-   "keyword": "phone charm",
-   "origin": "İzleme listen",
-   "change": -11.7,
-   "spark": [
-    32,
-    32,
-    41,
-    35,
-    30,
-    34,
-    27,
-    28,
-    29,
-    30,
-    33,
-    31,
-    27,
-    26
+    73,
+    62,
+    61,
+    49,
+    62
    ],
    "stale": false
   },
@@ -356,42 +402,88 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": -44.4,
+   "change": -5.3,
    "spark": [
     2,
-    3,
-    2,
     2,
     3,
     3,
     3,
+    4,
     2,
     2,
     2,
     2,
+    3,
     2,
-    0,
-    0
+    2,
+    5
    ],
    "stale": false
   },
   {
-   "name": "retro çizgili kravat",
-   "keyword": "retro striped tie",
-   "origin": "Akım: Caramel Flares & 70s Retro Aesthetics",
-   "change": -100.0,
+   "name": "Telefon süsü",
+   "keyword": "phone charm",
+   "origin": "İzleme listen",
+   "change": -6.9,
    "spark": [
-    0,
-    0,
-    0,
-    0,
+    34,
+    45,
+    38,
+    32,
+    37,
+    29,
+    31,
+    31,
+    33,
+    35,
+    34,
+    31,
+    26,
+    39
+   ],
+   "stale": false
+  },
+  {
+   "name": "çizgili kravat",
+   "keyword": "striped tie",
+   "origin": "Akım: Çizgili Kravatlar ve Desenli Aksesuarlar",
+   "change": -10.7,
+   "spark": [
+    48,
+    51,
+    59,
+    55,
+    55,
+    56,
+    67,
+    74,
+    86,
+    46,
+    33,
+    36,
+    28,
+    46
+   ],
+   "stale": false
+  },
+  {
+   "name": "anakin skywalker tişört",
+   "keyword": "anakin skywalker shirt",
+   "origin": "Akım: Anakin Skywalker Edit ve Mizah Akımı",
+   "change": -54.6,
+   "spark": [
+    86,
+    64,
     0,
     100,
+    73,
+    76,
+    86,
+    86,
+    82,
     0,
-    0,
-    0,
-    0,
-    0,
+    52,
     0,
     0,
     0
@@ -399,7 +491,7 @@
    "stale": false
   }
  ],
- "products_updated_at": "2026-11-04T12:22+00:00",
+ "products_updated_at": "2026-11-05T12:37+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -423,8 +515,8 @@
   },
   "Talep ölçümü": {
    "ok": true,
-   "count": 10
+   "count": 14
   }
  },
- "generated_at": "2026-11-05T10:00+00:00"
+ "generated_at": "2026-11-05T12:37+00:00"
 }

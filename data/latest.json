@@ -3,107 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Saturween & Halloweekend",
-   "heat": "Zirvede",
-   "desc": "Cadılar Bayramı kutlamalarının Kasım ayının ilk günü ve hafta sonuna taşınarak uzatılmasıyla ortaya çıkan popüler gençlik akımı.",
-   "why": "TikTok trendlerinde #saturween, #november1st ve #halloweekend etiketleri ilk üç sırada yer almıştır.",
+   "name": "#musteatinmycity",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Saturween ve Halloweekend temalı espri yazılı baskılı tişörtler ve parti kupa bardakları.",
-   "product_keywords": [
-    {
-     "keyword": "saturween shirt",
-     "label": "Saturween tişörtü"
-    },
-    {
-     "keyword": "halloweekend mug",
-     "label": "Halloweekend kupası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "SKIMS Advent Calendar",
-   "heat": "Hızla yükseliyor",
-   "desc": "Yılbaşı öncesi markaların ve içerik üreticilerinin popülerleştirdiği sürpriz kutu ve hediye takvimi açılım akımı.",
-   "why": "Reddit popculturechat topluluğunda TikTok'ta viral olan 150 dolarlık SKIMS advent calendar içeriği gündem olmuştur.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Kişiselleştirilebilir ahşap veya kumaş boş yılbaşı hediye takvimi (advent calendar) kutuları.",
-   "product_keywords": [
-    {
-     "keyword": "advent calendar box",
-     "label": "Advent takvimi kutusu"
-    },
-    {
-     "keyword": "custom advent calendar",
-     "label": "Özel tasarım advent takvimi"
-    }
-   ]
-  },
-  {
-   "name": "Retro Caramel Flares & Striped Ties",
+   "name": "#saturween",
    "heat": "Yükseliyor",
-   "desc": "70'ler estetiğini yansıtan karamel tonlarında paça pantolonlar ve retro çizgili kravatların öne çıktığı erkek giyim trendi.",
-   "why": "Reddit malefashionadvice topluluğunda karamel flare pantolonlar ve çizgili kravat paylaşımları dikkat çekmiştir.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "70'ler vintage stilinde çizgili kravatlar ve retro giyim aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "striped tie vintage",
-     "label": "Vintage çizgili kravat"
-    },
-    {
-     "keyword": "caramel flare pants",
-     "label": "Karamel ispanyol paça pantolon"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Iron Ranger & BIFL Leather Footwear",
+   "name": "#happyhalloween",
    "heat": "Yükseliyor",
-   "desc": "Uzun ömürlü kullanım sunan klasik Red Wing Iron Ranger tarzı deri bot ve vintage askeri ayakkabı estetiği.",
-   "why": "Reddit BuyItForLife topluluğunda Red Wing Iron Rangers ve orijinal deri botlar yüksek ilgi görmüştür.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Deri botlar için el yapımı deri bakım kiti ve dayanıklı bot bağcıkları.",
-   "product_keywords": [
-    {
-     "keyword": "leather boot care kit",
-     "label": "Deri bot bakım seti"
-    },
-    {
-     "keyword": "boot laces heavy duty",
-     "label": "Dayanıklı bot bağcığı"
-    }
-   ]
-  },
-  {
-   "name": "Sam Altman RAM Memes",
-   "heat": "Yeni çıktı",
-   "desc": "Yapay zeka modellerinin sistem kaynaklarını tüketmesini mizahi bir dille ele alan teknoloji caps ve meme akımı.",
-   "why": "Reddit OutOfTheLoop başlığında Sam Altman ve bilgisayar RAM'leri hakkındaki meme'ler öne çıkmıştır.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Yapay zeka ve teknoloji esprili laptop sticker'ları ve kupa bardaklar.",
-   "product_keywords": [
-    {
-     "keyword": "tech meme sticker",
-     "label": "Teknoloji meme etiketi"
-    },
-    {
-     "keyword": "sam altman ram mug",
-     "label": "Sam Altman RAM kupası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-05T19:11+00:00",
+ "trends_updated_at": "2026-11-06T01:14+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -463,20 +396,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 62
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 14
   }
  },
- "generated_at": "2026-11-05T19:11+00:00"
+ "generated_at": "2026-11-06T01:14+00:00"
 }

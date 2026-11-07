@@ -3,129 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Custom Postcode Topographic Prints",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kişilerin kendi posta kodunu veya adresini girerek evlerinin etrafındaki gerçek tepe ve yükseltileri minimalist kontur harita olarak bastırdığı kişiselleştirilmiş duvar sanatı akımı.",
-   "why": "Reddit shutupandtakemymoney topluluğunda posta koduna göre topoğrafik çizim yapan baskı projesi en çok ilgi gören gönderi oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Müşterinin girdiği posta koduna özel olarak hazırlanan 3D efektli minimalist topoğrafik harita posterleri veya ahşap oym",
-   "product_keywords": [
-    {
-     "keyword": "custom topographic map print",
-     "label": "kişiye özel topoğrafik harita baskısı"
-    },
-    {
-     "keyword": "postcode elevation wall art",
-     "label": "posta kodlu yükselti duvar tablosu"
-    }
-   ]
-  },
-  {
-   "name": "Saturween",
-   "heat": "Zirvede",
-   "desc": "Cadılar Bayramı kutlamalarını hafta sonuna taşıyarak parti, kostüm ve dekorasyon coşkusunu cumartesi gecesine yayan viral sonbahar parti akımı.",
-   "why": "TikTok Creative Center verilerinde #saturween etiketi 1. sıraya yükselerek viral oldu.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "'Saturween' sloganlı gotik neon akrilik parti bardakları ve ev partisi dekorasyon setleri.",
-   "product_keywords": [
-    {
-     "keyword": "saturween party decorations",
-     "label": "cadılar bayramı parti süslemeleri"
-    },
-    {
-     "keyword": "spooky weekend graphic tee",
-     "label": "korku temalı hafta sonu tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Masc House Dress / Erkek Ev Kaftanı",
-   "heat": "Yeni çıktı",
-   "desc": "Geleneksel kadın ev elbiselerinin sunduğu rahatlığı arayan maskülen bireyler için ferah, cepli kimono, duster ve modern ev kaftanı arayışı.",
-   "why": "Reddit femalefashionadvice topluluğunda ev elbisesinin maskülen karşılığı üzerine açılan tartışma haftanın en popüler konularından biri oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Cepli, nefes alabilen keten veya waffle kumaştan üretilmiş minimalist unisex erkek ev kaftanı ve sabahlığı.",
-   "product_keywords": [
-    {
-     "keyword": "mens lounge kaftan",
-     "label": "erkek rahat ev kaftanı"
-    },
-    {
-     "keyword": "linen robe for men",
-     "label": "erkek keten sabahlık"
-    }
-   ]
-  },
-  {
-   "name": "Wool Garment Care / Yün Koruma ve Giysi Onarımı",
+   "name": "#saturween",
    "heat": "Yükseliyor",
-   "desc": "Kıyafetleri sık yıkayıp eskitmek yerine doğal fırçalama, havalandırma ve doğal güve kovucularla giysileri ömürlük tutma (BIFL) bilinci.",
-   "why": "Reddit femalefashionadvice'ta yün kıyafetleri koruma sorusu ve BuyItForLife'ta ürünlerin tamir edilebilir olması gerektiği tartışması eşzamanlı öne çıktı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Doğal sedir ağacından lavanta infüzyonlu yün koruma askı blokları ve kompakt ahşap tiftik temizleme fırçası kiti.",
-   "product_keywords": [
-    {
-     "keyword": "cedar wool protection blocks",
-     "label": "sedir ağacı yün koruma blokları"
-    },
-    {
-     "keyword": "cashmere comb and lint brush",
-     "label": "kaşmir tarağı ve tiftik fırçası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "David S. Pumpkins Nostaljisi",
+   "name": "#bluewave",
    "heat": "Yükseliyor",
-   "desc": "SNL'in kült komedi karakteri David S. Pumpkins'in sonbahar sezonunda yeniden canlanmasıyla yükselen eğlenceli ve retro balkabağı pop kültürü estetiği.",
-   "why": "Reddit OutOfTheLoop topluluğunda karakterin neden tekrar viral olduğuna dair gönderi en çok konuşulanlar arasına girdi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Retro siyah-turuncu balkabağı desenli takım elbise kravatı, eğlenceli yaka iğneleri ve 'Any Questions?' yazılı çıkartmal",
-   "product_keywords": [
-    {
-     "keyword": "pumpkin pattern necktie",
-     "label": "balkabağı desenli kravat"
-    },
-    {
-     "keyword": "any questions enamel pin",
-     "label": "esprili emaye yaka iğnesi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "AI RAM Memes / Bellek Tüketimi Mizahı",
-   "heat": "Yeni çıktı",
-   "desc": "Yapay zekanın ve teknoloji liderlerinin bilgisayar belleğini (RAM) sömürmesini hicveden yazılımcı ve bilgisayar kurdu (geek) internet mizahı.",
-   "why": "Reddit OutOfTheLoop'ta Sam Altman ve RAM memeleri viral olurken, Google'da yapay zeka haberleri yüksek arama hacmine ulaştı.",
+   "name": "#electionday",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
    "sources": [
-    "Reddit",
-    "Google"
+    "TikTok"
    ],
-   "idea": "'Downloading More RAM' ve Sam Altman bellek esprileri içeren parodi laptop çıkartmaları ve masa boyu sümenler (desk mat)",
-   "product_keywords": [
-    {
-     "keyword": "funny programmer sticker pack",
-     "label": "komik yazılımcı çıkartma paketi"
-    },
-    {
-     "keyword": "tech humor desk mat",
-     "label": "teknoloji temalı masa matı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-07T09:23+00:00",
+ "trends_updated_at": "2026-11-07T17:07+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -377,13 +288,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-11-07T11:13+00:00"
+ "generated_at": "2026-11-07T17:07+00:00"
 }

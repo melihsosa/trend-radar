@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#saturween",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Posta Kodu Topoğrafya Duvar Sanatı",
+   "heat": "Yeni çıktı",
+   "desc": "Kişinin yaşadığı posta kodundaki gerçek tepelerin ve coğrafi yükseltilerin minimalist kontur çizgileriyle çizildiği kişiye özel duvar tablosu akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda posta koduna göre tepe silüeti çizen baskılar yüksek ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Müşterinin girdiği posta koduna veya koordinata göre kişiselleştirilmiş topoğrafik harita posterleri ve minimalist duvar",
+   "product_keywords": [
+    {
+     "keyword": "custom topography map print",
+     "label": "kişiye özel topoğrafya posteri"
+    },
+    {
+     "keyword": "postcode contour elevation art",
+     "label": "posta kodu yükselti sanatı"
+    }
+   ]
   },
   {
-   "name": "#bluewave",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Saturween",
+   "heat": "Hızla yükseliyor",
+   "desc": "Cadılar Bayramı kutlamalarını hafta sonu cumartesi gününe taşıyıp partilemeyi uzatan eğlence ve parti konsepti.",
+   "why": "TikTok Creative Center'da '#saturween' etiketi 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Saturween temalı parti davetiyeleri, parti kupaları, afişler ve kutlama tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "saturween shirt",
+     "label": "saturween tişörtü"
+    },
+    {
+     "keyword": "saturween party decor",
+     "label": "saturween parti süsü"
+    }
+   ]
   },
   {
-   "name": "#electionday",
+   "name": "David S. Pumpkins Retro Meme Kültürü",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "SNL'in kült karakteri David S. Pumpkins'in sonbahar ve Cadılar Bayramı dönemiyle birlikte tekrar canlanan mizahı.",
+   "why": "Reddit r/OutOfTheLoop topluluğunda David Pumpkins karakteri haftanın en çok konuşulan başlıklarından biri oldu.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "İkonik siyah zemin üstü balkabağı desenli takım elbise motifini taşıyan çoraplar, bez çantalar ve laptop çıkartmaları.",
+   "product_keywords": [
+    {
+     "keyword": "david pumpkins sticker",
+     "label": "David Pumpkins çıkartması"
+    },
+    {
+     "keyword": "pumpkin suit pattern socks",
+     "label": "balkabağı desenli çorap"
+    }
+   ]
+  },
+  {
+   "name": "Sam Altman RAM Avcısı Meme Ürünleri",
+   "heat": "Yeni çıktı",
+   "desc": "Yapay zeka modellerinin devasa bellek (RAM) tüketimiyle dalga geçen, Sam Altman'ı RAM toplayıcısı gibi gösteren yazılımcı/teknoloji mizahı.",
+   "why": "Reddit r/OutOfTheLoop'ta Sam Altman ve RAM memeleri en çok sorulan ve etkileşim alan konulardan biri oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yazılımcılara yönelik esprili 'Sam Altman stole my RAM' yazılı kupa bardaklar, mousepadler ve laptop çıkartma setleri.",
+   "product_keywords": [
+    {
+     "keyword": "tech humor mug",
+     "label": "yazılımcı mizah kupası"
+    },
+    {
+     "keyword": "ram memory programmer sticker",
+     "label": "RAM temalı laptop etiketi"
+    }
+   ]
+  },
+  {
+   "name": "Bund Pad Saat Aksesuarları",
+   "heat": "Yeni çıktı",
+   "desc": "Klasik kol saatlerinin altına takılarak retro ve askeri bir hava katan geniş deri koruyucu altlık (bund pad) trendi.",
+   "why": "Reddit r/malefashionadvice topluluğunda saat meraklıları arasında bund pad kullanımı yeniden tartışılıp öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Farklı kasa çaplarına uygun el yapımı deri bund saat altlıkları ve vintage dikişli deri kayış setleri.",
+   "product_keywords": [
+    {
+     "keyword": "leather bund pad",
+     "label": "deri bund saat altlığı"
+    },
+    {
+     "keyword": "bund watch strap",
+     "label": "bund saat kayışı"
+    }
+   ]
+  },
+  {
+   "name": "Vintage Çizgili Kravat (Striped Ties)",
+   "heat": "Yükseliyor",
+   "desc": "Preppy ve 'dark academia' tarzlarının yükselişiyle birlikte klasik çapraz çizgili kravatların genç erkek modasında yeniden ilgi görmesi.",
+   "why": "Reddit r/malefashionadvice topluluğunda çizgili kravatların hak ettiği değeri görmediği ve geri döndüğü vurgulandı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Vintage kolej esintili, dokulu kumaş veya ipekten üretilmiş el yapımı çizgili kravatlar.",
+   "product_keywords": [
+    {
+     "keyword": "vintage striped tie",
+     "label": "vintage çizgili kravat"
+    },
+    {
+     "keyword": "preppy necktie",
+     "label": "kolej tarzı kravat"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-07T17:07+00:00",
+ "trends_updated_at": "2026-11-07T21:11+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -288,13 +375,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 10
   }
  },
- "generated_at": "2026-11-07T17:07+00:00"
+ "generated_at": "2026-11-07T21:11+00:00"
 }

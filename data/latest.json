@@ -3,127 +3,129 @@
  "sample": false,
  "trends": [
   {
-   "name": "Postcode Topographic Art",
+   "name": "Custom Postcode Topographic Prints",
    "heat": "Hızla yükseliyor",
-   "desc": "Kişinin yaşadığı posta kodunu girerek çevresindeki gerçek tepe ve arazi yüksekliklerini minimal çizgi haritalara dönüştüren kişiselleştirilmiş duvar sanatı akımı.",
-   "why": "Reddit shutupandtakemymoney topluluğunda posta koduyla çevredeki tepeleri çizen harita baskısı yoğun ilgi gördü.",
+   "desc": "Kişilerin kendi posta kodunu veya adresini girerek evlerinin etrafındaki gerçek tepe ve yükseltileri minimalist kontur harita olarak bastırdığı kişiselleştirilmiş duvar sanatı akımı.",
+   "why": "Reddit shutupandtakemymoney topluluğunda posta koduna göre topoğrafik çizim yapan baskı projesi en çok ilgi gören gönderi oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Müşterinin girdiği posta koduna göre arazinin yükseklik konturlarını çizen kişiye özel minimalist duvar tablosu veya ahş",
+   "idea": "Müşterinin girdiği posta koduna özel olarak hazırlanan 3D efektli minimalist topoğrafik harita posterleri veya ahşap oym",
    "product_keywords": [
     {
-     "keyword": "custom topographic print",
-     "label": "kişiye özel topoğrafik baskı"
+     "keyword": "custom topographic map print",
+     "label": "kişiye özel topoğrafik harita baskısı"
     },
     {
-     "keyword": "elevation map wall art",
-     "label": "yükseklik haritası duvar tablosu"
+     "keyword": "postcode elevation wall art",
+     "label": "posta kodlu yükselti duvar tablosu"
     }
    ]
   },
   {
    "name": "Saturween",
    "heat": "Zirvede",
-   "desc": "Cadılar Bayramı kutlamalarını hafta içi yerine en yakın Cumartesi gecesine taşıyıp parti konseptine dönüştüren gençlik kültürü hareketi.",
-   "why": "TikTok trend listesinde #saturween etiketi 1. sıraya yerleşti.",
+   "desc": "Cadılar Bayramı kutlamalarını hafta sonuna taşıyarak parti, kostüm ve dekorasyon coşkusunu cumartesi gecesine yayan viral sonbahar parti akımı.",
+   "why": "TikTok Creative Center verilerinde #saturween etiketi 1. sıraya yükselerek viral oldu.",
    "sources": [
-    "TikTok"
+    "TikTok",
+    "Reddit"
    ],
-   "idea": "'Saturween' temalı parti bardakları, bez afişler, davetiye şablonları ve esprili kutlama tişörtleri.",
+   "idea": "'Saturween' sloganlı gotik neon akrilik parti bardakları ve ev partisi dekorasyon setleri.",
    "product_keywords": [
     {
-     "keyword": "saturween shirt",
-     "label": "saturween tişörtü"
+     "keyword": "saturween party decorations",
+     "label": "cadılar bayramı parti süslemeleri"
     },
     {
-     "keyword": "halloween party cups",
-     "label": "cadılar bayramı parti bardağı"
+     "keyword": "spooky weekend graphic tee",
+     "label": "korku temalı hafta sonu tişörtü"
     }
    ]
   },
   {
-   "name": "Sam Altman RAM Thief Memes",
+   "name": "Masc House Dress / Erkek Ev Kaftanı",
    "heat": "Yeni çıktı",
-   "desc": "Yapay zekanın aşırı donanım tüketimine atıfta bulunarak OpenAI CEO'su Sam Altman'ın kullanıcıların RAM'lerini gizlice topladığını öne süren absürt teknoloji mizahı.",
-   "why": "Reddit OutOfTheLoop topluluğunda Sam Altman'ın RAM peşinde koşmasıyla ilgili viral memler sorgulandı.",
+   "desc": "Geleneksel kadın ev elbiselerinin sunduğu rahatlığı arayan maskülen bireyler için ferah, cepli kimono, duster ve modern ev kaftanı arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda ev elbisesinin maskülen karşılığı üzerine açılan tartışma haftanın en popüler konularından biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Sam Altman ve çalınan RAM çipleri konseptli esprili yazılımcı çıkartmaları, laptop kaplamaları ve grafik baskılı kahve k",
+   "idea": "Cepli, nefes alabilen keten veya waffle kumaştan üretilmiş minimalist unisex erkek ev kaftanı ve sabahlığı.",
    "product_keywords": [
     {
-     "keyword": "sam altman ram sticker",
-     "label": "sam altman ram çıkartması"
+     "keyword": "mens lounge kaftan",
+     "label": "erkek rahat ev kaftanı"
     },
     {
-     "keyword": "coder meme mug",
-     "label": "yazılımcı meme kupası"
+     "keyword": "linen robe for men",
+     "label": "erkek keten sabahlık"
+    }
+   ]
+  },
+  {
+   "name": "Wool Garment Care / Yün Koruma ve Giysi Onarımı",
+   "heat": "Yükseliyor",
+   "desc": "Kıyafetleri sık yıkayıp eskitmek yerine doğal fırçalama, havalandırma ve doğal güve kovucularla giysileri ömürlük tutma (BIFL) bilinci.",
+   "why": "Reddit femalefashionadvice'ta yün kıyafetleri koruma sorusu ve BuyItForLife'ta ürünlerin tamir edilebilir olması gerektiği tartışması eşzamanlı öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal sedir ağacından lavanta infüzyonlu yün koruma askı blokları ve kompakt ahşap tiftik temizleme fırçası kiti.",
+   "product_keywords": [
+    {
+     "keyword": "cedar wool protection blocks",
+     "label": "sedir ağacı yün koruma blokları"
+    },
+    {
+     "keyword": "cashmere comb and lint brush",
+     "label": "kaşmir tarağı ve tiftik fırçası"
     }
    ]
   },
   {
    "name": "David S. Pumpkins Nostaljisi",
    "heat": "Yükseliyor",
-   "desc": "SNL'in ikonik kült Cadılar Bayramı karakteri David S. Pumpkins ve karakteristik balkabağı takım elbise deseninin yeniden popülerleşmesi.",
-   "why": "Reddit OutOfTheLoop platformunda kullanıcıların karakterin yeniden viral olmasını tartışmasıyla gündeme geldi.",
+   "desc": "SNL'in kült komedi karakteri David S. Pumpkins'in sonbahar sezonunda yeniden canlanmasıyla yükselen eğlenceli ve retro balkabağı pop kültürü estetiği.",
+   "why": "Reddit OutOfTheLoop topluluğunda karakterin neden tekrar viral olduğuna dair gönderi en çok konuşulanlar arasına girdi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "İkonik siyah zemin üstü turuncu balkabağı desenli kravatlar, fiyonklar, emaye yaka iğneleri ve 'Any Questions?' yazılı b",
+   "idea": "Retro siyah-turuncu balkabağı desenli takım elbise kravatı, eğlenceli yaka iğneleri ve 'Any Questions?' yazılı çıkartmal",
    "product_keywords": [
     {
-     "keyword": "david pumpkins suit tie",
+     "keyword": "pumpkin pattern necktie",
      "label": "balkabağı desenli kravat"
     },
     {
-     "keyword": "pumpkin pattern lapel pin",
-     "label": "balkabağı desenli yaka iğnesi"
+     "keyword": "any questions enamel pin",
+     "label": "esprili emaye yaka iğnesi"
     }
    ]
   },
   {
-   "name": "Caramel Flares (70'ler İspanyol Paça)",
-   "heat": "Yükseliyor",
-   "desc": "70'ler retro silüetlerini karamel ve taba tonlarında ispanyol paça kesimlerle günümüze uyarlayan vintage erkek giyim akımı.",
-   "why": "Reddit malefashionadvice topluluğunda karamel flare pantolon kombinleri yoğun etkileşim aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Karamel ve toprak tonlarında fitilli kadife ispanyol paça pantolonlar ve retro kemer aksesuarları.",
-   "product_keywords": [
-    {
-     "keyword": "caramel flare trousers",
-     "label": "karamel ispanyol paça pantolon"
-    },
-    {
-     "keyword": "corduroy flare pants men",
-     "label": "erkek fitilli kadife flare pantolon"
-    }
-   ]
-  },
-  {
-   "name": "Striped Prep Ties",
+   "name": "AI RAM Memes / Bellek Tüketimi Mizahı",
    "heat": "Yeni çıktı",
-   "desc": "Kolej (preppy) ve ivy league estetiğinin modern gündelik sokak modasına çizgili klasik kravatlarla geri dönmesi.",
-   "why": "Reddit malefashionadvice üzerinde çizgili kravatların değerinin bilinmediğine dair paylaşımlar öne çıktı.",
+   "desc": "Yapay zekanın ve teknoloji liderlerinin bilgisayar belleğini (RAM) sömürmesini hicveden yazılımcı ve bilgisayar kurdu (geek) internet mizahı.",
+   "why": "Reddit OutOfTheLoop'ta Sam Altman ve RAM memeleri viral olurken, Google'da yapay zeka haberleri yüksek arama hacmine ulaştı.",
    "sources": [
-    "Reddit"
+    "Reddit",
+    "Google"
    ],
-   "idea": "Vintage kolej esintili kalın çizgili yün/ipek dokuma kravatlar ve retro kravat iğneleri.",
+   "idea": "'Downloading More RAM' ve Sam Altman bellek esprileri içeren parodi laptop çıkartmaları ve masa boyu sümenler (desk mat)",
    "product_keywords": [
     {
-     "keyword": "vintage striped tie",
-     "label": "vintage çizgili kravat"
+     "keyword": "funny programmer sticker pack",
+     "label": "komik yazılımcı çıkartma paketi"
     },
     {
-     "keyword": "collegiate prep necktie",
-     "label": "kolej tarzı çizgili kravat"
+     "keyword": "tech humor desk mat",
+     "label": "teknoloji temalı masa matı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-11-07T00:29+00:00",
+ "trends_updated_at": "2026-11-07T09:23+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -268,5 +270,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-07T00:29+00:00"
+ "generated_at": "2026-11-07T09:23+00:00"
 }

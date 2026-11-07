@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#musteatinmycity",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Postcode Topographic Art",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kişinin yaşadığı posta kodunu girerek çevresindeki gerçek tepe ve arazi yüksekliklerini minimal çizgi haritalara dönüştüren kişiselleştirilmiş duvar sanatı akımı.",
+   "why": "Reddit shutupandtakemymoney topluluğunda posta koduyla çevredeki tepeleri çizen harita baskısı yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Müşterinin girdiği posta koduna göre arazinin yükseklik konturlarını çizen kişiye özel minimalist duvar tablosu veya ahş",
+   "product_keywords": [
+    {
+     "keyword": "custom topographic print",
+     "label": "kişiye özel topoğrafik baskı"
+    },
+    {
+     "keyword": "elevation map wall art",
+     "label": "yükseklik haritası duvar tablosu"
+    }
+   ]
   },
   {
-   "name": "#saturween",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Saturween",
+   "heat": "Zirvede",
+   "desc": "Cadılar Bayramı kutlamalarını hafta içi yerine en yakın Cumartesi gecesine taşıyıp parti konseptine dönüştüren gençlik kültürü hareketi.",
+   "why": "TikTok trend listesinde #saturween etiketi 1. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'Saturween' temalı parti bardakları, bez afişler, davetiye şablonları ve esprili kutlama tişörtleri.",
+   "product_keywords": [
+    {
+     "keyword": "saturween shirt",
+     "label": "saturween tişörtü"
+    },
+    {
+     "keyword": "halloween party cups",
+     "label": "cadılar bayramı parti bardağı"
+    }
+   ]
   },
   {
-   "name": "#happyhalloween",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Sam Altman RAM Thief Memes",
+   "heat": "Yeni çıktı",
+   "desc": "Yapay zekanın aşırı donanım tüketimine atıfta bulunarak OpenAI CEO'su Sam Altman'ın kullanıcıların RAM'lerini gizlice topladığını öne süren absürt teknoloji mizahı.",
+   "why": "Reddit OutOfTheLoop topluluğunda Sam Altman'ın RAM peşinde koşmasıyla ilgili viral memler sorgulandı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Sam Altman ve çalınan RAM çipleri konseptli esprili yazılımcı çıkartmaları, laptop kaplamaları ve grafik baskılı kahve k",
+   "product_keywords": [
+    {
+     "keyword": "sam altman ram sticker",
+     "label": "sam altman ram çıkartması"
+    },
+    {
+     "keyword": "coder meme mug",
+     "label": "yazılımcı meme kupası"
+    }
+   ]
+  },
+  {
+   "name": "David S. Pumpkins Nostaljisi",
+   "heat": "Yükseliyor",
+   "desc": "SNL'in ikonik kült Cadılar Bayramı karakteri David S. Pumpkins ve karakteristik balkabağı takım elbise deseninin yeniden popülerleşmesi.",
+   "why": "Reddit OutOfTheLoop platformunda kullanıcıların karakterin yeniden viral olmasını tartışmasıyla gündeme geldi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "İkonik siyah zemin üstü turuncu balkabağı desenli kravatlar, fiyonklar, emaye yaka iğneleri ve 'Any Questions?' yazılı b",
+   "product_keywords": [
+    {
+     "keyword": "david pumpkins suit tie",
+     "label": "balkabağı desenli kravat"
+    },
+    {
+     "keyword": "pumpkin pattern lapel pin",
+     "label": "balkabağı desenli yaka iğnesi"
+    }
+   ]
+  },
+  {
+   "name": "Caramel Flares (70'ler İspanyol Paça)",
+   "heat": "Yükseliyor",
+   "desc": "70'ler retro silüetlerini karamel ve taba tonlarında ispanyol paça kesimlerle günümüze uyarlayan vintage erkek giyim akımı.",
+   "why": "Reddit malefashionadvice topluluğunda karamel flare pantolon kombinleri yoğun etkileşim aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Karamel ve toprak tonlarında fitilli kadife ispanyol paça pantolonlar ve retro kemer aksesuarları.",
+   "product_keywords": [
+    {
+     "keyword": "caramel flare trousers",
+     "label": "karamel ispanyol paça pantolon"
+    },
+    {
+     "keyword": "corduroy flare pants men",
+     "label": "erkek fitilli kadife flare pantolon"
+    }
+   ]
+  },
+  {
+   "name": "Striped Prep Ties",
+   "heat": "Yeni çıktı",
+   "desc": "Kolej (preppy) ve ivy league estetiğinin modern gündelik sokak modasına çizgili klasik kravatlarla geri dönmesi.",
+   "why": "Reddit malefashionadvice üzerinde çizgili kravatların değerinin bilinmediğine dair paylaşımlar öne çıktı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Vintage kolej esintili kalın çizgili yün/ipek dokuma kravatlar ve retro kravat iğneleri.",
+   "product_keywords": [
+    {
+     "keyword": "vintage striped tie",
+     "label": "vintage çizgili kravat"
+    },
+    {
+     "keyword": "collegiate prep necktie",
+     "label": "kolej tarzı çizgili kravat"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-06T18:38+00:00",
+ "trends_updated_at": "2026-11-07T00:29+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -173,13 +260,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-06T18:38+00:00"
+ "generated_at": "2026-11-07T00:29+00:00"
 }

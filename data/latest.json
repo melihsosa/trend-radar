@@ -3,129 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Postcode Topographic Hill Art",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kişinin posta koduna veya adresine göre çevredeki tepelerin ve arazinin yükseklik eğrilerini özel çizim sanatsal tablolara dönüştüren kişiselleştirilmiş ev dekorasyonu akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda posta koduna göre tepe eğrilerini çizen baskı fikri haftanın en çok ilgi gören gönderilerinden biri oldu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Müşterinin girdiği posta kodu veya koordinatlara özel hazırlanan minimalist 3D veya ahşap katmanlı topografik harita duv",
-   "product_keywords": [
-    {
-     "keyword": "custom topographic map print",
-     "label": "kişiye özel topografik harita posteri"
-    },
-    {
-     "keyword": "personalized elevation contour art",
-     "label": "yükseklik eğrileri duvar sanatı"
-    }
-   ]
-  },
-  {
-   "name": "Saturween",
-   "heat": "Zirvede",
-   "desc": "Cadılar Bayramı kutlamasını ve parti temasını hafta içine denk gelmesi sebebiyle Kasım ayının ilk cumartesi gününe taşıyan uzatılmış kutlama hareketi.",
-   "why": "TikTok Creative Center verilerinde #saturween etiketi 1. sıraya yükselerek viral oldu.",
+   "name": "#saturween",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Hafta sonu partilerine yönelik 'Saturween' baskılı tişörtler, komik parti kupaları ve son dakika kutlama süsleri.",
-   "product_keywords": [
-    {
-     "keyword": "saturween shirt",
-     "label": "saturween baskılı tişört"
-    },
-    {
-     "keyword": "after halloween party favors",
-     "label": "uzatılmış cadılar bayramı parti hediyeliği"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Paint The Town Blue / Blue Wave Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Seçim sonuçlarının etkisiyle mavi renk tonlarının, dalga motiflerinin ve 'Paint the town blue' sloganının popüler kültüre ve grafik ürünlere yansıması.",
-   "why": "TikTok'ta #bluewave 2. sıraya yerleşirken, Reddit r/GenZ ve r/popculturechat'te 'paint the town blue' ve mavi dalga paylaşımları viral oldu.",
-   "sources": [
-    "TikTok",
-    "Reddit"
-   ],
-   "idea": "'Paint The Town Blue' veya 'Blue Wave' tipografisine sahip organik bez çantalar, retro fontlu kupalar ve minimalist çıka",
-   "product_keywords": [
-    {
-     "keyword": "paint the town blue tote bag",
-     "label": "paint the town blue bez çanta"
-    },
-    {
-     "keyword": "blue wave sticker pack",
-     "label": "mavi dalga çıkartma paketi"
-    }
-   ]
-  },
-  {
-   "name": "Retro Ocarina of Time / 90s Gaming Nostaljisi",
+   "name": "#bluewave",
    "heat": "Yükseliyor",
-   "desc": "90'ların kült video oyunu Zelda: Ocarina of Time zindan haritalarına ve retro N64 dönemi piksel/poligon estetiğine duyulan nostaljik geri dönüş.",
-   "why": "Google'da 'zelda ocarina walkthrough' araması ani yükselişle 2000+ hacme ulaştı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Google"
-   ],
-   "idea": "Ocarina of Time zindan haritalarının ve tapınaklarının retro parşömen tarzı illüstrasyon baskıları veya el yapımı ahşap ",
-   "product_keywords": [
-    {
-     "keyword": "zelda dungeon map print",
-     "label": "zelda zindan haritası posteri"
-    },
-    {
-     "keyword": "ocarina of time vintage poster",
-     "label": "vintage ocarina of time tablo"
-    }
-   ]
-  },
-  {
-   "name": "Vintage Çizgili Kravat (Repp Tie) & Klasik Erkek Giyimi",
-   "heat": "Yeni çıktı",
-   "desc": "Genç erkekler arasında 90'lar preppy tarzı klasik çizgili (striped/repp) kravatlar ve doğal yün dokuların yeniden popülerlik kazanması.",
-   "why": "Reddit r/malefashionadvice topluluğunda çizgili kravatlar ve yün kombinler üzerine yoğun ilgi ve etkileşim oluştu.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Geri dönüştürülmüş yün veya ipek kumaşlardan el dikimi vintage tarzda çizgili kravat ve cep mendili kombin setleri.",
-   "product_keywords": [
-    {
-     "keyword": "vintage striped silk tie",
-     "label": "vintage çizgili ipek kravat"
-    },
-    {
-     "keyword": "wool repp tie handmade",
-     "label": "el yapımı yün klasik kravat"
-    }
-   ]
-  },
-  {
-   "name": "Doldurulabilir Kişisel Advent Calendar Trendi",
-   "heat": "Yükseliyor",
-   "desc": "Sosyal medyada pahalı hazır marka advent takvimlerinin (SKIMS vb.) eleştirilmesiyle, kişilerin kendi içeriklerini doldurabileceği estetik ve kalıcı varış takvimlerine yönelmesi.",
-   "why": "TikTok'ta #november yükselişteyken Reddit r/popculturechat'te SKIMS'in 150 dolarlık advent calendar içeriği gündem oldu.",
-   "sources": [
-    "Reddit",
     "TikTok"
    ],
-   "idea": "Yıllarca tekrar kullanılabilecek kişiselleştirilmiş ahşap çekmeceli veya numaralandırılmış keten keseli duvar tipi Adven",
-   "product_keywords": [
-    {
-     "keyword": "reusable wooden advent calendar",
-     "label": "ahşap yeniden kullanılabilir varış takvimi"
-    },
-    {
-     "keyword": "fill your own advent calendar bags",
-     "label": "doldurulabilir keten advent keseleri"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#november",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-08T03:06+00:00",
+ "trends_updated_at": "2026-11-08T12:22+00:00",
  "products": [
   {
    "name": "ahşap yeniden kullanılabilir varış takvimi",
@@ -331,13 +242,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 7
   }
  },
- "generated_at": "2026-11-08T11:25+00:00"
+ "generated_at": "2026-11-08T12:22+00:00"
 }

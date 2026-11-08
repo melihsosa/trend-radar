@@ -3,127 +3,129 @@
  "sample": false,
  "trends": [
   {
-   "name": "Posta Kodu Topoğrafya Duvar Sanatı",
-   "heat": "Yeni çıktı",
-   "desc": "Kişinin yaşadığı posta kodundaki gerçek tepelerin ve coğrafi yükseltilerin minimalist kontur çizgileriyle çizildiği kişiye özel duvar tablosu akımı.",
-   "why": "Reddit'in r/shutupandtakemymoney topluluğunda posta koduna göre tepe silüeti çizen baskılar yüksek ilgi gördü.",
+   "name": "Postcode Topographic Hill Art",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kişinin posta koduna veya adresine göre çevredeki tepelerin ve arazinin yükseklik eğrilerini özel çizim sanatsal tablolara dönüştüren kişiselleştirilmiş ev dekorasyonu akımı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda posta koduna göre tepe eğrilerini çizen baskı fikri haftanın en çok ilgi gören gönderilerinden biri oldu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Müşterinin girdiği posta koduna veya koordinata göre kişiselleştirilmiş topoğrafik harita posterleri ve minimalist duvar",
+   "idea": "Müşterinin girdiği posta kodu veya koordinatlara özel hazırlanan minimalist 3D veya ahşap katmanlı topografik harita duv",
    "product_keywords": [
     {
-     "keyword": "custom topography map print",
-     "label": "kişiye özel topoğrafya posteri"
+     "keyword": "custom topographic map print",
+     "label": "kişiye özel topografik harita posteri"
     },
     {
-     "keyword": "postcode contour elevation art",
-     "label": "posta kodu yükselti sanatı"
+     "keyword": "personalized elevation contour art",
+     "label": "yükseklik eğrileri duvar sanatı"
     }
    ]
   },
   {
    "name": "Saturween",
-   "heat": "Hızla yükseliyor",
-   "desc": "Cadılar Bayramı kutlamalarını hafta sonu cumartesi gününe taşıyıp partilemeyi uzatan eğlence ve parti konsepti.",
-   "why": "TikTok Creative Center'da '#saturween' etiketi 1. sırada yer aldı.",
+   "heat": "Zirvede",
+   "desc": "Cadılar Bayramı kutlamasını ve parti temasını hafta içine denk gelmesi sebebiyle Kasım ayının ilk cumartesi gününe taşıyan uzatılmış kutlama hareketi.",
+   "why": "TikTok Creative Center verilerinde #saturween etiketi 1. sıraya yükselerek viral oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "Saturween temalı parti davetiyeleri, parti kupaları, afişler ve kutlama tişörtleri.",
+   "idea": "Hafta sonu partilerine yönelik 'Saturween' baskılı tişörtler, komik parti kupaları ve son dakika kutlama süsleri.",
    "product_keywords": [
     {
      "keyword": "saturween shirt",
-     "label": "saturween tişörtü"
+     "label": "saturween baskılı tişört"
     },
     {
-     "keyword": "saturween party decor",
-     "label": "saturween parti süsü"
+     "keyword": "after halloween party favors",
+     "label": "uzatılmış cadılar bayramı parti hediyeliği"
     }
    ]
   },
   {
-   "name": "David S. Pumpkins Retro Meme Kültürü",
+   "name": "Paint The Town Blue / Blue Wave Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Seçim sonuçlarının etkisiyle mavi renk tonlarının, dalga motiflerinin ve 'Paint the town blue' sloganının popüler kültüre ve grafik ürünlere yansıması.",
+   "why": "TikTok'ta #bluewave 2. sıraya yerleşirken, Reddit r/GenZ ve r/popculturechat'te 'paint the town blue' ve mavi dalga paylaşımları viral oldu.",
+   "sources": [
+    "TikTok",
+    "Reddit"
+   ],
+   "idea": "'Paint The Town Blue' veya 'Blue Wave' tipografisine sahip organik bez çantalar, retro fontlu kupalar ve minimalist çıka",
+   "product_keywords": [
+    {
+     "keyword": "paint the town blue tote bag",
+     "label": "paint the town blue bez çanta"
+    },
+    {
+     "keyword": "blue wave sticker pack",
+     "label": "mavi dalga çıkartma paketi"
+    }
+   ]
+  },
+  {
+   "name": "Retro Ocarina of Time / 90s Gaming Nostaljisi",
    "heat": "Yükseliyor",
-   "desc": "SNL'in kült karakteri David S. Pumpkins'in sonbahar ve Cadılar Bayramı dönemiyle birlikte tekrar canlanan mizahı.",
-   "why": "Reddit r/OutOfTheLoop topluluğunda David Pumpkins karakteri haftanın en çok konuşulan başlıklarından biri oldu.",
+   "desc": "90'ların kült video oyunu Zelda: Ocarina of Time zindan haritalarına ve retro N64 dönemi piksel/poligon estetiğine duyulan nostaljik geri dönüş.",
+   "why": "Google'da 'zelda ocarina walkthrough' araması ani yükselişle 2000+ hacme ulaştı.",
    "sources": [
-    "Reddit"
+    "Google"
    ],
-   "idea": "İkonik siyah zemin üstü balkabağı desenli takım elbise motifini taşıyan çoraplar, bez çantalar ve laptop çıkartmaları.",
+   "idea": "Ocarina of Time zindan haritalarının ve tapınaklarının retro parşömen tarzı illüstrasyon baskıları veya el yapımı ahşap ",
    "product_keywords": [
     {
-     "keyword": "david pumpkins sticker",
-     "label": "David Pumpkins çıkartması"
+     "keyword": "zelda dungeon map print",
+     "label": "zelda zindan haritası posteri"
     },
     {
-     "keyword": "pumpkin suit pattern socks",
-     "label": "balkabağı desenli çorap"
+     "keyword": "ocarina of time vintage poster",
+     "label": "vintage ocarina of time tablo"
     }
    ]
   },
   {
-   "name": "Sam Altman RAM Avcısı Meme Ürünleri",
+   "name": "Vintage Çizgili Kravat (Repp Tie) & Klasik Erkek Giyimi",
    "heat": "Yeni çıktı",
-   "desc": "Yapay zeka modellerinin devasa bellek (RAM) tüketimiyle dalga geçen, Sam Altman'ı RAM toplayıcısı gibi gösteren yazılımcı/teknoloji mizahı.",
-   "why": "Reddit r/OutOfTheLoop'ta Sam Altman ve RAM memeleri en çok sorulan ve etkileşim alan konulardan biri oldu.",
+   "desc": "Genç erkekler arasında 90'lar preppy tarzı klasik çizgili (striped/repp) kravatlar ve doğal yün dokuların yeniden popülerlik kazanması.",
+   "why": "Reddit r/malefashionadvice topluluğunda çizgili kravatlar ve yün kombinler üzerine yoğun ilgi ve etkileşim oluştu.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Yazılımcılara yönelik esprili 'Sam Altman stole my RAM' yazılı kupa bardaklar, mousepadler ve laptop çıkartma setleri.",
+   "idea": "Geri dönüştürülmüş yün veya ipek kumaşlardan el dikimi vintage tarzda çizgili kravat ve cep mendili kombin setleri.",
    "product_keywords": [
     {
-     "keyword": "tech humor mug",
-     "label": "yazılımcı mizah kupası"
+     "keyword": "vintage striped silk tie",
+     "label": "vintage çizgili ipek kravat"
     },
     {
-     "keyword": "ram memory programmer sticker",
-     "label": "RAM temalı laptop etiketi"
+     "keyword": "wool repp tie handmade",
+     "label": "el yapımı yün klasik kravat"
     }
    ]
   },
   {
-   "name": "Bund Pad Saat Aksesuarları",
-   "heat": "Yeni çıktı",
-   "desc": "Klasik kol saatlerinin altına takılarak retro ve askeri bir hava katan geniş deri koruyucu altlık (bund pad) trendi.",
-   "why": "Reddit r/malefashionadvice topluluğunda saat meraklıları arasında bund pad kullanımı yeniden tartışılıp öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Farklı kasa çaplarına uygun el yapımı deri bund saat altlıkları ve vintage dikişli deri kayış setleri.",
-   "product_keywords": [
-    {
-     "keyword": "leather bund pad",
-     "label": "deri bund saat altlığı"
-    },
-    {
-     "keyword": "bund watch strap",
-     "label": "bund saat kayışı"
-    }
-   ]
-  },
-  {
-   "name": "Vintage Çizgili Kravat (Striped Ties)",
+   "name": "Doldurulabilir Kişisel Advent Calendar Trendi",
    "heat": "Yükseliyor",
-   "desc": "Preppy ve 'dark academia' tarzlarının yükselişiyle birlikte klasik çapraz çizgili kravatların genç erkek modasında yeniden ilgi görmesi.",
-   "why": "Reddit r/malefashionadvice topluluğunda çizgili kravatların hak ettiği değeri görmediği ve geri döndüğü vurgulandı.",
+   "desc": "Sosyal medyada pahalı hazır marka advent takvimlerinin (SKIMS vb.) eleştirilmesiyle, kişilerin kendi içeriklerini doldurabileceği estetik ve kalıcı varış takvimlerine yönelmesi.",
+   "why": "TikTok'ta #november yükselişteyken Reddit r/popculturechat'te SKIMS'in 150 dolarlık advent calendar içeriği gündem oldu.",
    "sources": [
-    "Reddit"
+    "Reddit",
+    "TikTok"
    ],
-   "idea": "Vintage kolej esintili, dokulu kumaş veya ipekten üretilmiş el yapımı çizgili kravatlar.",
+   "idea": "Yıllarca tekrar kullanılabilecek kişiselleştirilmiş ahşap çekmeceli veya numaralandırılmış keten keseli duvar tipi Adven",
    "product_keywords": [
     {
-     "keyword": "vintage striped tie",
-     "label": "vintage çizgili kravat"
+     "keyword": "reusable wooden advent calendar",
+     "label": "ahşap yeniden kullanılabilir varış takvimi"
     },
     {
-     "keyword": "preppy necktie",
-     "label": "kolej tarzı kravat"
+     "keyword": "fill your own advent calendar bags",
+     "label": "doldurulabilir keten advent keseleri"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-11-07T21:11+00:00",
+ "trends_updated_at": "2026-11-08T03:06+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -383,5 +385,5 @@
    "count": 10
   }
  },
- "generated_at": "2026-11-07T21:11+00:00"
+ "generated_at": "2026-11-08T03:06+00:00"
 }

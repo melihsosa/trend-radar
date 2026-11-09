@@ -39,163 +39,25 @@
  "trends_updated_at": "2026-11-09T10:33+00:00",
  "products": [
   {
-   "name": "ahşap yeniden kullanılabilir varış takvimi",
-   "keyword": "reusable wooden advent calendar",
-   "origin": "Akım: Doldurulabilir Kişisel Advent Calendar Trendi",
-   "change": 100.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    100,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": false
-  },
-  {
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 36.0,
+   "change": 52.3,
    "spark": [
-    14,
     13,
-    12,
+    11,
     11,
     12,
     13,
-    14,
+    13,
     15,
     16,
     14,
-    18,
     19,
+    18,
+    23,
     21,
-    18
-   ],
-   "stale": false
-  },
-  {
-   "name": "Telefon süsü",
-   "keyword": "phone charm",
-   "origin": "İzleme listen",
-   "change": 9.9,
-   "spark": [
-    29,
-    35,
-    27,
-    29,
-    29,
-    31,
-    32,
-    32,
-    29,
-    25,
-    32,
-    33,
-    36,
-    46
-   ],
-   "stale": false
-  },
-  {
-   "name": "Kokulu mum",
-   "keyword": "scented candle",
-   "origin": "İzleme listen",
-   "change": 8.1,
-   "spark": [
-    39,
-    37,
-    39,
-    37,
-    41,
-    44,
-    47,
-    46,
-    40,
-    34,
-    46,
-    45,
-    49,
-    47
-   ],
-   "stale": false
-  },
-  {
-   "name": "Tığ işi çanta",
-   "keyword": "crochet bag",
-   "origin": "İzleme listen",
-   "change": 1.2,
-   "spark": [
-    56,
-    61,
-    58,
-    57,
-    59,
-    65,
-    68,
-    60,
-    58,
-    49,
-    61,
-    64,
-    69,
-    68
-   ],
-   "stale": false
-  },
-  {
-   "name": "vintage çizgili ipek kravat",
-   "keyword": "vintage striped silk tie",
-   "origin": "Akım: Vintage Çizgili Kravat (Repp Tie) & Klasik Erkek Giyimi",
-   "change": 0.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "stale": true
-  },
-  {
-   "name": "doldurulabilir keten advent keseleri",
-   "keyword": "fill your own advent calendar bags",
-   "origin": "Akım: Doldurulabilir Kişisel Advent Calendar Trendi",
-   "change": 0.0,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
+    23
    ],
    "stale": false
   },
@@ -203,27 +65,96 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": -6.2,
+   "change": 40.0,
    "spark": [
-    3,
-    3,
+    2,
     3,
     2,
     1,
     2,
     2,
-    2,
-    2,
-    2,
-    4,
+    3,
     2,
     3,
-    0
+    4,
+    3,
+    3,
+    3,
+    3
+   ],
+   "stale": false
+  },
+  {
+   "name": "Telefon süsü",
+   "keyword": "phone charm",
+   "origin": "İzleme listen",
+   "change": 12.9,
+   "spark": [
+    35,
+    27,
+    29,
+    30,
+    31,
+    33,
+    32,
+    29,
+    25,
+    33,
+    34,
+    42,
+    41,
+    41
+   ],
+   "stale": false
+  },
+  {
+   "name": "Kokulu mum",
+   "keyword": "scented candle",
+   "origin": "İzleme listen",
+   "change": 11.5,
+   "spark": [
+    36,
+    39,
+    37,
+    41,
+    45,
+    49,
+    48,
+    41,
+    34,
+    46,
+    45,
+    54,
+    56,
+    53
+   ],
+   "stale": false
+  },
+  {
+   "name": "Tığ işi çanta",
+   "keyword": "crochet bag",
+   "origin": "İzleme listen",
+   "change": 3.7,
+   "spark": [
+    62,
+    58,
+    57,
+    60,
+    65,
+    70,
+    59,
+    58,
+    50,
+    61,
+    65,
+    79,
+    70,
+    64
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-11-08T11:25+00:00",
+ "products_updated_at": "2026-11-09T13:10+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -247,8 +178,8 @@
   },
   "Talep ölçümü": {
    "ok": true,
-   "count": 7
+   "count": 5
   }
  },
- "generated_at": "2026-11-09T10:33+00:00"
+ "generated_at": "2026-11-09T13:10+00:00"
 }

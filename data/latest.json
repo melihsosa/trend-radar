@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#saturween",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Posta Kodu Topoğrafya Sanatı",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kişilerin posta kodlarını veya koordinatlarını girerek çevrelerindeki gerçek tepe ve yükseltileri minimalist çizgi baskılarına dönüştüren kişiselleştirilmiş harita sanatı.",
+   "why": "Reddit'in r/shutupandtakemymoney topluluğunda en çok etkileşim alan gönderiler arasında öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Müşterinin girdiği posta koduna özel minimalist topoğrafik yükselti posterleri ve lazer kesim ahşap haritalar.",
+   "product_keywords": [
+    {
+     "keyword": "custom topography map print",
+     "label": "özel topoğrafya harita baskısı"
+    },
+    {
+     "keyword": "postcode elevation wall art",
+     "label": "posta kodu yükselti duvar sanatı"
+    }
+   ]
   },
   {
-   "name": "#bluewave",
+   "name": "Katseye Fandom Estetiği",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Gençler arasında küresel pop müzik grubu Katseye üyelerine ve tarzına duyulan yoğun ilgi ve hayran kültürü.",
+   "why": "Reddit r/OutOfTheLoop üzerinde grup üyeleriyle ilgili gelişmeler trend sorgular arasına girdi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Grup estetiğine uygun y2k boncuklu telefon askıları, photocard tutucular ve Katseye temalı sticker setleri.",
+   "product_keywords": [
+    {
+     "keyword": "kpop photocard holder keychain",
+     "label": "fotokart tutucu anahtarlık"
+    },
+    {
+     "keyword": "beaded fandom phone charm",
+     "label": "boncuklu telefon askısı"
+    }
+   ]
   },
   {
-   "name": "#november",
+   "name": "AO3 (Fanfiction) Okur Kültürü",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Archive of Our Own (AO3) platformu etrafında şekillenen kitap ve fanfiction okurlarının benimsediği niş internet alt kültürü.",
+   "why": "Reddit r/OutOfTheLoop trendlerinde AO3 platformundaki gelişmeler yoğun ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "'Kudos' simgeli metal yaka iğneleri, AO3 etiket temalı kitap ayraçları ve kanvas bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "ao3 kudos enamel pin",
+     "label": "ao3 kudos yaka iğnesi"
+    },
+    {
+     "keyword": "fanfiction reader tote bag",
+     "label": "fanfiction bez çanta"
+    }
+   ]
+  },
+  {
+   "name": "David S. Pumpkins Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "SNL'in ikonik sonbahar/kült karakteri David S. Pumpkins etrafında oluşan viral mizahi giyim ve aksesuar ilgisi.",
+   "why": "Reddit r/OutOfTheLoop trendlerinde karakterin yeniden merak konusu olmasıyla gündeme geldi.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Balkabağı desenli retro takım elbise kravatları, emaye pinler ve esprili grafik baskılı tişörtler.",
+   "product_keywords": [
+    {
+     "keyword": "pumpkin suit tie",
+     "label": "balkabağı desenli kravat"
+    },
+    {
+     "keyword": "david pumpkins enamel pin",
+     "label": "balkabağı figürlü emaye pin"
+    }
+   ]
+  },
+  {
+   "name": "Doğal Yün Bakım & Muhafaza",
+   "heat": "Yükseliyor",
+   "desc": "Kış ayları yaklaşırken kaliteli yün kazak ve kumaşları yıkamadan koruma, havalandırma ve uzun ömürlü tutma odaklı sürdürülebilir giyim bakımı.",
+   "why": "Reddit r/femalefashionadvice ve r/malefashionadvice topluluklarında yün koruma ve kombinleme konuları eşzamanlı tartışıldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal sedir ağacı askı/blok setleri, tiftik temizleme tarakları ve lavantalı yün bakım spreyleri.",
+   "product_keywords": [
+    {
+     "keyword": "cedar blocks for wool storage",
+     "label": "yün saklama için sedir blokları"
+    },
+    {
+     "keyword": "cashmere wool comb",
+     "label": "kaşmir yün tarağı"
+    }
+   ]
+  },
+  {
+   "name": "Bund Pad Saat Kayışı Estetiği",
+   "heat": "Yeni çıktı",
+   "desc": "Vintage askeri pilot saatlerinden ilham alan geniş deri altlıklı (bund pad) saat kordonu tarzı.",
+   "why": "Reddit r/malefashionadvice topluluğunda bund pad kullanımı ve saat tarzları üzerine popüler tartışma yer aldı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "El yapımı hakiki deri 'bund' tipi saat kayışları ve retro saat altlıkları.",
+   "product_keywords": [
+    {
+     "keyword": "leather bund watch strap",
+     "label": "deri bund saat kayışı"
+    },
+    {
+     "keyword": "vintage bund pad",
+     "label": "vintage bund saat pedi"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-08T19:13+00:00",
+ "trends_updated_at": "2026-11-09T00:15+00:00",
  "products": [
   {
    "name": "ahşap yeniden kullanılabilir varış takvimi",
@@ -235,20 +322,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 75
+   "count": 61
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 7
   }
  },
- "generated_at": "2026-11-08T19:13+00:00"
+ "generated_at": "2026-11-09T00:15+00:00"
 }

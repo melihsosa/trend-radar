@@ -3,40 +3,107 @@
  "sample": false,
  "trends": [
   {
-   "name": "#piratetoken",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Hunger Games: Sunrise on the Reaping",
+   "heat": "Hızla yükseliyor",
+   "desc": "Hunger Games serisinin yeni filmi haberleri ve seri ödülleriyle birlikte seriye olan ilgide yeniden bir artış yaşanıyor.",
+   "why": "Google hızla yükselen aramalarda 'hunger games', 'hunger games movies' ve 'new hunger games movie' sorguları 2000+ ve 1000+ hacimlerle öne çıktı.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Hunger Games temalı el yapımı ahşap/metal kitap ayraçları veya film serisi temalı illüstrasyonlu hediyelik eşyalar.",
+   "product_keywords": [
+    {
+     "keyword": "hunger games bookmark",
+     "label": "Hunger Games kitap ayracı"
+    },
+    {
+     "keyword": "hunger games shirt",
+     "label": "Hunger Games tişörtü"
+    }
+   ]
   },
   {
-   "name": "#bluewave",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Masc House Dress (Maskülen Ev Elbisesi/Bornoz)",
+   "heat": "Yeni çıktı",
+   "desc": "Evde hem rahat hem de maskülen ya da uniseks bir şıklık arayan kadın ve uniseks giyim takipçilerinin ev kıyafeti arayışı.",
+   "why": "Reddit femalefashionadvice topluluğunda 'Masc equivalent of a house dress?' başlığı haftanın öne çıkan gönderileri arasına girdi.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Rahat kesim, maskülen dokunuşlara sahip uniseks ev bornozu veya oversize keten ev kıyafeti setleri.",
+   "product_keywords": [
+    {
+     "keyword": "masculine loungewear robe",
+     "label": "Maskülen ev bornozu"
+    },
+    {
+     "keyword": "unisex house dress alternative",
+     "label": "Uniseks ev kıyafeti alternatifi"
+    }
+   ]
   },
   {
-   "name": "#token",
+   "name": "Restore Edilmiş Vintage El Aletleri",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Bit pazarlarından bulunan 100 yıllık eski demirci çekiçleri ve el aletlerinin restore edilerek ahşap saplarının yenilenmesi akımı.",
+   "why": "Reddit BuyItForLife topluluğunda bit pazarından alınıp cilalanan ve ahşap sapı yenilenen 100 yıllık çekiç ve anahtar gönderileri yüksek etkileşim aldı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Özel işlenmiş dayanıklı ahşap çekiç sapları veya restore edilmiş vintage aletler için deri koruma kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "handcrafted wood hammer handle",
+     "label": "El yapımı ahşap çekiç sapı"
+    },
+    {
+     "keyword": "leather tool holster",
+     "label": "Deri alet kılıfı"
+    }
+   ]
+  },
+  {
+   "name": "Geniş Baldır Çizme Çözümleri (Wide Calf Boots)",
+   "heat": "Yeni çıktı",
+   "desc": "Geniş baldır yapısına sahip kullanıcıların diz üstü çizmeleri rahat giyebilmek için aradığı şık ve pratik aksesuarlar.",
+   "why": "Reddit femalefashionadvice subreddit'inde geniş baldırı olanların diz üstü çizme kullanımına dair sorular popüler oldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Çizme arkasına takılan esnek deri genişletici aparatlar veya ayarlanabilir dekoratif çizme askıları.",
+   "product_keywords": [
+    {
+     "keyword": "boot calf extender",
+     "label": "Çizme baldır genişletici aparat"
+    },
+    {
+     "keyword": "wide calf boot straps",
+     "label": "Geniş baldır çizme askısı"
+    }
+   ]
+  },
+  {
+   "name": "Yün Kumaş Koruyucu Bakım Ürünleri",
+   "heat": "Yükseliyor",
+   "desc": "Yünlü giysileri sık yıkamadan giyim aralarında koruma ve tüylenmeyi/yıpranmayı önleme odaklı tekstil bakım trendi.",
+   "why": "Reddit femalefashionadvice topluluğunda yünlü kıyafetlerin giyim aralarında nasıl korunacağına dair başlıklar ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Doğal sedir ağacından yapılma gardırop içi yün koruyucu askılar ve kıyafet kılıfları.",
+   "product_keywords": [
+    {
+     "keyword": "cedar garment protector",
+     "label": "Sedir ağacı giysi koruyucu"
+    },
+    {
+     "keyword": "wool sweater care bag",
+     "label": "Yün kazak bakım torbası"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-09T21:42+00:00",
+ "trends_updated_at": "2026-11-10T05:02+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -166,20 +233,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 5
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-09T21:42+00:00"
+ "generated_at": "2026-11-10T05:02+00:00"
 }

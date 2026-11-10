@@ -3,107 +3,87 @@
  "sample": false,
  "trends": [
   {
-   "name": "Hunger Games: Sunrise on the Reaping",
+   "name": "Postcode Topography Art",
    "heat": "Hızla yükseliyor",
-   "desc": "Hunger Games serisinin yeni filmi haberleri ve seri ödülleriyle birlikte seriye olan ilgide yeniden bir artış yaşanıyor.",
-   "why": "Google hızla yükselen aramalarda 'hunger games', 'hunger games movies' ve 'new hunger games movie' sorguları 2000+ ve 1000+ hacimlerle öne çıktı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Hunger Games temalı el yapımı ahşap/metal kitap ayraçları veya film serisi temalı illüstrasyonlu hediyelik eşyalar.",
-   "product_keywords": [
-    {
-     "keyword": "hunger games bookmark",
-     "label": "Hunger Games kitap ayracı"
-    },
-    {
-     "keyword": "hunger games shirt",
-     "label": "Hunger Games tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "Masc House Dress (Maskülen Ev Elbisesi/Bornoz)",
-   "heat": "Yeni çıktı",
-   "desc": "Evde hem rahat hem de maskülen ya da uniseks bir şıklık arayan kadın ve uniseks giyim takipçilerinin ev kıyafeti arayışı.",
-   "why": "Reddit femalefashionadvice topluluğunda 'Masc equivalent of a house dress?' başlığı haftanın öne çıkan gönderileri arasına girdi.",
+   "desc": "Kullanıcıların kendi posta kodlarını girerek yaşadıkları bölgenin topografik yükseltilerini ve tepelerini çizim olarak sergilediği kişiselleştirilmiş duvar sanatı akımı.",
+   "why": "Reddit r/shutupandtakemymoney topluluğunda posta koduna göre tepe haritası çizdiren ürün konsepti öne çıktı.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Rahat kesim, maskülen dokunuşlara sahip uniseks ev bornozu veya oversize keten ev kıyafeti setleri.",
+   "idea": "Müşterinin girdiği posta koduna özel illüstre edilmiş topografik harita baskıları veya 3D ahşap katmanlı harita panoları",
    "product_keywords": [
     {
-     "keyword": "masculine loungewear robe",
-     "label": "Maskülen ev bornozu"
+     "keyword": "custom postcode elevation print",
+     "label": "özel posta kodu yükselti baskısı"
     },
     {
-     "keyword": "unisex house dress alternative",
-     "label": "Uniseks ev kıyafeti alternatifi"
+     "keyword": "topographic map art",
+     "label": "topografik harita sanatı"
     }
    ]
   },
   {
-   "name": "Restore Edilmiş Vintage El Aletleri",
+   "name": "Loud & Vivid Color Fashion",
    "heat": "Yükseliyor",
-   "desc": "Bit pazarlarından bulunan 100 yıllık eski demirci çekiçleri ve el aletlerinin restore edilerek ahşap saplarının yenilenmesi akımı.",
-   "why": "Reddit BuyItForLife topluluğunda bit pazarından alınıp cilalanan ve ahşap sapı yenilenen 100 yıllık çekiç ve anahtar gönderileri yüksek etkileşim aldı.",
+   "desc": "Yıllardır süren nötr, sade ve mat renk modasına tepki olarak doğan; canlı, iddialı ve yüksek doygunluktaki renklere yönelim hareketi.",
+   "why": "Reddit r/malefashionadvice başlığında nötr renklerden sıkılıp canlı renkler arayan kullanıcı paylaşımı dikkat çekti.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Özel işlenmiş dayanıklı ahşap çekiç sapları veya restore edilmiş vintage aletler için deri koruma kılıfları.",
+   "idea": "Canlı zıt renk bloklu el örgüsü kazaklar, iddialı renklerde vintage tarz şapkalar ve aksesuarlar.",
    "product_keywords": [
     {
-     "keyword": "handcrafted wood hammer handle",
-     "label": "El yapımı ahşap çekiç sapı"
+     "keyword": "loud color sweater",
+     "label": "canlı renkli kazak"
     },
     {
-     "keyword": "leather tool holster",
-     "label": "Deri alet kılıfı"
+     "keyword": "vibrant block color beanie",
+     "label": "parlak renk bloklu bere"
     }
    ]
   },
   {
-   "name": "Geniş Baldır Çizme Çözümleri (Wide Calf Boots)",
+   "name": "Magnetic Mini World Cubes",
    "heat": "Yeni çıktı",
-   "desc": "Geniş baldır yapısına sahip kullanıcıların diz üstü çizmeleri rahat giyebilmek için aradığı şık ve pratik aksesuarlar.",
-   "why": "Reddit femalefashionadvice subreddit'inde geniş baldırı olanların diz üstü çizme kullanımına dair sorular popüler oldu.",
+   "desc": "Birbirine mıknatısla tutunan modüler küplerle masaüstünde küçük dünyalar, dioramalar ve piksel sanat alanları oluşturma trendi.",
+   "why": "Reddit r/shutupandtakemymoney üzerinde mıknatısla birleşip mini dünyalar kurmayı sağlayan küpler yoğun ilgi gördü.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Çizme arkasına takılan esnek deri genişletici aparatlar veya ayarlanabilir dekoratif çizme askıları.",
+   "idea": "Masaüstü için mıknatıslı birleşen mini diorama blokları, el yapımı mikro evren dekoratif ürünleri.",
    "product_keywords": [
     {
-     "keyword": "boot calf extender",
-     "label": "Çizme baldır genişletici aparat"
+     "keyword": "magnetic mini world cube",
+     "label": "manyetik mini dünya küpü"
     },
     {
-     "keyword": "wide calf boot straps",
-     "label": "Geniş baldır çizme askısı"
+     "keyword": "desktop magnetic diorama",
+     "label": "masaüstü manyetik diorama"
     }
    ]
   },
   {
-   "name": "Yün Kumaş Koruyucu Bakım Ürünleri",
+   "name": "Anti-Tomato Burger Memes",
    "heat": "Yükseliyor",
-   "desc": "Yünlü giysileri sık yıkamadan giyim aralarında koruma ve tüylenmeyi/yıpranmayı önleme odaklı tekstil bakım trendi.",
-   "why": "Reddit femalefashionadvice topluluğunda yünlü kıyafetlerin giyim aralarında nasıl korunacağına dair başlıklar ilgi gördü.",
+   "desc": "Hamburger içerisindeki ıslak domates dilimlerinden hoşlanmayanların internet üzerinde başlattığı mizahi nefret ve meme kültürü.",
+   "why": "Reddit r/OutOfTheLoop kanalında insanların hamburgerdeki domates nefretine dair yayılan memeler soru olarak gündeme geldi.",
    "sources": [
     "Reddit"
    ],
-   "idea": "Doğal sedir ağacından yapılma gardırop içi yün koruyucu askılar ve kıyafet kılıfları.",
+   "idea": "'No Tomatoes On My Burger' yazılı eğlenceli tişörtler, stikerlar ve mutfak önlükleri.",
    "product_keywords": [
     {
-     "keyword": "cedar garment protector",
-     "label": "Sedir ağacı giysi koruyucu"
+     "keyword": "no tomatoes burger sticker",
+     "label": "domatessiz burger etiketi"
     },
     {
-     "keyword": "wool sweater care bag",
-     "label": "Yün kazak bakım torbası"
+     "keyword": "funny food meme shirt",
+     "label": "komik yemek memesi tişörtü"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-11-10T05:02+00:00",
+ "trends_updated_at": "2026-11-10T13:54+00:00",
  "products": [
   {
    "name": "Deri alet kılıfı",
@@ -463,7 +443,7 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 60
+   "count": 62
   },
   "Google": {
    "ok": true,
@@ -471,12 +451,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-11-10T12:51+00:00"
+ "generated_at": "2026-11-10T13:54+00:00"
 }

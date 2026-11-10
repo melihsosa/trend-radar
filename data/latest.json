@@ -3,87 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Postcode Topography Art",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kullanıcıların kendi posta kodlarını girerek yaşadıkları bölgenin topografik yükseltilerini ve tepelerini çizim olarak sergilediği kişiselleştirilmiş duvar sanatı akımı.",
-   "why": "Reddit r/shutupandtakemymoney topluluğunda posta koduna göre tepe haritası çizdiren ürün konsepti öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Müşterinin girdiği posta koduna özel illüstre edilmiş topografik harita baskıları veya 3D ahşap katmanlı harita panoları",
-   "product_keywords": [
-    {
-     "keyword": "custom postcode elevation print",
-     "label": "özel posta kodu yükselti baskısı"
-    },
-    {
-     "keyword": "topographic map art",
-     "label": "topografik harita sanatı"
-    }
-   ]
-  },
-  {
-   "name": "Loud & Vivid Color Fashion",
+   "name": "#piratetoken",
    "heat": "Yükseliyor",
-   "desc": "Yıllardır süren nötr, sade ve mat renk modasına tepki olarak doğan; canlı, iddialı ve yüksek doygunluktaki renklere yönelim hareketi.",
-   "why": "Reddit r/malefashionadvice başlığında nötr renklerden sıkılıp canlı renkler arayan kullanıcı paylaşımı dikkat çekti.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Canlı zıt renk bloklu el örgüsü kazaklar, iddialı renklerde vintage tarz şapkalar ve aksesuarlar.",
-   "product_keywords": [
-    {
-     "keyword": "loud color sweater",
-     "label": "canlı renkli kazak"
-    },
-    {
-     "keyword": "vibrant block color beanie",
-     "label": "parlak renk bloklu bere"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Magnetic Mini World Cubes",
-   "heat": "Yeni çıktı",
-   "desc": "Birbirine mıknatısla tutunan modüler küplerle masaüstünde küçük dünyalar, dioramalar ve piksel sanat alanları oluşturma trendi.",
-   "why": "Reddit r/shutupandtakemymoney üzerinde mıknatısla birleşip mini dünyalar kurmayı sağlayan küpler yoğun ilgi gördü.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Masaüstü için mıknatıslı birleşen mini diorama blokları, el yapımı mikro evren dekoratif ürünleri.",
-   "product_keywords": [
-    {
-     "keyword": "magnetic mini world cube",
-     "label": "manyetik mini dünya küpü"
-    },
-    {
-     "keyword": "desktop magnetic diorama",
-     "label": "masaüstü manyetik diorama"
-    }
-   ]
-  },
-  {
-   "name": "Anti-Tomato Burger Memes",
+   "name": "#bluewave",
    "heat": "Yükseliyor",
-   "desc": "Hamburger içerisindeki ıslak domates dilimlerinden hoşlanmayanların internet üzerinde başlattığı mizahi nefret ve meme kültürü.",
-   "why": "Reddit r/OutOfTheLoop kanalında insanların hamburgerdeki domates nefretine dair yayılan memeler soru olarak gündeme geldi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "'No Tomatoes On My Burger' yazılı eğlenceli tişörtler, stikerlar ve mutfak önlükleri.",
-   "product_keywords": [
-    {
-     "keyword": "no tomatoes burger sticker",
-     "label": "domatessiz burger etiketi"
-    },
-    {
-     "keyword": "funny food meme shirt",
-     "label": "komik yemek memesi tişörtü"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#token",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-10T13:54+00:00",
+ "trends_updated_at": "2026-11-10T21:05+00:00",
  "products": [
   {
    "name": "Deri alet kılıfı",
@@ -443,20 +396,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 62
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-11-10T13:54+00:00"
+ "generated_at": "2026-11-10T21:05+00:00"
 }

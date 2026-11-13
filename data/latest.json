@@ -3,127 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Shakira Law",
-   "heat": "Hızla yükseliyor",
-   "desc": "Gen Z ve pop kültürü topluluklarında Sharia law kelime oyunu üzerinden viral olan, 'Shakira Law: Hips Don't Lie' esprili söz kalıbı ve akımı.",
-   "why": "Reddit'in GenZ ve popculturechat topluluklarında popüler gönderiler ve yüksek etkileşimle öne çıktı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Shakira Law: The Hips Don't Lie yazılı mizahi tişört veya bez çanta.",
-   "product_keywords": [
-    {
-     "keyword": "shakira law shirt",
-     "label": "shakira law tişörtü"
-    },
-    {
-     "keyword": "hips dont lie tote bag",
-     "label": "hips dont lie bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Push The Bean 7 Inches To The Left",
-   "heat": "Yeni çıktı",
-   "desc": "Chicago'daki ünlü The Bean (Cloud Gate) heykelini sembolik olarak 7 inç sola itme fikri etrafında gelişen mizahi topluluk etkinliği.",
-   "why": "Reddit popculturechat topluluğunda binlerce etkileşim alan mizahi etkinlik haberi olarak yer aldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "I Helped Push The Bean 7 Inches To The Left yazılı mizahi hatıra tişörtü veya etiket/sticker.",
-   "product_keywords": [
-    {
-     "keyword": "chicago bean shirt",
-     "label": "chicago bean tişörtü"
-    },
-    {
-     "keyword": "push the bean sticker",
-     "label": "chicago bean etiket"
-    }
-   ]
-  },
-  {
-   "name": "Loud Fashion",
+   "name": "#veteransday",
    "heat": "Yükseliyor",
-   "desc": "Sade ve nötr renklerden sıkılan kişilerin parlak, canlı renkler ve dikkat çekici desen kombinasyonlarına yöneldiği giyim tarzı akımı.",
-   "why": "Reddit malefashionadvice topluluğunda 'I'm so sick of neutral/safe/muted colors. I want LOUD.' başlığı altında tartışıldı.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "Canlı ve parlak desenli çoraplar veya dikkat çekici renkli sokak giyimi ürünleri.",
-   "product_keywords": [
-    {
-     "keyword": "loud pattern socks",
-     "label": "canlı desenli çorap"
-    },
-    {
-     "keyword": "bright colorful mens shirt",
-     "label": "parlak renkli erkek gömleği"
-    }
-   ]
-  },
-  {
-   "name": "80 Feels Like 79 With More Wine",
-   "heat": "Yeni çıktı",
-   "desc": "Sally Field'ın 80. yaş gününde kullandığı ve şarap severlerin yaş dönümü kutlamalarına uyarlanan mizahi söz kalıbı.",
-   "why": "Reddit popculturechat topluluğunda viral olan doğum günü paylaşımıyla dikkat çekti.",
-   "sources": [
-    "Reddit"
-   ],
-   "idea": "80 feels like 79 with a lot more wine yazılı 80. yaş günü şarap kadehi veya hediyelik bardak.",
-   "product_keywords": [
-    {
-     "keyword": "80 feels like 79 wine glass",
-     "label": "80 yaş şarap kadehi"
-    },
-    {
-     "keyword": "80th birthday wine tumbler",
-     "label": "80 yaş hediye kupa"
-    }
-   ]
-  },
-  {
-   "name": "My Moon My Man",
-   "heat": "Yükseliyor",
-   "desc": "Çiftlerin romantik ve estetik paylaşımlarında sıkça kullandığı ilişki ve estetik içerik akımı.",
-   "why": "TikTok Creative Center verilerinde US genelinde en popüler 3. hashtag olarak yükselişte yer alıyor.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "My Moon My Man yazılı veya ay evresi detaylı kişiselleştirilebilir çift anahtarlığı/posteri.",
-   "product_keywords": [
-    {
-     "keyword": "my moon my man keychain",
-     "label": "çift anahtarlığı"
-    },
-    {
-     "keyword": "couple moon phase print",
-     "label": "ay evresi tablosu"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Mourning The Edmund Fitzgerald",
+   "name": "#mymoonmyman",
    "heat": "Yükseliyor",
-   "desc": "Ünlü Edmund Fitzgerald gemi enkazının anılması etrafında yeniden canlanan nostaljik denizcilik ve halk müziği/tarihi ilgisi.",
-   "why": "Reddit OutOfTheLoop topluluğunda aniden gündem olan popüler sorular arasında yer aldı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
-    "Reddit"
+    "TikTok"
    ],
-   "idea": "Edmund Fitzgerald gemisi illüstrasyonlu vintage denizcilik tişörtü veya duvar posteri.",
-   "product_keywords": [
-    {
-     "keyword": "edmund fitzgerald shirt",
-     "label": "edmund fitzgerald tişörtü"
-    },
-    {
-     "keyword": "edmund fitzgerald poster",
-     "label": "edmund fitzgerald posteri"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#piratetoken",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-12T21:39+00:00",
+ "trends_updated_at": "2026-11-13T03:56+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -260,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-12T21:39+00:00"
+ "generated_at": "2026-11-13T03:56+00:00"
 }

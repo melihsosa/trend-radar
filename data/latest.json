@@ -3,40 +3,127 @@
  "sample": false,
  "trends": [
   {
-   "name": "#mymoonmyman",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "My Moon My Man Romantizm Akımı",
+   "heat": "Zirvede",
+   "desc": "TikTok'ta çiftlerin romantik anlarını ve sevgililerini Feist'in şarkısıyla sergilediği duygusal ve nostaljik ilişki trendi.",
+   "why": "TikTok'ta #mymoonmyman etiketi trend sıralamasında 1. sırada yer aldı.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Kişiye özel tanışma/yıldönümü tarihine göre özelleştirilmiş ay evresi çift posteri veya ikili ay motifi kolye seti.",
+   "product_keywords": [
+    {
+     "keyword": "custom moon phase couple print",
+     "label": "kişiye özel ay evresi çift tablosu"
+    },
+    {
+     "keyword": "couples moon necklace",
+     "label": "çiftler için ay kolyesi"
+    }
+   ]
   },
   {
-   "name": "#veteransday",
+   "name": "Waxed Canvas Heritage Tarzı",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Hızlı tüketime karşı dayanıklı, eskidikçe güzelleşen ve ömür boyu kullanıma uygun mumlanmış kanvas ve deri çantalara artan ilgi.",
+   "why": "Reddit r/BuyItForLife topluluğunda sağlam ve gerçek mumlanmış kanvas sırt çantası talebi öne çıktı.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Su geçirmez mumlanmış kanvas kumaştan el yapımı, deri tokalı roll-top sırt çantası.",
+   "product_keywords": [
+    {
+     "keyword": "waxed canvas backpack",
+     "label": "mumlanmış kanvas sırt çantası"
+    },
+    {
+     "keyword": "leather canvas rolltop bag",
+     "label": "deri kanvas rulo çanta"
+    }
+   ]
   },
   {
-   "name": "#outlook",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Retro iPod & Çevrimdışı Teknoloji Nostaljisi",
+   "heat": "Yeni çıktı",
+   "desc": "Sürekli çevrimdışı kalma ve dijital detoks amacıyla eski nesil iPod ve MP3 çalarları günlük hayatta yeniden kullanma hareketi.",
+   "why": "Reddit r/BuyItForLife'ta bozulanı yenisiyle değiştirmek yerine eski iPod'unu gururla kullanmaya devam eden kullanıcı paylaşımı ilgi gördü.",
    "sources": [
-    "TikTok"
+    "Reddit"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Vintage iPod Classic modelleri için hakiki deri koruyucu kılıflar ve nostaljik kablolu kulaklık düzenleyicileri.",
+   "product_keywords": [
+    {
+     "keyword": "leather ipod classic case",
+     "label": "deri iPod classic kılıfı"
+    },
+    {
+     "keyword": "retro tech leather pouch",
+     "label": "retro teknoloji deri kılıfı"
+    }
+   ]
+  },
+  {
+   "name": "Bell Bottoms & Flared Silüet",
+   "heat": "Yükseliyor",
+   "desc": "70'lerin çan paça (ispanyol paça) pantolonlarının rahat ve retro sokak modasında yeniden ana akım haline gelmesi.",
+   "why": "Reddit r/femalefashionadvice topluluğunda 'bell bottoms' tarzına dair özel başlık açılarak ilgi gördü.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yüksek bel, fitilli kadife veya retro nakış detaylı çan paça pantolon.",
+   "product_keywords": [
+    {
+     "keyword": "corduroy bell bottoms",
+     "label": "fitilli kadife ispanyol paça pantolon"
+    },
+    {
+     "keyword": "flare retro wide pants",
+     "label": "retro çan paça pantolon"
+    }
+   ]
+  },
+  {
+   "name": "Edmund Fitzgerald & Denizcilik Tarihi Estetiği",
+   "heat": "Yükseliyor",
+   "desc": "SS Edmund Fitzgerald gemisi anması üzerinden viral olan, Büyük Göller ve nostaljik denizcilik hikayelerine duyulan ilgi.",
+   "why": "Reddit r/OutOfTheLoop'ta Edmund Fitzgerald gemisinin internette aniden neden bu kadar çok anıldığı soruldu.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "SS Edmund Fitzgerald illüstrasyonlu vintage denizcilik posteri veya deniz feneri/gemi işlemeli sweatshirt.",
+   "product_keywords": [
+    {
+     "keyword": "edmund fitzgerald shirt",
+     "label": "Edmund Fitzgerald tişörtü"
+    },
+    {
+     "keyword": "great lakes vintage map poster",
+     "label": "büyük göller vintage harita posteri"
+    }
+   ]
+  },
+  {
+   "name": "Kışlık Dökümlü Geniş Paça Pantolonlar",
+   "heat": "Yükseliyor",
+   "desc": "Yazın giyilen rahat keten pantolonların serin havalara uyarlanmış, dökümlü ve salaş yün/flanel kışlık versiyonlarına duyulan ihtiyaç.",
+   "why": "Reddit r/femalefashionadvice'ta keten pantolonların sonbahar/kış alternatifleri üzerine yoğun tartışma başladı.",
+   "sources": [
+    "Reddit"
+   ],
+   "idea": "Yüksek bel, dökümlü pileli yün karışımlı bol paça palazzo pantolon.",
+   "product_keywords": [
+    {
+     "keyword": "wide leg wool trousers",
+     "label": "geniş paça yün pantolon"
+    },
+    {
+     "keyword": "winter pleated relaxed pants",
+     "label": "kışlık pileli dökümlü pantolon"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-15T18:07+00:00",
+ "trends_updated_at": "2026-11-16T00:31+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -166,20 +253,20 @@
   },
   "Reddit": {
    "ok": true,
-   "count": 61
+   "count": 60
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 6
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-15T18:07+00:00"
+ "generated_at": "2026-11-16T00:31+00:00"
 }

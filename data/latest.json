@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-17T15:04+00:00",
+ "trends_updated_at": "2026-11-18T00:09+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -165,8 +165,8 @@
    "error": "YOUTUBE_API_KEY eklenmemiş"
   },
   "Reddit": {
-   "ok": true,
-   "count": 61
+   "ok": false,
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
   },
   "Google": {
    "ok": true,
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-17T15:04+00:00"
+ "generated_at": "2026-11-18T00:09+00:00"
 }

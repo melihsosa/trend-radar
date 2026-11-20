@@ -3,40 +3,67 @@
  "sample": false,
  "trends": [
   {
-   "name": "#marvelrivalss11",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Marvel Rivals & Doomsday Gaming",
+   "heat": "Hızla yükseliyor",
+   "desc": "Yeni nesil Marvel Rivals nişancı oyunu ve Doomsday temalı oyun evreni genç oyuncu topluluğunda hızla viral bir akıma dönüştü.",
+   "why": "TikTok trend hashtag listesinde #marvelrivalss11 1. sırada, #marvelrivalsdoomsday ise 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Marvel Rivals ve Doomsday temalı oyuncu masa matları (desk mat), 3D baskı figürler ve özel mekanik klavye tuşları (keyca",
+   "product_keywords": [
+    {
+     "keyword": "marvel rivals desk mat",
+     "label": "marvel rivals masa pedi"
+    },
+    {
+     "keyword": "doctor doom keycap",
+     "label": "doctor doom klavye tuşu"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsdoomsday",
+   "name": "Gen Z Outlook & Corporate Humor",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Genç çalışanların ofis dinamikleri, takvim krizleri ve e-posta stresini tiye aldığı kurumsal mizah akımı.",
+   "why": "TikTok popüler hashtag listesinde #outlook etiketi 3. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Outlook bildirimleri ve 'Per my last email' esprileri içeren mizahi ofis kupaları, akrilik masa tabelaları ve laptop sti",
+   "product_keywords": [
+    {
+     "keyword": "per my last email mug",
+     "label": "kurumsal mizah kupa"
+    },
+    {
+     "keyword": "corporate humor desk sign",
+     "label": "ofis masa tabelası"
+    }
+   ]
   },
   {
-   "name": "#outlook",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "name": "Pageant Sash & Glamour Aesthetic",
+   "heat": "Yeni çıktı",
+   "desc": "Güzellik yarışmaları etrafında yeniden canlanan gösterişli taçlar, ışıltılı aksesuarlar ve kişiye özel yarışma kuşağı estetiği.",
+   "why": "Google arama trendlerinde 'miss universe 2026' araması 500+ hacimle hızla yükselişe geçti.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Bekarlığa veda, doğum günü ve mezuniyetler için saten üzerine altın yaldızlı kişiselleştirilmiş yarışma kuşakları ve yap",
+   "product_keywords": [
+    {
+     "keyword": "custom pageant sash",
+     "label": "özel tasarım yarışma kuşağı"
+    },
+    {
+     "keyword": "rhinestone pageant crown",
+     "label": "yapay elmas taç"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-19T19:42+00:00",
+ "trends_updated_at": "2026-11-20T01:56+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -166,20 +193,20 @@
   },
   "Reddit": {
    "ok": false,
-   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/GenZ/"
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 3
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-19T19:42+00:00"
+ "generated_at": "2026-11-20T01:56+00:00"
 }

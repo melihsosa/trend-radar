@@ -3,67 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Marvel Rivals Oyuncu Estetiği",
-   "heat": "Zirvede",
-   "desc": "Marvel Rivals oyununun ve Doomsday içeriğinin lansmanıyla genç oyuncular arasında patlayan süper kahraman temalı rekabetçi gamer kültürü.",
-   "why": "TikTok Creative Center verilerinde #marvelrivalss11 ve #marvelrivalsdoomsday etiketleri ilk iki sıraya yerleşmiş durumda.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Marvel Rivals karakter siluetleri içeren geniş oyuncu masa sümenleri (desk mat), 3D baskı kulaklık askılıkları ve temati",
-   "product_keywords": [
-    {
-     "keyword": "marvel rivals desk mat",
-     "label": "marvel rivals oyuncu masa matı"
-    },
-    {
-     "keyword": "custom gaming keycaps",
-     "label": "özel tasarım oyuncu klavye tuşları"
-    }
-   ]
-  },
-  {
-   "name": "Catching Fire & Panem Distopya Nostaljisi",
+   "name": "#marvelrivalss11",
    "heat": "Yükseliyor",
-   "desc": "'Sunrise on the Reaping' uyarlamasının duyurulmasıyla The Hunger Games ve Catching Fire evrenine yönelik yeniden alevlenen distopik gençlik edebiyatı ilgisi.",
-   "why": "Google yükselen aramalarda 'catching fire' sorgusu yeni Açlık Oyunları oyuncu kadrosu haberleriyle öne çıkıyor.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Panem mıntıkaları (District 12 vb.) temalı vintage kolej sweatshirt'leri, alıntılı bez çantalar ve Mockingjay esintili m",
-   "product_keywords": [
-    {
-     "keyword": "hunger games district sweatshirt",
-     "label": "açlık oyunları mıntıka sweatshirt"
-    },
-    {
-     "keyword": "catching fire quote tote bag",
-     "label": "catching fire alıntılı bez çanta"
-    }
-   ]
-  },
-  {
-   "name": "Outlook & Kurumsal Ofis Mizahı",
-   "heat": "Hızla yükseliyor",
-   "desc": "Genç çalışanlar ve Z kuşağı arasında iş hayatındaki e-posta stresini ve beyaz yaka klişelerini tiye alan 9-to-5 kurumsal mizah akımı.",
-   "why": "TikTok trend listesinde #outlook etiketi en popüler 3. hashtag olarak yer alıyor.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "'Per my last email' veya Outlook bildirim temalı esprili seramik kahve kupaları, eğlenceli masaüstü motivasyon levhaları",
-   "product_keywords": [
-    {
-     "keyword": "per my last email mug",
-     "label": "ofis mizahı yazılı kupa"
-    },
-    {
-     "keyword": "corporate humor desk sign",
-     "label": "kurumsal espri masa tabelası"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#marvelrivalsdoomsday",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#faa",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-21T01:51+00:00",
+ "trends_updated_at": "2026-11-21T10:24+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -193,20 +166,20 @@
   },
   "Reddit": {
    "ok": false,
-   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/GenZ/"
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-21T01:51+00:00"
+ "generated_at": "2026-11-21T10:24+00:00"
 }

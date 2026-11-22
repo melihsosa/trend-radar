@@ -3,40 +3,67 @@
  "sample": false,
  "trends": [
   {
-   "name": "#marvelrivalss11",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Huss / Huss Huss Huss Viral Akımı",
+   "heat": "Zirvede",
+   "desc": "TikTok'ta mizahi içerikler ve ses eşleştirmeleriyle öne çıkan, kullanıcıların videolarında ritmik olarak kullandığı viral 'Huss' söz kalıbı.",
+   "why": "TikTok Creative Center verilerinde #huss 1. sırada ve #husshusshuss 3. sırada yer alarak en çok kullanılan etiketler arasında bulunuyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Minimalist ve retro tipografiyle tasarlanmış 'Huss' veya 'Huss Huss Huss' baskılı oversize tişörtler, bez çantalar ve su",
+   "product_keywords": [
+    {
+     "keyword": "huss graphic tee",
+     "label": "huss grafik tişört"
+    },
+    {
+     "keyword": "viral meme sticker pack",
+     "label": "viral meme çıkartma paketi"
+    }
+   ]
   },
   {
-   "name": "#marvelrivalsdoomsday",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Lucia Akımı",
+   "heat": "Hızla yükseliyor",
+   "desc": "TikTok kullanıcıları arasında hızla paylaşılan, belirli bir karaktere, isme veya estetiğe odaklanan 'Lucia' temalı viral içerikler.",
+   "why": "TikTok Creative Center verilerinde #lucia hashtag'i en popüler 2. sırada yer alıyor.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Kişiye özel harf/isim tasarımlı 'Lucia' takıları, el yapımı estetik kolyeler veya vintage esintili Lucia tipografi poste",
+   "product_keywords": [
+    {
+     "keyword": "lucia name necklace",
+     "label": "lucia isimli kolye"
+    },
+    {
+     "keyword": "aesthetic typography print",
+     "label": "estetik tipografi poster"
+    }
+   ]
   },
   {
-   "name": "#faa",
+   "name": "Evde Sinema Gecesi ve Dizi Takip Kültürü",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Evde dijital platformlardan film ve dizi izleme deneyimini kişiselleştirilmiş ritüellere dönüştüren izleme ve seçim kültürü.",
+   "why": "Google yükselen aramalarda 'best movies to stream right now' sorgusu yüksek arama hacmiyle öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Çiftler veya arkadaşlar için ahşap film seçme karar zarı ve estetik film/dizi izleme takip defteri.",
+   "product_keywords": [
+    {
+     "keyword": "movie night decision dice",
+     "label": "film gecesi karar zarı"
+    },
+    {
+     "keyword": "streaming watchlist journal",
+     "label": "dizi ve film izleme günlüğü"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-21T18:24+00:00",
+ "trends_updated_at": "2026-11-22T00:45+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -166,20 +193,20 @@
   },
   "Reddit": {
    "ok": false,
-   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/GenZ/"
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 3
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-21T18:24+00:00"
+ "generated_at": "2026-11-22T00:45+00:00"
 }

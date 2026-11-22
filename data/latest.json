@@ -3,107 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "GTA 6 Auto Drive Gaming Kültürü",
+   "name": "#huss",
    "heat": "Yükseliyor",
-   "desc": "GTA 6 oyunundaki otomatik sürüş özelliği etrafında şekillenen yeni nesil oyuncu kültürü ve mizahı.",
-   "why": "Google'da 'how to auto drive gta 6' aramasının hızla yükselenler listesine girmesiyle tespit edildi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "GTA 6 temalı minimalist gamer tişörtleri, oyun odası neon efektli ahşap panolar veya oyuncu masa pedleri.",
-   "product_keywords": [
-    {
-     "keyword": "gta 6 shirt",
-     "label": "GTA 6 tişörtü"
-    },
-    {
-     "keyword": "gamer desk mat",
-     "label": "oyuncu masa pedi"
-    }
-   ]
-  },
-  {
-   "name": "A24 Sinema Estetiği",
-   "heat": "Yükseliyor",
-   "desc": "Bağımsız yapım şirketi A24'ün filmleri çevresinde gelişen sinemasever estetiği ve hayran kültürü.",
-   "why": "Google'da 'a24' teriminin yüksek hacimli aramalarda trend olmasıyla doğrulandı.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "A24 film estetiğini yansıtan tipografik bez çantalar, minimalist film posterleri ve sinemasever kupa bardaklar.",
-   "product_keywords": [
-    {
-     "keyword": "a24 movie poster",
-     "label": "A24 film posteri"
-    },
-    {
-     "keyword": "indie film shirt",
-     "label": "bağımsız film tişörtü"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Huss Huss Huss Viral İfadesi",
-   "heat": "Zirvede",
-   "desc": "TikTok platformunda hızla yayılan ve viral olan 'huss' / 'husshusshuss' kelime ve ses akımı.",
-   "why": "TikTok Creative Center popüler hashtag listesinde 'huss' 1. sırada, 'husshusshuss' ise 3. sırada yer almasıyla görüldü.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "İçinde bu popüler ifadenin geçtiği tipografik t-shirtler, laptop sticker paketleri ve esprili kupa bardaklar.",
-   "product_keywords": [
-    {
-     "keyword": "viral quote sticker",
-     "label": "viral sloganlı etiket"
-    },
-    {
-     "keyword": "custom slogan shirt",
-     "label": "özel sloganlı tişört"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
   },
   {
-   "name": "Kuantum Zamanı ve Atomik Saat Estetiği",
-   "heat": "Yeni çıktı",
-   "desc": "Zamanın göreceliği ve atomik saat araştırmalarıyla tetiklenen bilimsel merak ve retro-bilim kurgu estetiği.",
-   "why": "Google'da 'atomic clock' aramasının bilimsel haberlerle birlikte ani bir yükseliş yakalamasıyla fark edildi.",
-   "sources": [
-    "Google"
-   ],
-   "idea": "Atomik saat şemalı duvar dekorları, kuantum fiziği esprili baskılı tişörtler ve bilim temalı hediyelikler.",
-   "product_keywords": [
-    {
-     "keyword": "atomic wall clock",
-     "label": "atomik duvar saati"
-    },
-    {
-     "keyword": "physics t-shirt",
-     "label": "fizik temalı tişört"
-    }
-   ]
-  },
-  {
-   "name": "TikTok Lucia İsmi ve Estetiği",
+   "name": "#lucia",
    "heat": "Yükseliyor",
-   "desc": "TikTok'ta 'lucia' etiketinin yükselmesiyle öne çıkan kişiselleştirilmiş içerik ve estetik akımı.",
-   "why": "TikTok popüler etiketler listesinde 'lucia' etiketinin 2. sırada yer almasıyla tespit edildi.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
    "sources": [
     "TikTok"
    ],
-   "idea": "Lucia ismine özel kişiselleştirilmiş harf kolyeler, estetik anahtarlıklar veya özel isimli kupalar.",
-   "product_keywords": [
-    {
-     "keyword": "lucia necklace",
-     "label": "lucia kolyesi"
-    },
-    {
-     "keyword": "personalized name gift",
-     "label": "kişiselleştirilmiş isimli hediye"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#husshusshuss",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-22T10:28+00:00",
+ "trends_updated_at": "2026-11-22T18:48+00:00",
  "products": [
   {
    "name": "lucia kolyesi",
@@ -463,20 +396,20 @@
   },
   "Reddit": {
    "ok": false,
-   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/GenZ/"
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 15
   }
  },
- "generated_at": "2026-11-22T12:45+00:00"
+ "generated_at": "2026-11-22T18:48+00:00"
 }

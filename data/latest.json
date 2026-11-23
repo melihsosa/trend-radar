@@ -3,7 +3,7 @@
  "sample": false,
  "trends": [
   {
-   "name": "#huss",
+   "name": "#husshusshuss",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 1",
@@ -14,7 +14,7 @@
    "product_keywords": []
   },
   {
-   "name": "#husshusshuss",
+   "name": "#huss",
    "heat": "Yükseliyor",
    "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
    "why": "TikTok sıralaması: 2",
@@ -36,7 +36,7 @@
    "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-23T11:27+00:00",
+ "trends_updated_at": "2026-11-23T23:00+00:00",
  "products": [
   {
    "name": "Evcil hayvan portresi",
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-23T15:06+00:00"
+ "generated_at": "2026-11-23T23:00+00:00"
 }

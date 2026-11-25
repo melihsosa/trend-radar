@@ -42,22 +42,22 @@
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 27.7,
+   "change": 20.4,
    "spark": [
-    26,
     25,
     20,
     27,
     31,
     28,
     31,
-    33,
-    32,
+    34,
+    31,
     31,
     32,
-    35,
-    36,
-    41
+    34,
+    38,
+    37,
+    33
    ],
    "stale": false
   },
@@ -65,22 +65,22 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": 20.0,
+   "change": 9.1,
    "spark": [
-    3,
     4,
-    4,
+    5,
     4,
     4,
     6,
     5,
     5,
     5,
+    4,
     5,
-    6,
     5,
-    6,
-    4
+    5,
+    5,
+    7
    ],
    "stale": false
   },
@@ -90,20 +90,20 @@
    "origin": "İzleme listen",
    "change": 6.6,
    "spark": [
-    59,
     56,
     54,
     64,
-    67,
-    61,
-    61,
+    68,
     62,
-    59,
-    55,
+    60,
+    61,
+    58,
+    54,
     70,
-    75,
-    65,
-    64
+    76,
+    68,
+    60,
+    67
    ],
    "stale": false
   },
@@ -111,22 +111,22 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": 3.5,
+   "change": 6.0,
    "spark": [
-    74,
-    67,
-    63,
+    68,
+    64,
     84,
     97,
-    76,
-    75,
-    68,
-    71,
-    71,
-    93,
+    77,
+    74,
+    69,
+    70,
+    69,
+    94,
     100,
-    78,
-    74
+    84,
+    76,
+    72
    ],
    "stale": false
   },
@@ -134,27 +134,27 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": 3.5,
+   "change": 5.3,
    "spark": [
-    40,
+    37,
     36,
-    36,
-    46,
+    47,
     48,
-    41,
+    40,
     37,
     39,
-    37,
-    42,
-    46,
+    38,
+    41,
+    45,
     47,
-    43,
-    40
+    45,
+    41,
+    42
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-11-24T15:03+00:00",
+ "products_updated_at": "2026-11-25T14:44+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-25T03:51+00:00"
+ "generated_at": "2026-11-25T14:44+00:00"
 }

@@ -3,40 +3,47 @@
  "sample": false,
  "trends": [
   {
-   "name": "#husshusshuss",
+   "name": "Kith x Star Wars",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "desc": "Star Wars ve Darth Vader temalı sokak giyimi ve lansmanlarıyla öne çıkan retro bilim kurgu giyim akımı.",
+   "why": "Google yükselen aramalarda 'kith star wars' sorgusu yeni ASICS ve Darth Vader koleksiyonu haberleriyle yer alıyor.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Star Wars ve Darth Vader estetiğinde retro grafik tişörtler, nakışlı şapkalar ve sokak stiline uygun bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "star wars graphic tee",
+     "label": "star wars grafik tişört"
+    },
+    {
+     "keyword": "darth vader streetwear",
+     "label": "darth vader sokak giyimi"
+    }
+   ]
   },
   {
-   "name": "#huss",
+   "name": "Ms. Rachel",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "desc": "Erken çocukluk eğitmeni ve içerik üreticisi Ms. Rachel etrafında büyüyen popüler bebek ve çocuk giyim akımı.",
+   "why": "Google yükselen aramalarda 'miss rachel' araması 1000+ trafik ile öne çıkıyor.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
-  },
-  {
-   "name": "#lucia",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Küçük çocuklar ve bebekler için Ms. Rachel ilhamlı grafik tulumlar, doğum günü tişörtleri ve eğitici bez çantalar.",
+   "product_keywords": [
+    {
+     "keyword": "ms rachel shirt",
+     "label": "ms rachel tişörtü"
+    },
+    {
+     "keyword": "toddler graphic tee",
+     "label": "çocuk grafik tişörtü"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-25T03:51+00:00",
+ "trends_updated_at": "2026-11-25T16:23+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -166,20 +173,20 @@
   },
   "Reddit": {
    "ok": false,
-   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/GenZ/"
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 2
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-25T14:44+00:00"
+ "generated_at": "2026-11-25T16:23+00:00"
 }

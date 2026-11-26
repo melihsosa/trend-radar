@@ -42,22 +42,22 @@
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 20.4,
+   "change": 17.2,
    "spark": [
-    25,
     20,
     27,
     31,
-    28,
-    31,
-    34,
-    31,
-    31,
+    29,
     32,
     34,
+    31,
+    32,
+    32,
+    33,
+    39,
     38,
-    37,
-    33
+    31,
+    34
    ],
    "stale": false
   },
@@ -65,13 +65,12 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": 9.1,
+   "change": 9.4,
    "spark": [
     4,
-    5,
     4,
     4,
-    6,
+    5,
     5,
     5,
     5,
@@ -80,30 +79,8 @@
     5,
     5,
     5,
-    7
-   ],
-   "stale": false
-  },
-  {
-   "name": "Kokulu mum",
-   "keyword": "scented candle",
-   "origin": "İzleme listen",
-   "change": 6.6,
-   "spark": [
-    56,
-    54,
-    64,
-    68,
-    62,
-    60,
-    61,
-    58,
-    54,
-    70,
-    76,
-    68,
-    60,
-    67
+    5,
+    6
    ],
    "stale": false
   },
@@ -111,21 +88,21 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": 6.0,
+   "change": 7.4,
    "spark": [
-    68,
-    64,
-    84,
+    65,
+    85,
     97,
     77,
     74,
-    69,
     70,
-    69,
-    94,
+    70,
+    70,
+    95,
     100,
-    84,
-    76,
+    85,
+    81,
+    75,
     72
    ],
    "stale": false
@@ -134,27 +111,50 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": 5.3,
+   "change": 5.6,
    "spark": [
     37,
-    36,
     47,
     48,
-    40,
+    41,
     37,
     39,
-    38,
-    41,
-    45,
+    37,
+    42,
     47,
-    45,
-    41,
-    42
+    47,
+    46,
+    44,
+    40,
+    36
+   ],
+   "stale": false
+  },
+  {
+   "name": "Kokulu mum",
+   "keyword": "scented candle",
+   "origin": "İzleme listen",
+   "change": 5.3,
+   "spark": [
+    55,
+    66,
+    68,
+    62,
+    61,
+    63,
+    59,
+    56,
+    71,
+    75,
+    71,
+    65,
+    64,
+    55
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-11-25T14:44+00:00",
+ "products_updated_at": "2026-11-26T14:08+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-26T11:40+00:00"
+ "generated_at": "2026-11-26T14:08+00:00"
 }

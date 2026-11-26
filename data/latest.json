@@ -3,47 +3,67 @@
  "sample": false,
  "trends": [
   {
-   "name": "Kith x Star Wars",
-   "heat": "Yükseliyor",
-   "desc": "Star Wars ve Darth Vader temalı sokak giyimi ve lansmanlarıyla öne çıkan retro bilim kurgu giyim akımı.",
-   "why": "Google yükselen aramalarda 'kith star wars' sorgusu yeni ASICS ve Darth Vader koleksiyonu haberleriyle yer alıyor.",
+   "name": "Action Scene Edits",
+   "heat": "Zirvede",
+   "desc": "Gençlerin aksiyon filmlerindeki etkileyici anları dinamik müzikler ve sinematik efektlerle kurguladığı fan edit ve video kurgu kültürü.",
+   "why": "TikTok Creative Center verilerinde #actionsceneedits etiketi 1. sırada yer alıyor.",
    "sources": [
-    "Google"
+    "TikTok"
    ],
-   "idea": "Star Wars ve Darth Vader estetiğinde retro grafik tişörtler, nakışlı şapkalar ve sokak stiline uygun bez çantalar.",
+   "idea": "Video editörleri ve sinema tutkunları için film şeridi tasarımlı retro posterler ve kurgu temalı sticker paketleri.",
    "product_keywords": [
     {
-     "keyword": "star wars graphic tee",
-     "label": "star wars grafik tişört"
+     "keyword": "cinematic film strip poster",
+     "label": "sinematik film şeridi posteri"
     },
     {
-     "keyword": "darth vader streetwear",
-     "label": "darth vader sokak giyimi"
+     "keyword": "video editor sticker pack",
+     "label": "video editör sticker paketi"
     }
    ]
   },
   {
-   "name": "Ms. Rachel",
-   "heat": "Yükseliyor",
-   "desc": "Erken çocukluk eğitmeni ve içerik üreticisi Ms. Rachel etrafında büyüyen popüler bebek ve çocuk giyim akımı.",
-   "why": "Google yükselen aramalarda 'miss rachel' araması 1000+ trafik ile öne çıkıyor.",
+   "name": "Huss Huss Huss Viral Sound",
+   "heat": "Hızla yükseliyor",
+   "desc": "TikTok'ta ritmik tempo ve mizahi geçiş videolarıyla yayılan viral ses ve söz kalıbı akımı.",
+   "why": "TikTok Creative Center listesinde #husshusshuss etiketi en popüler 2. sırada yer alıyor.",
    "sources": [
-    "Google"
+    "TikTok"
    ],
-   "idea": "Küçük çocuklar ve bebekler için Ms. Rachel ilhamlı grafik tulumlar, doğum günü tişörtleri ve eğitici bez çantalar.",
+   "idea": "Viral ses dalgası ve tipografik yazı içeren eğlenceli sokak tarzı tişört veya kahve kupası.",
    "product_keywords": [
     {
-     "keyword": "ms rachel shirt",
-     "label": "ms rachel tişörtü"
+     "keyword": "viral quote typography mug",
+     "label": "viral alıntı tipografi kupa"
     },
     {
-     "keyword": "toddler graphic tee",
-     "label": "çocuk grafik tişörtü"
+     "keyword": "funny meme graphic tee",
+     "label": "komik meme baskılı tişört"
+    }
+   ]
+  },
+  {
+   "name": "Lucia Core / Edits",
+   "heat": "Yükseliyor",
+   "desc": "Oyun ve popüler kültür dünyasındaki Lucia karakteri etrafında şekillenen, güçlü kadın estetiği ve sokak modasını harmanlayan görsel akım.",
+   "why": "TikTok trend listesinde #lucia etiketi 3. sıraya yerleşmiş durumda.",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "Neon ve sokak sanatı illüstrasyonlu Lucia karakter baskılı bez çantalar ve retro neon duvar panoları.",
+   "product_keywords": [
+    {
+     "keyword": "lucia aesthetic tote bag",
+     "label": "lucia estetik bez çanta"
+    },
+    {
+     "keyword": "retro neon character art print",
+     "label": "retro neon karakter sanat baskısı"
     }
    ]
   }
  ],
- "trends_updated_at": "2026-11-25T16:23+00:00",
+ "trends_updated_at": "2026-11-26T01:16+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -181,12 +201,12 @@
   },
   "Yapay zeka": {
    "ok": true,
-   "count": 2
+   "count": 3
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-25T16:23+00:00"
+ "generated_at": "2026-11-26T01:16+00:00"
 }

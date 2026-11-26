@@ -3,67 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Action Scene Edits",
-   "heat": "Zirvede",
-   "desc": "Gençlerin aksiyon filmlerindeki etkileyici anları dinamik müzikler ve sinematik efektlerle kurguladığı fan edit ve video kurgu kültürü.",
-   "why": "TikTok Creative Center verilerinde #actionsceneedits etiketi 1. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Video editörleri ve sinema tutkunları için film şeridi tasarımlı retro posterler ve kurgu temalı sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "cinematic film strip poster",
-     "label": "sinematik film şeridi posteri"
-    },
-    {
-     "keyword": "video editor sticker pack",
-     "label": "video editör sticker paketi"
-    }
-   ]
-  },
-  {
-   "name": "Huss Huss Huss Viral Sound",
-   "heat": "Hızla yükseliyor",
-   "desc": "TikTok'ta ritmik tempo ve mizahi geçiş videolarıyla yayılan viral ses ve söz kalıbı akımı.",
-   "why": "TikTok Creative Center listesinde #husshusshuss etiketi en popüler 2. sırada yer alıyor.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Viral ses dalgası ve tipografik yazı içeren eğlenceli sokak tarzı tişört veya kahve kupası.",
-   "product_keywords": [
-    {
-     "keyword": "viral quote typography mug",
-     "label": "viral alıntı tipografi kupa"
-    },
-    {
-     "keyword": "funny meme graphic tee",
-     "label": "komik meme baskılı tişört"
-    }
-   ]
-  },
-  {
-   "name": "Lucia Core / Edits",
+   "name": "#actionsceneedits",
    "heat": "Yükseliyor",
-   "desc": "Oyun ve popüler kültür dünyasındaki Lucia karakteri etrafında şekillenen, güçlü kadın estetiği ve sokak modasını harmanlayan görsel akım.",
-   "why": "TikTok trend listesinde #lucia etiketi 3. sıraya yerleşmiş durumda.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
     "TikTok"
    ],
-   "idea": "Neon ve sokak sanatı illüstrasyonlu Lucia karakter baskılı bez çantalar ve retro neon duvar panoları.",
-   "product_keywords": [
-    {
-     "keyword": "lucia aesthetic tote bag",
-     "label": "lucia estetik bez çanta"
-    },
-    {
-     "keyword": "retro neon character art print",
-     "label": "retro neon karakter sanat baskısı"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#husshusshuss",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#lucia",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-26T01:16+00:00",
+ "trends_updated_at": "2026-11-26T11:40+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -200,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-26T01:16+00:00"
+ "generated_at": "2026-11-26T11:40+00:00"
 }

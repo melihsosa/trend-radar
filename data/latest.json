@@ -42,45 +42,22 @@
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 17.2,
+   "change": 15.8,
    "spark": [
-    20,
     27,
-    31,
-    29,
     32,
+    29,
+    31,
     34,
     31,
-    32,
-    32,
-    33,
-    39,
-    38,
     31,
-    34
-   ],
-   "stale": false
-  },
-  {
-   "name": "Evcil hayvan portresi",
-   "keyword": "custom pet portrait",
-   "origin": "İzleme listen",
-   "change": 9.4,
-   "spark": [
-    4,
-    4,
-    4,
-    5,
-    5,
-    5,
-    5,
-    4,
-    5,
-    5,
-    5,
-    5,
-    5,
-    6
+    33,
+    34,
+    38,
+    39,
+    33,
+    33,
+    39
    ],
    "stale": false
   },
@@ -88,45 +65,22 @@
    "name": "Tığ işi çanta",
    "keyword": "crochet bag",
    "origin": "İzleme listen",
-   "change": 7.4,
+   "change": 6.6,
    "spark": [
-    65,
     85,
-    97,
+    98,
     77,
     74,
-    70,
-    70,
-    70,
-    95,
+    69,
+    73,
+    69,
+    94,
     100,
     85,
-    81,
+    80,
+    79,
     75,
-    72
-   ],
-   "stale": false
-  },
-  {
-   "name": "Telefon süsü",
-   "keyword": "phone charm",
-   "origin": "İzleme listen",
-   "change": 5.6,
-   "spark": [
-    37,
-    47,
-    48,
-    41,
-    37,
-    39,
-    37,
-    42,
-    47,
-    47,
-    46,
-    44,
-    40,
-    36
+    68
    ],
    "stale": false
   },
@@ -134,27 +88,73 @@
    "name": "Kokulu mum",
    "keyword": "scented candle",
    "origin": "İzleme listen",
-   "change": 5.3,
+   "change": 6.5,
    "spark": [
-    55,
-    66,
+    65,
     68,
     62,
     61,
-    63,
+    62,
     59,
     56,
     71,
-    75,
-    71,
-    65,
-    64,
-    55
+    74,
+    70,
+    66,
+    67,
+    57,
+    56
+   ],
+   "stale": false
+  },
+  {
+   "name": "Telefon süsü",
+   "keyword": "phone charm",
+   "origin": "İzleme listen",
+   "change": 5.2,
+   "spark": [
+    47,
+    48,
+    41,
+    37,
+    39,
+    39,
+    40,
+    48,
+    46,
+    45,
+    45,
+    41,
+    37,
+    44
+   ],
+   "stale": false
+  },
+  {
+   "name": "Evcil hayvan portresi",
+   "keyword": "custom pet portrait",
+   "origin": "İzleme listen",
+   "change": 0.0,
+   "spark": [
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    4,
+    5,
+    5,
+    5,
+    4,
+    5
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-11-26T14:08+00:00",
+ "products_updated_at": "2026-11-27T14:06+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-27T03:21+00:00"
+ "generated_at": "2026-11-27T14:06+00:00"
 }

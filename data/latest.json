@@ -3,40 +3,67 @@
  "sample": false,
  "trends": [
   {
-   "name": "#actionsceneedits",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 1",
+   "name": "Thanksgiving Eve & Kutlama Kültürü",
+   "heat": "Zirvede",
+   "desc": "Şükran Günü öncesi akşamında arkadaşlarla dışarı çıkma, yeniden buluşma ve gayriresmi parti kutlamalarını kapsayan gençlik geleneği.",
+   "why": "TikTok'ta #thanksgivingeve 2. sırada ve #thanksgiving etiketi 3. sırada en çok etkileşim alan konulardan oldu.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Thanksgiving Eve temalı esprili kutlama tişörtleri, 'bar crawl' bardakları veya parti için masa oyun kartları.",
+   "product_keywords": [
+    {
+     "keyword": "thanksgiving eve shirt",
+     "label": "şükran günü arifesi tişörtü"
+    },
+    {
+     "keyword": "thanksgiving drinking game",
+     "label": "şükran günü parti oyunu"
+    }
+   ]
   },
   {
-   "name": "#mandy",
-   "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 2",
+   "name": "Action Scene Edits Sinematik Estetiği",
+   "heat": "Hızla yükseliyor",
+   "desc": "Kült film ve dizilerdeki yoğun aksiyon sahnelerini müzikle senkronize eden, karanlık ve dinamik sinematik video kurgu alt kültürü.",
+   "why": "TikTok hashtag sıralamasında #actionsceneedits 1. sıraya yerleşti.",
    "sources": [
     "TikTok"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "Aksiyon filmlerindeki ikonik karelerden esinlenen minimalist sinematik posterler veya retro film şeridi anahtarlıkları.",
+   "product_keywords": [
+    {
+     "keyword": "cinematic poster art",
+     "label": "sinematik poster sanatı"
+    },
+    {
+     "keyword": "film strip keychain",
+     "label": "film şeridi anahtarlık"
+    }
+   ]
   },
   {
-   "name": "#fiona",
+   "name": "Vintage Pro-Wrestling Hayran Kültürü",
    "heat": "Yükseliyor",
-   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
-   "why": "TikTok sıralaması: 3",
+   "desc": "Büyük etkinlikler öncesinde güreşçileri ve nostaljik dövüş liglerini kutlayan retro spor eğlencesi estetiği.",
+   "why": "Google yükselen aramalarda 'smackdown', 'oba femi' ve 'crown jewel 2026' gibi güreş aramaları eşzamanlı sıçrama yaptı.",
    "sources": [
-    "TikTok"
+    "Google"
    ],
-   "idea": "",
-   "product_keywords": []
+   "idea": "90'lar bootleg grafik tarzında tasarlanmış güreş t-shirtleri veya güreş sloganlı retro sticker paketleri.",
+   "product_keywords": [
+    {
+     "keyword": "vintage wrestling tee",
+     "label": "vintage güreş tişörtü"
+    },
+    {
+     "keyword": "wrestling stickers pack",
+     "label": "güreş temalı sticker paketi"
+    }
+   ]
   }
  ],
- "trends_updated_at": "2026-11-27T15:45+00:00",
+ "trends_updated_at": "2026-11-28T00:48+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -166,20 +193,20 @@
   },
   "Reddit": {
    "ok": false,
-   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 404 Client Error: Not Found for url: https://www.reddit.com/r/GenZ/top/.rss"
+   "error": "r/OutOfTheLoop: 404 Client Error: Not Found for url: https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=week&limit=15; r/GenZ: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/GenZ/"
   },
   "Google": {
    "ok": true,
    "count": 10
   },
   "Yapay zeka": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
+   "ok": true,
+   "count": 3
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-27T15:45+00:00"
+ "generated_at": "2026-11-28T00:48+00:00"
 }

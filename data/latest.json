@@ -42,45 +42,22 @@
    "name": "Kişiye özel kolye",
    "keyword": "personalized necklace",
    "origin": "İzleme listen",
-   "change": 15.8,
+   "change": 24.3,
    "spark": [
-    27,
+    31,
+    28,
+    31,
+    34,
+    31,
+    31,
     32,
-    29,
-    31,
-    34,
-    31,
-    31,
-    33,
-    34,
+    35,
     38,
-    39,
-    33,
-    33,
-    39
-   ],
-   "stale": false
-  },
-  {
-   "name": "Tığ işi çanta",
-   "keyword": "crochet bag",
-   "origin": "İzleme listen",
-   "change": 6.6,
-   "spark": [
-    85,
-    98,
-    77,
-    74,
-    69,
-    73,
-    69,
-    94,
-    100,
-    85,
-    80,
-    79,
-    75,
-    68
+    38,
+    32,
+    35,
+    48,
+    45
    ],
    "stale": false
   },
@@ -88,22 +65,45 @@
    "name": "Kokulu mum",
    "keyword": "scented candle",
    "origin": "İzleme listen",
-   "change": 6.5,
+   "change": 12.8,
    "spark": [
-    65,
     68,
-    62,
+    61,
     61,
     62,
     59,
-    56,
-    71,
-    74,
+    55,
     70,
-    66,
+    76,
+    69,
     67,
-    57,
-    56
+    67,
+    63,
+    74,
+    76
+   ],
+   "stale": false
+  },
+  {
+   "name": "Tığ işi çanta",
+   "keyword": "crochet bag",
+   "origin": "İzleme listen",
+   "change": 11.1,
+   "spark": [
+    96,
+    76,
+    75,
+    70,
+    71,
+    69,
+    92,
+    100,
+    84,
+    81,
+    79,
+    81,
+    85,
+    100
    ],
    "stale": false
   },
@@ -111,22 +111,22 @@
    "name": "Telefon süsü",
    "keyword": "phone charm",
    "origin": "İzleme listen",
-   "change": 5.2,
+   "change": 9.3,
    "spark": [
     47,
-    48,
     41,
     37,
     39,
-    39,
-    40,
-    48,
+    38,
+    41,
+    47,
     46,
     45,
-    45,
+    44,
     41,
-    37,
-    44
+    39,
+    48,
+    54
    ],
    "stale": false
   },
@@ -134,27 +134,27 @@
    "name": "Evcil hayvan portresi",
    "keyword": "custom pet portrait",
    "origin": "İzleme listen",
-   "change": 0.0,
+   "change": 2.9,
    "spark": [
     4,
-    4,
     5,
     5,
     5,
     5,
+    6,
+    5,
+    3,
     5,
     5,
-    4,
     5,
     5,
-    5,
-    4,
-    5
+    6,
+    7
    ],
    "stale": false
   }
  ],
- "products_updated_at": "2026-11-27T14:06+00:00",
+ "products_updated_at": "2026-11-28T13:23+00:00",
  "status": {
   "TikTok": {
    "ok": true,
@@ -181,5 +181,5 @@
    "count": 5
   }
  },
- "generated_at": "2026-11-28T11:02+00:00"
+ "generated_at": "2026-11-28T13:23+00:00"
 }

@@ -3,67 +3,40 @@
  "sample": false,
  "trends": [
   {
-   "name": "Thanksgiving Eve & Kutlama Kültürü",
-   "heat": "Zirvede",
-   "desc": "Şükran Günü öncesi akşamında arkadaşlarla dışarı çıkma, yeniden buluşma ve gayriresmi parti kutlamalarını kapsayan gençlik geleneği.",
-   "why": "TikTok'ta #thanksgivingeve 2. sırada ve #thanksgiving etiketi 3. sırada en çok etkileşim alan konulardan oldu.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Thanksgiving Eve temalı esprili kutlama tişörtleri, 'bar crawl' bardakları veya parti için masa oyun kartları.",
-   "product_keywords": [
-    {
-     "keyword": "thanksgiving eve shirt",
-     "label": "şükran günü arifesi tişörtü"
-    },
-    {
-     "keyword": "thanksgiving drinking game",
-     "label": "şükran günü parti oyunu"
-    }
-   ]
-  },
-  {
-   "name": "Action Scene Edits Sinematik Estetiği",
-   "heat": "Hızla yükseliyor",
-   "desc": "Kült film ve dizilerdeki yoğun aksiyon sahnelerini müzikle senkronize eden, karanlık ve dinamik sinematik video kurgu alt kültürü.",
-   "why": "TikTok hashtag sıralamasında #actionsceneedits 1. sıraya yerleşti.",
-   "sources": [
-    "TikTok"
-   ],
-   "idea": "Aksiyon filmlerindeki ikonik karelerden esinlenen minimalist sinematik posterler veya retro film şeridi anahtarlıkları.",
-   "product_keywords": [
-    {
-     "keyword": "cinematic poster art",
-     "label": "sinematik poster sanatı"
-    },
-    {
-     "keyword": "film strip keychain",
-     "label": "film şeridi anahtarlık"
-    }
-   ]
-  },
-  {
-   "name": "Vintage Pro-Wrestling Hayran Kültürü",
+   "name": "#actionsceneedits",
    "heat": "Yükseliyor",
-   "desc": "Büyük etkinlikler öncesinde güreşçileri ve nostaljik dövüş liglerini kutlayan retro spor eğlencesi estetiği.",
-   "why": "Google yükselen aramalarda 'smackdown', 'oba femi' ve 'crown jewel 2026' gibi güreş aramaları eşzamanlı sıçrama yaptı.",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 1",
    "sources": [
-    "Google"
+    "TikTok"
    ],
-   "idea": "90'lar bootleg grafik tarzında tasarlanmış güreş t-shirtleri veya güreş sloganlı retro sticker paketleri.",
-   "product_keywords": [
-    {
-     "keyword": "vintage wrestling tee",
-     "label": "vintage güreş tişörtü"
-    },
-    {
-     "keyword": "wrestling stickers pack",
-     "label": "güreş temalı sticker paketi"
-    }
-   ]
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#thanksgivingeve",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 2",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
+  },
+  {
+   "name": "#thanksgiving",
+   "heat": "Yükseliyor",
+   "desc": "Yapay zeka yorumu bugün alınamadı; TikTok'taki popüler hashtag listesinden.",
+   "why": "TikTok sıralaması: 3",
+   "sources": [
+    "TikTok"
+   ],
+   "idea": "",
+   "product_keywords": []
   }
  ],
- "trends_updated_at": "2026-11-28T00:48+00:00",
+ "trends_updated_at": "2026-11-28T11:02+00:00",
  "products": [
   {
    "name": "Kişiye özel kolye",
@@ -200,13 +173,13 @@
    "count": 10
   },
   "Yapay zeka": {
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=120)"
   },
   "Talep ölçümü": {
    "ok": true,
    "count": 5
   }
  },
- "generated_at": "2026-11-28T00:48+00:00"
+ "generated_at": "2026-11-28T11:02+00:00"
 }
